@@ -190,7 +190,7 @@ A complete list **(WIP)** of funding opportunities in the data science space can
 
 ***
 # Education and Training
-We will be offering a series of trainings for data scientists and data interested members of the community.
+We will be offering a series of trainings for data scientists and data interested members of the community. Our list of [archived education and training](https://utah-data-science-hub.github.io/archived-education). 
 
 ## Software Carpentries  
 ### Introduction to R
@@ -204,7 +204,7 @@ Additional Information can be found on the [website](https://uofudelphi.github.i
 **When:** August 2023  (specific date to be determined)
 **Where:** EHSEB 2680, 26 2000 E, Salt Lake City, UT 84113  
 **Instructors:** Rebecca Barter, George Vega Yon  
-Additional Information can be found on the [website](https://uofudelphi.github.io/2023-05-17-Intro_R/).  
+Additional Information can be found on the [website](https://uofudelphi.github.io/2023-05-17-Intro_R/) \*Coming Soon\*.  
 {% endcomment %}
 
 ## Data Science Series
