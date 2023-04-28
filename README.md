@@ -79,9 +79,9 @@ A complete list **(WIP)** of funding opportunities in the data science space can
 	* *Planning Community Infrastructure (Planning)* awards 
 	{% comment %} support planning efforts to engage research communities to develop new CISE community research infrastructures. Such an infrastructure could be eventually funded through the CCRI program (Planning-C) or the [NSF mid-scale research infrastructure](https://www.nsf.gov/pubs/2022/nsf22637/nsf22637.htm) programs (Planning-M).  {% endcomment %}
 	* *Medium Community Infrastructure (Medium)* awards 
-	{% comment %} support the creation of new CISE community research infrastructure or the enhancement of existing CISE community research infrastructure with integrated tools, resources, user services, and research community outreach to enable innovative CISE research opportunities to advance the frontiers of the CISE core research areas.  
+	{% comment %} support the creation of new CISE community research infrastructure or the enhancement of existing CISE community research infrastructure with integrated tools, resources, user services, and research community outreach to enable innovative CISE research opportunities to advance the frontiers of the CISE core research areas.  {% endcomment %}
 	* *Grand Community Infrastructure (Grand)* awards support 
-	{% comment %} projects involving significant efforts to develop new CISE community research infrastructure or to enhance and sustain an existing CISE community research infrastructure to enable world-class CISE research opportunities for broad-based communities of CISE researchers that extend well beyond the awardee organization(s).  
+	{% comment %} projects involving significant efforts to develop new CISE community research infrastructure or to enhance and sustain an existing CISE community research infrastructure to enable world-class CISE research opportunities for broad-based communities of CISE researchers that extend well beyond the awardee organization(s).  {% endcomment %}
 	* Deadline: July 21, 2023, annually thereafter
 	* Award: *Planning* $50-250K for durations up to two years; *Medium* $750K to $2M for durations up to three years; *Grand* $2-5M for durations up to five years
 
@@ -109,11 +109,11 @@ A complete list **(WIP)** of funding opportunities in the data science space can
 * [**Experiential Learning for Emerging and Novel Technologies (ExLENT)**]()
 	* Supports inclusive experiential learning opportunities that provide cohorts of diverse learners with the skills needed to succeed in emerging technology fields.
 		* *Pivots* track 
-		{% comment %} aims to attract individuals not currently enrolled in post-secondary educational programs, and have acquired useful skills such as time management, communication, and teamwork in non-emerging technology careers.
+		{% comment %} aims to attract individuals not currently enrolled in post-secondary educational programs, and have acquired useful skills such as time management, communication, and teamwork in non-emerging technology careers.{% endcomment %}
 		* *Beginnings* track 
-		{% comment %} aims to provide individuals possessing some existing STEM competencies (e.g., those with stackable certificates in STEM or those enrolled in associate’s degree programs, etc.) with experiential learning opportunities that deepen knowledge and skills in emerging technology fields.
+		{% comment %} aims to provide individuals possessing some existing STEM competencies (e.g., those with stackable certificates in STEM or those enrolled in associate’s degree programs, etc.) with experiential learning opportunities that deepen knowledge and skills in emerging technology fields.{% endcomment %}
 		* *Explorations* track  
-		{% comment %}aims to provide individuals with limited or no specialized STEM education the inspiration and opportunity to explore the potential of a career path in emerging technology fields.
+		{% comment %}aims to provide individuals with limited or no specialized STEM education the inspiration and opportunity to explore the potential of a career path in emerging technology fields.{% endcomment %}
 	* Deadline: September 14, 2023, annually thereafter
 	* Award: $1M for durations up to three years
 	
@@ -138,11 +138,11 @@ A complete list **(WIP)** of funding opportunities in the data science space can
 * [**Cybersecurity Innovation for Cyberinfrastructure (CICI)**](https://new.nsf.gov/funding/opportunities/cybersecurity-innovation-cyberinfrastructure-cici)
 	* Supports work that enables scientists and scientific discovery by improving the security, robustness, and trustworthiness of cyberinfrastructure.
 		* *Usable and Collaborative Security for Science (UCSS)* 
-		{% comment %}: Projects in this program area should support novel and/or applied security and usability research that facilitates scientific collaboration, encourages the adoption of security into the scientific workflow, and helps create a holistic, integrated security environment that spans the entire scientific cyberinfrastructure ecosystem.
+		{% comment %}: Projects in this program area should support novel and/or applied security and usability research that facilitates scientific collaboration, encourages the adoption of security into the scientific workflow, and helps create a holistic, integrated security environment that spans the entire scientific cyberinfrastructure ecosystem.{% endcomment %}
 		* *Reference Scientific Security Datasets (RSSD)* 
-		{% comment %}: Projects in this program area should leverage instrumented cyberinfrastructure to capture metadata from scientific workflows and workloads as reference data artifacts that can help support reproducible security research, testing and evaluation.
+		{% comment %}: Projects in this program area should leverage instrumented cyberinfrastructure to capture metadata from scientific workflows and workloads as reference data artifacts that can help support reproducible security research, testing and evaluation.{% endcomment %}
 		* *Transition to Cyberinfrastructure Resilience (TCR)* 
-		{% comment %}: Projects in this program area should improve the robustness, trustworthiness, integrity, and/or resilience of scientific cyberinfrastructure through testing, evaluation, hardening, validation, and technology transition of novel cybersecurity research. The TCR area further encourages transition activities that advance the deployment and use of reproducibility in CI, workflows, and data.
+		{% comment %}: Projects in this program area should improve the robustness, trustworthiness, integrity, and/or resilience of scientific cyberinfrastructure through testing, evaluation, hardening, validation, and technology transition of novel cybersecurity research. The TCR area further encourages transition activities that advance the deployment and use of reproducibility in CI, workflows, and data.{% endcomment %}
 	* Deadline: February 1, 2024
 	* Award: $600K *(UCSS and RSSD)* - $1.2M *(TCR)* for durations up to three years
 	
