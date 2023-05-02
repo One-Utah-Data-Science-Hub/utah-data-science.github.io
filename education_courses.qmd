@@ -21,24 +21,23 @@ Dr. Rebecca Barter has put together a series of data science programming that wi
 ### Introduction to R
 **When:** August/September 2023\
 **Where:** Virtual\
-**Instructors:** Rebecca Barter
+**Instructor:** Rebecca Barter
 
 ### Data Cleaning in R
-**When:** June 12 - July 7 2023 (*Pilot*)\
+**When:** June 12 - July 7, 2023 (*Pilot*)\
 **Where:** Virtual\
-**Instructors:** Rebecca Barter
+**Instructor:** Rebecca Barter
 
 **When:** September/October 2023\
 **Where:** Virtual\
-**Instructors:** Rebecca Barter
+**Instructor:** Rebecca Barter
 
 ### Data Visualization in R
-
 **When:** October/November 2023\
 **Where:** Virtual\
-**Instructors:** Rebecca Barter
+**Instructor:** Rebecca Barter
 
 ### Modeling in R
 **When:** November/December 2023\
 **Where:** Virtual\
-**Instructors:** Rebecca Barter
+**Instructor:** Rebecca Barter

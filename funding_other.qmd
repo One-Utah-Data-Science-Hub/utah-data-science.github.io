@@ -3,11 +3,12 @@ title: "Other Funding Opportunities"
 format: html
 editor: visual
 ---
-### Foundation Funding Opportunities
-* [**Data Visualization of Structural Racism and Place**](https://www.rwjf.org/en/grants/active-funding-opportunities/2023/data-visualization-of-structural-racism-and-place.html)
-	+ Supports the creation of data visualizations as tools to provide an understanding of structural racism's impact on place, health, and wellbeing.
-	+ Deadline: June 2, 2023
-	+ Award: Typically $100-250K for one year
-	
-### Additional Funding Opportunity Resources
+
+## Foundation Funding Opportunities
+###  [Data Visualization of Structural Racism and Place](https://www.rwjf.org/en/grants/active-funding-opportunities/2023/data-visualization-of-structural-racism-and-place.html)
+* Supports the creation of data visualizations as tools to provide an understanding of structural racism's impact on place, health, and wellbeing.
+* Deadline: June 2, 2023
+* Award: Typically \$100-250K for one year
+
+## Additional Funding Opportunity Resources
 * [ProQuest Pivot listing of funding opportunities related to data science](https://pivot.proquest.com//funding/results?s_id=2660468) requires registration and login through the University of Utah.
