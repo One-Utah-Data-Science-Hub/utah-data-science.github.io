@@ -1,7 +1,18 @@
 ---
 title: "Archived Funding"
 format: html
-editor: visual
 ---
 
-Previously identified funding opportunities will be archived here for future reference.
+## NIH Funding Opportunities
+### [Biomedical Data Repository](https://grants.nih.gov/grants/guide/pa-files/PAR-23-079.html)
+* Supports biomedical data repositories with the primary function to ingest, archive, preserve, manage, distribute, and make accessible the data related to a particular system or systems.
+* Deadline: January 25, 2023
+* Award: U24, requests for >$500K/year must request approval, funding durations up to five years
+
+## Industry Funding Opportunities
+### [AWS AI: Generative AI call for proposals — Spring 2023](https://www.amazon.science/research-awards/call-for-proposals/aws-ai-generative-ai-call-for-proposals-spring-2023)
+* Supports proposals that focus on innovation related to supporting annotators with machine learning and artificial intelligence.
+* Deadline: April 26, 2023
+* Award: $70K unrestricted funds, $50K AWS promotional credits
+
+<!-- ## Governmental Funding Opportunities -->

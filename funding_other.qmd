@@ -3,12 +3,45 @@ title: "Other Funding Opportunities"
 format: html
 editor: visual
 ---
+## Industry Funding Opportunities
+### [AWS IMAGINE: The Go Further, Faster Award](https://aws.amazon.com/government-education/nonprofits/aws-imagine-grant-program)
+* Support for highly innovative projects that leverage the cloud. These projects will have the potential to produce scaled, repeatable solutions and may impact an entire industry or field.
+* Deadline: June 1, 2023
+* Award: $150K unrestricted funds, $100K AWS promotional credits
+
+### [AWS IMAGINE: The Momentum to Modernize Award](https://aws.amazon.com/government-education/nonprofits/aws-imagine-grant-program)
+* Supports nonprofit organizations seeking to transform and enhance their core mission operations with technology, many organizations need funding for foundational technology projects, such as migrating servers to the cloud and modernizing new and existing applications.
+* Deadline: June 1, 2023
+* Award: $50K unrestricted funds, $20K AWS promotional credits
 
 ## Foundation Funding Opportunities
-###  [Data Visualization of Structural Racism and Place](https://www.rwjf.org/en/grants/active-funding-opportunities/2023/data-visualization-of-structural-racism-and-place.html)
+### [PhRMA Foundation: Faculty Starter Grant in Drug Discovery Targets and Pathways](https://www.phrmafoundation.org/awards/faculty-starter-grants/drug-discovery/)
+* Supports individuals beginning independent careers in drug discovery research at the faculty level at an accredited U.S. university.
+* Deadline: July 1, 2023 (LOI due May 15, 2023)
+* Award: $100K for one year
+
+###  [RWJF: Data Visualization of Structural Racism and Place](https://www.rwjf.org/en/grants/active-funding-opportunities/2023/data-visualization-of-structural-racism-and-place.html)
 * Supports the creation of data visualizations as tools to provide an understanding of structural racism's impact on place, health, and wellbeing.
 * Deadline: June 2, 2023
 * Award: Typically \$100-250K for one year
+
+## Governmental Funding Opportunities
+### [IARPA: Rapid Explanation, Analysis and Sourcing Online (REASON)](https://www.iarpa.gov/research-programs/reason)
+* Supports novel technologies that will enable intelligence analysts to substantially improve the evidence and reasoning in draft analytic reports.
+  + Task Area 1 (TA1) – Identify Additional Evidence
+  + Task Area 2 (TA2) – Identify Reasoning Strengths and Weaknesses
+  + Task Area 3 (TA3) – Produce Comments to Increase Quality of Argumentation
+* Deadline: May 8, 2023
+
+### [HHS: Career Pathways Secondary Data Analysis Grants](https://www.grants.gov/web/grants/view-opportunity.html?oppId=344009)
+* Supports secondary analysis of data collected to rigorously evaluate a collection of career pathways programs. The purpose of these awards is to better understand the effectiveness of services funded by Temporary Assistance for Needy Families (TANF) programs that aim to address the employment and self-sufficiency needs of TANF recipients and those eligible for or at risk of TANF receipt.
+* Deadline: June 29, 2023
+* Award: $100K
+
+### [DoD: Prostate Cancer, Data Science Award](https://www.grants.gov/web/grants/view-opportunity.html?oppId=347770)
+* Supports research where quantitative and analytical approaches, processes, and/or systems are developed and/or used to obtain knowledge and insight from large and/or complex sets of prostate cancer data.
+* Deadline: August 24, 2023
+* Award: $1M direct
 
 ## Additional Funding Opportunity Resources
 * [ProQuest Pivot listing of funding opportunities related to data science](https://pivot.proquest.com//funding/results?s_id=2660468) requires registration and login through the University of Utah.
