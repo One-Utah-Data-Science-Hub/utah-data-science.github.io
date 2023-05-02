@@ -18,7 +18,7 @@
     "href": "about.html",
     "title": "Overview",
     "section": "",
-    "text": "The One Utah Data Science Hub a university-wide effort designed to enhance research and infrastructure in data science and data-enabled science.Led by Faculty Directors from across the university, the Hub facilitates interdisciplinary research focused on data science through the launch of two new initiatives: the Data Science and Ethics of Technology (DATASET) Initiative and the Data Exploration and Learning for Precision Health Intelligence (DELPHI) Initiative, and in alignment with the Utah Center for Data Science (UCDS).\nAssociated Webpages\n* One Utah Data Science Hub Webpage\n* Data Science and Ethics of Technology (DATASET) Initiative Webpage\n* Data Exploration and Learning for Precision Health Intelligence (DELPHI) Webpage\n* Utah Center for Data Science Webpage\nSend any requests for content inclusion to Penny Atkins.\n\nOn this site you will find regularly updated and dynamic information about the following:\n1. Seminars and Events\n2. Funding Opportunities\n3. Education and Training\n4. Data Resources\n5. Research Areas\n\nWant to become part of the data science community at the University of Utah? Join us by completing our roster survey, the DELPHI listserv or contact Penny Atkins directly to start a conversation."
+    "text": "The One Utah Data Science Hub a university-wide effort designed to enhance research and infrastructure in data science and data-enabled science.Led by Faculty Directors from across the university, the Hub facilitates interdisciplinary research focused on data science through the launch of two new initiatives: the Data Science and Ethics of Technology (DATASET) Initiative and the Data Exploration and Learning for Precision Health Intelligence (DELPHI) Initiative, and in alignment with the Utah Center for Data Science (UCDS).\nOn this site you will find regularly updated and dynamic information about Seminars and Events, Data Resources, Funding Opportunities, Education and Training Resources, and Research Areas of the One Utah Data Science Hub.\nSend any requests for content inclusion to Penny Atkins.\n\n\nUniversity Webpages\n\nOne Utah Data Science Hub Webpage\n\nData Science and Ethics of Technology (DATASET) Initiative Webpage\n\nData Exploration and Learning for Precision Health Intelligence (DELPHI) Webpage\n\nUtah Center for Data Science Webpage\n\n\nWant to become part of the data science community at the University of Utah?\nJoin us by completing our roster survey, the DELPHI listserv or contact Penny Atkins directly to start a conversation."
   },
   {
     "objectID": "education_archived.html",
@@ -39,21 +39,21 @@
     "href": "education_courses.html",
     "title": "Educational Courses",
     "section": "",
-    "text": "When: May 17-18, 2023\nWhere: EHSEB 2680, 26 2000 E, Salt Lake City, UT 84113\nInstructors: Rebecca Barter, George Vega Yon\nAdditional Information can be found on the website.\n\n\n\nWhen: August/Sept 2023 (specific date to be determined)\nWhere: TBD, Salt Lake City, UT 84113\nInstructors: Rebecca Barter, George Vega Yon\nAdditional Information can be found on the website Coming Soon."
+    "text": "When: May 17-18, 2023\nWhere: EHSEB 2680, 26 2000 E, Salt Lake City, UT 84113\nInstructors: Rebecca Barter, George Vega Yon\nAdditional Information can be found on the website.\nWhen: August/Sept 2023 (specific date to be determined)\nWhere: TBD, Salt Lake City, UT 84113\nInstructors: Rebecca Barter, George Vega Yon\nAdditional Information can be found on the website Coming Soon."
   },
   {
     "objectID": "education_courses.html#software-carpentries",
     "href": "education_courses.html#software-carpentries",
     "title": "Educational Courses",
     "section": "",
-    "text": "When: May 17-18, 2023\nWhere: EHSEB 2680, 26 2000 E, Salt Lake City, UT 84113\nInstructors: Rebecca Barter, George Vega Yon\nAdditional Information can be found on the website.\n\n\n\nWhen: August/Sept 2023 (specific date to be determined)\nWhere: TBD, Salt Lake City, UT 84113\nInstructors: Rebecca Barter, George Vega Yon\nAdditional Information can be found on the website Coming Soon."
+    "text": "When: May 17-18, 2023\nWhere: EHSEB 2680, 26 2000 E, Salt Lake City, UT 84113\nInstructors: Rebecca Barter, George Vega Yon\nAdditional Information can be found on the website.\nWhen: August/Sept 2023 (specific date to be determined)\nWhere: TBD, Salt Lake City, UT 84113\nInstructors: Rebecca Barter, George Vega Yon\nAdditional Information can be found on the website Coming Soon."
   },
   {
     "objectID": "education_courses.html#data-science-series",
     "href": "education_courses.html#data-science-series",
     "title": "Educational Courses",
     "section": "Data Science Series",
-    "text": "Data Science Series\nDr. Rebecca Barter has put together a series of data science programming that will be rolling out this fall. Each course will run for four weeks with an asynchronous lecture, virtual office hour session, and project based assignments each week and will be taught in either R or Python.\nThe series will include:\n1. Introduction\n2. Data Cleaning\n3. Data Visualization\n4. Modeling\n\nData Cleaning in R - TBD\nWhen: June 12-July 7 2023\nWhere: Virtual\nInstructors: Rebecca Barter\n\n\nIntroduction to R - TBD\nWhen: August/September 2023\nWhere: Virtual\nInstructors: Rebecca Barter\n\n\nData Cleaning in R - TBD\nWhen: September/October 2023\nWhere: Virtual\nInstructors: Rebecca Barter\n\n\nData Visualization in R - TBD\nWhen: October/November 2023\nWhere: Virtual\nInstructors: Rebecca Barter\n\n\nModeling in R - TBD\nWhen: November/December 2023\nWhere: Virtual\nInstructors: Rebecca Barter"
+    "text": "Data Science Series\nDr. Rebecca Barter has put together a series of data science programming that will be rolling out this fall. Each course will run for four weeks with an asynchronous lecture, virtual office hour session, and project based assignments each week and will be taught in either R or Python. The series will include the following modules: introduction, data cleaning, data visualization, and modeling.\n\n\nIntroduction to R\nWhen: August/September 2023\nWhere: Virtual\nInstructors: Rebecca Barter\n\n\nData Cleaning in R\nWhen: June 12 - July 7 2023 (Pilot)\nWhere: Virtual\nInstructors: Rebecca Barter\nWhen: September/October 2023\nWhere: Virtual\nInstructors: Rebecca Barter\n\n\nData Visualization in R\nWhen: October/November 2023\nWhere: Virtual\nInstructors: Rebecca Barter\n\n\nModeling in R\nWhen: November/December 2023\nWhere: Virtual\nInstructors: Rebecca Barter"
   },
   {
     "objectID": "education_resources.html",

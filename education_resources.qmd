@@ -1,7 +1,6 @@
 ---
 title: "Other Resources"
 format: html
-editor: visual
 ---
 
 -   [Summary of UofU Data Science Programs](https://datascience.utah.edu/programs.html) hosted by UCDS
