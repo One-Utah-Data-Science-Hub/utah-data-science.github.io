@@ -1,0 +1,9 @@
+---
+title: "Data Resources"
+format: html
+editor: visual
+---
+
+* [National Aeronautics and Space Administration (NASA) Commercial SmallSat Data Acquisition (CSDA) Program](https://www.earthdata.nasa.gov/esds/csda) provides high-quality commercial Earth observation data to NSF-funded researchers at no additional cost. Request access [here](https://csdap.earthdata.nasa.gov/signup/).
+
+* [NASA Climate Data Democratization Partnership](http://chpc1.nationalsciencedatafabric.org:10888/nasa) will provide researchers with new ways to access and utilize NASA's climate data, including navigation via timestamps, fields, and other dimensions.

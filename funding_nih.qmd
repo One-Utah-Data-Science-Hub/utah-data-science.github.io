@@ -1,0 +1,26 @@
+---
+title: "NIH Funding Opportunities"
+---
+* [**Strategies for Responsibly Reporting Back Environmental Health and Non-Genomic Research Results**](https://grants.nih.gov/grants/guide/rfa-files/RFA-ES-23-006.html)
+	+ Supports projects that will identify, develop and/or adapt, as well as test strategies for responsibly reporting back environmental health, non-genomic research, and gene-environment interaction (GxE) results to research participants and/or key partners (for example, health care professionals, IRBs, and policy makers)
+	+ Deadline: June 15, 2023 (LOI due May 15, 2023)
+	+ Award: R01, $250K/year for durations up to four years
+
+* [**Promote Workforce Diversity in Genomics, Bioinformatics, or Bioengineering and Biomedical Imaging Research**](https://grants.nih.gov/grants/guide/rfa-files/RFA-HG-21-041.html)
+	+ Supports Early Stage Investigators and New Investigators from diverse backgrounds doing research within specific mission areas of NHGRI, NIBIB, and *All of Us* Research Program.
+	+ Deadline: February 22, 2024
+	+ Award: R01, $500K per year for durations up to 5 years
+
+* [**Artificial Intelligence/Machine Learning Consortium to Advance Health Equity and Researcher Diversity (AIM-AHEAD)**](https://www.aim-ahead.net/call-for-proposals-year-2/)
+	+ [Consortium Development Projects to Advance Health Equity](https://www.aim-ahead.net/call-for-proposals-year-2/consortium-development-projects/)
+		- Deadline: June 20, 2023 (LOI due May 10, 2023)
+	+ [Data and Infrastructure Capacity Building (DICB)](https://www.aim-ahead.net/call-for-proposals-year-2/) Coming Soon!
+		- Deadline: June 2023
+	+ [Program for Artificial Intelligence Readiness (PAIR)](https://www.aim-ahead.net/call-for-proposals-year-2/pair/)
+		- Deadline: June 20, 2023
+	+ [Hub-Specific Pilot Projects](https://www.aim-ahead.net/call-for-proposals-year-2/hub-specific-pilot-grant-program/)
+		- Deadline: June 20, 2023
+
+* See the [full listing of *All of Us* funding opportunities](https://allofus.nih.gov/funding-and-program-partners/funding-opportunities?utm_medium=email&utm_source=mailchimp&utm_campaign=researcher_news&utm_medium=email&utm_source=mailchimp&utm_campaign=researcher_news).
+
+* [NIH Office for Data Science Strategy](https://datascience.nih.gov/research-and-training-funding) list of funding opportunities.

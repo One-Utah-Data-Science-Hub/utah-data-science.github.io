@@ -1,0 +1,9 @@
+---
+title: "Seminars and Events"
+format: html
+editor: visual
+---
+
+Check out our calendar of upcoming events and seminars in our [Google Calendar](https://calendar.google.com/calendar/u/0?cid=Y2Y0ZDA4OThhMjJiMmQxOTY5NzU1ZDRiYmU3NzA2M2U4MGVhNDgxMGEyNGEyYTI0ZWQ4NDAwM2IyMjU0NGY1NEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t) of upcoming events and seminars.
+
+<iframe src="https://calendar.google.com/calendar/embed?src=cf4d0898a22b2d1969755d4bbe77063e80ea4810a24a2a24ed84003b22544f54%40group.calendar.google.com&ctz=America%2FDenver" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>

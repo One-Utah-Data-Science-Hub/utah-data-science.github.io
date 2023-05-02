@@ -1,0 +1,50 @@
+---
+title: "Educational Courses"
+format: html
+editor: visual
+---
+## Software Carpentries
+### Introduction to R
+**When:** May 17-18, 2023  
+**Where:** EHSEB 2680, 26 2000 E, Salt Lake City, UT 84113  
+**Instructors:** Rebecca Barter, George Vega Yon  
+Additional Information can be found on the [website](https://uofudelphi.github.io/2023-05-17-Intro_R/).
+
+### Introduction to R
+**When:** August/Sept 2023 (specific date to be determined)  
+**Where:** TBD, Salt Lake City, UT 84113  
+**Instructors:** Rebecca Barter, George Vega Yon  
+Additional Information can be found on the website *Coming Soon*.
+
+## Data Science Series
+Dr. Rebecca Barter has put together a series of data science programming that will be rolling out this fall. Each course will run for four weeks with an asynchronous lecture, virtual office hour session, and project based assignments each week and will be taught in either R or Python.  
+The series will include:  
+  1. Introduction  
+  2. Data Cleaning  
+  3. Data Visualization  
+  4. Modeling  
+
+### Data Cleaning in R - TBD
+**When:** June 12-July 7 2023  
+**Where:** Virtual  
+**Instructors:** Rebecca Barter
+
+### Introduction to R - TBD
+**When:** August/September 2023  
+**Where:** Virtual  
+**Instructors:** Rebecca Barter
+
+### Data Cleaning in R - TBD
+**When:** September/October 2023  
+**Where:** Virtual  
+**Instructors:** Rebecca Barter
+
+### Data Visualization in R - TBD
+**When:** October/November 2023  
+**Where:** Virtual  
+**Instructors:** Rebecca Barter
+
+### Modeling in R - TBD
+**When:** November/December 2023  
+**Where:** Virtual  
+**Instructors:** Rebecca Barter

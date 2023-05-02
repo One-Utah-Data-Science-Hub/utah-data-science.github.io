@@ -1,0 +1,28 @@
+---
+title: "Overview"
+format: html
+editor: visual
+---
+
+The One Utah Data Science Hub a university-wide effort designed to enhance research and infrastructure in data science and data-enabled science.Led by Faculty Directors from across the university, the Hub facilitates interdisciplinary research focused on data science through the launch of two new initiatives: the Data Science and Ethics of Technology (DATASET) Initiative and the Data Exploration and Learning for Precision Health Intelligence (DELPHI) Initiative, and in alignment with the Utah Center for Data Science (UCDS).
+
+**Associated Webpages**  
+* [One Utah Data Science Hub Webpage](https://www.research.utah.edu/one-utah-data-science-hub/)  
+* [Data Science and Ethics of Technology (DATASET) Initiative Webpage](https://www.research.utah.edu/one-utah-data-science-hub/data-science-ethics-of-technology-initiative-dataset/)  
+* [Data Exploration and Learning for Precision Health Intelligence (DELPHI) Webpage](https://uofuhealth.utah.edu/delphi-data-science-initiative)  
+* [Utah Center for Data Science Webpage](https://datascience.utah.edu/)  
+
+Send any requests for content inclusion to [Penny Atkins](mailto:penny.atkins@hsc.utah.edu?subject=Utah%20Data%20Science%20GitHub%20Page%20Request).
+
+***
+On this site you will find regularly updated and dynamic information about the following:  
+1. Seminars and Events  
+2. Funding Opportunities  
+3. Education and Training  
+4. Data Resources  
+5. Research Areas  
+
+***
+**Want to become part of the data science community at the University of Utah?**
+Join us by completing our [roster survey](https://utah.sjc1.qualtrics.com/jfe/form/SV_2irufNe2jfxhO8C), the [DELPHI listserv](https://www.lists.utah.edu/wws/subscribe/delphi?previous_action=info) or 
+contact [Penny Atkins](mailto:pennyatkins@hsc.utah.edu?subject=One%20Utah%20Data%20Science%20Hub%20Interest) directly to start a conversation.
