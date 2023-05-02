@@ -1,5 +1,5 @@
 # Overview
-The One Utah Data Science Hub a university-wide effort designed to enhance research and infrastructure in data science and data-enabled science. 
+The One Utah Data Science Hub a university-wide effort at The University of Utah designed to enhance research and infrastructure in data science and data-enabled science. 
 Led by Faculty Directors from across the university, the Hub facilitates interdisciplinary research focused on data science through the launch of two new initiatives: 
 the Data Science and Ethics of Technology (DATASET) Initiative and the Data Exploration and Learning for Precision Health Intelligence (DELPHI) Initiative, and in alignment with the Utah Center for Data Science (UCDS).
 
