@@ -3,10 +3,11 @@ title: "Other Resources"
 format: html
 editor: visual
 ---
-* [Summary of UofU Data Science Programs](https://datascience.utah.edu/programs.html) hosted by UCDS
-* [Introduction to Data Science Course](https://datasciencecourse.net/2023/index.html)
-* [CHPC Presentations](https://www.chpc.utah.edu/presentations/)
-* [Applied HPC with R](https://book-hpc.ggvy.cl/) by George Vega Yon
-* [School of Computing Data Science YouTube Channel](https://www.youtube.com/@UofUDataScience/videos)
-* [Utah Data Science Club YouTube Channel](https://www.youtube.com/@utahdatascience6178/videos)
-* [NIH STRIDES Cloud Training](https://cloud.nih.gov/training/)
+
+-   [Summary of UofU Data Science Programs](https://datascience.utah.edu/programs.html) hosted by UCDS
+-   [Introduction to Data Science Course](https://datasciencecourse.net/2023/index.html)
+-   [CHPC Presentations](https://www.chpc.utah.edu/presentations/)
+-   [Applied HPC with R](https://book-hpc.ggvy.cl/) by George Vega Yon
+-   [School of Computing Data Science YouTube Channel](https://www.youtube.com/@UofUDataScience/videos)
+-   [Utah Data Science Club YouTube Channel](https://www.youtube.com/@utahdatascience6178/videos)
+-   [NIH STRIDES Cloud Training](https://cloud.nih.gov/training/)

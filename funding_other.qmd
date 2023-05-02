@@ -1,5 +1,7 @@
 ---
 title: "Other Funding Opportunities"
+format: html
+editor: visual
 ---
 ### Foundation Funding Opportunities
 * [**Data Visualization of Structural Racism and Place**](https://www.rwjf.org/en/grants/active-funding-opportunities/2023/data-visualization-of-structural-racism-and-place.html)
