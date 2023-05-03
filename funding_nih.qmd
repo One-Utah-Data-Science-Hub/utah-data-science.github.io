@@ -1,12 +1,10 @@
 ---
 title: "NIH Funding Opportunities"
 ---
-### []()
+<!-- ### []()
 * S
 * Deadline: 
-* Award: , $ for durations up to  years
-
-
+* Award: , $ for durations up to  years -->
 ## Other Activities
 ### [Data and Technology Advancement (DATA) National Service Scholar Program: Data Scientists Advancing Biomedical Research](https://datascience.nih.gov/data-scholars-2023)
 * The National Institutes of Health (NIH) Office of Data Science Strategy (ODSS) Data and Technology Advancement (DATA) National Service Scholar Program is seeking experienced data and computer scientists and engineers to tackle challenging biomedical data problems with the potential for substantial public health impact
@@ -24,6 +22,16 @@ title: "NIH Funding Opportunities"
 	+ Award: $75-150K for one year
 
 ## Cooperative Agreement (U) Grants
+### [Individually Measured Phenotypes to Advance Computational Translation in Mental Health (IMPACT-MH)](https://grants.nih.gov/grants/guide/rfa-files/RFA-MH-23-105.html)
+* Supports research that will use behavioral measures and computational methods to define novel clinical signatures that can be used for individual-level prediction and clinical decision making in mental disorders. 
+* Deadline: June 14, 2023 (LOI due 1 month prior)
+* Award: U01, $2.5M/year (direct) for durations up to five years
+
+### [Individually Measured Phenotypes to Advance Computational Translation in Mental Health (IMPACT-MH): Data Coordinating Center](https://grants.nih.gov/grants/guide/rfa-files/RFA-MH-23-106.html)
+* Supports the work of U01 research projects funded under the Individually Measured Phenotypes to Advance Computational Translation in Mental Health (IMPACT-MH) initiative described in the companion announcement [RFA-MH-23-105](https://grants.nih.gov/grants/guide/rfa-files/RFA-MH-23-105.html). 
+* Deadline: June 14, 2023 (LOI due 1 month prior)
+* Award: U24, $1M/year (direct) for durations up to five years
+
 ### [BRAIN Initiative: Brain Behavior Quantification and Synchronization – Data Coordination and Artificial Intelligence Center](https://grants.nih.gov/grants/guide/rfa-files/RFA-MH-23-130.html)
 * Data Coordination and Artificial Intelligence Center (DCAIC) for the Brain Behavior Quantification and Synchronization (BBQS) Consortium of the BRAIN Initiative. The DCAIC will serve as the organizational hub for BBQS data management and sharing. 
 * Deadline: June 14, 2023
@@ -31,25 +39,30 @@ title: "NIH Funding Opportunities"
 
 ### [BRAIN Initiative: Exploratory Team-Research BRAIN Circuit Programs - eTeamBCP](https://grants.nih.gov/grants/guide/rfa-files/RFA-NS-23-025.html)
 * Supports teams of three or more (up to six) PDs/PIs that seek to cross boundaries of interdisciplinary collaboration to elucidate the contributions of dynamic circuit activity to a specific behavioral or neural system.
-* Deadline: June 15, 2023 and June 14, 2024 (LOI due 30 days prior)
+* Deadline: June 15, 2023 and June 14, 2024 (LOI due 1 month prior)
 * Award: U01, approximately $2.4M/year for durations of three  years
+
+### [Using Secondary Data Analysis to Determine Whether Preventive Interventions Implemented Earlier in Life Reduce Suicide Risk](https://grants.nih.gov/grants/guide/rfa-files/RFA-MH-23-275.html)
+* Supports research that will integrate and harmonize existing large prevention trial data sets consisting of well-characterized participant-level data for interventions implemented earlier in life to examine whether they reduce risk for later suicide, including suicidal thoughts and behaviors — fatal and nonfatal (STB), and related external injuries (e.g., nonfatal SUD/OUD/accidents, and all-cause mortality (e.g., National Death Index)). 
+* Deadline: October 10, 2023 (LOI due 1 month prior)
+* Award: U01, budget must be align with the project scope ($3M/year), for durations up to four years
 
 ## Program and Center (P) Grants
 ### [Developmental AIDS Research Centers on Mental Health and HIV/AIDS](https://grants.nih.gov/grants/guide/pa-files/PAR-20-307.html)
 * Supports Developmental HIV/AIDS Research Centers (D-ARC) intended to provide infrastructure support that facilitates the development of high impact science in HIV/AIDS and mental health that is relevant to the NIMH mission. 
 * Pursuit of innovative data science approaches to promote HIV treatment and prevention delivery advances. This may include methods such as artificial intelligence and predictive analytics applied to large data sets that include electronic medical records, pharmacy claims data, and medical insurance data, as well as the integration of digital technology data (e.g., cellphones or other sensors) with other datasets to improve service delivery and impact.
-* Deadline: August 25, 2023 (LOI due 30 days prior)
+* Deadline: August 25, 2023 (LOI due 1 month prior)
 * Award: P30, $750K/year for durations up to four years
 
 ### [NIMH AIDS Research Center on Mental Health and HIV/AIDS](https://grants.nih.gov/grants/guide/pa-files/PAR-20-308.html)
 * Supports HIV/AIDS Research Centers (ARC) intended to provide infrastructure support that facilitates the development of high impact science in HIV/AIDS and mental health that is relevant to the NIMH mission. 
 * Pursuit of innovative data science approaches to promote HIV treatment and prevention delivery advances. This may include methods such as artificial intelligence and predictive analytics applied to large data sets that include electronic medical records, pharmacy claims data, and medical insurance data, as well as the integration of digital technology data (e.g., cellphones or other sensors) with other datasets to improve service delivery and impact.
-* Deadline: August 25, 2023 (LOI due 30 days prior)
+* Deadline: August 25, 2023 (LOI due 1 month prior)
 * Award: P30, $1.5M/year for durations up to five years
 
 ### [Exploratory Grants for Climate Change and Health Research Center Development](https://grants.nih.gov/grants/guide/rfa-files/RFA-ES-23-007.html)
 * Supports the development of a transdisciplinary research environment to sustain a program of fundamental and applied research to examine the impacts of climate change on health and to develop action-oriented solutions to protect the health of individuals, communities, and nations from the hazards posed by climate change.
-* Deadline: November 7, 2023 (LOI due 30 days prior)
+* Deadline: November 7, 2023 (LOI due 1 month prior)
 * Award: P20, $850K/year (direct) for durations up to three years
 
 ### [Silvio O. Conte Centers for Basic Neuroscience or Translational Mental Health Research](https://grants.nih.gov/grants/guide/pa-files/PAR-22-155.html)
@@ -61,12 +74,12 @@ title: "NIH Funding Opportunities"
 ## Research Grants - R01 Activities
 ### [Accelerating the Pace of Child Health Research Using Existing Data from the Adolescent Brain Cognitive Development (ABCD) Study](https://grants.nih.gov/grants/guide/pa-files/PAR-22-137.html)
 * Supports the  analysis of the Adolescent Brain Cognitive Development (ABCD) dataset to increase knowledge of adolescent health and development. 
-* Deadline: June 5, 2023 (LOI due 30 days prior), annually in February, June, October through Feb 2025
+* Deadline: June 5, 2023 (LOI due 1 month prior), annually in February, June, October through Feb 2025
 * Award: R01, $250K/year (direct) for durations up to five years ([R21](https://grants.nih.gov/grants/guide/pa-files/PAR-22-138.html) also available)
 
 ### [Strategies for Responsibly Reporting Back Environmental Health and Non-Genomic Research Results](https://grants.nih.gov/grants/guide/rfa-files/RFA-ES-23-006.html)
 * Supports projects that will identify, develop and/or adapt, as well as test strategies for responsibly reporting back environmental health, non-genomic research, and gene-environment interaction (GxE) results to research participants and/or key partners (for example, health care professionals, IRBs, and policy makers)
-* Deadline: June 15, 2023 (LOI due 30 days prior)
+* Deadline: June 15, 2023 (LOI due 1 month prior)
 * Award: R01, $250K/year for durations up to four years
 
 ### [Ethical, Legal and Social Implications (ELSI) Research](https://grants.nih.gov/grants/guide/pa-files/PAR-20-254.html)
@@ -76,43 +89,48 @@ title: "NIH Funding Opportunities"
 
 ### [BRAIN Initiative: Targeted BRAIN Circuits Projects- TargetedBCP](https://grants.nih.gov/grants/guide/rfa-files/RFA-NS-23-024.html)
 * Supports research projects that seek to understand how circuit activity gives rise to mental experience and behavior using innovative, methodologically-integrated approaches.
-* Deadline: June 30, 2023 (LOI due 30 days prior), recurring in June and October through 2024
+* Deadline: June 30, 2023 (LOI due 1 month prior), recurring in June and October through 2024
 * Award: R01, approximately $750K/year for durations up to five years
 
 ### [Accelerating the Pace of Drug Abuse Research Using Existing Data](https://grants.nih.gov/grants/guide/rfa-files/RFA-DA-22-037.html)
 * Supports the  analysis of the Adolescent Brain Cognitive Development (ABCD) dataset to increase knowledge of adolescent health and development. 
-* Deadline: August 9, 2023 (LOI due 30 days prior), annually in March, August, November through 2024
+* Deadline: August 9, 2023 (LOI due 1 month prior), annually in March, August, November through 2024
 * Award: R01, approximately $400-650K/year for durations up to five years ([R21](https://grants.nih.gov/grants/guide/rfa-files/RFA-DA-22-038.html) also available)
 
 ### [Leveraging Big Data Science to Elucidate the Mechanisms of HIV Activity and Interaction with Substance Use Disorder](https://grants.nih.gov/grants/guide/rfa-files/RFA-DA-24-008.html)
 * Supports research using data science and computational approaches to generate new insights into mechanisms and consequences of the interaction of HIV and addictive drugs. 
-* Deadline: August 10, 2023 (LOI due 30 days prior)
+* Deadline: August 10, 2023 (LOI due 1 month prior)
 * Award: R01, $350K (direct) for durations up to five years ([R21](https://grants.nih.gov/grants/guide/rfa-files/RFA-DA-24-009.html) also available)
 
 ### [BRAIN Initiative: Theories, Models and Methods for Analysis of Complex Data from the Brain](https://grants.nih.gov/grants/guide/rfa-files/RFA-DA-23-039.html)
 * Supports the development of theories, computational models, and analytical tools to derive understanding of brain function from complex neuroscience data.
-* Deadline: September 12, 2023 and September 12, 2024 (LOI due 30 days prior) 
+* Deadline: September 12, 2023 and September 12, 2024 (LOI due 1 month prior) 
 * Award: R01, approximately $150-250K for durations up to three years
 
 ### [Leveraging Health Information Technology (Health IT) to Address and Reduce Health Care Disparities](https://grants.nih.gov/grants/guide/pa-files/PAR-22-145.html)
 * Supports research that examines the impact of leveraging health information technology (health IT) to reduce disparities in access to and utilization of health care services, patient-clinician communication, and health outcomes for populations that experience health disparities in the U.S.
-* Deadline: October 5, 2023 (LOI due 30 days prior), annually in February, June, and October through Feb 2025
+* Deadline: October 5, 2023 (LOI due 1 month prior), annually in February, June, and October through Feb 2025
 * Award: R01, budget must be align with the project scope, for durations up to five years
 
 ### [NLM Research Grants in Biomedical Informatics and Data Science](https://grants.nih.gov/grants/guide/pa-files/PAR-23-034.html)
 * Supportsinnovative research and development in biomedical informatics and data science. This funding opportunity focuses on biomedical discovery and data-powered health, integrating streams of complex and interconnected research outputs that can be translated into scientific insights, clinical care, public health practices, and personal wellness.
-* Deadline: October 5, 2023 (LOI due 30 days prior), annually in February, June, and October through 2025
+* Deadline: October 5, 2023 (LOI due 1 month prior), annually in February, June, and October through 2025
 * Award: R01, $250K/year (direct) for durations up to four years
 
 ### [Addressing the Impact of Structural Racism and Discrimination on Minority Health and Health Disparities](https://grants.nih.gov/grants/guide/pa-files/PAR-23-112.html)
 * Supports intervention research that addresses structural racism and discrimination (SRD) in order to improve minority health or reduce health disparities.
-* Deadline: October 10, 2023 (LOI due 30 days prior), annually through 2025 
+* Deadline: October 10, 2023 (LOI due 1 month prior), annually through 2025 
 * Award: R01, $500K/year (direct) for durations up to five years
 
 ### [Computational Approaches for Validating Dimensional Constructs of Relevance to Psychopathology](https://grants.nih.gov/grants/guide/pa-files/PAR-21-263.html)
 * Supports research projects that will use computational approaches to test the validity of dimensional constructs in the NIMH [Research Domain Criteria (RDoC) matrix](https://www.nimh.nih.gov/research-priorities/rdoc/index.shtml) (or similar constructs based on comparable criteria). 
-* Deadline: November 1, 2023 (LOI due 30 days prior)
+* Deadline: November 1, 2023 (LOI due 1 month prior)
 * Award: R01, $500K/year (direct) for durations up to five years
+
+### [Supporting Talented Early Career Researchers in Genomics](https://grants.nih.gov/grants/guide/rfa-files/RFA-HG-22-001.html)
+* Supports research projects by exceptionally promising Early Stage Investigators with a long-term career interest in pursuing innovative research in genomics.
+* Deadline: February 27, 2024
+* Award: R01, budget must be align with the project scope, for durations up to five years
 
 ### [Promote Workforce Diversity in Genomics, Bioinformatics, or Bioengineering and Biomedical Imaging Research](https://grants.nih.gov/grants/guide/rfa-files/RFA-HG-21-041.html)
 * Supports Early Stage Investigators and New Investigators from diverse backgrounds doing research within specific mission areas of NHGRI, NIBIB, and *All of Us* Research Program.
@@ -132,8 +150,18 @@ title: "NIH Funding Opportunities"
 
 ### [BRAIN Initiative: Targeted BRAIN Circuits Planning Projects – TargetedBCPP](https://grants.nih.gov/grants/guide/rfa-files/RFA-NS-23-023.html)
 * Supports research projects that offer a limited scope of aims and an approach that will establish feasibility, validity, or other technically qualifying results that, if successful, would support, enable, and/or lay the groundwork for a potential, subsequent Targeted BRAIN Circuits Projects - Targeted BCP R01.
-* Deadline: June 30, 2023 (LOI due 30 days prior), recurring in June and October through 2024
+* Deadline: June 30, 2023 (LOI due 1 month prior), recurring in June and October through 2024
 * Award: R34, $450K for durations up to two years
+
+### [Team Science Approaches Integrating Experimental and Computational Brain Aging Models](https://grants.nih.gov/grants/guide/rfa-files/RFA-AG-24-018.html)
+* Supports establishing new, or significantly expanding existing, interdisciplinary collaborations involving both experimental and computational researchers to simultaneously address a targeted research question in brain aging and Alzheimer's disease (AD), including AD-related dementias (ADRD).
+* Deadline: September 22, 2023 (LOI due 1 month prior)
+* Award: R21/R33, $275K/year (direct) for R21 and $500K/year (direct) for R33 for durations up to five years (two years for R21, three years for R33)
+
+### [Secondary Analysis of Existing Datasets in Heart, Lung, and Blood Diseases and Sleep Disorders](https://grants.nih.gov/grants/guide/pa-files/PAR-23-036.html)
+* Supports secondary analyses using existing human datasets in areas relevant to the National Heart, Lung, Blood Diseases and Sleep Disorders Institute (NHLBI) scientific mission.
+* Deadline: October 28, 2023, recurring in February and October through 2025
+* Award: R21, $75K/year (direct) for durations up to two years
 
 ### [Research on Bioethical Issues Related to Bionic and Robotic Device Development and Translation](https://grants.nih.gov/grants/guide/rfa-files/RFA-EB-23-005.html)
 * Supports greater integration of bioethics within research and develop a robust bioethics research evidentiary base to inform policy and program decision-making.
@@ -142,13 +170,23 @@ title: "NIH Funding Opportunities"
 
 ### [Data Harmonization, Curation and Secondary Analysis of Existing Clinical Datasets](https://grants.nih.gov/grants/guide/pa-files/PAR-23-089.html)
 * Supports multidisciplinary teams to perform secondary data analysis, using existing datasets from two or more multi-site clinical research projects, including clinical trials, natural history studies, and/or comparative effectiveness research.
-* Deadline: March 14, 2024 (LOI due 30 days prior)
+* Deadline: March 14, 2024 (LOI due 1 month prior)
 * Award: R61/R33, budget must be align with the project scope, for durations up to five years (2 years for R61, 3 years for R33)
 
-### Notices of Special Interest
+## Notices of Special Interest
+<!-- * []() expires -->
 * [Administrative Supplements to Support Collaborations to Improve the AI/ML-Readiness of NIH-Supported Data](https://grants.nih.gov/grants/guide/notice-files/not-od-23-082.html) expires May 17, 2023.
+* [Advance Data Science Approaches Through Secondary Data Analysis to Reveal Scientific Insights of COVID-19 Testing Technologies (R21)](https://grants.nih.gov/grants/guide/notice-files/NOT-OD-23-040.html) expires May 31, 2023.
+* [NIDCR: Supporting Dental, Oral, and Craniofacial Research Using Bioinformatic, Computational, and Data Science Approaches](https://grants.nih.gov/grants/guide/notice-files/NOT-DE-20-006.html) expires August 08, 2023.
+* [Secondary Analyses of Existing Alcohol Research Data](https://grants.nih.gov/grants/guide/notice-files/NOT-AA-20-018.html) expires September 5, 2023.
+* [Administrative Supplements for R25 Data Science Training for Infectious and Immune-mediated Disease Research](https://grants.nih.gov/grants/guide/notice-files/NOT-AI-23-010.html) expires February 14, 2024.
+* [Harnessing Big Data to Halt HIV](https://grants.nih.gov/grants/guide/notice-files/NOT-AI-21-054.html) expires May 8, 2024.
+* [High-Priority Interest to Enhance Data Science Research Training in Addiction Research](https://grants.nih.gov/grants/guide/notice-files/NOT-DA-21-013.html) expires December 9, 2024.
+* [IDEA2Health: Innovative Data Evaluation and Analysis to Health](https://grants.nih.gov/grants/guide/notice-files/NOT-HL-22-001.html) expires January 8, 2025.
+* [Leveraging Data Science to Bring Actionable Insights for Substance Use Prevention and Treatment](https://grants.nih.gov/grants/guide/notice-files/NOT-DA-23-006.html) expires September 8, 2025.
+* [Computational and Statistical Methods to Enhance Discovery from Health Data](https://grants.nih.gov/grants/guide/notice-files/NOT-LM-23-001.html) expires January 8, 2026.
 
-### NIH Funding Opportunity Resources
+## Funding Opportunity Resources
 * See the [full listing of *All of Us* funding opportunities](https://allofus.nih.gov/funding-and-program-partners/funding-opportunities?utm_medium=email&utm_source=mailchimp&utm_campaign=researcher_news&utm_medium=email&utm_source=mailchimp&utm_campaign=researcher_news).
 
 * [NIH Office for Data Science Strategy](https://datascience.nih.gov/research-and-training-funding) list of funding opportunities.
