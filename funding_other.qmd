@@ -26,12 +26,31 @@ editor: visual
 * Award: Typically \$100-250K for one year
 
 ## Governmental Funding Opportunities
+### [ARPA-H: Open-Office Broad Agency Announcement Virtual Proposers' Day](https://arpa-h.gov/engage/baa/)
+* Supports research aiming to improve health outcomes across patient populations, communities, diseases, and health conditions. The BAA calls for proposals to outline breakthrough research and technological advancements.
+  + Health Science Futures
+  + Scalable Solutions
+  + Proactive Health
+  + Resilient Systems
+* Deadline: Rolling, expires March 14, 2023
+* Award: Unspecified, budget must be align with the project scope
+
 ### [IARPA: Rapid Explanation, Analysis and Sourcing Online (REASON)](https://www.iarpa.gov/research-programs/reason)
 * Supports novel technologies that will enable intelligence analysts to substantially improve the evidence and reasoning in draft analytic reports.
   + Task Area 1 (TA1) – Identify Additional Evidence
   + Task Area 2 (TA2) – Identify Reasoning Strengths and Weaknesses
   + Task Area 3 (TA3) – Produce Comments to Increase Quality of Argumentation
 * Deadline: May 8, 2023
+
+### [Utah System of Higher Education: Computer Science Targeted Workforce Initiative Grant](https://drive.google.com/file/d/1aLPZH-mcI_BBuVslNrNlWiweOnvx86bF/view)
+* Supports the creation and/or expansion of capacity in computer science workforce education programs to include: Information Security Analysts, Software Developers and QA Analysts, Digital Interface Designers, Computer and Information Research Scientists, Database Administrators, and Architects.
+* Deadline: June 19, 2023, recurring quarterly if funds remain
+* Award: Unspecified, $4.5M available
+
+### [Utah System of Higher Education: Healthcare Targeted Workforce Initiative Grant Request for Proposals](https://drive.google.com/file/d/1aLbxQh74PyzdtrCKzd3WfXWBRtfnyEpg/view)
+* Supports the creation and/or expansion of capacity in healthcare workforce education programs to include: Respiratory Therapists, Registered Nurses, Licensed Practical Nurses, Radiology Technologists, Surgical Technologists, Diagnostic Medical Sonographers, Behavioral Health, Psychiatric Technicians, and/or Behavioral Management Specialists.
+* Deadline: June 19, 2023, recurring quarterly if funds remain
+* Award: Unspecified, $4.5M available
 
 ### [HHS: Career Pathways Secondary Data Analysis Grants](https://www.grants.gov/web/grants/view-opportunity.html?oppId=344009)
 * Supports secondary analysis of data collected to rigorously evaluate a collection of career pathways programs. The purpose of these awards is to better understand the effectiveness of services funded by Temporary Assistance for Needy Families (TANF) programs that aim to address the employment and self-sufficiency needs of TANF recipients and those eligible for or at risk of TANF receipt.
