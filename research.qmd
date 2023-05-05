@@ -1,5 +1,5 @@
 ---
-title: "Coming Soon!"
+title: "Research Areas"
 format: html
 editor: visual
 ---

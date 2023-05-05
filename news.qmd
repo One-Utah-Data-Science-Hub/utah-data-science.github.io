@@ -1,0 +1,5 @@
+---
+title: "Highlights"
+format: html
+---
+* [Seed grants will support U data science research](https://attheu.utah.edu/facultystaff/seed-grants-will-support-u-data-science-research/?fbclid=IwAR3j6cqf98pF0FFehnvicKumtca6IPcRquUF0cdLkz6KcwGJCXf65Rn3J6Q)

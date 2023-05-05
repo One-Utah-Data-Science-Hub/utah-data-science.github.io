@@ -42,6 +42,16 @@ title: "NIH Funding Opportunities"
 * Deadline: June 15, 2023 and June 14, 2024 (LOI due 1 month prior)
 * Award: U01, approximately $2.4M/year for durations of three  years
 
+### [Integration and Coordination Center for the Common Fund Data Ecosystem](https://grants.nih.gov/grants/guide/rfa-files/RFA-RM-23-002.html)
+* Supports an Integration and Coordination Center (ICC) for the Common Fund Data Ecosystem (CFDE) that will help to build internal cohesion within the program
+* Deadline: June 28, 2023 (LOI due 1 month prior)
+* Award: U54, budget must be align with the project scope, for durations up to five years
+
+### [Alzheimer's Disease (AD) and AD-Related Dementias (ADRD) Real-World Data Platform](https://grants.nih.gov/grants/guide/rfa-files/RFA-AG-24-009.html)
+* Supports the transformation of the AD/ADRD research enterprise by serving as a central hub of research access that seeks to: 1) improve applicability and generalizability of findings through larger datasets that include more diverse populations; 2) capture more complete information through linking a variety of data sources; 3) increase the speed at which scientific questions can be answered; and 4) improve researchers’ ability to answer questions that cannot be feasibly or readily answered via clinical trial.
+* Deadline: July 31, 2023 (LOI due 1 month prior)
+* Award: U54, $52M/year for durations up to six years
+
 ### [Using Secondary Data Analysis to Determine Whether Preventive Interventions Implemented Earlier in Life Reduce Suicide Risk](https://grants.nih.gov/grants/guide/rfa-files/RFA-MH-23-275.html)
 * Supports research that will integrate and harmonize existing large prevention trial data sets consisting of well-characterized participant-level data for interventions implemented earlier in life to examine whether they reduce risk for later suicide, including suicidal thoughts and behaviors — fatal and nonfatal (STB), and related external injuries (e.g., nonfatal SUD/OUD/accidents, and all-cause mortality (e.g., National Death Index)). 
 * Deadline: October 10, 2023 (LOI due 1 month prior)
@@ -184,6 +194,7 @@ title: "NIH Funding Opportunities"
 * [High-Priority Interest to Enhance Data Science Research Training in Addiction Research](https://grants.nih.gov/grants/guide/notice-files/NOT-DA-21-013.html) expires December 9, 2024.
 * [IDEA2Health: Innovative Data Evaluation and Analysis to Health](https://grants.nih.gov/grants/guide/notice-files/NOT-HL-22-001.html) expires January 8, 2025.
 * [Leveraging Data Science to Bring Actionable Insights for Substance Use Prevention and Treatment](https://grants.nih.gov/grants/guide/notice-files/NOT-DA-23-006.html) expires September 8, 2025.
+* [Optimization of Data Storage and Utilization for the Sequence Read Archive (SRA)](https://grants.nih.gov/grants/guide/notice-files/NOT-GM-23-015.html) expires December 19, 2025.
 * [Computational and Statistical Methods to Enhance Discovery from Health Data](https://grants.nih.gov/grants/guide/notice-files/NOT-LM-23-001.html) expires January 8, 2026.
 
 ## Funding Opportunity Resources

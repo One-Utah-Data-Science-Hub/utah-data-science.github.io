@@ -72,7 +72,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./funding_nih.html">Funding Opportunities</a></li><li class="breadcrumb-item"><a href="./funding_nih.html">NIH Funding Opportunities</a></li></ol></nav>
+      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./funding_nih.html">Funding Opportunities</a></li><li class="breadcrumb-item"><a href="./funding_nih.html">NIH Funding</a></li></ol></nav>
       <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
       </a>
       <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
@@ -86,9 +86,13 @@ ul.task-list li input[type="checkbox"] {
 <!-- sidebar -->
   <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal sidebar-navigation docked overflow-auto">
     <div class="pt-lg-2 mt-2 text-left sidebar-header">
-    <div class="sidebar-title mb-0 py-0">
-      <a href="./">One Utah Data Science Hub</a> 
-    </div>
+      <a href="./index.html" class="sidebar-logo-link">
+      <img src="./images/HubLogo.png" alt="" class="sidebar-logo py-0 d-lg-inline d-none">
+      </a>
+      <div class="sidebar-tools-main">
+    <a href="https://twitter.com/UtahDataSciHub" title="" class="quarto-navigation-tool px-1" aria-label=""><i class="bi bi-twitter"></i></a>
+    <a href="mailto:penny.atkins@hsc.utah.edu?subject=Utah%20Data%20Science%20Page%20Request" title="" class="quarto-navigation-tool px-1" aria-label=""><i class="bi bi-envelope"></i></a>
+</div>
       </div>
         <div class="mt-2 flex-shrink-0 align-items-center">
         <div class="sidebar-search">
@@ -97,10 +101,16 @@ ul.task-list li input[type="checkbox"] {
         </div>
     <div class="sidebar-menu-container"> 
     <ul class="list-unstyled mt-1">
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./about.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Overview</span></a>
+  </div>
+</li>
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
             <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" aria-expanded="true">
- <span class="menu-text">General</span></a>
+ <span class="menu-text">Funding Opportunities</span></a>
           <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" aria-expanded="true" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
@@ -108,49 +118,20 @@ ul.task-list li input[type="checkbox"] {
       <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./about.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Overview</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./events.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Seminars and Events</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./data.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Data Resources</span></a>
-  </div>
-</li>
-      </ul>
-  </li>
-        <li class="sidebar-item sidebar-item-section">
-      <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" aria-expanded="true">
- <span class="menu-text">Funding Opportunities</span></a>
-          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" aria-expanded="true" aria-label="Toggle section">
-            <i class="bi bi-chevron-right ms-2"></i>
-          </a> 
-      </div>
-      <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth1 show">  
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
   <a href="./funding_nih.html" class="sidebar-item-text sidebar-link active">
- <span class="menu-text">NIH Funding Opportunities</span></a>
+ <span class="menu-text">NIH Funding</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./funding_nsf.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">NSF Funding Opportunities</span></a>
+ <span class="menu-text">NSF Funding</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./funding_other.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Other Funding Opportunities</span></a>
+ <span class="menu-text">Other Funding</span></a>
   </div>
 </li>
           <li class="sidebar-item">
@@ -163,17 +144,17 @@ ul.task-list li input[type="checkbox"] {
   </li>
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" aria-expanded="true">
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" aria-expanded="true">
  <span class="menu-text">Education</span></a>
-          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" aria-expanded="true" aria-label="Toggle section">
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" aria-expanded="true" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
-      <ul id="quarto-sidebar-section-3" class="collapse list-unstyled sidebar-section depth1 show">  
+      <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./education_courses.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Educational Courses</span></a>
+ <span class="menu-text">Current Courses</span></a>
   </div>
 </li>
           <li class="sidebar-item">
@@ -185,24 +166,48 @@ ul.task-list li input[type="checkbox"] {
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./education_archived.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Archived Education</span></a>
+ <span class="menu-text">Archived Courses</span></a>
   </div>
 </li>
       </ul>
   </li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./events.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Events and Seminars</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./data.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Data Resources</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./news.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Highlights</span></a>
+  </div>
+</li>
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-4" aria-expanded="true">
- <span class="menu-text">Research Areas</span></a>
-          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-4" aria-expanded="true" aria-label="Toggle section">
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" aria-expanded="true">
+ <span class="menu-text">WIP - Coming Soon!</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" aria-expanded="true" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
-      <ul id="quarto-sidebar-section-4" class="collapse list-unstyled sidebar-section depth1 show">  
+      <ul id="quarto-sidebar-section-3" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./research.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Coming Soon!</span></a>
+ <span class="menu-text">Research Areas</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./roster.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Roster</span></a>
   </div>
 </li>
       </ul>
@@ -228,6 +233,8 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#individually-measured-phenotypes-to-advance-computational-translation-in-mental-health-impact-mh-data-coordinating-center" id="toc-individually-measured-phenotypes-to-advance-computational-translation-in-mental-health-impact-mh-data-coordinating-center" class="nav-link" data-scroll-target="#individually-measured-phenotypes-to-advance-computational-translation-in-mental-health-impact-mh-data-coordinating-center">Individually Measured Phenotypes to Advance Computational Translation in Mental Health (IMPACT-MH): Data Coordinating Center</a></li>
   <li><a href="#brain-initiative-brain-behavior-quantification-and-synchronization-data-coordination-and-artificial-intelligence-center" id="toc-brain-initiative-brain-behavior-quantification-and-synchronization-data-coordination-and-artificial-intelligence-center" class="nav-link" data-scroll-target="#brain-initiative-brain-behavior-quantification-and-synchronization-data-coordination-and-artificial-intelligence-center">BRAIN Initiative: Brain Behavior Quantification and Synchronization – Data Coordination and Artificial Intelligence Center</a></li>
   <li><a href="#brain-initiative-exploratory-team-research-brain-circuit-programs---eteambcp" id="toc-brain-initiative-exploratory-team-research-brain-circuit-programs---eteambcp" class="nav-link" data-scroll-target="#brain-initiative-exploratory-team-research-brain-circuit-programs---eteambcp">BRAIN Initiative: Exploratory Team-Research BRAIN Circuit Programs - eTeamBCP</a></li>
+  <li><a href="#integration-and-coordination-center-for-the-common-fund-data-ecosystem" id="toc-integration-and-coordination-center-for-the-common-fund-data-ecosystem" class="nav-link" data-scroll-target="#integration-and-coordination-center-for-the-common-fund-data-ecosystem">Integration and Coordination Center for the Common Fund Data Ecosystem</a></li>
+  <li><a href="#alzheimers-disease-ad-and-ad-related-dementias-adrd-real-world-data-platform" id="toc-alzheimers-disease-ad-and-ad-related-dementias-adrd-real-world-data-platform" class="nav-link" data-scroll-target="#alzheimers-disease-ad-and-ad-related-dementias-adrd-real-world-data-platform">Alzheimer’s Disease (AD) and AD-Related Dementias (ADRD) Real-World Data Platform</a></li>
   <li><a href="#using-secondary-data-analysis-to-determine-whether-preventive-interventions-implemented-earlier-in-life-reduce-suicide-risk" id="toc-using-secondary-data-analysis-to-determine-whether-preventive-interventions-implemented-earlier-in-life-reduce-suicide-risk" class="nav-link" data-scroll-target="#using-secondary-data-analysis-to-determine-whether-preventive-interventions-implemented-earlier-in-life-reduce-suicide-risk">Using Secondary Data Analysis to Determine Whether Preventive Interventions Implemented Earlier in Life Reduce Suicide Risk</a></li>
   </ul></li>
   <li><a href="#program-and-center-p-grants" id="toc-program-and-center-p-grants" class="nav-link" data-scroll-target="#program-and-center-p-grants">Program and Center (P) Grants</a>
@@ -354,6 +361,22 @@ ul.task-list li input[type="checkbox"] {
 <li>Supports teams of three or more (up to six) PDs/PIs that seek to cross boundaries of interdisciplinary collaboration to elucidate the contributions of dynamic circuit activity to a specific behavioral or neural system.</li>
 <li>Deadline: June 15, 2023 and June 14, 2024 (LOI due 1 month prior)</li>
 <li>Award: U01, approximately $2.4M/year for durations of three years</li>
+</ul>
+</section>
+<section id="integration-and-coordination-center-for-the-common-fund-data-ecosystem" class="level3">
+<h3 class="anchored" data-anchor-id="integration-and-coordination-center-for-the-common-fund-data-ecosystem"><a href="https://grants.nih.gov/grants/guide/rfa-files/RFA-RM-23-002.html">Integration and Coordination Center for the Common Fund Data Ecosystem</a></h3>
+<ul>
+<li>Supports an Integration and Coordination Center (ICC) for the Common Fund Data Ecosystem (CFDE) that will help to build internal cohesion within the program</li>
+<li>Deadline: June 28, 2023 (LOI due 1 month prior)</li>
+<li>Award: U54, budget must be align with the project scope, for durations up to five years</li>
+</ul>
+</section>
+<section id="alzheimers-disease-ad-and-ad-related-dementias-adrd-real-world-data-platform" class="level3">
+<h3 class="anchored" data-anchor-id="alzheimers-disease-ad-and-ad-related-dementias-adrd-real-world-data-platform"><a href="https://grants.nih.gov/grants/guide/rfa-files/RFA-AG-24-009.html">Alzheimer’s Disease (AD) and AD-Related Dementias (ADRD) Real-World Data Platform</a></h3>
+<ul>
+<li>Supports the transformation of the AD/ADRD research enterprise by serving as a central hub of research access that seeks to: 1) improve applicability and generalizability of findings through larger datasets that include more diverse populations; 2) capture more complete information through linking a variety of data sources; 3) increase the speed at which scientific questions can be answered; and 4) improve researchers’ ability to answer questions that cannot be feasibly or readily answered via clinical trial.</li>
+<li>Deadline: July 31, 2023 (LOI due 1 month prior)</li>
+<li>Award: U54, $52M/year for durations up to six years</li>
 </ul>
 </section>
 <section id="using-secondary-data-analysis-to-determine-whether-preventive-interventions-implemented-earlier-in-life-reduce-suicide-risk" class="level3">
@@ -581,6 +604,7 @@ ul.task-list li input[type="checkbox"] {
 <li><a href="https://grants.nih.gov/grants/guide/notice-files/NOT-DA-21-013.html">High-Priority Interest to Enhance Data Science Research Training in Addiction Research</a> expires December 9, 2024.</li>
 <li><a href="https://grants.nih.gov/grants/guide/notice-files/NOT-HL-22-001.html">IDEA2Health: Innovative Data Evaluation and Analysis to Health</a> expires January 8, 2025.</li>
 <li><a href="https://grants.nih.gov/grants/guide/notice-files/NOT-DA-23-006.html">Leveraging Data Science to Bring Actionable Insights for Substance Use Prevention and Treatment</a> expires September 8, 2025.</li>
+<li><a href="https://grants.nih.gov/grants/guide/notice-files/NOT-GM-23-015.html">Optimization of Data Storage and Utilization for the Sequence Read Archive (SRA)</a> expires December 19, 2025.</li>
 <li><a href="https://grants.nih.gov/grants/guide/notice-files/NOT-LM-23-001.html">Computational and Statistical Methods to Enhance Discovery from Health Data</a> expires January 8, 2026.</li>
 </ul>
 </section>

@@ -72,7 +72,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./funding_nih.html">Funding Opportunities</a></li><li class="breadcrumb-item"><a href="./funding_nsf.html">NSF Funding Opportunities</a></li></ol></nav>
+      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./funding_nih.html">Funding Opportunities</a></li><li class="breadcrumb-item"><a href="./funding_nsf.html">NSF Funding</a></li></ol></nav>
       <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
       </a>
       <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
@@ -86,9 +86,13 @@ ul.task-list li input[type="checkbox"] {
 <!-- sidebar -->
   <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal sidebar-navigation docked overflow-auto">
     <div class="pt-lg-2 mt-2 text-left sidebar-header">
-    <div class="sidebar-title mb-0 py-0">
-      <a href="./">One Utah Data Science Hub</a> 
-    </div>
+      <a href="./index.html" class="sidebar-logo-link">
+      <img src="./images/HubLogo.png" alt="" class="sidebar-logo py-0 d-lg-inline d-none">
+      </a>
+      <div class="sidebar-tools-main">
+    <a href="https://twitter.com/UtahDataSciHub" title="" class="quarto-navigation-tool px-1" aria-label=""><i class="bi bi-twitter"></i></a>
+    <a href="mailto:penny.atkins@hsc.utah.edu?subject=Utah%20Data%20Science%20Page%20Request" title="" class="quarto-navigation-tool px-1" aria-label=""><i class="bi bi-envelope"></i></a>
+</div>
       </div>
         <div class="mt-2 flex-shrink-0 align-items-center">
         <div class="sidebar-search">
@@ -97,10 +101,16 @@ ul.task-list li input[type="checkbox"] {
         </div>
     <div class="sidebar-menu-container"> 
     <ul class="list-unstyled mt-1">
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./about.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Overview</span></a>
+  </div>
+</li>
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
             <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" aria-expanded="true">
- <span class="menu-text">General</span></a>
+ <span class="menu-text">Funding Opportunities</span></a>
           <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" aria-expanded="true" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
@@ -108,49 +118,20 @@ ul.task-list li input[type="checkbox"] {
       <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./about.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Overview</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./events.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Seminars and Events</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./data.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Data Resources</span></a>
-  </div>
-</li>
-      </ul>
-  </li>
-        <li class="sidebar-item sidebar-item-section">
-      <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" aria-expanded="true">
- <span class="menu-text">Funding Opportunities</span></a>
-          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" aria-expanded="true" aria-label="Toggle section">
-            <i class="bi bi-chevron-right ms-2"></i>
-          </a> 
-      </div>
-      <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth1 show">  
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
   <a href="./funding_nih.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">NIH Funding Opportunities</span></a>
+ <span class="menu-text">NIH Funding</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./funding_nsf.html" class="sidebar-item-text sidebar-link active">
- <span class="menu-text">NSF Funding Opportunities</span></a>
+ <span class="menu-text">NSF Funding</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./funding_other.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Other Funding Opportunities</span></a>
+ <span class="menu-text">Other Funding</span></a>
   </div>
 </li>
           <li class="sidebar-item">
@@ -163,17 +144,17 @@ ul.task-list li input[type="checkbox"] {
   </li>
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" aria-expanded="true">
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" aria-expanded="true">
  <span class="menu-text">Education</span></a>
-          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" aria-expanded="true" aria-label="Toggle section">
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" aria-expanded="true" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
-      <ul id="quarto-sidebar-section-3" class="collapse list-unstyled sidebar-section depth1 show">  
+      <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./education_courses.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Educational Courses</span></a>
+ <span class="menu-text">Current Courses</span></a>
   </div>
 </li>
           <li class="sidebar-item">
@@ -185,24 +166,48 @@ ul.task-list li input[type="checkbox"] {
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./education_archived.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Archived Education</span></a>
+ <span class="menu-text">Archived Courses</span></a>
   </div>
 </li>
       </ul>
   </li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./events.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Events and Seminars</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./data.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Data Resources</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./news.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Highlights</span></a>
+  </div>
+</li>
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-4" aria-expanded="true">
- <span class="menu-text">Research Areas</span></a>
-          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-4" aria-expanded="true" aria-label="Toggle section">
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" aria-expanded="true">
+ <span class="menu-text">WIP - Coming Soon!</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" aria-expanded="true" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
-      <ul id="quarto-sidebar-section-4" class="collapse list-unstyled sidebar-section depth1 show">  
+      <ul id="quarto-sidebar-section-3" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./research.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Coming Soon!</span></a>
+ <span class="menu-text">Research Areas</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./roster.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Roster</span></a>
   </div>
 </li>
       </ul>
@@ -228,6 +233,7 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#safe-learning-enabled-systems" id="toc-safe-learning-enabled-systems" class="nav-link" data-scroll-target="#safe-learning-enabled-systems">Safe Learning-Enabled Systems</a></li>
   <li><a href="#training-based-workforce-development-for-advanced-cyberinfrastructure-cybertraining" id="toc-training-based-workforce-development-for-advanced-cyberinfrastructure-cybertraining" class="nav-link" data-scroll-target="#training-based-workforce-development-for-advanced-cyberinfrastructure-cybertraining">Training-based Workforce Development for Advanced Cyberinfrastructure (CyberTraining)</a></li>
   <li><a href="#strengthening-the-cyberinfrastructure-professionals-ecosystem-scipe" id="toc-strengthening-the-cyberinfrastructure-professionals-ecosystem-scipe" class="nav-link" data-scroll-target="#strengthening-the-cyberinfrastructure-professionals-ecosystem-scipe">Strengthening the Cyberinfrastructure Professionals Ecosystem (SCIPE)</a></li>
+  <li><a href="#synthesis-center-for-understanding-organismal-resilience" id="toc-synthesis-center-for-understanding-organismal-resilience" class="nav-link" data-scroll-target="#synthesis-center-for-understanding-organismal-resilience">Synthesis Center for Understanding Organismal Resilience</a></li>
   <li><a href="#cybersecurity-innovation-for-cyberinfrastructure-cici" id="toc-cybersecurity-innovation-for-cyberinfrastructure-cici" class="nav-link" data-scroll-target="#cybersecurity-innovation-for-cyberinfrastructure-cici">Cybersecurity Innovation for Cyberinfrastructure (CICI)</a></li>
   <li><a href="#nsf-scholarships-in-science-technology-engineering-and-mathematics-program-s-stem" id="toc-nsf-scholarships-in-science-technology-engineering-and-mathematics-program-s-stem" class="nav-link" data-scroll-target="#nsf-scholarships-in-science-technology-engineering-and-mathematics-program-s-stem">NSF Scholarships in Science, Technology, Engineering, and Mathematics Program (S-STEM)</a></li>
   <li><a href="#emerging-mathematics-in-biology-emb" id="toc-emerging-mathematics-in-biology-emb" class="nav-link" data-scroll-target="#emerging-mathematics-in-biology-emb">Emerging Mathematics in Biology (eMB)</a></li>
@@ -259,6 +265,10 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
+<!-- ### []()
+* S
+* Deadline: 
+* Award: $ for durations up to  years -->
 <section id="spectrum-and-wireless-innovation-enabled-by-future-technologies---satellite-terrestrial-coexistence-swift-sat" class="level3">
 <h3 class="anchored" data-anchor-id="spectrum-and-wireless-innovation-enabled-by-future-technologies---satellite-terrestrial-coexistence-swift-sat"><a href="https://new.nsf.gov/funding/opportunities/spectrum-wireless-innovation-enabled-future-0">Spectrum and Wireless Innovation enabled by Future Technologies - Satellite-Terrestrial Coexistence (SWIFT-SAT)</a></h3>
 <ul>
@@ -365,6 +375,15 @@ ul.task-list li input[type="checkbox"] {
 <li>Supports projects that deepen the integration of cyberinfrastructure professionals’ services into research, while fostering education, training and recognition that address CI workforce development needs.</li>
 <li>Deadline: January 18, 2024, annually thereafter</li>
 <li>Award: Not specified</li>
+</ul>
+</section>
+<section id="synthesis-center-for-understanding-organismal-resilience" class="level3">
+<h3 class="anchored" data-anchor-id="synthesis-center-for-understanding-organismal-resilience"><a href="https://new.nsf.gov/funding/opportunities/synthesis-center-understanding-organismal">Synthesis Center for Understanding Organismal Resilience</a></h3>
+<ul>
+<li>Supports the establishment of a new Synthesis Center focused on organismal resilience and plasticity as well as training new generations of researchers in data-intensive, open, cross-disciplinary and collaborative science.</li>
+<li>Deadline: January 12, 2024 (Preliminary)</li>
+<li>Award: $20M over five years</li>
+<li><a href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=NXFrMzhpOWl2bHU5cnU5ajVxdDI0dWswcGMgY2Y0ZDA4OThhMjJiMmQxOTY5NzU1ZDRiYmU3NzA2M2U4MGVhNDgxMGEyNGEyYTI0ZWQ4NDAwM2IyMjU0NGY1NEBn&amp;tmsrc=cf4d0898a22b2d1969755d4bbe77063e80ea4810a24a2a24ed84003b22544f54%40group.calendar.google.com">UofU Townhall on May 22 at 4pm</a></li>
 </ul>
 </section>
 <section id="cybersecurity-innovation-for-cyberinfrastructure-cici" class="level3">

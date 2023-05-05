@@ -1,33 +1,53 @@
 project:
   type: website
   output-dir: docs
+  
 
 website:
-  title: "One Utah Data Science Hub"
+  title: One Utah Data Science Hub
   sidebar:
+    tools:
+      - icon: twitter
+        href: https://twitter.com/UtahDataSciHub
+      - icon: envelope
+        href: mailto:penny.atkins@hsc.utah.edu?subject=Utah%20Data%20Science%20Page%20Request
     style: "docked"
     search: true
+    logo: images/HubLogo.png
     contents:
-      - section: "General"
-        contents: 
-        - about.qmd
-        - events.qmd
-        - data.qmd
+      - text: "Overview"
+        href: about.qmd
       - section: "Funding Opportunities"
         contents: 
-          - funding_nih.qmd
-          - funding_nsf.qmd
-          - funding_other.qmd
-          - funding_archived.qmd
+          - text: "NIH Funding"
+            href: funding_nih.qmd
+          - text: "NSF Funding"
+            href: funding_nsf.qmd
+          - text: "Other Funding"
+            href: funding_other.qmd
+          - text: "Archived Funding"
+            href: funding_archived.qmd
       - section: "Education"
         contents:
-          - education_courses.qmd
-          - education_resources.qmd
-          - education_archived.qmd
-      - section: "Research Areas"
+          - text: "Current Courses"
+            href: education_courses.qmd
+          - text: "Other Resources"
+            href: education_resources.qmd
+          - text: "Archived Courses"
+            href: education_archived.qmd
+      - text: "Events and Seminars"
+        href: events.qmd
+      - text: "Data Resources"
+        href: data.qmd
+      - text: "Highlights"
+        href: news.qmd
+      - section: "WIP - Coming Soon!"
         contents:
-          - research.qmd
-
+          - text: "Research Areas"
+            href: research.qmd
+          - text: "Roster"
+            href: roster.qmd
+    
 format:
   html:
     theme: cosmo

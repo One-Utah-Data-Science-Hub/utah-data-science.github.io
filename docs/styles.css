@@ -1,1 +1,5 @@
 /* css styles */
+.headshot {
+	border-radius: 20%;
+	width: 150px
+}
