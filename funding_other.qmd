@@ -22,7 +22,7 @@ editor: visual
 
 ###  [RWJF: Data Visualization of Structural Racism and Place](https://www.rwjf.org/en/grants/active-funding-opportunities/2023/data-visualization-of-structural-racism-and-place.html)
 * Supports the creation of data visualizations as tools to provide an understanding of structural racism's impact on place, health, and wellbeing.
-* Deadline: June 2, 2023
+* Deadline: June 2, 2023 ([Internal LSO due May 12](https://utah.infoready4.com/#competitionDetail/1903724))
 * Award: Typically \$100-250K for one year
 
 ## Governmental Funding Opportunities
