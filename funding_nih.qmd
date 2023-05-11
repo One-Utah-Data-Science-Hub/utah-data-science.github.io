@@ -5,22 +5,6 @@ title: "NIH Funding Opportunities"
 * S
 * Deadline: 
 * Award: , $ for durations up to  years -->
-## Other Activities
-### [Data and Technology Advancement (DATA) National Service Scholar Program: Data Scientists Advancing Biomedical Research](https://datascience.nih.gov/data-scholars-2023)
-* The National Institutes of Health (NIH) Office of Data Science Strategy (ODSS) Data and Technology Advancement (DATA) National Service Scholar Program is seeking experienced data and computer scientists and engineers to tackle challenging biomedical data problems with the potential for substantial public health impact
-* Application Deadline: May 15, 2023
-* Award: Remote position of one to two years
-
-### [Artificial Intelligence/Machine Learning Consortium to Advance Health Equity and Researcher Diversity (AIM-AHEAD)](https://www.aim-ahead.net/call-for-proposals-year-2/)
-* [Consortium Development Projects to Advance Health Equity](https://www.aim-ahead.net/call-for-proposals-year-2/consortium-development-projects/)
-	+ Supports multidisciplinary research projects that use AI/ML and develop novel algorithms and approaches that address health disparities and inequities and have the potential to significantly impact healthcare access and health outcomes for populations that experience health disparities.
-	+ Deadline: June 20, 2023 (LOI due May 10, 2023)
-	+ Award: $500K-1M for durations up to two years
-* [Hub-Specific Pilot Projects](https://www.aim-ahead.net/call-for-proposals-year-2/hub-specific-pilot-grant-program/)
-  + Supports stakeholders in their regions to conduct small-scale, community-engaged research studies or capacity building projects that align with the overall goal of AIM-AHEAD.
-	+ Deadline: June 20, 2023
-	+ Award: $75-150K for one year
-
 ## Cooperative Agreement (U) Grants
 ### [Individually Measured Phenotypes to Advance Computational Translation in Mental Health (IMPACT-MH)](https://grants.nih.gov/grants/guide/rfa-files/RFA-MH-23-105.html)
 * Supports research that will use behavioral measures and computational methods to define novel clinical signatures that can be used for individual-level prediction and clinical decision making in mental disorders. 
@@ -81,12 +65,13 @@ title: "NIH Funding Opportunities"
 * Award: P50, $2M/year (direct) for durations up to five years
 
 
-## Research Grants - R01 Activities
-### [Accelerating the Pace of Child Health Research Using Existing Data from the Adolescent Brain Cognitive Development (ABCD) Study](https://grants.nih.gov/grants/guide/pa-files/PAR-22-137.html)
-* Supports the  analysis of the Adolescent Brain Cognitive Development (ABCD) dataset to increase knowledge of adolescent health and development. 
-* Deadline: June 5, 2023 (LOI due 1 month prior), annually in February, June, October through Feb 2025
-* Award: R01, $250K/year (direct) for durations up to five years ([R21](https://grants.nih.gov/grants/guide/pa-files/PAR-22-138.html) also available)
+## Career Development (F/K) Grants
+### [INCLUDE (INvestigation of Co-occurring conditions across the Lifespan to Understand Down syndromE) Predoctoral to Postdoctoral Fellow Transition Award](https://grants.nih.gov/grants/guide/rfa-files/RFA-OD-23-016.html)
+* Supports exceptional graduate students from a broad variety of  research fields to pursue postdoctoral training focused on Down syndrome related research.
+* Deadline: July 1, 2023
+* Award: F99/K00, covers stipends, tuition, fees, and institutional allowance for durations up to six years (F99 for two years, K00 for four years).
 
+## Research Grants - R01 Activities
 ### [Strategies for Responsibly Reporting Back Environmental Health and Non-Genomic Research Results](https://grants.nih.gov/grants/guide/rfa-files/RFA-ES-23-006.html)
 * Supports projects that will identify, develop and/or adapt, as well as test strategies for responsibly reporting back environmental health, non-genomic research, and gene-environment interaction (GxE) results to research participants and/or key partners (for example, health care professionals, IRBs, and policy makers)
 * Deadline: June 15, 2023 (LOI due 1 month prior)
@@ -121,6 +106,11 @@ title: "NIH Funding Opportunities"
 * Supports research that examines the impact of leveraging health information technology (health IT) to reduce disparities in access to and utilization of health care services, patient-clinician communication, and health outcomes for populations that experience health disparities in the U.S.
 * Deadline: October 5, 2023 (LOI due 1 month prior), annually in February, June, and October through Feb 2025
 * Award: R01, budget must be align with the project scope, for durations up to five years
+
+### [Accelerating the Pace of Child Health Research Using Existing Data from the Adolescent Brain Cognitive Development (ABCD) Study](https://grants.nih.gov/grants/guide/pa-files/PAR-22-137.html)
+* Supports the  analysis of the Adolescent Brain Cognitive Development (ABCD) dataset to increase knowledge of adolescent health and development. 
+* Deadline: October 5, 2023 (LOI due 1 month prior), annually in February, June, October through Feb 2025
+* Award: R01, $250K/year (direct) for durations up to five years ([R21](https://grants.nih.gov/grants/guide/pa-files/PAR-22-138.html) also available)
 
 ### [NLM Research Grants in Biomedical Informatics and Data Science](https://grants.nih.gov/grants/guide/pa-files/PAR-23-034.html)
 * Supportsinnovative research and development in biomedical informatics and data science. This funding opportunity focuses on biomedical discovery and data-powered health, integrating streams of complex and interconnected research outputs that can be translated into scientific insights, clinical care, public health practices, and personal wellness.
@@ -163,6 +153,11 @@ title: "NIH Funding Opportunities"
 * Deadline: June 30, 2023 (LOI due 1 month prior), recurring in June and October through 2024
 * Award: R34, $450K for durations up to two years
 
+### [Emergency Award: Novel Insights through Cross-Site Analyses of Existing RADx-UP Data](https://grants.nih.gov/grants/guide/rfa-files/rfa-od-23-050.html)
+* Supports analyses of existing RADx-UP data by proposing novel questions related to SARS-CoV-2 testing and health disparities. These projects will explore important questions focused on COVID-19 testing access and uptake, factors affecting testing and related COVID-19 outcomes, and meta-analyses of specific COVID-19 response and intervention approaches within and across populations.
+* Deadline: July 3, 2023 (LOI due one month prior)
+* Award: R21, $275K/year (direct) for durations of two years.
+
 ### [Team Science Approaches Integrating Experimental and Computational Brain Aging Models](https://grants.nih.gov/grants/guide/rfa-files/RFA-AG-24-018.html)
 * Supports establishing new, or significantly expanding existing, interdisciplinary collaborations involving both experimental and computational researchers to simultaneously address a targeted research question in brain aging and Alzheimer's disease (AD), including AD-related dementias (ADRD).
 * Deadline: September 22, 2023 (LOI due 1 month prior)
@@ -183,6 +178,18 @@ title: "NIH Funding Opportunities"
 * Deadline: March 14, 2024 (LOI due 1 month prior)
 * Award: R61/R33, budget must be align with the project scope, for durations up to five years (2 years for R61, 3 years for R33)
 
+## Other Activities
+### [Data and Technology Advancement (DATA) National Service Scholar Program: Data Scientists Advancing Biomedical Research](https://datascience.nih.gov/data-scholars-2023)
+* The National Institutes of Health (NIH) Office of Data Science Strategy (ODSS) Data and Technology Advancement (DATA) National Service Scholar Program is seeking experienced data and computer scientists and engineers to tackle challenging biomedical data problems with the potential for substantial public health impact
+* Application Deadline: May 15, 2023
+* Award: Remote position for one to two years
+
+### [Artificial Intelligence/Machine Learning Consortium to Advance Health Equity and Researcher Diversity (AIM-AHEAD)](https://www.aim-ahead.net/call-for-proposals-year-2/)
+* [Hub-Specific Pilot Projects](https://www.aim-ahead.net/call-for-proposals-year-2/hub-specific-pilot-grant-program/)
+  + Supports stakeholders in their regions to conduct small-scale, community-engaged research studies or capacity building projects that align with the overall goal of AIM-AHEAD.
+	+ Deadline: June 20, 2023
+	+ Award: $75-150K for one year
+	
 ## Notices of Special Interest
 <!-- * []() expires -->
 * [Administrative Supplements to Support Collaborations to Improve the AI/ML-Readiness of NIH-Supported Data](https://grants.nih.gov/grants/guide/notice-files/not-od-23-082.html) expires May 17, 2023.

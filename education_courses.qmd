@@ -4,6 +4,8 @@ format: html
 ---
 
 ## Software Carpentries
+Software Carpentries workshops are offered in person over two-days, including breakfast, lunch, and snacks. Topics covered will depend on the specific workshop, but could include R, python, SQL, Unix, and more.  
+
 ### Introduction to R
 **When:** May 17-18, 2023\
 **Where:** EHSEB 2680, 26 2000 E, Salt Lake City, UT 84113\
@@ -16,7 +18,7 @@ Additional Information can be found on the [website](https://uofudelphi.github.i
 Additional Information can be found on the website *Coming Soon*.
 
 ## Data Science Series
-Dr. Rebecca Barter has put together a series of data science programming that will be rolling out this fall. Each course will run for four weeks with an asynchronous lecture, virtual office hour session, and project based assignments each week and will be taught in either R or Python. The series will include the following modules: introduction, data cleaning, data visualization, and modeling. \
+Each course will run for four weeks with an asynchronous lecture, virtual office hour session, and project based assignments each week and will be taught in either R or Python. The series has been designed by Dr. Rebecca Barter and will include the following modules: introduction, data cleaning, data visualization, and modeling. \
   
 ### Introduction to R
 **When:** August/September 2023\

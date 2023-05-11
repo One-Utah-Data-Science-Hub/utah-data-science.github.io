@@ -9,10 +9,31 @@ format: html
 * Deadline: May 25, 2023 (LOI due 1 month prior)
 * Award: R25, $250K/year (direct) for durations up to five years
 
+### [Artificial Intelligence/Machine Learning Consortium to Advance Health Equity and Researcher Diversity (AIM-AHEAD)](https://www.aim-ahead.net/call-for-proposals-year-2/)
+* [Consortium Development Projects to Advance Health Equity](https://www.aim-ahead.net/call-for-proposals-year-2/consortium-development-projects/)
+	+ Supports multidisciplinary research projects that use AI/ML and develop novel algorithms and approaches that address health disparities and inequities and have the potential to significantly impact healthcare access and health outcomes for populations that experience health disparities.
+	+ Deadline: June 20, 2023 (LOI due May 10, 2023)
+	+ Award: $500K-1M for durations up to two years
+
+
+## NSF Funding Opportunities
+### [Building the Prototype Open Knowledge Network (Proto-OKN)](https://beta.nsf.gov/funding/opportunities/building-prototype-open-knowledge-network-proto)
+*   Supports the creation of a prototype Open Knowledge Network --- an essential public-data infrastructure to power the next information revolution.
+*   Deadline: June 20, 2023; [(Internal LSO due April 25)](https://utah.infoready4.com/#competitionDetail/1900424)
+*   Award: \$1.5M for durations up to three years
+
+
 ## Industry Funding Opportunities
 ### [AWS AI: Generative AI call for proposals — Spring 2023](https://www.amazon.science/research-awards/call-for-proposals/aws-ai-generative-ai-call-for-proposals-spring-2023)
 * Supports proposals that focus on innovation related to supporting annotators with machine learning and artificial intelligence.
 * Deadline: April 26, 2023
 * Award: $70K unrestricted funds, $50K AWS promotional credits
 
-<!-- ## Governmental Funding Opportunities -->
+
+## Governmental Funding Opportunities
+### [IARPA: Rapid Explanation, Analysis and Sourcing Online (REASON)](https://www.iarpa.gov/research-programs/reason)
+* Supports novel technologies that will enable intelligence analysts to substantially improve the evidence and reasoning in draft analytic reports.
+  + Task Area 1 (TA1) – Identify Additional Evidence
+  + Task Area 2 (TA2) – Identify Reasoning Strengths and Weaknesses
+  + Task Area 3 (TA3) – Produce Comments to Increase Quality of Argumentation
+* Deadline: May 8, 2023
