@@ -29,15 +29,17 @@ website:
             href: funding_archived.qmd
       - section: "Education"
         contents:
-          - text: "Current Courses"
+          - text: "Current Opportunities"
             href: education_courses.qmd
+          - text: "Degree-based Programs"
+            href: education_degrees.qmd
           - text: "Other Resources"
             href: education_resources.qmd
           - text: "Archived Courses"
             href: education_archived.qmd
       - text: "Events and Seminars"
         href: events.qmd
-      - text: "Highlights"
+      - text: "News and Highlights"
         href: news.qmd
       - section: "WIP - Coming Soon!"
         contents:

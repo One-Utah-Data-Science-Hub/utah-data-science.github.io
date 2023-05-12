@@ -72,7 +72,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./events.html">Seminars and Events</a></li></ol></nav>
+      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./events.html">Events and Seminars</a></li></ol></nav>
       <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
       </a>
       <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
@@ -86,9 +86,13 @@ ul.task-list li input[type="checkbox"] {
 <!-- sidebar -->
   <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal sidebar-navigation docked overflow-auto">
     <div class="pt-lg-2 mt-2 text-left sidebar-header">
-    <div class="sidebar-title mb-0 py-0">
-      <a href="./">One Utah Data Science Hub</a> 
-    </div>
+      <a href="./index.html" class="sidebar-logo-link">
+      <img src="./images/HubLogo.png" alt="" class="sidebar-logo py-0 d-lg-inline d-none">
+      </a>
+      <div class="sidebar-tools-main">
+    <a href="https://twitter.com/UtahDataSciHub" title="" class="quarto-navigation-tool px-1" aria-label=""><i class="bi bi-twitter"></i></a>
+    <a href="mailto:penny.atkins@hsc.utah.edu?subject=Utah%20Data%20Science%20Page%20Request" title="" class="quarto-navigation-tool px-1" aria-label=""><i class="bi bi-envelope"></i></a>
+</div>
       </div>
         <div class="mt-2 flex-shrink-0 align-items-center">
         <div class="sidebar-search">
@@ -103,18 +107,6 @@ ul.task-list li input[type="checkbox"] {
  <span class="menu-text">Overview</span></a>
   </div>
 </li>
-        <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./events.html" class="sidebar-item-text sidebar-link active">
- <span class="menu-text">Seminars and Events</span></a>
-  </div>
-</li>
-        <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./data.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Data Resources</span></a>
-  </div>
-</li>
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
             <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" aria-expanded="true">
@@ -127,19 +119,19 @@ ul.task-list li input[type="checkbox"] {
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./funding_nih.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">NIH Funding Opportunities</span></a>
+ <span class="menu-text">NIH Funding</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./funding_nsf.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">NSF Funding Opportunities</span></a>
+ <span class="menu-text">NSF Funding</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./funding_other.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Other Funding Opportunities</span></a>
+ <span class="menu-text">Other Funding</span></a>
   </div>
 </li>
           <li class="sidebar-item">
@@ -162,7 +154,7 @@ ul.task-list li input[type="checkbox"] {
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./education_courses.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Educational Courses</span></a>
+ <span class="menu-text">Current Courses</span></a>
   </div>
 </li>
           <li class="sidebar-item">
@@ -174,15 +166,27 @@ ul.task-list li input[type="checkbox"] {
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./education_archived.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Archived Education</span></a>
+ <span class="menu-text">Archived Courses</span></a>
   </div>
 </li>
       </ul>
   </li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./events.html" class="sidebar-item-text sidebar-link active">
+ <span class="menu-text">Events and Seminars</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./news.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">News and Highlights</span></a>
+  </div>
+</li>
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
             <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" aria-expanded="true">
- <span class="menu-text">Research Areas</span></a>
+ <span class="menu-text">WIP - Coming Soon!</span></a>
           <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" aria-expanded="true" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
@@ -190,8 +194,20 @@ ul.task-list li input[type="checkbox"] {
       <ul id="quarto-sidebar-section-3" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
+  <a href="./data.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Data Resources</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./roster.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Roster</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
   <a href="./research.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Coming Soon!</span></a>
+ <span class="menu-text">Research Areas</span></a>
   </div>
 </li>
       </ul>
@@ -202,7 +218,16 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-sidebar-glass" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass"></div>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#other-seminars-on-campus" id="toc-other-seminars-on-campus" class="nav-link active" data-scroll-target="#other-seminars-on-campus">Other Seminars on Campus</a></li>
+  <li><a href="#fall-2023-networking-event" id="toc-fall-2023-networking-event" class="nav-link" data-scroll-target="#fall-2023-networking-event">Fall 2023 Networking Event</a></li>
+  <li><a href="#dataset-discovery-workshops" id="toc-dataset-discovery-workshops" class="nav-link" data-scroll-target="#dataset-discovery-workshops">DATASET Discovery Workshops</a></li>
+  <li><a href="#delphi-symposium---save-the-date" id="toc-delphi-symposium---save-the-date" class="nav-link" data-scroll-target="#delphi-symposium---save-the-date">DELPHI Symposium <em>- Save the Date</em></a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -227,8 +252,42 @@ ul.task-list li input[type="checkbox"] {
 <p>Check out our calendar of upcoming events and seminars in our <a href="https://calendar.google.com/calendar/u/0?cid=Y2Y0ZDA4OThhMjJiMmQxOTY5NzU1ZDRiYmU3NzA2M2U4MGVhNDgxMGEyNGEyYTI0ZWQ4NDAwM2IyMjU0NGY1NEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t">Google Calendar</a> of upcoming events and seminars.</p>
 <iframe src="https://calendar.google.com/calendar/embed?src=cf4d0898a22b2d1969755d4bbe77063e80ea4810a24a2a24ed84003b22544f54%40group.calendar.google.com&amp;ctz=America%2FDenver" style="border: 0" width="800" height="600" frameborder="0" scrolling="no">
 </iframe>
+<section id="other-seminars-on-campus" class="level2">
+<h2 class="anchored" data-anchor-id="other-seminars-on-campus">Other Seminars on Campus</h2>
+<p><a href="https://datascience.utah.edu/seminar.html">Utah Center for Data Science</a> <a href="https://www.genetics.utah.edu/events">Human Genetics</a> <a href="https://www.sci.utah.edu/the-institute/events.html">Scientific Computing and Imaging Institute</a></p>
+</section>
+<section id="fall-2023-networking-event" class="level2">
+<h2 class="anchored" data-anchor-id="fall-2023-networking-event">Fall 2023 Networking Event</h2>
+<p>We invite faculty and staff to present their research highlights, research needs, and burning questions related to data science in a lightning-talk format. <em>More details coming soon!</em></p>
+</section>
+<section id="dataset-discovery-workshops" class="level2">
+<h2 class="anchored" data-anchor-id="dataset-discovery-workshops">DATASET Discovery Workshops</h2>
+<ul>
+<li><strong>Multidisciplinary Data Integration for Climate Change Resilience in the American West</strong>
+<ul>
+<li>PI: Tabitha Benney</li>
+<li>Co-PIs: Divya Chandrasekhar, Masood Parvania, John Horel, Manish Parashar</li>
+<li>Additional details forthcoming <!--  + Keynote: What is the current and future role of data science in building climate change resilience and advancing adaptative capacity in the western U.S.?
++ Track 1: Critical Infrastructure Systems Data, Masood Parvania and Heather Holmes
++ Track 2: Utilizing Environmental Data, John Horel
++ Track 3: Social and Health Equity and Data Science, Tabitha Benney and Cheryl Pirozzi
++ Track 4: Data Diversity and Challenges of Integration, Manish Parashar and Divya Chandrasekhar --></li>
+</ul></li>
+<li><strong>Bias, Ethics, and Trustworthiness in Data Science and AI</strong>
+<ul>
+<li>PI: Rebecca Barter</li>
+<li>Co-PIs: Daniel Scharfstein, Jim Hotaling, Aaron Quinlan</li>
+<li>Additional details forthcoming</li>
+</ul></li>
+</ul>
+</section>
+<section id="delphi-symposium---save-the-date" class="level2">
+<h2 class="anchored" data-anchor-id="delphi-symposium---save-the-date">DELPHI Symposium <em>- Save the Date</em></h2>
+<p><strong>When:</strong> October 20, 2023, 9am - 5pm<br>
+<strong>Where:</strong> Cleone Peterson Eccles Alumni House</p>
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">

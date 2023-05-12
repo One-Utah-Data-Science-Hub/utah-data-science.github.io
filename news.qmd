@@ -1,5 +1,18 @@
 ---
-title: "Highlights"
+title: "News Highlights"
 format: html
 ---
-* [Seed grants will support U data science research](https://attheu.utah.edu/facultystaff/seed-grants-will-support-u-data-science-research/?fbclid=IwAR3j6cqf98pF0FFehnvicKumtca6IPcRquUF0cdLkz6KcwGJCXf65Rn3J6Q)
+* [Seed grants will support U data science research](https://attheu.utah.edu/facultystaff/seed-grants-will-support-u-data-science-research/?fbclid=IwAR3j6cqf98pF0FFehnvicKumtca6IPcRquUF0cdLkz6KcwGJCXf65Rn3J6Q), February 13, 2023.
+  + *Individualization of Fetal Growth Assessment using Maternal Genetics and Explainable AI*. PIs: Nathan Blue, Mark Yandell, Martin Tristani-Firouzi.
+  + *A Novel Approach to Visualizing Pollution Exposure Patterns in Pregnant Women*. PIs: Simon Brewer, Michelle Debbink, Brenna Kelly. 
+  + *Optimizing Across the Rashomon Set*. PI: Nina de Lacy.
+  + *Predicting Perturbation Phenotypes in the Vertebrate Brain*. PIs: James Gagnon, Randall Peterson. 
+  + *Use of Modularity Optimization to Define and Evaluate Regional Networks for Emergency General Surgery Care*. PIs: Marta McCrum, Joshua J. Horns, Neng Wan.
+  + *CURATE Sepsis: CURating A DaTabase from the Electronic Health Records of Patients At-Risk for Sepsis*. PIs: Daniel Scharfstein, Ithan Peltan, Daniel Knox. 
+  + *Machine Learning-Based Heterogeneous Treatment Effects Estimation of 2nd-line Medication Options for Type 2 Diabetes Patients Using Veteran Affairs Electronic Health Record Data*. PIs: Jincheng Shen, Srinivasan Beddhu, Tom Greene.
+
+## Other University of Utah News
+* [Most data generated is not used to its fullest potential](https://www.healthcarefinancenews.com/news/most-data-generated-not-used-its-fullest-potential?mc_cid=6cad69f6f7&mc_eid=2dd9b9f0f5), featuring *Donna Roach, Chief Information Officer*, April 17, 2023.
+
+* [Algorithm helps predicts pneumonia risk among patients with multiple myeloma](https://www.healio.com/news/hematology-oncology/20230411/algorithm-helps-predicts-pneumonia-risk-among-patients-with-multiple-myeloma?mc_cid=6cad69f6f7&mc_eid=2dd9b9f0f5), featuring *Carrue Bellerive, Hunstman Cancer Institute*, April 15, 2023.
+

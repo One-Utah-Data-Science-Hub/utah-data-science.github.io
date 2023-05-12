@@ -35,15 +35,15 @@ editor: visual
 * Deadline: Rolling, expires March 14, 2024
 * Award: Unspecified, budget must be align with the project scope
 
-### [Utah System of Higher Education: Computer Science Targeted Workforce Initiative Grant](https://drive.google.com/file/d/1aLPZH-mcI_BBuVslNrNlWiweOnvx86bF/view)
-* Supports the creation and/or expansion of capacity in computer science workforce education programs to include: Information Security Analysts, Software Developers and QA Analysts, Digital Interface Designers, Computer and Information Research Scientists, Database Administrators, and Architects.
-* Deadline: June 19, 2023, recurring quarterly if funds remain
-* Award: Unspecified, $4.5M available
-
 ### [Institute of Education Sciences Applications (IES): Statewide Longitudinal Data Systems (SLDS)](https://www.grants.gov/web/grants/view-opportunity.html?oppId=347943)
 * Supports state educational agency to design, develop, and implement statewide longitudinal data systems to efficiently and accurately manage, analyze, disaggregate, and use individual student data. 
 * Deadline: June 29, 2023 (LOI due May 19, 2023)
 * Award: $4M
+
+### [Utah System of Higher Education: Computer Science Targeted Workforce Initiative Grant](https://drive.google.com/file/d/1aLPZH-mcI_BBuVslNrNlWiweOnvx86bF/view)
+* Supports the creation and/or expansion of capacity in computer science workforce education programs to include: Information Security Analysts, Software Developers and QA Analysts, Digital Interface Designers, Computer and Information Research Scientists, Database Administrators, and Architects.
+* Deadline: June 19, 2023, recurring quarterly if funds remain
+* Award: Unspecified, $4.5M available
 
 ### [Utah System of Higher Education: Healthcare Targeted Workforce Initiative Grant Request for Proposals](https://drive.google.com/file/d/1aLbxQh74PyzdtrCKzd3WfXWBRtfnyEpg/view)
 * Supports the creation and/or expansion of capacity in healthcare workforce education programs to include: Respiratory Therapists, Registered Nurses, Licensed Practical Nurses, Radiology Technologists, Surgical Technologists, Diagnostic Medical Sonographers, Behavioral Health, Psychiatric Technicians, and/or Behavioral Management Specialists.

@@ -105,13 +105,13 @@ format: html
 
 ### [Expeditions in Computing (Expeditions)](https://new.nsf.gov/funding/opportunities/expeditions-computing-expeditions)
 *   Supports long-term, multi-institutional research with the potential to transform computer and information science and engineering.
-*   Deadline: June 19, 2024
+*   Deadline: *Preliminary Proposal* June 19, 2024, *Full Proposal* March 31, 2025, repeats every other year
 *   Award: \$15M for durations up to seven years
 
 ### [Engineering Research Center (ERC)](https://new.nsf.gov/funding/opportunities/gen-4-engineering-research-centers-erc)
 *   Convergent Research and Innovation through Inclusive Partnerships and Workforce Development
 *   Supports high-risk, high-payoff research centers focused on advancing engineered systems technology and education through multidisciplinary, cross-sector partnerships.
-*   Deadline: *LOI* September 2024, *Preliminary Proposal* October 2024 (anticipated)
+*   Deadline: *LOI* September 2024, *Preliminary Proposal* October 2024, *Full Proposal* May 2025 (anticipated to repeat every other year)
 *   Award: \$15M for durations up to seven years
 
 ### [Mid-scale Research Infrastructure-2 (Mid-scale RI-2)](https://new.nsf.gov/funding/opportunities/mid-scale-research-infrastructure-2-mid-scale-ri-2)

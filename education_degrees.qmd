@@ -1,0 +1,44 @@
+---
+title: "Degree-based Programs"
+format: html
+---
+## Undergraduate Education
+### Degrees
+* [BS in Data Science](https://www.cs.utah.edu/undergraduate/academic-programs/undergraduate-academic-program-overview/data-science/#data-science) from the Kahlert School of Computing
+* [BS in Information Systems](https://eccles.utah.edu/programs/undergraduate/academics/majors/information-systems/) from the David Eccles School of Business
+
+### Certificates
+* [Undergraduate Certificates in Data Science](https://www.cs.utah.edu/wp-content/uploads/2022/08/DS_Requirement-Sheet-01.21.22.pdf) from the Kahlert School of Computing
+* [Undergraduate Certificate in Data Fluency](https://www.cs.utah.edu/wp-content/uploads/2022/08/DF_Requirement-Sheet-01.21.22.pdf) from the Kahlert School of Computing
+
+## Graduate Education
+### Degrees
+* College of Engineering
+  + MS, ME, or PhD in Biomedical Engineering, [Data Science and Computation Track](https://www.bme.utah.edu/graduate-program-overview/track-in-data-science-and-computation/)
+  + MS or PhD in [Computing](https://www.cs.utah.edu/graduate/academic-programs/ms-and-phd-programs/) from the Kahlert School of Computing, [Data Science Option within Data Management & Analysis Track](https://docs.google.com/document/d/1rFmp-gvDoA4YvUAph2r_dXbQqJxV7HH5KlEA9OfRNEk/edit) or  [Artificial Intelligence Track](https://docs.google.com/document/d/1rFmp-gvDoA4YvUAph2r_dXbQqJxV7HH5KlEA9OfRNEk/edit)
+* School of Medicine
+  + [MS in Biomedical Informatics](https://medicine.utah.edu/dbmi/academics-education/masters), [Data Science Track](https://medicine.utah.edu/dbmi/academics-education/masters/track-data-science)
+  + [PhD in Biomedical Informatics](https://medicine.utah.edu/dbmi/academics-education/phd-program), [Data Science, Analytics, AI, and Computational Methods Track](https://medicine.utah.edu/dbmi/academics-education/phd-program/data-analytics-decision-support)
+  + [PhD in Population Health Sciences](https://medicine.utah.edu/population-health-sciences/phd/emphases), Biostatistics Track
+
+* David Eccles School of Business
+  + [MS in Business Analytics](https://eccles.utah.edu/programs/master-of-science-in-business-analytics/)
+  + [MS in Cybersecurity Management](https://eccles.utah.edu/programs/master-of-science-in-cybersecurity-management/)
+  + [MS in Information Systems](https://eccles.utah.edu/programs/master-of-science-in-information-systems/)
+  + [MS in Information Systems, Online](https://eccles.utah.edu/programs/master-of-science-in-information-systems-online/)
+  + [PhD in Business Administration](https://eccles.utah.edu/programs/phd-in-business-administration/), [Information Systems Track](https://eccles.utah.edu/programs/phd-in-business-administration/academic-tracks/information-systems/)
+
+* The Graduate School 
+  + [Masters of Statistics](https://mstat.utah.edu/)
+  + [Professional Masters in Science and Technology](https://pmst.utah.edu/), [Computational and Data Science Track](https://pmst.utah.edu/computational-and-data-science-program-of-study/)
+ 
+### Certificates
+* Kahlert School of Computing
+  + [Certificate in Data Science](https://www.cs.utah.edu/graduate/academic-programs/certificate-programs/graduate-certificate-in-data-science/)
+  + [Certificate in Deep Learning](https://www.cs.utah.edu/graduate/academic-programs/certificate-programs/graduate-certificate-in-deep-learning/)
+* David Eccles School of Business
+  + [Certificate in Business Analytics](https://eccles.utah.edu/programs/master-of-science-in-information-systems/graduate-certificate/)
+  + [Certificate in Cybersecurity Management](https://eccles.utah.edu/programs/master-of-science-in-information-systems/graduate-certificate/)
+  + [Certificate in Information Systems](https://eccles.utah.edu/programs/master-of-science-in-information-systems/graduate-certificate/)
+* Biomedical Informatics within the School of Medicine
+  + [Informatics Certificate](https://medicine.utah.edu/dbmi/academics-education/other/graduate-certificate)

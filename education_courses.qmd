@@ -1,5 +1,5 @@
 ---
-title: "Educational Courses"
+title: "Educational Opportunities"
 format: html
 ---
 
@@ -15,7 +15,7 @@ Additional Information can be found on the [website](https://uofudelphi.github.i
 **When:** August/Sept 2023 (specific date to be determined)\
 **Where:** TBD, Salt Lake City, UT 84113\
 **Instructors:** Rebecca Barter, George Vega Yon\
-Additional Information can be found on the website *Coming Soon*.
+Additional Information can be found on the website. *Coming Soon!*
 
 ## Data Science Series
 Each course will run for four weeks with an asynchronous lecture, virtual office hour session, and project based assignments each week and will be taught in either R or Python. The series has been designed by Dr. Rebecca Barter and will include the following modules: introduction, data cleaning, data visualization, and modeling. \
@@ -29,6 +29,7 @@ Each course will run for four weeks with an asynchronous lecture, virtual office
 **When:** June 12 - July 7, 2023 (*Pilot*)\
 **Where:** Virtual\
 **Instructor:** Rebecca Barter
+Additional Information can be found on the [website](https://utah.instructure.com/courses/907377).
 
 **When:** September/October 2023\
 **Where:** Virtual\
