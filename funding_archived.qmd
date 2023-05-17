@@ -3,11 +3,37 @@ title: "Archived Funding"
 format: html
 ---
 
-## NIH Funding Opportunities
+# NIH Funding Opportunities
+## Cooperative Agreement (U) Grants
+### [Individually Measured Phenotypes to Advance Computational Translation in Mental Health (IMPACT-MH)](https://grants.nih.gov/grants/guide/rfa-files/RFA-MH-23-105.html)
+* Supports research that will use behavioral measures and computational methods to define novel clinical signatures that can be used for individual-level prediction and clinical decision making in mental disorders. 
+* Deadline: June 14, 2023 (LOI due 1 month prior)
+* Award: U01, $2.5M/year (direct) for durations up to five years
+
+### [Individually Measured Phenotypes to Advance Computational Translation in Mental Health (IMPACT-MH): Data Coordinating Center](https://grants.nih.gov/grants/guide/rfa-files/RFA-MH-23-106.html)
+* Supports the work of U01 research projects funded under the Individually Measured Phenotypes to Advance Computational Translation in Mental Health (IMPACT-MH) initiative described in the companion announcement [RFA-MH-23-105](https://grants.nih.gov/grants/guide/rfa-files/RFA-MH-23-105.html). 
+* Deadline: June 14, 2023 (LOI due 1 month prior)
+* Award: U24, $1M/year (direct) for durations up to five years
+
+<!--## Program and Center (P) Grants-->
+<!--## Career Development (F/K) Grants-->
+## Research Grants - R01 Activities
+### [Strategies for Responsibly Reporting Back Environmental Health and Non-Genomic Research Results](https://grants.nih.gov/grants/guide/rfa-files/RFA-ES-23-006.html)
+* Supports projects that will identify, develop and/or adapt, as well as test strategies for responsibly reporting back environmental health, non-genomic research, and gene-environment interaction (GxE) results to research participants and/or key partners (for example, health care professionals, IRBs, and policy makers)
+* Deadline: June 15, 2023 (LOI due 1 month prior)
+* Award: R01, $250K/year for durations up to four years
+
+## Research Grants - Other Activities
 ### [Research Experience in Genomic Research for Data Scientists](https://grants.nih.gov/grants/guide/pa-files/PAR-21-075.html)
 * Supports educational activities that encourage individuals from diverse backgrounds, including those from groups underrepresented in the biomedical and behavioral sciences, to pursue further studies or careers in research.
 * Deadline: May 25, 2023 (LOI due 1 month prior)
 * Award: R25, $250K/year (direct) for durations up to five years
+
+## Other Activities
+### [Data and Technology Advancement (DATA) National Service Scholar Program: Data Scientists Advancing Biomedical Research](https://datascience.nih.gov/data-scholars-2023)
+* The National Institutes of Health (NIH) Office of Data Science Strategy (ODSS) Data and Technology Advancement (DATA) National Service Scholar Program is seeking experienced data and computer scientists and engineers to tackle challenging biomedical data problems with the potential for substantial public health impact
+* Application Deadline: May 15, 2023
+* Award: Remote position for one to two years
 
 ### [Artificial Intelligence/Machine Learning Consortium to Advance Health Equity and Researcher Diversity (AIM-AHEAD)](https://www.aim-ahead.net/call-for-proposals-year-2/)
 * [Consortium Development Projects to Advance Health Equity](https://www.aim-ahead.net/call-for-proposals-year-2/consortium-development-projects/)
@@ -16,21 +42,32 @@ format: html
 	+ Award: $500K-1M for durations up to two years
 
 
-## NSF Funding Opportunities
+# NSF Funding Opportunities
 ### [Building the Prototype Open Knowledge Network (Proto-OKN)](https://beta.nsf.gov/funding/opportunities/building-prototype-open-knowledge-network-proto)
 *   Supports the creation of a prototype Open Knowledge Network --- an essential public-data infrastructure to power the next information revolution.
 *   Deadline: June 20, 2023; [(Internal LSO due April 25)](https://utah.infoready4.com/#competitionDetail/1900424)
 *   Award: \$1.5M for durations up to three years
 
+# Foundation Funding Opportunities
+### [PhRMA Foundation: Faculty Starter Grant in Drug Discovery Targets and Pathways](https://www.phrmafoundation.org/awards/faculty-starter-grants/drug-discovery/)
+* Supports individuals beginning independent careers in drug discovery research at the faculty level at an accredited U.S. university.
+* Deadline: July 1, 2023 (LOI due May 15, 2023)
+* Award: $100K for one year
 
-## Industry Funding Opportunities
+###  [RWJF: Data Visualization of Structural Racism and Place](https://www.rwjf.org/en/grants/active-funding-opportunities/2023/data-visualization-of-structural-racism-and-place.html)
+* Supports the creation of data visualizations as tools to provide an understanding of structural racism's impact on place, health, and wellbeing.
+* Deadline: June 2, 2023 ([Internal LSO due May 12](https://utah.infoready4.com/#competitionDetail/1903724))
+* Award: Typically \$100-250K for one year
+
+
+# Industry Funding Opportunities
 ### [AWS AI: Generative AI call for proposals — Spring 2023](https://www.amazon.science/research-awards/call-for-proposals/aws-ai-generative-ai-call-for-proposals-spring-2023)
 * Supports proposals that focus on innovation related to supporting annotators with machine learning and artificial intelligence.
 * Deadline: April 26, 2023
 * Award: $70K unrestricted funds, $50K AWS promotional credits
 
 
-## Governmental Funding Opportunities
+# Governmental Funding Opportunities
 ### [IARPA: Rapid Explanation, Analysis and Sourcing Online (REASON)](https://www.iarpa.gov/research-programs/reason)
 * Supports novel technologies that will enable intelligence analysts to substantially improve the evidence and reasoning in draft analytic reports.
   + Task Area 1 (TA1) – Identify Additional Evidence

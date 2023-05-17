@@ -6,25 +6,10 @@ title: "NIH Funding Opportunities"
 * Deadline: 
 * Award: , $ for durations up to  years -->
 ## Cooperative Agreement (U) Grants
-### [Individually Measured Phenotypes to Advance Computational Translation in Mental Health (IMPACT-MH)](https://grants.nih.gov/grants/guide/rfa-files/RFA-MH-23-105.html)
-* Supports research that will use behavioral measures and computational methods to define novel clinical signatures that can be used for individual-level prediction and clinical decision making in mental disorders. 
-* Deadline: June 14, 2023 (LOI due 1 month prior)
-* Award: U01, $2.5M/year (direct) for durations up to five years
-
-### [Individually Measured Phenotypes to Advance Computational Translation in Mental Health (IMPACT-MH): Data Coordinating Center](https://grants.nih.gov/grants/guide/rfa-files/RFA-MH-23-106.html)
-* Supports the work of U01 research projects funded under the Individually Measured Phenotypes to Advance Computational Translation in Mental Health (IMPACT-MH) initiative described in the companion announcement [RFA-MH-23-105](https://grants.nih.gov/grants/guide/rfa-files/RFA-MH-23-105.html). 
-* Deadline: June 14, 2023 (LOI due 1 month prior)
-* Award: U24, $1M/year (direct) for durations up to five years
-
 ### [BRAIN Initiative: Brain Behavior Quantification and Synchronization – Data Coordination and Artificial Intelligence Center](https://grants.nih.gov/grants/guide/rfa-files/RFA-MH-23-130.html)
 * Data Coordination and Artificial Intelligence Center (DCAIC) for the Brain Behavior Quantification and Synchronization (BBQS) Consortium of the BRAIN Initiative. The DCAIC will serve as the organizational hub for BBQS data management and sharing. 
 * Deadline: June 14, 2023
 * Award: U24, $2M/year for durations up to five years
-
-### [BRAIN Initiative: Exploratory Team-Research BRAIN Circuit Programs - eTeamBCP](https://grants.nih.gov/grants/guide/rfa-files/RFA-NS-23-025.html)
-* Supports teams of three or more (up to six) PDs/PIs that seek to cross boundaries of interdisciplinary collaboration to elucidate the contributions of dynamic circuit activity to a specific behavioral or neural system.
-* Deadline: June 15, 2023 and June 14, 2024 (LOI due 1 month prior)
-* Award: U01, approximately $2.4M/year for durations of three  years
 
 ### [Integration and Coordination Center for the Common Fund Data Ecosystem](https://grants.nih.gov/grants/guide/rfa-files/RFA-RM-23-002.html)
 * Supports an Integration and Coordination Center (ICC) for the Common Fund Data Ecosystem (CFDE) that will help to build internal cohesion within the program
@@ -45,6 +30,21 @@ title: "NIH Funding Opportunities"
 * Supports the establishment of a national coordinating center that will serve as a centralized hub for accessing, harmonizing, linking, and sharing environmental contextual data and individual exposure data with NIA/NIH-funded projects. 
 * Deadline: October 27, 2023 (LOI due August 27, 2023)
 * Award: U24, $5M/year for durations of five years.
+
+### [BRAIN Initiative: Development of Novel Tools to Probe Cell-Specific and Circuit-Specific Processes in Human and Non-Human Primate Brain](https://grants.nih.gov/grants/guide/rfa-files/RFA-MH-23-295.html)
+* Supports the development and validation of novel tools to facilitate the detailed analysis and manipulation of complex circuits in large brains. Critical advances in the treatment of brain disorders in human populations are hindered by our lack of ability to monitor and manipulate circuitry in safe, minimally-invasive ways. 
+* Deadline: June 7, 2024 (LOI due 1 month prior)
+* Award: UG3/UH3, budget must align with the project scope, for durations up to five years (UG3 cannot exceed three years)
+
+### [HEAL Initiative: Interdisciplinary Team Science to Uncover the Mechanisms of Pain Relief by Medical Devices](https://grants.nih.gov/grants/guide/rfa-files/rfa-ns-23-003.html)
+* Supports interdisciplinary research teams of multiple PDs/PIs to investigate the mechanism of action of pain relief by medical devices with the overall goal of optimizing therapeutic outcomes for FDA-approved or -cleared technologies. 
+* Deadline: June 10, 2024 and June 9, 2025
+* Award: RM1, generally $1.5M/year (direct) for durations up to five years
+
+### [BRAIN Initiative: Exploratory Team-Research BRAIN Circuit Programs - eTeamBCP](https://grants.nih.gov/grants/guide/rfa-files/RFA-NS-23-025.html)
+* Supports teams of three or more (up to six) PDs/PIs that seek to cross boundaries of interdisciplinary collaboration to elucidate the contributions of dynamic circuit activity to a specific behavioral or neural system.
+* Deadline: June 14, 2024 (LOI due 1 month prior)
+* Award: U01, approximately $2.4M/year for durations of three  years
 
 ## Program and Center (P) Grants
 ### [Developmental AIDS Research Centers on Mental Health and HIV/AIDS](https://grants.nih.gov/grants/guide/pa-files/PAR-20-307.html)
@@ -81,11 +81,6 @@ title: "NIH Funding Opportunities"
 * Supports meritorious research projects that address research questions relevant to human dental, oral, or craniofacial (DOC) biology, and diseases and conditions, through analysis of existing and publicly available genomic data, with or without other types of complementary data, using statistical and computational approaches.
 * Deadline: June 5, 2023, recurring annually in February, June, and October through February 2026
 * Award: R01, budget must align with the project scope, for durations of up to three years. ([R03 Opportunity](https://grants.nih.gov/grants/guide/pa-files/PAR-23-132.html) also available.)
-
-### [Strategies for Responsibly Reporting Back Environmental Health and Non-Genomic Research Results](https://grants.nih.gov/grants/guide/rfa-files/RFA-ES-23-006.html)
-* Supports projects that will identify, develop and/or adapt, as well as test strategies for responsibly reporting back environmental health, non-genomic research, and gene-environment interaction (GxE) results to research participants and/or key partners (for example, health care professionals, IRBs, and policy makers)
-* Deadline: June 15, 2023 (LOI due 1 month prior)
-* Award: R01, $250K/year for durations up to four years
 
 ### [Ethical, Legal and Social Implications (ELSI) Research](https://grants.nih.gov/grants/guide/pa-files/PAR-20-254.html)
 * Supports the study of the ethical, legal and social implications (ELSI) of human genome research, using either single or mixed methods.
@@ -189,11 +184,6 @@ title: "NIH Funding Opportunities"
 * Award: R61/R33, budget must align with the project scope, for durations up to five years (2 years for R61, 3 years for R33)
 
 ## Other Activities
-### [Data and Technology Advancement (DATA) National Service Scholar Program: Data Scientists Advancing Biomedical Research](https://datascience.nih.gov/data-scholars-2023)
-* The National Institutes of Health (NIH) Office of Data Science Strategy (ODSS) Data and Technology Advancement (DATA) National Service Scholar Program is seeking experienced data and computer scientists and engineers to tackle challenging biomedical data problems with the potential for substantial public health impact
-* Application Deadline: May 15, 2023
-* Award: Remote position for one to two years
-
 ### [Artificial Intelligence/Machine Learning Consortium to Advance Health Equity and Researcher Diversity (AIM-AHEAD)](https://www.aim-ahead.net/call-for-proposals-year-2/)
 * [Hub-Specific Pilot Projects](https://www.aim-ahead.net/call-for-proposals-year-2/hub-specific-pilot-grant-program/)
   + Supports stakeholders in their regions to conduct small-scale, community-engaged research studies or capacity building projects that align with the overall goal of AIM-AHEAD.

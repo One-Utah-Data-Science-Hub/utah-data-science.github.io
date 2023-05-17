@@ -29,7 +29,7 @@ format: html
   + [PhD in Business Administration](https://eccles.utah.edu/programs/phd-in-business-administration/), [Information Systems Track](https://eccles.utah.edu/programs/phd-in-business-administration/academic-tracks/information-systems/)
 
 * The Graduate School 
-  + [Masters of Statistics](https://mstat.utah.edu/)
+  + [Masters of Statistics](https://mstat.utah.edu/), [Mathematics Track](https://mstat.utah.edu/degree-options/mathematics.php)
   + [Professional Masters in Science and Technology](https://pmst.utah.edu/), [Computational and Data Science Track](https://pmst.utah.edu/computational-and-data-science-program-of-study/)
  
 ### Certificates

@@ -3,6 +3,17 @@ title: "Other Funding Opportunities"
 format: html
 editor: visual
 ---
+<!-- ### []()
+* S
+* Deadline: 
+* Award: $ for durations up to  years -->
+## Foundation Funding Opportunities
+### [Simons Foundation: Scientific Software Research Faculty Award](https://www.simonsfoundation.org/grant/scientific-software-research-faculty-award/)
+* Supports the development and maintenance of core scientific software infrastructure in academic environments through creating a new, long-term, faculty-level career path.
+* Deadline: December 8, 2023
+* Award: 50% salary and $50K allowable expenses for durations up to five years
+
+
 ## Industry Funding Opportunities
 ### [AWS IMAGINE: The Go Further, Faster Award](https://aws.amazon.com/government-education/nonprofits/aws-imagine-grant-program)
 * Support for highly innovative projects that leverage the cloud. These projects will have the potential to produce scaled, repeatable solutions and may impact an entire industry or field.
@@ -14,17 +25,6 @@ editor: visual
 * Deadline: June 1, 2023
 * Award: $50K unrestricted funds, $20K AWS promotional credits
 
-## Foundation Funding Opportunities
-### [PhRMA Foundation: Faculty Starter Grant in Drug Discovery Targets and Pathways](https://www.phrmafoundation.org/awards/faculty-starter-grants/drug-discovery/)
-* Supports individuals beginning independent careers in drug discovery research at the faculty level at an accredited U.S. university.
-* Deadline: July 1, 2023 (LOI due May 15, 2023)
-* Award: $100K for one year
-
-###  [RWJF: Data Visualization of Structural Racism and Place](https://www.rwjf.org/en/grants/active-funding-opportunities/2023/data-visualization-of-structural-racism-and-place.html)
-* Supports the creation of data visualizations as tools to provide an understanding of structural racism's impact on place, health, and wellbeing.
-* Deadline: June 2, 2023 ([Internal LSO due May 12](https://utah.infoready4.com/#competitionDetail/1903724))
-* Award: Typically \$100-250K for one year
-
 ## Governmental Funding Opportunities
 ### [ARPA-H: Open-Office Broad Agency Announcement](https://arpa-h.gov/engage/baa/)
 * Supports research aiming to improve health outcomes across patient populations, communities, diseases, and health conditions. The BAA calls for proposals to outline breakthrough research and technological advancements.
@@ -34,6 +34,11 @@ editor: visual
   + Resilient Systems - Building integrated healthcare systems
 * Deadline: Rolling, expires March 14, 2024
 * Award: Unspecified, budget must be align with the project scope
+
+### [US Army: xTechPrime Competition - Concept White Paper](https://www.challenge.gov/?challenge=xtech-prime)
+* Supports small businesses and technology integrators, in the areas of Artificial Intelligence/Machine Learning, Autonomy, Climate and Clean Technologies, Immersive/Wearables, and Sensors, to engage with the DoD, earn prize money, participate in the accelerator program and submit for a Direct to Phase II SBIR award.
+* Deadline: June 7, 2023
+* Award: Participation in the accelerator program and submit for a Direct to Phase II SBIR award
 
 ### [Institute of Education Sciences Applications (IES): Statewide Longitudinal Data Systems (SLDS)](https://www.grants.gov/web/grants/view-opportunity.html?oppId=347943)
 * Supports state educational agency to design, develop, and implement statewide longitudinal data systems to efficiently and accurately manage, analyze, disaggregate, and use individual student data. 
@@ -59,6 +64,17 @@ editor: visual
 * Supports research where quantitative and analytical approaches, processes, and/or systems are developed and/or used to obtain knowledge and insight from large and/or complex sets of prostate cancer data.
 * Deadline: August 24, 2023
 * Award: $1M direct
+
+### [CDC: Centers for Outbreak Analytics and Disease Modeling](https://www.grants.gov/web/grants/view-opportunity.html?oppId=345850)
+* Supports the development of a network of innovators to design, prototype, test, and scale innovative capabilities for improving analytics, modeling and forecasting to support decision makers during outbreaks of infectious diseases (both known and newly emerging) in the United States. 
+  + *Mandatory Component 1 (Outbreak Analytics and Disease Modeling Public Health Response)*: 13 awards of $500,000 each.   
+  + *Optional Component 2 (Innovations in Outbreak Analytics and Disease Modeling)*: 5 awards of $3 million each.
+  + *Optional Component 3 (Integration of Outbreak Analytics and Disease Modeling into Practice)*: 5 awards of $3 million each.
+  + *Optional Component 4 (Centers for Implementation in Outbreak Analytics and Disease Modeling)*: 3 awards of $5 million each.
+  + *Optional Component 5 (Coordinator for the Outbreak Analytics and Disease Modeling Network)*: 1 award of $1 million.
+
+* Deadline: June 13, 2023
+* Award: Varies, see above.
 
 ## Additional Funding Opportunity Resources
 * [ProQuest Pivot listing of funding opportunities related to data science](https://pivot.proquest.com//funding/results?s_id=2660468) requires registration and login through the University of Utah.

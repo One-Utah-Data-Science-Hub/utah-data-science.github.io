@@ -6,6 +6,17 @@ format: html
 * S
 * Deadline: 
 * Award: $ for durations up to  years -->
+
+### [Infrastructure Innovation for Biological Research (Innovation)](https://new.nsf.gov/funding/opportunities/infrastructure-innovation-biological-research)
+* Supports research to design or improve research tools and methods with a focus on research infrastructure in three program areas: bioinformatics, instrumentation and research methods.
+* Deadline: Rolling
+* Award: The size and duration of any individual request should be justified by the amount and complexity of the work to be accomplished (up to approximately $500K-1M).
+
+### [Rapidly Accelerating Research on Artificial Intelligence in K-12 Education in Formal and Informal Settings](https://www.nsf.gov/pubs/2023/nsf23097/nsf23097.jsp?WT.mc_ev=click&WT.mc_id=&utm_medium=email&utm_source=govdelivery)
+* Supports time-sensitive research including the development of AI tools and environments to advance age-appropriate equitable learning and inclusive teaching, support of learning about and interest in AI, use of AI to teach AI; and the integration of generative AI in education in an ethical, responsible, and effective way.
+* Deadline: Rolling
+* Award: $200K for durations up to one year
+
 ### [Spectrum and Wireless Innovation enabled by Future Technologies - Satellite-Terrestrial Coexistence (SWIFT-SAT)](https://new.nsf.gov/funding/opportunities/spectrum-wireless-innovation-enabled-future-0)
 * Supports research on techniques to overcome radio interference and light pollution conflicts between satellite users (communications, earth sensing) and terrestrial users (communications, astronomy) enabling usage growth to benefit society.
 * Deadline: June 5, 2023
@@ -16,14 +27,7 @@ format: html
 *   Deadline: *Core Research* July 13, 2023, January 11, 2024, annually thereafter; *Infrastructure* August 3, 2023, February 1, 2024, annually thereafter
 *   Awards: *Core Research* \$400K; *Infrastructure* \$800K for durations of one to five years
 
-### [CISE Community Research Infrastructure (CCRI)](https://new.nsf.gov/funding/opportunities/cise-community-research-infrastructure-ccri)
-*   *Planning Community Infrastructure (Planning)* awards support planning efforts to engage research communities to develop new CISE community research infrastructures. Such an infrastructure could be eventually funded through the CCRI program (Planning-C) or the [NSF mid-scale research infrastructure](https://www.nsf.gov/pubs/2022/nsf22637/nsf22637.htm) programs (Planning-M).
-*   *Medium Community Infrastructure (Medium)* awards support the creation of new CISE community research infrastructure or the enhancement of existing CISE community research infrastructure with integrated tools, resources, user services, and research community outreach to enable innovative CISE research opportunities to advance the frontiers of the CISE core research areas.
-*   *Grand Community Infrastructure (Grand)* awards support projects involving significant efforts to develop new CISE community research infrastructure or to enhance and sustain an existing CISE community research infrastructure to enable world-class CISE research opportunities for broad-based communities of CISE researchers that extend well beyond the awardee organization(s).
-*   Deadline: July 21, 2023, annually thereafter
-*   Award: *Planning* \$50-250K for durations up to two years; *Medium* \$750K to \$2M for durations up to three years; *Grand* \$2-5M for durations up to five years
-
-### [Computational and Data-Enabled Science and Engineering (CDS&E)](https://new.nsf.gov/funding/opportunities/computational-data-enabled-science-engineering-2)
+### [Computational and Data-Enabled Science and Engineering (CDS&E)](https://new.nsf.gov/'funding/opportunities/computational-data-enabled-science-engineering-2)
 *   Supports research that uses new computational and data science approaches to advance knowledge and accelerate discovery in science and engineering.
 *   Deadline: September 1 - October 15, 2023, annually thereafter
 
@@ -31,6 +35,14 @@ format: html
 *   Supports developing centers (Phase I) and large, multi-institutional research centers (Phase II) focused on major, long-term chemical research challenges.
 *   Deadline: August 10, 2023 (Preliminary Proposal)
 *   Award: \$1.8M for durations up to three years, eligible for Phase II (\$4M/year for durations up to five years)
+
+### [Community Infrastructure for Research in Computer and Information Science and Engineering (CIRC)](https://new.nsf.gov/funding/opportunities/cise-community-research-infrastructure-ccri)
+*   *Planning Community Infrastructure (Planning)* awards support planning efforts to engage research communities to develop new CISE community research infrastructures. Such an infrastructure could be eventually funded through the CIRC program (Planning-C) or the [Mid-scale RI-1](https://new.nsf.gov/funding/opportunities/mid-scale-research-infrastructure-1-mid-scale-ri-1) or [Mid-scale RI-2](https://new.nsf.gov/funding/opportunities/mid-scale-research-infrastructure-2-mid-scale-ri-2) programs (Planning-M).
+* *Exploratory Development (Dev)* awards support activities that involve the validation of one or more unproven infrastructure designs and/or technologies, which, if validated, could enable transformative community research infrastructure in the future. Successful projects are expected to provide the technical foundations necessary to pursue subsequent CIRC (**New** or **Grand**), [Mid-scale RI-1](https://new.nsf.gov/funding/opportunities/mid-scale-research-infrastructure-1-mid-scale-ri-1), or [Mid-scale RI-2](https://new.nsf.gov/funding/opportunities/mid-scale-research-infrastructure-2-mid-scale-ri-2) projects.
+*   *Medium Community Infrastructure (Medium)* awards support the creation of new CISE community research infrastructure or the enhancement of existing CISE community research infrastructure with integrated tools, resources, user services, and research community outreach to enable innovative CISE research opportunities to advance the frontiers of the CISE core research areas.
+*   *Grand Community Infrastructure (Grand)* awards support projects involving significant efforts to develop new CISE community research infrastructure or to enhance and sustain an existing CISE community research infrastructure to enable world-class CISE research opportunities for broad-based communities of CISE researchers that extend well beyond the awardee organization(s).
+*   Deadline: September 8, 2023, annually thereafter
+*   Award: *Planning* \$50-250K for durations up to two years; *Dev* \$250-750K for durations up to two years; *Medium* \$750K-2M for durations up to three years; *Grand* \$2-5M for durations up to five years
 
 ### [Campus Cyberinfrastructure (CC\*)](https://new.nsf.gov/funding/opportunities/campus-cyberinfrastructure-cc)
 *   Supports coordinated campus-level networking and cyberinfrastructure improvements for science applications and distributed research projects.
@@ -79,7 +91,7 @@ format: html
 * Supports the establishment of a new Synthesis Center focused on organismal resilience and plasticity as well as training new generations of researchers in data-intensive, open, cross-disciplinary and collaborative science.
 * Deadline: January 12, 2024 (Preliminary)
 * Award: $20M over five years
-* [UofU Townhall on May 22 at 4pm](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NXFrMzhpOWl2bHU5cnU5ajVxdDI0dWswcGMgY2Y0ZDA4OThhMjJiMmQxOTY5NzU1ZDRiYmU3NzA2M2U4MGVhNDgxMGEyNGEyYTI0ZWQ4NDAwM2IyMjU0NGY1NEBn&tmsrc=cf4d0898a22b2d1969755d4bbe77063e80ea4810a24a2a24ed84003b22544f54%40group.calendar.google.com) 
+* [UofU Townhall on May 24 at 4pm](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NXFrMzhpOWl2bHU5cnU5ajVxdDI0dWswcGMgY2Y0ZDA4OThhMjJiMmQxOTY5NzU1ZDRiYmU3NzA2M2U4MGVhNDgxMGEyNGEyYTI0ZWQ4NDAwM2IyMjU0NGY1NEBn&tmsrc=cf4d0898a22b2d1969755d4bbe77063e80ea4810a24a2a24ed84003b22544f54%40group.calendar.google.com) 
 
 ### [Cybersecurity Innovation for Cyberinfrastructure (CICI)](https://new.nsf.gov/funding/opportunities/cybersecurity-innovation-cyberinfrastructure-cici)
 *   Supports work that enables scientists and scientific discovery by improving the security, robustness, and trustworthiness of cyberinfrastructure.
@@ -102,6 +114,11 @@ format: html
 *   Supports research in mathematical biology that addresses significant biological questions by applying nontrivial mathematics or developing new theories --- particularly from foundational mathematics, including artificial intelligence or machine learning.
 *   Deadline: March 1, 2024, annually thereafter
 *   Award: \$500-750K for durations up to three years
+
+### [Mid-scale Research Infrastructure-1 (Mid-scale RI-1)](https://new.nsf.gov/funding/opportunities/mid-scale-research-infrastructure-1-mid-scale-ri-1)
+* Supports the design and implementation of research infrastructure — including equipment, cyberinfrastructure, large-scale datasets and personnel — whose total project costs exceed NSF's Major Research Instrumentation program but are under $20 million.
+* Deadline: January 2025 (anticipated)
+* Award: $4-20M for durations up to five years
 
 ### [Expeditions in Computing (Expeditions)](https://new.nsf.gov/funding/opportunities/expeditions-computing-expeditions)
 *   Supports long-term, multi-institutional research with the potential to transform computer and information science and engineering.
@@ -127,6 +144,8 @@ format: html
 -   [DCL: Supporting Cybersecurity & Privacy Education and Workforce Development](https://new.nsf.gov/funding/opportunities/supporting-cybersecurity-privacy-education) summary due May 23, 2023.<!-- April 24, 2023 -->
 
 - [DCL: Request for Information on the Capacity of Institutions of Higher Education to Produce Graduates with Degrees, Certifications, and Relevant Skills Related to Artificial Intelligence](https://www.nsf.gov/pubs/2023/nsf23099/nsf23099.jsp?WT.mc_id=USNSF_25&WT.mc_ev=click) response due June 21, 2023.<!-- May 8, 2023 -->
+
+[DCL: Request for Information on Future Topics for Workforce Development in Emerging Technology Career Pathways](https://www.nsf.gov/pubs/2023/nsf23100/nsf23100.jsp) response due June 21, 2023.<!-- May 8, 2023 -->
 
 -   [DCL: Interdisciplinary REU Sites at the Intersection of Computing and Communication Foundations and Mathematics and Statistics](https://new.nsf.gov/funding/opportunities/interdisciplinary-reu-sites-intersection-computing) <!-- April 4, 2023 -->
 
