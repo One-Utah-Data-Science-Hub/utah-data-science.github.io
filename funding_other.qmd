@@ -76,5 +76,10 @@ editor: visual
 * Deadline: June 13, 2023
 * Award: Varies, see above.
 
+## Policy and Engagement
+* [Health Data, Technology, and Interoperability: Certification Program Updates, Algorithm Transparency, and Information Sharing (HTI-1) Proposed Rule](https://www.healthit.gov/topic/laws-regulation-and-policy/health-data-technology-and-interoperability-certification-program) public comment period ends June 20, 2023. 
+
 ## Additional Funding Opportunity Resources
 * [ProQuest Pivot listing of funding opportunities related to data science](https://pivot.proquest.com//funding/results?s_id=2660468) requires registration and login through the University of Utah.
+
+Updated May 19, 2023.

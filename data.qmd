@@ -5,12 +5,13 @@ editor: source
 ---
 ## University of Utah Resources
 * [Utah Population Database (UPDB)](https://uofuhealth.utah.edu/huntsman/utah-population-database) is a dynamic database and receives annual updates from contributors for Utah administrative and health records.
-
 * [MesoWest](https://mesowest.utah.edu/)  collects weather data from numerous public sources and provides access to current and past.
-
 * [Sloan Digital Sky Survey](https://www.sdss.org/) has created the most detailed three-dimensional maps of the universe ever made, with deep multi-color images of one third of the sky, and spectra for more than three million astronomical objects.
+
+## University of Utah Services and Groups
+* [University of Utah Health Data Science Services](https://cfahr.utah.edu/_resources/documents/activities/DataScienceServices.pdf) aims to provide expertise in data extraction and curation.
+* [Surgical Population Analysis Research Core](https://medicine.utah.edu/surgery/research/cores/sparc) supports access to big datasets, analytic and visualization services, and obtaining extramural funding around surgical care.
 
 ## National and International Resources
 * [National Aeronautics and Space Administration (NASA) Commercial SmallSat Data Acquisition (CSDA) Program](https://www.earthdata.nasa.gov/esds/csda) provides high-quality commercial Earth observation data to NSF-funded researchers at no additional cost. Request access [here](https://csdap.earthdata.nasa.gov/signup/).
-
 * [NASA Climate Data Democratization Partnership](http://chpc1.nationalsciencedatafabric.org:10888/nasa) will provide researchers with new ways to access and utilize NASA's climate data, including navigation via timestamps, fields, and other dimensions.

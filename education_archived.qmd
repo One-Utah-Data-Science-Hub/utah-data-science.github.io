@@ -1,14 +1,17 @@
 ---
 title: "Archived Education"
 format: html
-editor: visual
 ---
 
 ## Software Carpentries
 
 ### Introduction to Python
-
 **When:** October 11-12, 2022\
 **Where:** EHSEB 3515B, 26 2000 E, Salt Lake City, UT 84112\
 **Instructors:** Janani Hariharan, Harriet Dashnow\
 Additional Information can be found on the [website](https://quinlan-lab.github.io/2022-10-11-Utah-Python/).
+
+**When:** May 17-18, 2023\
+**Where:** EHSEB 2680, 26 2000 E, Salt Lake City, UT 84113\
+**Instructors:** Rebecca Barter, George Vega Yon\
+Additional Information can be found on the [website](https://uofudelphi.github.io/2023-05-17-Intro_R/).

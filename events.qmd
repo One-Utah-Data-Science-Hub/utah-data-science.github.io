@@ -9,9 +9,9 @@ Check out our calendar of upcoming events and seminars in our [Google Calendar](
 </iframe>
 
 ## Other Seminars on Campus
-[Utah Center for Data Science](https://datascience.utah.edu/seminar.html)
-[Human Genetics](https://www.genetics.utah.edu/events)
-[Scientific Computing and Imaging Institute](https://www.sci.utah.edu/the-institute/events.html)
+* [Utah Center for Data Science](https://datascience.utah.edu/seminar.html)  
+* [Scientific Computing and Imaging Institute](https://www.sci.utah.edu/the-institute/events.html)
+* [Human Genetics](https://www.genetics.utah.edu/events)
 
 ## Fall 2023 Networking Event
 We invite faculty and staff to present their research highlights, research needs, and burning questions related to data science in a lightning-talk format. *More details coming soon!*

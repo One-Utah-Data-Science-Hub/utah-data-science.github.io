@@ -7,11 +7,6 @@ format: html
 Software Carpentries workshops are offered in person over two-days, including breakfast, lunch, and snacks. Topics covered will depend on the specific workshop, but could include R, python, SQL, Unix, and more.  
 
 ### Introduction to R
-**When:** May 17-18, 2023\
-**Where:** EHSEB 2680, 26 2000 E, Salt Lake City, UT 84113\
-**Instructors:** Rebecca Barter, George Vega Yon\
-Additional Information can be found on the [website](https://uofudelphi.github.io/2023-05-17-Intro_R/).
-
 **When:** August/Sept 2023 (specific date to be determined)\
 **Where:** TBD, Salt Lake City, UT 84113\
 **Instructors:** Rebecca Barter, George Vega Yon\

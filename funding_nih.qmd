@@ -46,6 +46,8 @@ title: "NIH Funding Opportunities"
 * Deadline: June 14, 2024 (LOI due 1 month prior)
 * Award: U01, approximately $2.4M/year for durations of three  years
 
+
+
 ## Program and Center (P) Grants
 ### [Developmental AIDS Research Centers on Mental Health and HIV/AIDS](https://grants.nih.gov/grants/guide/pa-files/PAR-20-307.html)
 * Supports Developmental HIV/AIDS Research Centers (D-ARC) intended to provide infrastructure support that facilitates the development of high impact science in HIV/AIDS and mental health that is relevant to the NIMH mission. 
@@ -70,11 +72,15 @@ title: "NIH Funding Opportunities"
 * Award: P50, $2M/year (direct) for durations up to five years
 
 
+
+
 ## Career Development (F/K) Grants
 ### [INCLUDE (INvestigation of Co-occurring conditions across the Lifespan to Understand Down syndromE) Predoctoral to Postdoctoral Fellow Transition Award](https://grants.nih.gov/grants/guide/rfa-files/RFA-OD-23-016.html)
 * Supports exceptional graduate students from a broad variety of  research fields to pursue postdoctoral training focused on Down syndrome related research.
 * Deadline: July 1, 2023
 * Award: F99/K00, covers stipends, tuition, fees, and institutional allowance for durations up to six years (F99 for two years, K00 for four years).
+
+
 
 ## Research Grants - R01 Activities
 ### [NIDCR Research Grants for Analyses of Existing Genomics Data](https://grants.nih.gov/grants/guide/pa-files/PAR-23-133.html)
@@ -142,7 +148,14 @@ title: "NIH Funding Opportunities"
 * Deadline: February 22, 2024
 * Award: R01, $500K per year for durations up to five years
 
+
+
 ## Research Grants - Other Activities
+### [Data and Technology Advancement (DATA) National Service Scholar Program: Data Scientists Advancing Biomedical Research](https://datascience.nih.gov/data-scholars-2023)
+* The National Institutes of Health (NIH) Office of Data Science Strategy (ODSS) Data and Technology Advancement (DATA) National Service Scholar Program is seeking experienced data and computer scientists and engineers to tackle challenging biomedical data problems with the potential for substantial public health impact
+* Application Deadline: EXTENDED to May 31, 2023
+* Award: Remote position for one to two years
+
 ### [Development of Innovative Informatics Methods and Algorithms for Cancer Research and Management](https://grants.nih.gov/grants/guide/rfa-files/RFA-CA-23-014.html)
 * Supports exploratory/developmental research grant applications (R21) for innovative informatics methods and algorithms to improve the acquisition, analysis, visualization, or interpretation of data across the cancer research continuum including cancer biology, cancer treatment and diagnosis, early cancer detection, risk assessment and prevention, cancer control and epidemiology, and/or cancer health disparities. 
 * Deadline: June 13, 2023 and November 17, 2023
@@ -183,6 +196,8 @@ title: "NIH Funding Opportunities"
 * Deadline: March 14, 2024 (LOI due 1 month prior)
 * Award: R61/R33, budget must align with the project scope, for durations up to five years (2 years for R61, 3 years for R33)
 
+
+
 ## Other Activities
 ### [Artificial Intelligence/Machine Learning Consortium to Advance Health Equity and Researcher Diversity (AIM-AHEAD)](https://www.aim-ahead.net/call-for-proposals-year-2/)
 * [Hub-Specific Pilot Projects](https://www.aim-ahead.net/call-for-proposals-year-2/hub-specific-pilot-grant-program/)
@@ -190,10 +205,11 @@ title: "NIH Funding Opportunities"
 	+ Deadline: June 20, 2023
 	+ Award: $75-150K for one year
 	
+	
+	
 ## Notices of Special Interest
 <!-- * []() expires -->
 * [Administrative Supplements to Support Collaborations to Improve the AI/ML-Readiness of NIH-Supported Data](https://grants.nih.gov/grants/guide/notice-files/not-od-23-082.html) expires May 17, 2023.
-* [Advance Data Science Approaches Through Secondary Data Analysis to Reveal Scientific Insights of COVID-19 Testing Technologies (R21)](https://grants.nih.gov/grants/guide/notice-files/NOT-OD-23-040.html) expires May 31, 2023.
 * [NIDCR: Supporting Dental, Oral, and Craniofacial Research Using Bioinformatic, Computational, and Data Science Approaches](https://grants.nih.gov/grants/guide/notice-files/NOT-DE-20-006.html) expires August 08, 2023.
 * [Secondary Analyses of Existing Alcohol Research Data](https://grants.nih.gov/grants/guide/notice-files/NOT-AA-20-018.html) expires September 5, 2023.
 * [Administrative Supplements for R25 Data Science Training for Infectious and Immune-mediated Disease Research](https://grants.nih.gov/grants/guide/notice-files/NOT-AI-23-010.html) expires February 14, 2024.
@@ -201,6 +217,7 @@ title: "NIH Funding Opportunities"
 * [Harnessing Big Data to Halt HIV](https://grants.nih.gov/grants/guide/notice-files/NOT-AI-21-054.html) expires May 8, 2024.
 * [Maximizing the Scientific Value of Secondary Analyses of Existing Cohorts and Datasets in Order to Address Research Gaps and Foster Additional Opportunities in Aging Research](https://grants.nih.gov/grants/guide/notice-files/NOT-AG-23-020.html) expires May 8, 2024.
 * [High-Priority Interest to Enhance Data Science Research Training in Addiction Research](https://grants.nih.gov/grants/guide/notice-files/NOT-DA-21-013.html) expires December 9, 2024.
+* [Advance Data Science Approaches Through Secondary Data Analysis to Reveal Scientific Insights of COVID-19 Testing Technologies (R21)](https://grants.nih.gov/grants/guide/notice-files/NOT-OD-23-040.html) expires January 5, 2024.
 * [IDEA2Health: Innovative Data Evaluation and Analysis to Health](https://grants.nih.gov/grants/guide/notice-files/NOT-HL-22-001.html) expires January 8, 2025.
 * [Leveraging Data Science to Bring Actionable Insights for Substance Use Prevention and Treatment](https://grants.nih.gov/grants/guide/notice-files/NOT-DA-23-006.html) expires September 8, 2025.
 * [Optimization of Data Storage and Utilization for the Sequence Read Archive (SRA)](https://grants.nih.gov/grants/guide/notice-files/NOT-GM-23-015.html) expires December 19, 2025.
@@ -210,3 +227,5 @@ title: "NIH Funding Opportunities"
 * See the [full listing of *All of Us* funding opportunities](https://allofus.nih.gov/funding-and-program-partners/funding-opportunities?utm_medium=email&utm_source=mailchimp&utm_campaign=researcher_news&utm_medium=email&utm_source=mailchimp&utm_campaign=researcher_news).
 
 * [NIH Office for Data Science Strategy](https://datascience.nih.gov/research-and-training-funding) list of funding opportunities.
+
+Updated May 19, 2023.

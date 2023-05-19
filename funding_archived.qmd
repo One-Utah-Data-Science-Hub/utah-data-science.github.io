@@ -30,11 +30,6 @@ format: html
 * Award: R25, $250K/year (direct) for durations up to five years
 
 ## Other Activities
-### [Data and Technology Advancement (DATA) National Service Scholar Program: Data Scientists Advancing Biomedical Research](https://datascience.nih.gov/data-scholars-2023)
-* The National Institutes of Health (NIH) Office of Data Science Strategy (ODSS) Data and Technology Advancement (DATA) National Service Scholar Program is seeking experienced data and computer scientists and engineers to tackle challenging biomedical data problems with the potential for substantial public health impact
-* Application Deadline: May 15, 2023
-* Award: Remote position for one to two years
-
 ### [Artificial Intelligence/Machine Learning Consortium to Advance Health Equity and Researcher Diversity (AIM-AHEAD)](https://www.aim-ahead.net/call-for-proposals-year-2/)
 * [Consortium Development Projects to Advance Health Equity](https://www.aim-ahead.net/call-for-proposals-year-2/consortium-development-projects/)
 	+ Supports multidisciplinary research projects that use AI/ML and develop novel algorithms and approaches that address health disparities and inequities and have the potential to significantly impact healthcare access and health outcomes for populations that experience health disparities.
@@ -47,6 +42,9 @@ format: html
 *   Supports the creation of a prototype Open Knowledge Network --- an essential public-data infrastructure to power the next information revolution.
 *   Deadline: June 20, 2023; [(Internal LSO due April 25)](https://utah.infoready4.com/#competitionDetail/1900424)
 *   Award: \$1.5M for durations up to three years
+
+## Dear Colleague Letters
+* [Seeking US Industry and US Federal Agency Partners to Support Research Projects in Advanced Networking Systems](https://www.nsf.gov/pubs/2023/nsf23090/nsf23090.jsp) response due May 15, 2023.<!-- April 18, 2023 -->
 
 # Foundation Funding Opportunities
 ### [PhRMA Foundation: Faculty Starter Grant in Drug Discovery Targets and Pathways](https://www.phrmafoundation.org/awards/faculty-starter-grants/drug-discovery/)

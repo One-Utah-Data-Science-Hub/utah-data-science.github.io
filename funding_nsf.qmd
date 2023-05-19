@@ -22,6 +22,11 @@ format: html
 * Deadline: June 5, 2023
 * Award: \$750K for durations up to three years
 
+### [NSF Engines Builder Platform](https://sam.gov/opp/31dc45d7b356499ab8b88a143cdf27a6/view?utm_medium=email&utm_source=govdelivery)
+* Supports an organization that can help develop, launch, and run a “Builder Platform” to support its NSF Regional Innovation Engines (NSF Engines) awardees, a signature initiative of NSF’s Technology, Innovation, and Partnerships (TIP) directorate. 
+* Deadline: June 12, 2023
+* Award: $9.5M (total) for durations of three years
+
 ### [Human Networks and Data Science (HNDS)](https://beta.nsf.gov/funding/opportunities/human-networks-data-science-hnds)
 *   Supports research that studies the behavior of individuals and groups by leveraging data and network science and the development of data infrastructure that makes such work possible.
 *   Deadline: *Core Research* July 13, 2023, January 11, 2024, annually thereafter; *Infrastructure* August 3, 2023, February 1, 2024, annually thereafter
@@ -35,6 +40,14 @@ format: html
 *   Supports developing centers (Phase I) and large, multi-institutional research centers (Phase II) focused on major, long-term chemical research challenges.
 *   Deadline: August 10, 2023 (Preliminary Proposal)
 *   Award: \$1.8M for durations up to three years, eligible for Phase II (\$4M/year for durations up to five years)
+
+### [NSF Convergence Accelerator Phases 1 and 2 for the 2023 Cohort - Tracks K, L, M](https://new.nsf.gov/funding/opportunities/nsf-convergence-accelerator-phases-1-2-2023-cohort)
+* Supports the transition of basic research and discovery into practice—to solve high-impact societal challenges aligned with specific research themes (tracks). 
+  + Track K: Equitable Water Solutions
+  + Track L: Real-World Chemical Sensing Applications
+  + Track M: Bio-Inspired Design Innovations
+* Deadline: August 22, 2023 (LOI due July 11, 2023)
+* Award: $750K for Phase 1 for durations of one year (supports application to Phase 2 for $5M total for durations of two years)
 
 ### [Community Infrastructure for Research in Computer and Information Science and Engineering (CIRC)](https://new.nsf.gov/funding/opportunities/cise-community-research-infrastructure-ccri)
 *   *Planning Community Infrastructure (Planning)* awards support planning efforts to engage research communities to develop new CISE community research infrastructures. Such an infrastructure could be eventually funded through the CIRC program (Planning-C) or the [Mid-scale RI-1](https://new.nsf.gov/funding/opportunities/mid-scale-research-infrastructure-1-mid-scale-ri-1) or [Mid-scale RI-2](https://new.nsf.gov/funding/opportunities/mid-scale-research-infrastructure-2-mid-scale-ri-2) programs (Planning-M).
@@ -141,16 +154,20 @@ format: html
   + Deadline: July 27, 2023 
 
 ### Dear Colleague Letters
--   [DCL: Supporting Cybersecurity & Privacy Education and Workforce Development](https://new.nsf.gov/funding/opportunities/supporting-cybersecurity-privacy-education) summary due May 23, 2023.<!-- April 24, 2023 -->
+* [Supporting Cybersecurity & Privacy Education and Workforce Development](https://new.nsf.gov/funding/opportunities/supporting-cybersecurity-privacy-education) summary due May 23, 2023.<!-- April 24, 2023 -->
 
-- [DCL: Request for Information on the Capacity of Institutions of Higher Education to Produce Graduates with Degrees, Certifications, and Relevant Skills Related to Artificial Intelligence](https://www.nsf.gov/pubs/2023/nsf23099/nsf23099.jsp?WT.mc_id=USNSF_25&WT.mc_ev=click) response due June 21, 2023.<!-- May 8, 2023 -->
+* [**Request for Information** on the Capacity of Institutions of Higher Education to Produce Graduates with Degrees, Certifications, and Relevant Skills Related to Artificial Intelligence](https://www.nsf.gov/pubs/2023/nsf23099/nsf23099.jsp?WT.mc_id=USNSF_25&WT.mc_ev=click) response due June 21, 2023.<!-- May 8, 2023 -->
 
-[DCL: Request for Information on Future Topics for Workforce Development in Emerging Technology Career Pathways](https://www.nsf.gov/pubs/2023/nsf23100/nsf23100.jsp) response due June 21, 2023.<!-- May 8, 2023 -->
+* [**Request for Information** on Future Topics for Workforce Development in Emerging Technology Career Pathways](https://www.nsf.gov/pubs/2023/nsf23100/nsf23100.jsp) response due June 21, 2023.<!-- May 8, 2023 -->
 
--   [DCL: Interdisciplinary REU Sites at the Intersection of Computing and Communication Foundations and Mathematics and Statistics](https://new.nsf.gov/funding/opportunities/interdisciplinary-reu-sites-intersection-computing) <!-- April 4, 2023 -->
+* [**Request for Information** on Developing a Roadmap for the Directorate for Technology, Innovation, and Partnerships at the National Science Foundation](https://www.federalregister.gov/documents/2023/04/28/2023-08995/request-for-information-rfi-on-developing-a-roadmap-for-the-directorate-for-technology-innovation) response due July 27, 2023.<!-- May 1, 2023 -->
 
--   [DCL: Advancing Research in the Geosciences Using Artificial Intelligence (AI) and Machine Learning (ML)](https://new.nsf.gov/funding/opportunities/advancing-research-geosciences-using-artificial) <!-- Jan 20, 2023 -->
+* [Interdisciplinary REU Sites at the Intersection of Computing and Communication Foundations and Mathematics and Statistics](https://new.nsf.gov/funding/opportunities/interdisciplinary-reu-sites-intersection-computing) <!-- April 4, 2023 -->
 
--   [DCL: Cyberinfrastructure, Data and Computation Opportunities for CMMI](https://new.nsf.gov/funding/opportunities/cyberinfrastructure-data-computation-opportunities) <!-- Oct 24, 2022 -->
+* [Advancing Research in the Geosciences Using Artificial Intelligence (AI) and Machine Learning (ML)](https://new.nsf.gov/funding/opportunities/advancing-research-geosciences-using-artificial) <!-- Jan 20, 2023 -->
 
--   [DCL: Stimulating Integrative Research in Computational Cognition (CompCog)](https://new.nsf.gov/funding/opportunities/stimulating-integrative-research-computational-1) <!--June 2, 2022-->
+* [Cyberinfrastructure, Data and Computation Opportunities for CMMI](https://new.nsf.gov/funding/opportunities/cyberinfrastructure-data-computation-opportunities) <!-- Oct 24, 2022 -->
+
+* [Stimulating Integrative Research in Computational Cognition (CompCog)](https://new.nsf.gov/funding/opportunities/stimulating-integrative-research-computational-1) <!--June 2, 2022-->
+
+Updated May 19, 2023.
