@@ -2,6 +2,10 @@
 title: "Degree-based Programs"
 format: html
 ---
+## Professional Education
+* [Data Analytics Boot Camp](https://bootcamps.continue.utah.edu/data/)
+* [Cybersecurity Boot Camp](https://bootcamps.continue.utah.edu/cybersecurity/)
+
 ## Undergraduate Education
 ### Degrees
 * [BS in Data Science](https://www.cs.utah.edu/undergraduate/academic-programs/undergraduate-academic-program-overview/data-science/#data-science) from the Kahlert School of Computing

@@ -44,6 +44,8 @@ format: html
 *   Award: \$1.5M for durations up to three years
 
 ## Dear Colleague Letters
+* [Supporting Cybersecurity & Privacy Education and Workforce Development](https://www.nsf.gov/pubs/2023/nsf23091/nsf23091.jsp) due by May 23, 2023. <!--April 24, 2023 -->
+
 * [Seeking US Industry and US Federal Agency Partners to Support Research Projects in Advanced Networking Systems](https://www.nsf.gov/pubs/2023/nsf23090/nsf23090.jsp) response due May 15, 2023.<!-- April 18, 2023 -->
 
 # Foundation Funding Opportunities

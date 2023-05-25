@@ -21,6 +21,11 @@ title: "NIH Funding Opportunities"
 * Deadline: July 31, 2023 (LOI due 1 month prior)
 * Award: U54, $52M/year for durations up to six years
 
+### [Bioinformatics Resource Centers (BRCs) for Infectious Diseases](https://grants.nih.gov/grants/guide/rfa-files/RFA-AI-23-032.html)
+* Supports the Bioinformatics Resource Center (BRC) Program that will (1) create and manage integrated knowledgebases to accelerate basic and applied human infectious diseases research, (2) develop advanced innovative bioinformatics technologies for software and tools, (3) offer state-of-the-art bioinformatics expertise for investigators and (4) respond with cutting-edge bioinformatics in response to emerging needs, outbreaks, and public health emergencies.
+* Deadline: August 25, 2023 (LOI due 30 days prior)
+* Award: U24, $2.5M/year (direct) for one biological domain, $4.8M/year (direct) for two biological domains, for durations up to five years
+
 ### [Using Secondary Data Analysis to Determine Whether Preventive Interventions Implemented Earlier in Life Reduce Suicide Risk](https://grants.nih.gov/grants/guide/rfa-files/RFA-MH-23-275.html)
 * Supports research that will integrate and harmonize existing large prevention trial data sets consisting of well-characterized participant-level data for interventions implemented earlier in life to examine whether they reduce risk for later suicide, including suicidal thoughts and behaviors — fatal and nonfatal (STB), and related external injuries (e.g., nonfatal SUD/OUD/accidents, and all-cause mortality (e.g., National Death Index)). 
 * Deadline: October 10, 2023 (LOI due 1 month prior)
@@ -205,11 +210,21 @@ title: "NIH Funding Opportunities"
 	+ Deadline: June 20, 2023
 	+ Award: $75-150K for one year
 	
-	
+### [NHLBI Trans-Omics for Precision Medicine 2023 Fellowship](https://topmed.nhlbi.nih.gov/2023-topmed-fellowship)
+* Supports
+* [Informational Webinar on June 5, 2023 at 12:00pm](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NXMxa21pMHJ2MWllNWNsY2NzZzIwaGczN3YgY2Y0ZDA4OThhMjJiMmQxOTY5NzU1ZDRiYmU3NzA2M2U4MGVhNDgxMGEyNGEyYTI0ZWQ4NDAwM2IyMjU0NGY1NEBn&tmsrc=cf4d0898a22b2d1969755d4bbe77063e80ea4810a24a2a24ed84003b22544f54%40group.calendar.google.com)
+* Deadline: July 31, 2023
+* Award: Salary support and annual meeting travel award for one year
+
+### [NHLBI TOPMed: Omics Phenotypes of Heart, Lung, and Blood Disorders](https://grants.nih.gov/grants/guide/pa-files/PAR-22-194.html)
+* Supports use of NHLBI-funded TransOmics for Precision Medicine (TOPMed) program to generate a large volume of integrated genetic and multi-omics data to facilitate discovery of the molecular mechanisms of Heart, Lung, Blood, and Sleep (HLBS) disorders. 
+* Deadline: October 17, 2023 (LOI due 30 days prior); October 17, 2024
+* Award: X01, access to data resource for up to three years
 	
 ## Notices of Special Interest
 <!-- * []() expires -->
 * [Administrative Supplements to Support Collaborations to Improve the AI/ML-Readiness of NIH-Supported Data](https://grants.nih.gov/grants/guide/notice-files/not-od-23-082.html) expires May 17, 2023.
+* [**Request for Input** National Library of Medicine, National Center for Biotechnology Information Data Submission Survey](https://nlmenterprise.co1.qualtrics.com/jfe/form/SV_6fMaMvvU5IoQk5g) expires July 31, 2023.
 * [NIDCR: Supporting Dental, Oral, and Craniofacial Research Using Bioinformatic, Computational, and Data Science Approaches](https://grants.nih.gov/grants/guide/notice-files/NOT-DE-20-006.html) expires August 08, 2023.
 * [Secondary Analyses of Existing Alcohol Research Data](https://grants.nih.gov/grants/guide/notice-files/NOT-AA-20-018.html) expires September 5, 2023.
 * [Administrative Supplements for R25 Data Science Training for Infectious and Immune-mediated Disease Research](https://grants.nih.gov/grants/guide/notice-files/NOT-AI-23-010.html) expires February 14, 2024.
@@ -228,4 +243,4 @@ title: "NIH Funding Opportunities"
 
 * [NIH Office for Data Science Strategy](https://datascience.nih.gov/research-and-training-funding) list of funding opportunities.
 
-Updated May 19, 2023.
+Updated May 24, 2023.

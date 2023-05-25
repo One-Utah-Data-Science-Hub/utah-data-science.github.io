@@ -23,7 +23,7 @@ Each course will run for four weeks with an asynchronous lecture, virtual office
 ### Data Cleaning in R
 **When:** June 12 - July 7, 2023 (*Pilot*)\
 **Where:** Virtual\
-**Instructor:** Rebecca Barter
+**Instructor:** Rebecca Barter  
 Additional Information can be found on the [website](https://utah.instructure.com/courses/907377).
 
 **When:** September/October 2023\
