@@ -21,6 +21,11 @@ title: "NIH Funding Opportunities"
 * Deadline: July 31, 2023 (LOI due 1 month prior)
 * Award: U54, $52M/year for durations up to six years
 
+### [Quantifying the Impact of Environmental Toxicants on Alzheimer's Disease (AD) and AD-Related Dementias (ADRD) Risk in Cohort Studies](https://grants.nih.gov/grants/guide/rfa-files/RFA-AG-24-022.html)
+* Supports
+* Deadline: October 23, 2023 (LOI due 1 month prior)
+* Award: U01, $1.5M/year (direct) for durations up to five years
+
 ### [Bioinformatics Resource Centers (BRCs) for Infectious Diseases](https://grants.nih.gov/grants/guide/rfa-files/RFA-AI-23-032.html)
 * Supports the Bioinformatics Resource Center (BRC) Program that will (1) create and manage integrated knowledgebases to accelerate basic and applied human infectious diseases research, (2) develop advanced innovative bioinformatics technologies for software and tools, (3) offer state-of-the-art bioinformatics expertise for investigators and (4) respond with cutting-edge bioinformatics in response to emerging needs, outbreaks, and public health emergencies.
 * Deadline: August 25, 2023 (LOI due 30 days prior)
@@ -30,6 +35,11 @@ title: "NIH Funding Opportunities"
 * Supports research that will integrate and harmonize existing large prevention trial data sets consisting of well-characterized participant-level data for interventions implemented earlier in life to examine whether they reduce risk for later suicide, including suicidal thoughts and behaviors — fatal and nonfatal (STB), and related external injuries (e.g., nonfatal SUD/OUD/accidents, and all-cause mortality (e.g., National Death Index)). 
 * Deadline: October 10, 2023 (LOI due 1 month prior)
 * Award: U01, budget must align with the project scope ($3M/year), for durations up to four years
+
+### [Collaborative Opportunities for Multidisciplinary, Bold, and Innovative Neuroscience (COMBINE)](https://grants.nih.gov/grants/guide/rfa-files/RFA-NS-23-027.html)
+* Supports integrated efforts of three to six PDs/PIs to pursue a bold, impactful, and challenging goal with defined 5-year outcomes within the scope of this program and the NINDS mission. This defined research goal must only be achievable by an interdisciplinary team approach involving innovative combination of distinct disciplines and/or intellectual viewpoints, synergy in expertise and approaches, and well-managed team interactions. 
+* Deadline: October 20, 2023; October 8, 2024 (LOI due 30 days prior)
+* Award: RM1, $500K-$1.5M (direct) for durations up to five years
 
 ### [Research Coordinating Center on the Exposome and Alzheimer's Disease (AD) and AD-Related Dementias (ADRD): Elucidating the Role of Social and Behavioral Determinants of Health in AD/ADRD Etiology and Disparities](https://grants.nih.gov/grants/guide/rfa-files/RFA-AG-24-011.html)
 * Supports the establishment of a national coordinating center that will serve as a centralized hub for accessing, harmonizing, linking, and sharing environmental contextual data and individual exposure data with NIA/NIH-funded projects. 
@@ -129,7 +139,7 @@ title: "NIH Funding Opportunities"
 * Award: R01, $250K/year (direct) for durations up to five years ([R21](https://grants.nih.gov/grants/guide/pa-files/PAR-22-138.html) also available)
 
 ### [NLM Research Grants in Biomedical Informatics and Data Science](https://grants.nih.gov/grants/guide/pa-files/PAR-23-034.html)
-* Supportsinnovative research and development in biomedical informatics and data science. This funding opportunity focuses on biomedical discovery and data-powered health, integrating streams of complex and interconnected research outputs that can be translated into scientific insights, clinical care, public health practices, and personal wellness.
+* Supports innovative research and development in biomedical informatics and data science. This funding opportunity focuses on biomedical discovery and data-powered health, integrating streams of complex and interconnected research outputs that can be translated into scientific insights, clinical care, public health practices, and personal wellness.
 * Deadline: October 5, 2023 (LOI due 1 month prior), annually in February, June, and October through 2025
 * Award: R01, $250K/year (direct) for durations up to four years
 
@@ -211,7 +221,7 @@ title: "NIH Funding Opportunities"
 	+ Award: $75-150K for one year
 	
 ### [NHLBI Trans-Omics for Precision Medicine 2023 Fellowship](https://topmed.nhlbi.nih.gov/2023-topmed-fellowship)
-* Supports
+* Supports a diverse pool of highly trained scientists pursue further studies or careers in genomic data science research.
 * [Informational Webinar on June 5, 2023 at 12:00pm](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NXMxa21pMHJ2MWllNWNsY2NzZzIwaGczN3YgY2Y0ZDA4OThhMjJiMmQxOTY5NzU1ZDRiYmU3NzA2M2U4MGVhNDgxMGEyNGEyYTI0ZWQ4NDAwM2IyMjU0NGY1NEBn&tmsrc=cf4d0898a22b2d1969755d4bbe77063e80ea4810a24a2a24ed84003b22544f54%40group.calendar.google.com)
 * Deadline: July 31, 2023
 * Award: Salary support and annual meeting travel award for one year

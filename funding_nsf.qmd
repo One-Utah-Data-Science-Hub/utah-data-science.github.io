@@ -23,7 +23,7 @@ format: html
 * Deadline: Rolling
 * Award: The size and duration of any individual request should be justified by the amount and complexity of the work to be accomplished (up to approximately $500K-1M).
 
-### [Rapidly Accelerating Research on Artificial Intelligence in K-12 Education in Formal and Informal Settings](https://www.nsf.gov/pubs/2023/nsf23097/nsf23097.jsp?WT.mc_ev=click&WT.mc_id=&utm_medium=email&utm_source=govdelivery)
+### [Rapidly Accelerating Research on Artificial Intelligence in K-12 Education in Formal and Informal Settings](https://www.nsf.gov/pubs/2023/nsf23097/nsf23097.jsp)
 * Supports time-sensitive research including the development of AI tools and environments to advance age-appropriate equitable learning and inclusive teaching, support of learning about and interest in AI, use of AI to teach AI; and the integration of generative AI in education in an ethical, responsible, and effective way.
 * Deadline: Rolling
 * Award: $200K for durations up to one year
@@ -38,7 +38,7 @@ format: html
 * Deadline: June 5, 2023
 * Award: \$750K for durations up to three years
 
-### [NSF Engines Builder Platform](https://sam.gov/opp/31dc45d7b356499ab8b88a143cdf27a6/view?utm_medium=email&utm_source=govdelivery)
+### [NSF Engines Builder Platform](https://sam.gov/opp/31dc45d7b356499ab8b88a143cdf27a6/view)
 * Supports an organization that can help develop, launch, and run a “Builder Platform” to support its NSF Regional Innovation Engines (NSF Engines) awardees, a signature initiative of NSF’s Technology, Innovation, and Partnerships (TIP) directorate. 
 * Deadline: June 12, 2023
 * Award: $9.5M (total) for durations of three years

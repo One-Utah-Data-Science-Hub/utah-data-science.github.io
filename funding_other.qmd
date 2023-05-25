@@ -70,6 +70,11 @@ editor: visual
 * Deadline: June 29, 2023
 * Award: $100K
 
+### [US Economic Development Administration: Regional Technology and Innovation Hubs (Tech Hubs) Phase 1](https://www.grants.gov/web/grants/view-opportunity.html?oppId=348101)
+* Supports consortia through an economic development initiative designed to drive regional technology- and innovation-centric growth by strengthening a region’s capacity to manufacture, commercialize, and deploy critical technologies.
+* Deadline: August 15, 2023
+* Award: $500K, ability to apply for Phase 2
+
 ### [DoD: Prostate Cancer, Data Science Award](https://www.grants.gov/web/grants/view-opportunity.html?oppId=347770)
 * Supports research where quantitative and analytical approaches, processes, and/or systems are developed and/or used to obtain knowledge and insight from large and/or complex sets of prostate cancer data.
 * Deadline: August 24, 2023
