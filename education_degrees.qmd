@@ -10,6 +10,7 @@ format: html
 ### Degrees
 * [BS in Data Science](https://www.cs.utah.edu/undergraduate/academic-programs/undergraduate-academic-program-overview/data-science/#data-science) from the Kahlert School of Computing
 * [BS in Information Systems](https://eccles.utah.edu/programs/undergraduate/academics/majors/information-systems/) from the David Eccles School of Business
+* [BS in Finance with Fintech Emphasis](https://eccles.utah.edu/programs/undergraduate/academics/majors/finance/) from the David Eccles School of Business
 
 ### Certificates
 * [Undergraduate Certificates in Data Science](https://www.cs.utah.edu/wp-content/uploads/2022/08/DS_Requirement-Sheet-01.21.22.pdf) from the Kahlert School of Computing
