@@ -253,6 +253,7 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 <ul>
+<li><a href="https://www.cs.utah.edu/prof-patil-selected-as-faculty-co-director-of-the-university-of-utahs-dataset-initiative/">Prof.&nbsp;Patil Selected as Faculty Co-Director of the University of Utah’s DATASET Initiative</a>, May 31, 2023.</li>
 <li><a href="https://attheu.utah.edu/facultystaff/seed-grants-will-support-u-data-science-research/?fbclid=IwAR3j6cqf98pF0FFehnvicKumtca6IPcRquUF0cdLkz6KcwGJCXf65Rn3J6Q">Seed grants will support U data science research</a>, February 13, 2023.
 <ul>
 <li><em>Individualization of Fetal Growth Assessment using Maternal Genetics and Explainable AI</em>. PIs: Nathan Blue, Mark Yandell, Martin Tristani-Firouzi.</li>
@@ -506,6 +507,20 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       });
     }
   }
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+      var filterRegex = new RegExp("^(?:http:|https:)\/\/www\.utah-data-science-hub\.github\.io\/**");
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+          // target, if specified
+          link.setAttribute("target", "_blank");
+      }
+    }
 });
 </script>
 </div> <!-- /content -->

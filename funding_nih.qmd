@@ -5,6 +5,12 @@ title: "NIH Funding Opportunities"
 * S
 * Deadline: 
 * Award: , $ for durations up to  years -->
+## Forthcoming
+* [Network of Genomic-Enabled Learning Health Systems (gLHS)](https://www.genome.gov/sites/default/files/media/files/2023-05/RFA_Concept_Clearance_Genomic_Enabled_Learning_Health_Systems.pdf)
+* Supports a network of genomic-enabled learning health systems (gLHS) to identify and improve approaches for clinical integration of genomic information in a virtuous cycle of implementation, assessment, refinement, and reimplementation. Specifically, this initiative would: 1) support a coordinating center (CC) and 4-6 established or emerging gLHS clinical sites to share their genomic medicine implementation practices and identify those most suitable for cross-network implementation. 
+* Deadline: TBD
+* Award: Anticipated funds of $5.3M/year for 5 years.
+
 ## Cooperative Agreement (U) Grants
 ### [BRAIN Initiative: Brain Behavior Quantification and Synchronization – Data Coordination and Artificial Intelligence Center](https://grants.nih.gov/grants/guide/rfa-files/RFA-MH-23-130.html)
 * Data Coordination and Artificial Intelligence Center (DCAIC) for the Brain Behavior Quantification and Synchronization (BBQS) Consortium of the BRAIN Initiative. The DCAIC will serve as the organizational hub for BBQS data management and sharing. 
@@ -166,11 +172,6 @@ title: "NIH Funding Opportunities"
 
 
 ## Research Grants - Other Activities
-### [Data and Technology Advancement (DATA) National Service Scholar Program: Data Scientists Advancing Biomedical Research](https://datascience.nih.gov/data-scholars-2023)
-* The National Institutes of Health (NIH) Office of Data Science Strategy (ODSS) Data and Technology Advancement (DATA) National Service Scholar Program is seeking experienced data and computer scientists and engineers to tackle challenging biomedical data problems with the potential for substantial public health impact
-* Application Deadline: EXTENDED to May 31, 2023
-* Award: Remote position for one to two years
-
 ### [Development of Innovative Informatics Methods and Algorithms for Cancer Research and Management](https://grants.nih.gov/grants/guide/rfa-files/RFA-CA-23-014.html)
 * Supports exploratory/developmental research grant applications (R21) for innovative informatics methods and algorithms to improve the acquisition, analysis, visualization, or interpretation of data across the cancer research continuum including cancer biology, cancer treatment and diagnosis, early cancer detection, risk assessment and prevention, cancer control and epidemiology, and/or cancer health disparities. 
 * Deadline: June 13, 2023 and November 17, 2023
@@ -233,9 +234,9 @@ title: "NIH Funding Opportunities"
 	
 ## Notices of Special Interest
 <!-- * []() expires -->
-* [Administrative Supplements to Support Collaborations to Improve the AI/ML-Readiness of NIH-Supported Data](https://grants.nih.gov/grants/guide/notice-files/not-od-23-082.html) expires May 17, 2023.
 * [**Request for Input** National Library of Medicine, National Center for Biotechnology Information Data Submission Survey](https://nlmenterprise.co1.qualtrics.com/jfe/form/SV_6fMaMvvU5IoQk5g) expires July 31, 2023.
 * [NIDCR: Supporting Dental, Oral, and Craniofacial Research Using Bioinformatic, Computational, and Data Science Approaches](https://grants.nih.gov/grants/guide/notice-files/NOT-DE-20-006.html) expires August 08, 2023.
+* [**Request for Information** NIH Common Fund is Soliciting Ideas for NIH-wide Challenges and Opportunities](https://grants.nih.gov/grants/guide/notice-files/NOT-RM-23-013.html) due by August 11, 2023.
 * [Secondary Analyses of Existing Alcohol Research Data](https://grants.nih.gov/grants/guide/notice-files/NOT-AA-20-018.html) expires September 5, 2023.
 * [Administrative Supplements for R25 Data Science Training for Infectious and Immune-mediated Disease Research](https://grants.nih.gov/grants/guide/notice-files/NOT-AI-23-010.html) expires February 14, 2024.
 * [Administrative Supplements to Enhance Institutional Data Science Capacity](https://grants.nih.gov/grants/guide/notice-files/NOT-OD-23-123.html) in institutions serving medically underserved communities and underrepresented students expires April 2, 2024.

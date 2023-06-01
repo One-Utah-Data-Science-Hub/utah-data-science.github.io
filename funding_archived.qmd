@@ -30,11 +30,19 @@ format: html
 * Award: R25, $250K/year (direct) for durations up to five years
 
 ## Other Activities
+### [Data and Technology Advancement (DATA) National Service Scholar Program: Data Scientists Advancing Biomedical Research](https://datascience.nih.gov/data-scholars-2023)
+* The National Institutes of Health (NIH) Office of Data Science Strategy (ODSS) Data and Technology Advancement (DATA) National Service Scholar Program is seeking experienced data and computer scientists and engineers to tackle challenging biomedical data problems with the potential for substantial public health impact
+* Application Deadline: EXTENDED to May 31, 2023
+* Award: Remote position for one to two years
+
 ### [Artificial Intelligence/Machine Learning Consortium to Advance Health Equity and Researcher Diversity (AIM-AHEAD)](https://www.aim-ahead.net/call-for-proposals-year-2/)
 * [Consortium Development Projects to Advance Health Equity](https://www.aim-ahead.net/call-for-proposals-year-2/consortium-development-projects/)
 	+ Supports multidisciplinary research projects that use AI/ML and develop novel algorithms and approaches that address health disparities and inequities and have the potential to significantly impact healthcare access and health outcomes for populations that experience health disparities.
 	+ Deadline: June 20, 2023 (LOI due May 10, 2023)
 	+ Award: $500K-1M for durations up to two years
+	
+## Notices of Special Interest and Requests for Information
+* [Administrative Supplements to Support Collaborations to Improve the AI/ML-Readiness of NIH-Supported Data](https://grants.nih.gov/grants/guide/notice-files/not-od-23-082.html) expires May 17, 2023.
 
 
 # NSF Funding Opportunities
@@ -65,6 +73,16 @@ format: html
 * Supports proposals that focus on innovation related to supporting annotators with machine learning and artificial intelligence.
 * Deadline: April 26, 2023
 * Award: $70K unrestricted funds, $50K AWS promotional credits
+
+### [AWS IMAGINE: The Go Further, Faster Award](https://aws.amazon.com/government-education/nonprofits/aws-imagine-grant-program)
+* Support for highly innovative projects that leverage the cloud. These projects will have the potential to produce scaled, repeatable solutions and may impact an entire industry or field.
+* Deadline: June 1, 2023
+* Award: $150K unrestricted funds, $100K AWS promotional credits
+
+### [AWS IMAGINE: The Momentum to Modernize Award](https://aws.amazon.com/government-education/nonprofits/aws-imagine-grant-program)
+* Supports nonprofit organizations seeking to transform and enhance their core mission operations with technology, many organizations need funding for foundational technology projects, such as migrating servers to the cloud and modernizing new and existing applications.
+* Deadline: June 1, 2023
+* Award: $50K unrestricted funds, $20K AWS promotional credits
 
 
 # Governmental Funding Opportunities

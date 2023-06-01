@@ -2,6 +2,7 @@
 title: "News Highlights"
 format: html
 ---
+* [Prof. Patil Selected as Faculty Co-Director of the University of Utah's DATASET Initiative](https://www.cs.utah.edu/prof-patil-selected-as-faculty-co-director-of-the-university-of-utahs-dataset-initiative/), May 31, 2023.
 * [Seed grants will support U data science research](https://attheu.utah.edu/facultystaff/seed-grants-will-support-u-data-science-research/?fbclid=IwAR3j6cqf98pF0FFehnvicKumtca6IPcRquUF0cdLkz6KcwGJCXf65Rn3J6Q), February 13, 2023.
   + *Individualization of Fetal Growth Assessment using Maternal Genetics and Explainable AI*. PIs: Nathan Blue, Mark Yandell, Martin Tristani-Firouzi.
   + *A Novel Approach to Visualizing Pollution Exposure Patterns in Pregnant Women*. PIs: Simon Brewer, Michelle Debbink, Brenna Kelly. 

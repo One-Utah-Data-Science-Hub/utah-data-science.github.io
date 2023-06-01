@@ -6,7 +6,7 @@ format: html
 * S
 * Deadline: 
 * Award: $ for durations up to  years -->
-### [Computer and Information Science and Engineering : Core Programs](https://new.nsf.gov/funding/opportunities/computer-information-science-engineering-core)
+### [Computer and Information Science and Engineering: Core Programs](https://new.nsf.gov/funding/opportunities/computer-information-science-engineering-core)
 * Supports research and education projects that develop new knowledge in all aspects of computing, communications, and information science and engineering, as well as advanced cyberinfrastructure, through the following core programs:
   + Division of Computing and Communication Foundations (CCF): Algorithmic Foundations (AF) program; Communications and Information Foundations (CIF) program; Foundations of Emerging Technologies (FET) program; and Software and Hardware Foundations (SHF) program.
   +Division of Computer and Network Systems (CNS): Computer Systems Research (CSR) program; and Networking Technology and Systems (NeTS) program.
@@ -185,6 +185,8 @@ format: html
 * [**Request for Information** on Developing a Roadmap for the Directorate for Technology, Innovation, and Partnerships at the National Science Foundation](https://www.federalregister.gov/documents/2023/04/28/2023-08995/request-for-information-rfi-on-developing-a-roadmap-for-the-directorate-for-technology-innovation) response due July 27, 2023. <!-- April 28, 2023 --> 
 
 * [**Request for Information** on Developing a Roadmap for the Directorate for Technology, Innovation, and Partnerships at the National Science Foundation](https://www.federalregister.gov/documents/2023/04/28/2023-08995/request-for-information-rfi-on-developing-a-roadmap-for-the-directorate-for-technology-innovation) response due July 27, 2023.<!-- May 1, 2023 -->
+
+* [Stimulating Diversification in Language Science Research (LangDiv)](https://www.nsf.gov/pubs/2023/nsf23103/nsf23103.pdf) <!-- May 10, 2023 -->
 
 * [Interdisciplinary REU Sites at the Intersection of Computing and Communication Foundations and Mathematics and Statistics](https://new.nsf.gov/funding/opportunities/interdisciplinary-reu-sites-intersection-computing) <!-- April 4, 2023 -->
 

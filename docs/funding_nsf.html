@@ -228,7 +228,7 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#computer-and-information-science-and-engineering-core-programs" id="toc-computer-and-information-science-and-engineering-core-programs" class="nav-link active" data-scroll-target="#computer-and-information-science-and-engineering-core-programs">Computer and Information Science and Engineering : Core Programs</a></li>
+  <li><a href="#computer-and-information-science-and-engineering-core-programs" id="toc-computer-and-information-science-and-engineering-core-programs" class="nav-link active" data-scroll-target="#computer-and-information-science-and-engineering-core-programs">Computer and Information Science and Engineering: Core Programs</a></li>
   <li><a href="#infrastructure-innovation-for-biological-research-innovation" id="toc-infrastructure-innovation-for-biological-research-innovation" class="nav-link" data-scroll-target="#infrastructure-innovation-for-biological-research-innovation">Infrastructure Innovation for Biological Research (Innovation)</a></li>
   <li><a href="#rapidly-accelerating-research-on-artificial-intelligence-in-k-12-education-in-formal-and-informal-settings" id="toc-rapidly-accelerating-research-on-artificial-intelligence-in-k-12-education-in-formal-and-informal-settings" class="nav-link" data-scroll-target="#rapidly-accelerating-research-on-artificial-intelligence-in-k-12-education-in-formal-and-informal-settings">Rapidly Accelerating Research on Artificial Intelligence in K-12 Education in Formal and Informal Settings</a></li>
   <li><a href="#energy-power-control-and-networks-epcn" id="toc-energy-power-control-and-networks-epcn" class="nav-link" data-scroll-target="#energy-power-control-and-networks-epcn">Energy, Power, Control, and Networks (EPCN)</a></li>
@@ -283,7 +283,7 @@ ul.task-list li input[type="checkbox"] {
 * Deadline: 
 * Award: $ for durations up to  years -->
 <section id="computer-and-information-science-and-engineering-core-programs" class="level3">
-<h3 class="anchored" data-anchor-id="computer-and-information-science-and-engineering-core-programs"><a href="https://new.nsf.gov/funding/opportunities/computer-information-science-engineering-core">Computer and Information Science and Engineering : Core Programs</a></h3>
+<h3 class="anchored" data-anchor-id="computer-and-information-science-and-engineering-core-programs"><a href="https://new.nsf.gov/funding/opportunities/computer-information-science-engineering-core">Computer and Information Science and Engineering: Core Programs</a></h3>
 <ul>
 <li>Supports research and education projects that develop new knowledge in all aspects of computing, communications, and information science and engineering, as well as advanced cyberinfrastructure, through the following core programs:
 <ul>
@@ -553,6 +553,7 @@ ul.task-list li input[type="checkbox"] {
 <li><p><a href="https://www.nsf.gov/pubs/2023/nsf23098/nsf23098.pdf"><strong>Request for Input</strong> on the Development of the U.S. Research Security and Integrity Information Sharing Analysis Organization</a> response due June 30, 2023.<!-- May 4, 2023 --></p></li>
 <li><p><a href="https://www.federalregister.gov/documents/2023/04/28/2023-08995/request-for-information-rfi-on-developing-a-roadmap-for-the-directorate-for-technology-innovation"><strong>Request for Information</strong> on Developing a Roadmap for the Directorate for Technology, Innovation, and Partnerships at the National Science Foundation</a> response due July 27, 2023. <!-- April 28, 2023 --></p></li>
 <li><p><a href="https://www.federalregister.gov/documents/2023/04/28/2023-08995/request-for-information-rfi-on-developing-a-roadmap-for-the-directorate-for-technology-innovation"><strong>Request for Information</strong> on Developing a Roadmap for the Directorate for Technology, Innovation, and Partnerships at the National Science Foundation</a> response due July 27, 2023.<!-- May 1, 2023 --></p></li>
+<li><p><a href="https://www.nsf.gov/pubs/2023/nsf23103/nsf23103.pdf">Stimulating Diversification in Language Science Research (LangDiv)</a> <!-- May 10, 2023 --></p></li>
 <li><p><a href="https://new.nsf.gov/funding/opportunities/interdisciplinary-reu-sites-intersection-computing">Interdisciplinary REU Sites at the Intersection of Computing and Communication Foundations and Mathematics and Statistics</a> <!-- April 4, 2023 --></p></li>
 <li><p><a href="https://new.nsf.gov/funding/opportunities/advancing-research-geosciences-using-artificial">Advancing Research in the Geosciences Using Artificial Intelligence (AI) and Machine Learning (ML)</a> <!-- Jan 20, 2023 --></p></li>
 <li><p><a href="https://new.nsf.gov/funding/opportunities/cyberinfrastructure-data-computation-opportunities">Cyberinfrastructure, Data and Computation Opportunities for CMMI</a> <!-- Oct 24, 2022 --></p></li>
@@ -795,6 +796,20 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       });
     }
   }
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+      var filterRegex = new RegExp("^(?:http:|https:)\/\/www\.utah-data-science-hub\.github\.io\/**");
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+          // target, if specified
+          link.setAttribute("target", "_blank");
+      }
+    }
 });
 </script>
 </div> <!-- /content -->

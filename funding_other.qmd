@@ -15,15 +15,17 @@ editor: visual
 
 
 ## Industry Funding Opportunities
-### [AWS IMAGINE: The Go Further, Faster Award](https://aws.amazon.com/government-education/nonprofits/aws-imagine-grant-program)
-* Support for highly innovative projects that leverage the cloud. These projects will have the potential to produce scaled, repeatable solutions and may impact an entire industry or field.
-* Deadline: June 1, 2023
-* Award: $150K unrestricted funds, $100K AWS promotional credits
+### [OpenAI, Inc.: Pilot Grants for Democratic Inputs to Artificial Intelligence](https://openai.com/blog/democratic-inputs-to-ai)
+* Supports experiments in setting up a democratic process for deciding what rules AI systems should follow within the bounds defined by the law.
+* Deadline: June 24, 2023
+* Award: $100K
+* Please contact [Gwen Allouch](mailto:gwen.allouch@hsc.utah.edu) if you are interested in applying to this opportunity.
 
-### [AWS IMAGINE: The Momentum to Modernize Award](https://aws.amazon.com/government-education/nonprofits/aws-imagine-grant-program)
-* Supports nonprofit organizations seeking to transform and enhance their core mission operations with technology, many organizations need funding for foundational technology projects, such as migrating servers to the cloud and modernizing new and existing applications.
-* Deadline: June 1, 2023
-* Award: $50K unrestricted funds, $20K AWS promotional credits
+### [Permanente Medical Group: Artificial Intelligence and Machine Learning in Healthcare Grants](https://divisionofresearch.kaiserpermanente.org/projects/aim-hi?kp_shortcut_referrer=kp.org/aim-hi)
+* Supports research that evaluates the implementation of existing Artificial Intelligence/Machine Learning algorithms that enhance diagnostic decision making to achieve the following objective: to advance research methods, identify best practices for scalability, and build capacity for effectively implementing and rigorously evaluating the use of AI/ML algorithms for diagnostic decision-making in real-world settings.
+* Deadline: October 13, 2023 (LOI due June 30, 2023)
+* Award: $750K
+* Please contact [Lynn Wong](mailto:lynn.wong@hsc.utah.edu) if you are interested in applying for this opportunity. 
 
 ## Governmental Funding Opportunities
 ### [ARPA-H: Open-Office Broad Agency Announcement](https://arpa-h.gov/engage/baa/)
@@ -89,6 +91,8 @@ editor: visual
 
 ## Policy and Engagement
 * [Health Data, Technology, and Interoperability: Certification Program Updates, Algorithm Transparency, and Information Sharing (HTI-1) Proposed Rule](https://www.healthit.gov/topic/laws-regulation-and-policy/health-data-technology-and-interoperability-certification-program) public comment period ends June 20, 2023. 
+
+* [**Request for Information** National Priorities for Artificial Intelligence](https://www.whitehouse.gov/wp-content/uploads/2023/05/OSTP-Request-for-Information-National-Priorities-for-Artificial-Intelligence.pdf) due by July 7, 2023. 
 
 ## Additional Funding Opportunity Resources
 * [ProQuest Pivot listing of funding opportunities related to data science](https://pivot.proquest.com//funding/results?s_id=2660468) requires registration and login through the University of Utah.
