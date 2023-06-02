@@ -62,11 +62,6 @@ editor: visual
 * Deadline: June 19, 2023, recurring quarterly if funds remain
 * Award: Unspecified, $4.5M available
 
-### [Institute of Education Sciences Applications (IES): Statewide Longitudinal Data Systems (SLDS)](https://www.grants.gov/web/grants/view-opportunity.html?oppId=347943)
-* Supports state educational agency to design, develop, and implement statewide longitudinal data systems to efficiently and accurately manage, analyze, disaggregate, and use individual student data. 
-* Deadline: June 29, 2023 (LOI due May 19, 2023)
-* Award: $4M
-
 ### [HHS: Career Pathways Secondary Data Analysis Grants](https://www.grants.gov/web/grants/view-opportunity.html?oppId=344009)
 * Supports secondary analysis of data collected to rigorously evaluate a collection of career pathways programs. The purpose of these awards is to better understand the effectiveness of services funded by Temporary Assistance for Needy Families (TANF) programs that aim to address the employment and self-sufficiency needs of TANF recipients and those eligible for or at risk of TANF receipt.
 * Deadline: June 29, 2023
@@ -97,4 +92,4 @@ editor: visual
 ## Additional Funding Opportunity Resources
 * [ProQuest Pivot listing of funding opportunities related to data science](https://pivot.proquest.com//funding/results?s_id=2660468) requires registration and login through the University of Utah.
 
-Updated May 24, 2023.
+Updated June 2, 2023.

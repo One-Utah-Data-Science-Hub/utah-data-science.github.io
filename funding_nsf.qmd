@@ -97,7 +97,8 @@ format: html
 ### [BioFoundries to Enable Access to Infrastructure and Resources for Advancing Modern Biology and Biotechnology (BioFoundries)](https://new.nsf.gov/funding/opportunities/biofoundries-enable-access-infrastructure)
 * Supports grand challenge questions requiring a deeper understanding of biological systems and technologies are as diverse as life itself. Understanding the complexity of living systems and their interactions with human-derived products and processes, ensuring the safe, ethical and equitable access to and co-generation of knowledge and products,  requires the sustained development of technologies, sophisticated instrumentation, workflow pipelines and their automation, and advanced computing that are beyond the capabilities found in the laboratories of individual investigators. 
 * Deadline: *LOI* August 1, 2023, *Full Proposal* October 2, 2023
-* Award: $15-24M for durations of six years.
+* Award: $15-24M for durations of six years
+* This is a [*limited submission opportunity*](https://utah.infoready4.com/#competitionDetail/1904678) due July 11, 2023
 
 ### [Geoinformatics (GI)](https://new.nsf.gov/funding/opportunities/geoinformatics-gi)
 * Supports the deployment, operation, and sustainment of cyberinfrastructure (CI) resources to serve and support Earth Sciences research and education.
@@ -128,7 +129,7 @@ format: html
 * Supports the establishment of a new Synthesis Center focused on organismal resilience and plasticity as well as training new generations of researchers in data-intensive, open, cross-disciplinary and collaborative science.
 * Deadline: January 12, 2024 (Preliminary)
 * Award: $20M over five years
-* [UofU Townhall on May 24 at 4pm](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NXFrMzhpOWl2bHU5cnU5ajVxdDI0dWswcGMgY2Y0ZDA4OThhMjJiMmQxOTY5NzU1ZDRiYmU3NzA2M2U4MGVhNDgxMGEyNGEyYTI0ZWQ4NDAwM2IyMjU0NGY1NEBn&tmsrc=cf4d0898a22b2d1969755d4bbe77063e80ea4810a24a2a24ed84003b22544f54%40group.calendar.google.com) 
+<!-- * [UofU Townhall on May 24 at 4pm](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NXFrMzhpOWl2bHU5cnU5ajVxdDI0dWswcGMgY2Y0ZDA4OThhMjJiMmQxOTY5NzU1ZDRiYmU3NzA2M2U4MGVhNDgxMGEyNGEyYTI0ZWQ4NDAwM2IyMjU0NGY1NEBn&tmsrc=cf4d0898a22b2d1969755d4bbe77063e80ea4810a24a2a24ed84003b22544f54%40group.calendar.google.com) -->
 
 ### [Cybersecurity Innovation for Cyberinfrastructure (CICI)](https://new.nsf.gov/funding/opportunities/cybersecurity-innovation-cyberinfrastructure-cici)
 *   Supports work that enables scientists and scientific discovery by improving the security, robustness, and trustworthiness of cyberinfrastructure.
@@ -196,4 +197,4 @@ format: html
 
 * [Stimulating Integrative Research in Computational Cognition (CompCog)](https://new.nsf.gov/funding/opportunities/stimulating-integrative-research-computational-1) <!--June 2, 2022-->
 
-Updated May 24, 2023.
+Updated June 2, 2023.

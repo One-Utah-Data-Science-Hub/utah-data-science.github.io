@@ -17,11 +17,6 @@ title: "NIH Funding Opportunities"
 * Deadline: June 14, 2023
 * Award: U24, $2M/year for durations up to five years
 
-### [Integration and Coordination Center for the Common Fund Data Ecosystem](https://grants.nih.gov/grants/guide/rfa-files/RFA-RM-23-002.html)
-* Supports an Integration and Coordination Center (ICC) for the Common Fund Data Ecosystem (CFDE) that will help to build internal cohesion within the program
-* Deadline: June 28, 2023 (LOI due 1 month prior)
-* Award: U54, budget must align with the project scope, for durations up to five years
-
 ### [Alzheimer's Disease (AD) and AD-Related Dementias (ADRD) Real-World Data Platform](https://grants.nih.gov/grants/guide/rfa-files/RFA-AG-24-009.html)
 * Supports the transformation of the AD/ADRD research enterprise by serving as a central hub of research access that seeks to: 1) improve applicability and generalizability of findings through larger datasets that include more diverse populations; 2) capture more complete information through linking a variety of data sources; 3) increase the speed at which scientific questions can be answered; and 4) improve researchers’ ability to answer questions that cannot be feasibly or readily answered via clinical trial.
 * Deadline: July 31, 2023 (LOI due 1 month prior)
@@ -114,11 +109,6 @@ title: "NIH Funding Opportunities"
 * Deadline: June 19, 2023 and October 19, 2023
 * Award: R01, budget must align with the project scope, for durations of three to five years ([R21](https://grants.nih.gov/grants/guide/pa-files/PAR-20-255.html) also available)
 
-### [BRAIN Initiative: Targeted BRAIN Circuits Projects- TargetedBCP](https://grants.nih.gov/grants/guide/rfa-files/RFA-NS-23-024.html)
-* Supports research projects that seek to understand how circuit activity gives rise to mental experience and behavior using innovative, methodologically-integrated approaches.
-* Deadline: June 30, 2023 (LOI due 1 month prior), recurring in June and October through 2024
-* Award: R01, approximately $750K/year for durations up to five years
-
 ### [Accelerating the Pace of Drug Abuse Research Using Existing Data](https://grants.nih.gov/grants/guide/rfa-files/RFA-DA-22-037.html)
 * Supports the  analysis of the Adolescent Brain Cognitive Development (ABCD) dataset to increase knowledge of adolescent health and development. 
 * Deadline: August 9, 2023 (LOI due 1 month prior), annually in March, August, November through 2024
@@ -133,6 +123,11 @@ title: "NIH Funding Opportunities"
 * Supports the development of theories, computational models, and analytical tools to derive understanding of brain function from complex neuroscience data.
 * Deadline: September 12, 2023 and September 12, 2024 (LOI due 1 month prior) 
 * Award: R01, approximately $150-250K for durations up to three years
+
+### [BRAIN Initiative: Targeted BRAIN Circuits Projects- TargetedBCP](https://grants.nih.gov/grants/guide/rfa-files/RFA-NS-23-024.html)
+* Supports research projects that seek to understand how circuit activity gives rise to mental experience and behavior using innovative, methodologically-integrated approaches.
+* Deadline: October 4, 2023 (LOI due 1 month prior), recurring in June and October through 2024
+* Award: R01, approximately $750K/year for durations up to five years
 
 ### [Leveraging Health Information Technology (Health IT) to Address and Reduce Health Care Disparities](https://grants.nih.gov/grants/guide/pa-files/PAR-22-145.html)
 * Supports research that examines the impact of leveraging health information technology (health IT) to reduce disparities in access to and utilization of health care services, patient-clinician communication, and health outcomes for populations that experience health disparities in the U.S.
@@ -182,11 +177,6 @@ title: "NIH Funding Opportunities"
 * Deadline: June 16, 2023, annually in February, June, and October through Feb 2025
 * Award: R21, $275K (direct) for durations up to two years
 
-### [BRAIN Initiative: Targeted BRAIN Circuits Planning Projects – TargetedBCPP](https://grants.nih.gov/grants/guide/rfa-files/RFA-NS-23-023.html)
-* Supports research projects that offer a limited scope of aims and an approach that will establish feasibility, validity, or other technically qualifying results that, if successful, would support, enable, and/or lay the groundwork for a potential, subsequent Targeted BRAIN Circuits Projects - Targeted BCP R01.
-* Deadline: June 30, 2023 (LOI due 1 month prior), recurring in June and October through 2024
-* Award: R34, $450K for durations up to two years
-
 ### [Emergency Award: Novel Insights through Cross-Site Analyses of Existing RADx-UP Data](https://grants.nih.gov/grants/guide/rfa-files/rfa-od-23-050.html)
 * Supports analyses of existing RADx-UP data by proposing novel questions related to SARS-CoV-2 testing and health disparities. These projects will explore important questions focused on COVID-19 testing access and uptake, factors affecting testing and related COVID-19 outcomes, and meta-fanalyses of specific COVID-19 response and intervention approaches within and across populations.
 * Deadline: July 3, 2023 (LOI due one month prior)
@@ -196,6 +186,11 @@ title: "NIH Funding Opportunities"
 * Supports establishing new, or significantly expanding existing, interdisciplinary collaborations involving both experimental and computational researchers to simultaneously address a targeted research question in brain aging and Alzheimer's disease (AD), including AD-related dementias (ADRD).
 * Deadline: September 22, 2023 (LOI due 1 month prior)
 * Award: R21/R33, $275K/year (direct) for R21 and $500K/year (direct) for R33 for durations up to five years (two years for R21, three years for R33)
+
+### [BRAIN Initiative: Targeted BRAIN Circuits Planning Projects – TargetedBCPP](https://grants.nih.gov/grants/guide/rfa-files/RFA-NS-23-023.html)
+* Supports research projects that offer a limited scope of aims and an approach that will establish feasibility, validity, or other technically qualifying results that, if successful, would support, enable, and/or lay the groundwork for a potential, subsequent Targeted BRAIN Circuits Projects - Targeted BCP R01.
+* Deadline: October 4, 2023 (LOI due 1 month prior), recurring in June and October through 2024
+* Award: R34, $450K for durations up to two years
 
 ### [Secondary Analysis of Existing Datasets in Heart, Lung, and Blood Diseases and Sleep Disorders](https://grants.nih.gov/grants/guide/pa-files/PAR-23-036.html)
 * Supports secondary analyses using existing human datasets in areas relevant to the National Heart, Lung, Blood Diseases and Sleep Disorders Institute (NHLBI) scientific mission.
@@ -227,11 +222,16 @@ title: "NIH Funding Opportunities"
 * Deadline: July 31, 2023
 * Award: Salary support and annual meeting travel award for one year
 
+### [Diagnostic Centers of Excellence](https://grants.nih.gov/grants/guide/pa-files/PAR-23-171.html)
+* Supports access to resources provided by the Data Management Coordinating Center for Diagnostic Centers of Excellence (RFA-NS-22-051), as part of the next phase of the Undiagnosed Diseases Network. 
+* Deadline: October 17, 2023 (LOI due 30 days prior); October 17, 2024
+* Award: X01, access to data resource for up to three to five years
+
 ### [NHLBI TOPMed: Omics Phenotypes of Heart, Lung, and Blood Disorders](https://grants.nih.gov/grants/guide/pa-files/PAR-22-194.html)
 * Supports use of NHLBI-funded TransOmics for Precision Medicine (TOPMed) program to generate a large volume of integrated genetic and multi-omics data to facilitate discovery of the molecular mechanisms of Heart, Lung, Blood, and Sleep (HLBS) disorders. 
-* Deadline: October 17, 2023 (LOI due 30 days prior); October 17, 2024
+* Deadline: May 15, 2024 (LOI due 1 month prior); May 15, 2025
 * Award: X01, access to data resource for up to three years
-	
+
 ## Notices of Special Interest
 <!-- * []() expires -->
 * [**Request for Input** National Library of Medicine, National Center for Biotechnology Information Data Submission Survey](https://nlmenterprise.co1.qualtrics.com/jfe/form/SV_6fMaMvvU5IoQk5g) expires July 31, 2023.
@@ -254,4 +254,4 @@ title: "NIH Funding Opportunities"
 
 * [NIH Office for Data Science Strategy](https://datascience.nih.gov/research-and-training-funding) list of funding opportunities.
 
-Updated May 24, 2023.
+Updated June 2, 2023.

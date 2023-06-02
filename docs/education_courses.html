@@ -267,8 +267,8 @@ ul.task-list li input[type="checkbox"] {
 <p>Software Carpentries workshops are offered in person over two-days, including breakfast, lunch, and snacks. Topics covered will depend on the specific workshop, but could include R, python, SQL, Unix, and more.</p>
 <section id="introduction-to-r" class="level3">
 <h3 class="anchored" data-anchor-id="introduction-to-r">Introduction to R</h3>
-<p><strong>When:</strong> August/Sept 2023 (specific date to be determined)<br>
-<strong>Where:</strong> TBD, Salt Lake City, UT 84113<br>
+<p><strong>When:</strong> August 21-22 2023<br>
+<strong>Where:</strong> HSEB, Salt Lake City, UT 84113<br>
 <strong>Instructors:</strong> Rebecca Barter, George Vega Yon<br>
 Additional Information can be found on the website. <em>Coming Soon!</em></p>
 </section>
@@ -541,6 +541,20 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       });
     }
   }
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+      var filterRegex = new RegExp("^(?:http:|https:)\/\/www\.utah-data-science-hub\.github\.io\/**");
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+          // target, if specified
+          link.setAttribute("target", "_blank");
+      }
+    }
 });
 </script>
 </div> <!-- /content -->

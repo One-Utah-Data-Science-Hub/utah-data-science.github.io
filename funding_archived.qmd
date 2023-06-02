@@ -5,6 +5,11 @@ format: html
 
 # NIH Funding Opportunities
 ## Cooperative Agreement (U) Grants
+### [Integration and Coordination Center for the Common Fund Data Ecosystem](https://grants.nih.gov/grants/guide/rfa-files/RFA-RM-23-002.html)
+* Supports an Integration and Coordination Center (ICC) for the Common Fund Data Ecosystem (CFDE) that will help to build internal cohesion within the program
+* Deadline: June 28, 2023 (LOI due 1 month prior)
+* Award: U54, budget must align with the project scope, for durations up to five years
+
 ### [Individually Measured Phenotypes to Advance Computational Translation in Mental Health (IMPACT-MH)](https://grants.nih.gov/grants/guide/rfa-files/RFA-MH-23-105.html)
 * Supports research that will use behavioral measures and computational methods to define novel clinical signatures that can be used for individual-level prediction and clinical decision making in mental disorders. 
 * Deadline: June 14, 2023 (LOI due 1 month prior)
@@ -86,6 +91,11 @@ format: html
 
 
 # Governmental Funding Opportunities
+### [Institute of Education Sciences Applications (IES): Statewide Longitudinal Data Systems (SLDS)](https://www.grants.gov/web/grants/view-opportunity.html?oppId=347943)
+* Supports state educational agency to design, develop, and implement statewide longitudinal data systems to efficiently and accurately manage, analyze, disaggregate, and use individual student data. 
+* Deadline: June 29, 2023 (LOI due May 19, 2023)
+* Award: $4M
+
 ### [IARPA: Rapid Explanation, Analysis and Sourcing Online (REASON)](https://www.iarpa.gov/research-programs/reason)
 * Supports novel technologies that will enable intelligence analysts to substantially improve the evidence and reasoning in draft analytic reports.
   + Task Area 1 (TA1) – Identify Additional Evidence
