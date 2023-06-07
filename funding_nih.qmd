@@ -5,12 +5,6 @@ title: "NIH Funding Opportunities"
 * S
 * Deadline: 
 * Award: , $ for durations up to  years -->
-## Forthcoming
-* [Network of Genomic-Enabled Learning Health Systems (gLHS)](https://www.genome.gov/sites/default/files/media/files/2023-05/RFA_Concept_Clearance_Genomic_Enabled_Learning_Health_Systems.pdf)
-* Supports a network of genomic-enabled learning health systems (gLHS) to identify and improve approaches for clinical integration of genomic information in a virtuous cycle of implementation, assessment, refinement, and reimplementation. Specifically, this initiative would: 1) support a coordinating center (CC) and 4-6 established or emerging gLHS clinical sites to share their genomic medicine implementation practices and identify those most suitable for cross-network implementation. 
-* Deadline: TBD
-* Award: Anticipated funds of $5.3M/year for 5 years.
-
 ## Cooperative Agreement (U) Grants
 ### [BRAIN Initiative: Brain Behavior Quantification and Synchronization – Data Coordination and Artificial Intelligence Center](https://grants.nih.gov/grants/guide/rfa-files/RFA-MH-23-130.html)
 * Data Coordination and Artificial Intelligence Center (DCAIC) for the Brain Behavior Quantification and Synchronization (BBQS) Consortium of the BRAIN Initiative. The DCAIC will serve as the organizational hub for BBQS data management and sharing. 
@@ -22,14 +16,9 @@ title: "NIH Funding Opportunities"
 * Deadline: July 31, 2023 (LOI due 1 month prior)
 * Award: U54, $52M/year for durations up to six years
 
-### [Quantifying the Impact of Environmental Toxicants on Alzheimer's Disease (AD) and AD-Related Dementias (ADRD) Risk in Cohort Studies](https://grants.nih.gov/grants/guide/rfa-files/RFA-AG-24-022.html)
-* Supports
-* Deadline: October 23, 2023 (LOI due 1 month prior)
-* Award: U01, $1.5M/year (direct) for durations up to five years
-
 ### [Bioinformatics Resource Centers (BRCs) for Infectious Diseases](https://grants.nih.gov/grants/guide/rfa-files/RFA-AI-23-032.html)
 * Supports the Bioinformatics Resource Center (BRC) Program that will (1) create and manage integrated knowledgebases to accelerate basic and applied human infectious diseases research, (2) develop advanced innovative bioinformatics technologies for software and tools, (3) offer state-of-the-art bioinformatics expertise for investigators and (4) respond with cutting-edge bioinformatics in response to emerging needs, outbreaks, and public health emergencies.
-* Deadline: August 25, 2023 (LOI due 30 days prior)
+* Deadline: August 25, 2023 (LOI due 1 month prior)
 * Award: U24, $2.5M/year (direct) for one biological domain, $4.8M/year (direct) for two biological domains, for durations up to five years
 
 ### [Using Secondary Data Analysis to Determine Whether Preventive Interventions Implemented Earlier in Life Reduce Suicide Risk](https://grants.nih.gov/grants/guide/rfa-files/RFA-MH-23-275.html)
@@ -37,15 +26,45 @@ title: "NIH Funding Opportunities"
 * Deadline: October 10, 2023 (LOI due 1 month prior)
 * Award: U01, budget must align with the project scope ($3M/year), for durations up to four years
 
+### [Precision Mental Health: Develop Tools to Inform Treatment Selection in Depression](https://grants.nih.gov/grants/guide/rfa-files/RFA-MH-24-120.html)
+* Supports creation of a pipeline to accelerate the development and early validation of predictive tools and/or biomarkers to inform individual-level treatment selection among two or more existing therapeutics for depression. 
+* Deadline: October 18, 2023 (LOI due 1 month prior); October 18, 2024
+* Award: UG3/UH3, $500K/year (direct) for one to two years (UG3), followed by $1.5M/year (direct) for a total duration up to five years
+
 ### [Collaborative Opportunities for Multidisciplinary, Bold, and Innovative Neuroscience (COMBINE)](https://grants.nih.gov/grants/guide/rfa-files/RFA-NS-23-027.html)
 * Supports integrated efforts of three to six PDs/PIs to pursue a bold, impactful, and challenging goal with defined 5-year outcomes within the scope of this program and the NINDS mission. This defined research goal must only be achievable by an interdisciplinary team approach involving innovative combination of distinct disciplines and/or intellectual viewpoints, synergy in expertise and approaches, and well-managed team interactions. 
 * Deadline: October 20, 2023; October 8, 2024 (LOI due 30 days prior)
 * Award: RM1, $500K-$1.5M (direct) for durations up to five years
 
+### [Quantifying the Impact of Environmental Toxicants on Alzheimer's Disease (AD) and AD-Related Dementias (ADRD) Risk in Cohort Studies](https://grants.nih.gov/grants/guide/rfa-files/RFA-AG-24-022.html)
+* Supports research focused on major toxicants observed to be associated with elevated Alzheimer's Disease (AD) and AD-related dementias (ADRD) risk, and health disparities in AD/ADRD-related pathologic and clinical outcomes.
+* Deadline: October 23, 2023 (LOI due 1 month prior)
+* Award: U01, $1.5M/year (direct) for durations up to five years
+
+### [Integration of Novel Measures for Improved Classification of Type 2 Diabetes](https://grants.nih.gov/grants/guide/rfa-files/rfa-dk-23-020.html)
+* Supports a consortium to bring together investigative teams for integration of multiple data types, including markers of organ or tissue function, into analysis approaches for stratifying individuals with type 2 diabetes (T2D) and developing more precise definitions of disease. 
+* Deadline: October 26, 2023 (LOI due 1 month prior)
+* Award: U01, $500K/year (direct) for durations up to five years
+
+### [Integration of Novel Measures for Improved Classification of Type 2 Diabetes – Biostatistics Research Center](https://grants.nih.gov/grants/guide/rfa-files/rfa-dk-23-020.html)
+* Supports a Biostatistics Research Center to participate in a consortium aimed at improving understanding of heterogeneity of type 2 diabetes (T2D).
+* Deadline: October 26, 2023 (LOI due 1 month prior)
+* Award: U01, $1M/year (direct) for durations up to five years
+
 ### [Research Coordinating Center on the Exposome and Alzheimer's Disease (AD) and AD-Related Dementias (ADRD): Elucidating the Role of Social and Behavioral Determinants of Health in AD/ADRD Etiology and Disparities](https://grants.nih.gov/grants/guide/rfa-files/RFA-AG-24-011.html)
 * Supports the establishment of a national coordinating center that will serve as a centralized hub for accessing, harmonizing, linking, and sharing environmental contextual data and individual exposure data with NIA/NIH-funded projects. 
 * Deadline: October 27, 2023 (LOI due August 27, 2023)
-* Award: U24, $5M/year for durations of five years.
+* Award: U24, $5M/year for durations of five years
+
+### [Network of Genomic-Enabled Learning Health Systems (gLHS) – Coordinating Center](https://grants.nih.gov/grants/guide/notice-files/NOT-HG-23-045.html)
+* Supports a network of genomic-enabled learning health systems (gLHS) to identify and improve approaches for clinical integration of genomic information in a virtuous cycle of implementation, assessment, refinement, and reimplementation. Specifically, this initiative would support a coordinating center (CC) for 4-6 established or emerging gLHS clinical sites to share their genomic medicine implementation practices and identify those most suitable for cross-network implementation. 
+* Deadline: November 7, 2023 (Expected)
+* Award: U01, $1.6M/year for durations of five years
+
+### [Network of Genomic-Enabled Learning Health Systems (gLHS) – Clinical Sites](https://grants.nih.gov/grants/guide/notice-files/NOT-HG-23-044.html)
+* Supports a network of genomic-enabled learning health systems (gLHS) to identify and improve approaches for clinical integration of genomic information in a virtuous cycle of implementation, assessment, refinement, and reimplementation. Specifically, this initiative would support  4-6 established or emerging gLHS clinical sites to share their genomic medicine implementation practices and identify those most suitable for cross-network implementation. 
+* Deadline: November 7, 2023 (Expected)
+* Award: U01, budget must align with the project scope ($750K/year) for durations of five years
 
 ### [BRAIN Initiative: Development of Novel Tools to Probe Cell-Specific and Circuit-Specific Processes in Human and Non-Human Primate Brain](https://grants.nih.gov/grants/guide/rfa-files/RFA-MH-23-295.html)
 * Supports the development and validation of novel tools to facilitate the detailed analysis and manipulation of complex circuits in large brains. Critical advances in the treatment of brain disorders in human populations are hindered by our lack of ability to monitor and manipulate circuitry in safe, minimally-invasive ways. 
@@ -90,12 +109,16 @@ title: "NIH Funding Opportunities"
 
 
 
-## Career Development (F/K) Grants
+## Career Development and Training (F/K and T) Grants
 ### [INCLUDE (INvestigation of Co-occurring conditions across the Lifespan to Understand Down syndromE) Predoctoral to Postdoctoral Fellow Transition Award](https://grants.nih.gov/grants/guide/rfa-files/RFA-OD-23-016.html)
 * Supports exceptional graduate students from a broad variety of  research fields to pursue postdoctoral training focused on Down syndrome related research.
 * Deadline: July 1, 2023
 * Award: F99/K00, covers stipends, tuition, fees, and institutional allowance for durations up to six years (F99 for two years, K00 for four years).
 
+### [Broadening Opportunities for Computational Genomics and Data Science Education](https://grants.nih.gov/grants/guide/notice-files/NOT-HG-23-043.html)
+* Supports faculty members at institutions with a mission to serve historically underrepresented populations in biomedical research to develop undergraduate and master’s degree-level educational content in computational genomics, data science, or a combination of these topics.
+* Deadline: October 10, 2023 (expected)
+* Award: $150K/year (direct) for five years
 
 
 ## Research Grants - R01 Activities
@@ -234,12 +257,14 @@ title: "NIH Funding Opportunities"
 
 ## Notices of Special Interest
 <!-- * []() expires -->
+
+* [**Administrative Supplements** to Support Collaborations to Improve Data Interoperability/Re-use for Existing Type 2 Diabetes Relevant Data Sets](http://grants.nih.gov/grants/guide/notice-files/NOT-DK-23-022.html) expires July 12,2023. 
 * [**Request for Input** National Library of Medicine, National Center for Biotechnology Information Data Submission Survey](https://nlmenterprise.co1.qualtrics.com/jfe/form/SV_6fMaMvvU5IoQk5g) expires July 31, 2023.
 * [NIDCR: Supporting Dental, Oral, and Craniofacial Research Using Bioinformatic, Computational, and Data Science Approaches](https://grants.nih.gov/grants/guide/notice-files/NOT-DE-20-006.html) expires August 08, 2023.
 * [**Request for Information** NIH Common Fund is Soliciting Ideas for NIH-wide Challenges and Opportunities](https://grants.nih.gov/grants/guide/notice-files/NOT-RM-23-013.html) due by August 11, 2023.
 * [Secondary Analyses of Existing Alcohol Research Data](https://grants.nih.gov/grants/guide/notice-files/NOT-AA-20-018.html) expires September 5, 2023.
-* [Administrative Supplements for R25 Data Science Training for Infectious and Immune-mediated Disease Research](https://grants.nih.gov/grants/guide/notice-files/NOT-AI-23-010.html) expires February 14, 2024.
-* [Administrative Supplements to Enhance Institutional Data Science Capacity](https://grants.nih.gov/grants/guide/notice-files/NOT-OD-23-123.html) in institutions serving medically underserved communities and underrepresented students expires April 2, 2024.
+* [**Administrative Supplements** for R25 Data Science Training for Infectious and Immune-mediated Disease Research](https://grants.nih.gov/grants/guide/notice-files/NOT-AI-23-010.html) expires February 14, 2024.
+* [**Administrative Supplements** to Enhance Institutional Data Science Capacity](https://grants.nih.gov/grants/guide/notice-files/NOT-OD-23-123.html) in institutions serving medically underserved communities and underrepresented students due June 19, 2023 or April 1, 2024; expires April 2, 2024.
 * [Harnessing Big Data to Halt HIV](https://grants.nih.gov/grants/guide/notice-files/NOT-AI-21-054.html) expires May 8, 2024.
 * [Maximizing the Scientific Value of Secondary Analyses of Existing Cohorts and Datasets in Order to Address Research Gaps and Foster Additional Opportunities in Aging Research](https://grants.nih.gov/grants/guide/notice-files/NOT-AG-23-020.html) expires May 8, 2024.
 * [High-Priority Interest to Enhance Data Science Research Training in Addiction Research](https://grants.nih.gov/grants/guide/notice-files/NOT-DA-21-013.html) expires December 9, 2024.

@@ -84,6 +84,11 @@ editor: visual
 
 
 
+## Challenges and Other Opportunities
+* [The Veterans Cardiac Health and AI Model Predictions (V-CHAMPS) Challenge](https://precision.fda.gov/challenges/31) calls on the scientific and data analytics community to develop and evaluate Artificial Intelligence and Machine Learning (AI/ML) models to predict cardiovascular health related outcomes in Veterans. Challenge open through July 26, 2023. 
+
+
+
 ## Policy and Engagement
 * [Health Data, Technology, and Interoperability: Certification Program Updates, Algorithm Transparency, and Information Sharing (HTI-1) Proposed Rule](https://www.healthit.gov/topic/laws-regulation-and-policy/health-data-technology-and-interoperability-certification-program) public comment period ends June 20, 2023. 
 
