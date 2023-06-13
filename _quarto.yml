@@ -39,16 +39,14 @@ website:
             href: education_archived.qmd
       - text: "Events and Seminars"
         href: events.qmd
+      - text: "Data Science Roster"
+        href: roster.qmd
       - text: "News and Highlights"
         href: news.qmd
-      - section: "WIP - Coming Soon!"
-        contents:
-          - text: "Data Resources"
-            href: data.qmd
-          - text: "Roster"
-            href: roster.qmd
-          - text: "Research Areas"
-            href: research.qmd
+      - text: "Data Resources"
+        href: data.qmd
+      - text: "Research Areas - Coming Soon!"
+        href: research.qmd
     
 format:
   html:

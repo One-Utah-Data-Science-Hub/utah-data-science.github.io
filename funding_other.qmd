@@ -8,10 +8,24 @@ editor: visual
 * Deadline: 
 * Award: $ for durations up to  years -->
 ## Foundation Funding Opportunities
+### [Digital Assessment Tools for FTD and ALS](https://www.als.org/research/funding-opportunities/digital-assessment-tools-ftd-and-als-2023)
+* Supports the development of digital tools with broad applicability across the FTD-ALS spectrum beyond the discovery stage toward validation with two types of projects:
+  + *Advancing Tool Development*
+  + *Creating a Conceptual Model as a Guide for Digital Outcome Assessment Development*
+* Deadline: July 14, 2023
+* Award: $150-400K for durations up to two years
+
+### [LTC Data Cooperative: Real World Data Scholars Program](https://impactcollaboratory.org/ltc-real-world-data-scholars-program/)
+* Supports the development of advanced graduate students, postdoctoral fellows, and early-career faculty who are interested in developing their expertise and experience in working with electronic health record (EHR) data. 
+* Deadline: August 4, 2023
+* Award: $50K (direct) for one year
+
 ### [Simons Foundation: Scientific Software Research Faculty Award](https://www.simonsfoundation.org/grant/scientific-software-research-faculty-award/)
 * Supports the development and maintenance of core scientific software infrastructure in academic environments through creating a new, long-term, faculty-level career path.
 * Deadline: December 8, 2023
 * Award: 50% salary and $50K allowable expenses for durations up to five years
+
+
 
 
 ## Industry Funding Opportunities
@@ -37,21 +51,6 @@ editor: visual
 * Deadline: Rolling, expires March 14, 2024
 * Award: Unspecified, budget must be align with the project scope
 
-### [US Army: xTechPrime Competition - Concept White Paper](https://www.challenge.gov/?challenge=xtech-prime)
-* Supports small businesses and technology integrators, in the areas of Artificial Intelligence/Machine Learning, Autonomy, Climate and Clean Technologies, Immersive/Wearables, and Sensors, to engage with the DoD, earn prize money, participate in the accelerator program and submit for a Direct to Phase II SBIR award.
-* Deadline: June 7, 2023
-* Award: Participation in the accelerator program and submit for a Direct to Phase II SBIR award
-
-### [CDC: Centers for Outbreak Analytics and Disease Modeling](https://www.grants.gov/web/grants/view-opportunity.html?oppId=345850)
-* Supports the development of a network of innovators to design, prototype, test, and scale innovative capabilities for improving analytics, modeling and forecasting to support decision makers during outbreaks of infectious diseases (both known and newly emerging) in the United States. 
-  + *Mandatory Component 1 (Outbreak Analytics and Disease Modeling Public Health Response)*: 13 awards of $500,000 each.   
-  + *Optional Component 2 (Innovations in Outbreak Analytics and Disease Modeling)*: 5 awards of $3 million each.
-  + *Optional Component 3 (Integration of Outbreak Analytics and Disease Modeling into Practice)*: 5 awards of $3 million each.
-  + *Optional Component 4 (Centers for Implementation in Outbreak Analytics and Disease Modeling)*: 3 awards of $5 million each.
-  + *Optional Component 5 (Coordinator for the Outbreak Analytics and Disease Modeling Network)*: 1 award of $1 million.
-* Deadline: June 13, 2023
-* Award: Varies, see above.
-
 ### [Utah System of Higher Education: Computer Science Targeted Workforce Initiative Grant](https://drive.google.com/file/d/1aLPZH-mcI_BBuVslNrNlWiweOnvx86bF/view)
 * Supports the creation and/or expansion of capacity in computer science workforce education programs to include: Information Security Analysts, Software Developers and QA Analysts, Digital Interface Designers, Computer and Information Research Scientists, Database Administrators, and Architects.
 * Deadline: June 19, 2023, recurring quarterly if funds remain
@@ -66,6 +65,11 @@ editor: visual
 * Supports secondary analysis of data collected to rigorously evaluate a collection of career pathways programs. The purpose of these awards is to better understand the effectiveness of services funded by Temporary Assistance for Needy Families (TANF) programs that aim to address the employment and self-sufficiency needs of TANF recipients and those eligible for or at risk of TANF receipt.
 * Deadline: June 29, 2023
 * Award: $100K
+
+### [NIST: Regional Alliances and Multistakeholder Partnerships to Stimulate (RAMPS) Cybersecurity Education and Workforce Development](https://www.grants.gov/web/grants/view-opportunity.html?oppId=348550)
+* Supports activities to establish community-based partnerships to develop cybersecurity career pathways that address local workforce needs. 
+* Deadline: August 7, 2023
+* Award: $200K for durations up to two years
 
 ### [US Economic Development Administration: Regional Technology and Innovation Hubs (Tech Hubs) Phase 1](https://www.grants.gov/web/grants/view-opportunity.html?oppId=348101)
 * Supports consortia through an economic development initiative designed to drive regional technology- and innovation-centric growth by strengthening a region’s capacity to manufacture, commercialize, and deploy critical technologies.
@@ -83,9 +87,10 @@ editor: visual
 * Award: $50K for planning for 1 year, $150K for implementation for 1.5 to 3 years
 
 
-
 ## Challenges and Other Opportunities
 * [The Veterans Cardiac Health and AI Model Predictions (V-CHAMPS) Challenge](https://precision.fda.gov/challenges/31) calls on the scientific and data analytics community to develop and evaluate Artificial Intelligence and Machine Learning (AI/ML) models to predict cardiovascular health related outcomes in Veterans. Challenge open through July 26, 2023. 
+
+* [2023 DataWorks! Prize](https://www.herox.com/dataworks) will recognize and reward exceptional data practices in biological and biomedical research labs during the active phase of research which enable robust data sharing and reuse, and create a library of best practice methods that can be used by the broader research community. Submit your data sharing/reuse best practice recipes in a form that can be used by an audience of your peers, such as a teaching resource or tool for active data management, by July 24, 2023 for a chance to win up to $100k. 
 
 
 
@@ -97,4 +102,4 @@ editor: visual
 ## Additional Funding Opportunity Resources
 * [ProQuest Pivot listing of funding opportunities related to data science](https://pivot.proquest.com//funding/results?s_id=2660468) requires registration and login through the University of Utah.
 
-Updated June 2, 2023.
+Updated June 13, 2023.

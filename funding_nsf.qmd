@@ -52,16 +52,6 @@ format: html
 
 
 ## Upcoming Proposal Deadlines
-### [Spectrum and Wireless Innovation enabled by Future Technologies - Satellite-Terrestrial Coexistence (SWIFT-SAT)](https://new.nsf.gov/funding/opportunities/spectrum-wireless-innovation-enabled-future-0)
-* Supports research on techniques to overcome radio interference and light pollution conflicts between satellite users (communications, earth sensing) and terrestrial users (communications, astronomy) enabling usage growth to benefit society.
-* Deadline: June 5, 2023
-* Award: \$750K for durations up to three years
-
-### [NSF Engines Builder Platform](https://sam.gov/opp/31dc45d7b356499ab8b88a143cdf27a6/view)
-* Supports an organization that can help develop, launch, and run a “Builder Platform” to support its NSF Regional Innovation Engines (NSF Engines) awardees, a signature initiative of NSF’s Technology, Innovation, and Partnerships (TIP) directorate. 
-* Deadline: June 12, 2023
-* Award: $9.5M (total) for durations of three years
-
 ### [Centers for Chemical Innovation (CCI)](https://new.nsf.gov/funding/opportunities/centers-chemical-innovation-cci)
 *   Supports developing centers (Phase I) and large, multi-institutional research centers (Phase II) focused on major, long-term chemical research challenges.
 *   Deadline: August 10, 2023 (Preliminary Proposal)
@@ -75,9 +65,14 @@ format: html
 * Deadline: August 22, 2023 (LOI due July 11, 2023)
 * Award: $750K for Phase 1 for durations of one year (supports application to Phase 2 for $5M total for durations of two years)
 
+### [Cyberinfrastructure Technology Acceleration Pathway (CITAP)](https://new.nsf.gov/funding/opportunities/cyberinfrastructure-technology-acceleration)
+* Supports the translation of innovative research CI software  such as system software, libraries, application codes, and software enabling data services. 
+* Deadline: September 6, 2023
+* Award: $10M for durations up to five years with opportunity for renewal
+
 ### [BioFoundries to Enable Access to Infrastructure and Resources for Advancing Modern Biology and Biotechnology (BioFoundries)](https://new.nsf.gov/funding/opportunities/biofoundries-enable-access-infrastructure)
 * Supports grand challenge questions requiring a deeper understanding of biological systems and technologies are as diverse as life itself. Understanding the complexity of living systems and their interactions with human-derived products and processes, ensuring the safe, ethical and equitable access to and co-generation of knowledge and products,  requires the sustained development of technologies, sophisticated instrumentation, workflow pipelines and their automation, and advanced computing that are beyond the capabilities found in the laboratories of individual investigators. 
-* Deadline: *LOI* August 1, 2023, *Full Proposal* October 2, 2023
+* Deadline: October 2, 2023 (LOI due August 1, 2023, )
 * Award: $15-24M for durations of six years
 * This is a [*limited submission opportunity*](https://utah.infoready4.com/#competitionDetail/1904678) due July 11, 2023
 
@@ -208,8 +203,6 @@ format: html
 
 
 ### Dear Colleague Letters
-* [Computer and Information Science and Engineering Graduate Fellowships (CSGrad4US)](https://www.nsf.gov/pubs/2023/nsf23074/nsf23074.jsp) summary due June 5, 2023.<!-- March 30, 2023 -->
-
 * [**Request for Information** on the Capacity of Institutions of Higher Education to Produce Graduates with Degrees, Certifications, and Relevant Skills Related to Artificial Intelligence](https://www.nsf.gov/pubs/2023/nsf23099/nsf23099.jsp) response due June 21, 2023.<!-- May 8, 2023 -->
 
 * [**Request for Information** on Future Topics for Workforce Development in Emerging Technology Career Pathways](https://www.nsf.gov/pubs/2023/nsf23100/nsf23100.jsp) response due June 21, 2023.<!-- May 8, 2023 -->
@@ -236,4 +229,4 @@ format: html
 
 * [Fairness, Ethics, Accountability, and Transparency: Enabling Breakthrough Research to Expand Inclusivity in Computer and Information Science and Engineering Research](https://www.nsf.gov/pubs/2019/nsf19016/nsf19016.jsp) <!-- Nov 2, 2018 -->
 
-Updated June 2, 2023.
+Updated June 13, 2023.

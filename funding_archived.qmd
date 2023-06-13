@@ -5,6 +5,11 @@ format: html
 
 # NIH Funding Opportunities
 ## Cooperative Agreement (U) Grants
+### [BRAIN Initiative: Brain Behavior Quantification and Synchronization – Data Coordination and Artificial Intelligence Center](https://grants.nih.gov/grants/guide/rfa-files/RFA-MH-23-130.html)
+* Data Coordination and Artificial Intelligence Center (DCAIC) for the Brain Behavior Quantification and Synchronization (BBQS) Consortium of the BRAIN Initiative. The DCAIC will serve as the organizational hub for BBQS data management and sharing. 
+* Deadline: June 14, 2023
+* Award: U24, $2M/year for durations up to five years
+
 ### [Integration and Coordination Center for the Common Fund Data Ecosystem](https://grants.nih.gov/grants/guide/rfa-files/RFA-RM-23-002.html)
 * Supports an Integration and Coordination Center (ICC) for the Common Fund Data Ecosystem (CFDE) that will help to build internal cohesion within the program
 * Deadline: June 28, 2023 (LOI due 1 month prior)
@@ -29,6 +34,11 @@ format: html
 * Award: R01, $250K/year for durations up to four years
 
 ## Research Grants - Other Activities
+### [Emergency Award: Novel Insights through Cross-Site Analyses of Existing RADx-UP Data](https://grants.nih.gov/grants/guide/rfa-files/rfa-od-23-050.html)
+* Supports analyses of existing RADx-UP data by proposing novel questions related to SARS-CoV-2 testing and health disparities. These projects will explore important questions focused on COVID-19 testing access and uptake, factors affecting testing and related COVID-19 outcomes, and meta-fanalyses of specific COVID-19 response and intervention approaches within and across populations.
+* Deadline: July 3, 2023 (LOI due one month prior)
+* Award: R21, $275K/year (direct) for durations of two years.
+
 ### [Research Experience in Genomic Research for Data Scientists](https://grants.nih.gov/grants/guide/pa-files/PAR-21-075.html)
 * Supports educational activities that encourage individuals from diverse backgrounds, including those from groups underrepresented in the biomedical and behavioral sciences, to pursue further studies or careers in research.
 * Deadline: May 25, 2023 (LOI due 1 month prior)
@@ -55,6 +65,16 @@ format: html
 *   Supports the creation of a prototype Open Knowledge Network --- an essential public-data infrastructure to power the next information revolution.
 *   Deadline: June 20, 2023; [(Internal LSO due April 25)](https://utah.infoready4.com/#competitionDetail/1900424)
 *   Award: \$1.5M for durations up to three years
+
+### [NSF Engines Builder Platform](https://sam.gov/opp/31dc45d7b356499ab8b88a143cdf27a6/view)
+* Supports an organization that can help develop, launch, and run a “Builder Platform” to support its NSF Regional Innovation Engines (NSF Engines) awardees, a signature initiative of NSF’s Technology, Innovation, and Partnerships (TIP) directorate. 
+* Deadline: June 12, 2023
+* Award: $9.5M (total) for durations of three years
+
+### [Spectrum and Wireless Innovation enabled by Future Technologies - Satellite-Terrestrial Coexistence (SWIFT-SAT)](https://new.nsf.gov/funding/opportunities/spectrum-wireless-innovation-enabled-future-0)
+* Supports research on techniques to overcome radio interference and light pollution conflicts between satellite users (communications, earth sensing) and terrestrial users (communications, astronomy) enabling usage growth to benefit society.
+* Deadline: June 5, 2023
+* Award: \$750K for durations up to three years
 
 ## Dear Colleague Letters
 * [Supporting Cybersecurity & Privacy Education and Workforce Development](https://www.nsf.gov/pubs/2023/nsf23091/nsf23091.jsp) due by May 23, 2023. <!--April 24, 2023 -->
@@ -96,6 +116,20 @@ format: html
 * Deadline: June 29, 2023 (LOI due May 19, 2023)
 * Award: $4M
 
+### [CDC: Centers for Outbreak Analytics and Disease Modeling](https://www.grants.gov/web/grants/view-opportunity.html?oppId=345850)
+* Supports the development of a network of innovators to design, prototype, test, and scale innovative capabilities for improving analytics, modeling and forecasting to support decision makers during outbreaks of infectious diseases (both known and newly emerging) in the United States. 
+  + *Mandatory Component 1 (Outbreak Analytics and Disease Modeling Public Health Response)*: 13 awards of $500,000 each.   
+  + *Optional Component 2 (Innovations in Outbreak Analytics and Disease Modeling)*: 5 awards of $3 million each.
+  + *Optional Component 3 (Integration of Outbreak Analytics and Disease Modeling into Practice)*: 5 awards of $3 million each.
+  + *Optional Component 4 (Centers for Implementation in Outbreak Analytics and Disease Modeling)*: 3 awards of $5 million each.
+  + *Optional Component 5 (Coordinator for the Outbreak Analytics and Disease Modeling Network)*: 1 award of $1 million.
+* Deadline: June 13, 2023
+* Award: Varies, see above.
+
+### [US Army: xTechPrime Competition - Concept White Paper](https://www.challenge.gov/?challenge=xtech-prime)
+* Supports small businesses and technology integrators, in the areas of Artificial Intelligence/Machine Learning, Autonomy, Climate and Clean Technologies, Immersive/Wearables, and Sensors, to engage with the DoD, earn prize money, participate in the accelerator program and submit for a Direct to Phase II SBIR award.
+* Deadline: June 7, 2023
+* Award: Participation in the accelerator program and submit for a Direct to Phase II SBIR award
 ### [IARPA: Rapid Explanation, Analysis and Sourcing Online (REASON)](https://www.iarpa.gov/research-programs/reason)
 * Supports novel technologies that will enable intelligence analysts to substantially improve the evidence and reasoning in draft analytic reports.
   + Task Area 1 (TA1) – Identify Additional Evidence

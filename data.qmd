@@ -5,13 +5,17 @@ editor: source
 ---
 ## University of Utah Resources
 * [Wasatch Front Research Data Center (WFRDC)](https://www.census.gov/about/adrm/fsrdc/locations/Utah.html) is a member of the national network of Federal Statistical Research Data Centers (FSRDC), and serves the urban core of Utah, often called the Wasatch Front, as well as the state and the Intermountain region. 
-* [Utah Population Database (UPDB)](https://uofuhealth.utah.edu/huntsman/utah-population-database) is a dynamic database and receives annual updates from contributors for Utah administrative and health records.
+* [Utah Population Database (UPDB)](https://uofuhealth.utah.edu/huntsman/utah-population-database) at Huntsman Cancer Institute at the University of Utah is one of the world’s richest sources of in-depth information that supports research on genetics, epidemiology, demography, and public health..
 * [MesoWest](https://mesowest.utah.edu/)  collects weather data from numerous public sources and provides access to current and past.
 * [Sloan Digital Sky Survey](https://www.sdss.org/) has created the most detailed three-dimensional maps of the universe ever made, with deep multi-color images of one third of the sky, and spectra for more than three million astronomical objects.
 
+
 ## University of Utah Services and Groups
-* [University of Utah Health Data Science Services](https://cfahr.utah.edu/_resources/documents/activities/DataScienceServices.pdf) aims to provide expertise in data extraction and curation.
-* [Surgical Population Analysis Research Core](https://medicine.utah.edu/surgery/research/cores/sparc) supports access to big datasets, analytic and visualization services, and obtaining extramural funding around surgical care.
+* [University of Utah Health Data Science Services](https://pulse.utah.edu/site/DSS/about-dss/service-catalog) is the research data concierge for UHealth EDW/Epic data, DSS offers the following services such as Feasibility, Datasets, Analytics, Clinical Trials, Natural Language Processing, Data Management, Tools and Applications, and Collaborations.
+* [Biomedical Informatics Core (BMIC)](https://ctsi.utah.edu/cores-and-services/bmic) of the Clinical and Translational Science Institute (CTSI) provides comprehensive clinical and translational research informatics support to researchers through a variety of means, including education, consultation, and service delivery.
+* [Cores and Recharge Centers](https://cores.utah.edu/) include 42 shared core facilities that offer a variety of advanced technologies, equipment, and capabilities. The Cores facilitate research with specialized equipment run by dedicated and highly trained directors and staff.
+* [Scientific Computing and Imaging (SCI) Institute](https://www.sci.utah.edu/) has established itself as an internationally recognized leader in visualization, scientific computing, and image analysis research applied to a broad range of domains.
+* [Surgical Population Analysis Research Core (SPARC)](https://medicine.utah.edu/surgery/research/cores/sparc) strives to improve surgical care by supporting a core group of faculty, connecting them to a diverse set of big datasets, providing analytic and visualization services, and obtaining extramural funding.
 
 ## National and International Resources
 * [National Aeronautics and Space Administration (NASA) Commercial SmallSat Data Acquisition (CSDA) Program](https://www.earthdata.nasa.gov/esds/csda) provides high-quality commercial Earth observation data to NSF-funded researchers at no additional cost. Request access [here](https://csdap.earthdata.nasa.gov/signup/).
@@ -19,3 +23,7 @@ editor: source
 * [NHLBI TOPMed: Omics Phenotypes of Heart, Lung, and Blood Disorders](https://grants.nih.gov/grants/guide/pa-files/PAR-22-194.html) applications are due October 17, 2023 and 2024 (LOI due 30 days prior) for access for three years.
 * [NIH: Access to Data Management Coordinating Center for Diagnostic Centers of Excellence](https://grants.nih.gov/grants/guide/pa-files/PAR-23-171.html) for access for three to five years.
 * [National COVID Cohort Collaborative](https://covid.cd2h.org/) uses privacy-preserving record linkage to synthesize data from multiple different sources including electronic health records (EHR), claims data, and other administrative data to provide a comprehensive understanding of the impact of COVID-19 on individuals and communities. 
+* [NIH ScHARe-hosted datasets](https://forms.office.com/pages/responsepage.aspx?id=eHW3FHOX1UKFByUcotwrBsccwWOO8TJCqDgaTvbsEQ1UQkM3TExCOFdVQklDMEwyRE1DSzRXVVZXTS4u) include 190 datasets, such as CDC’s BRFSS -- Behavioral Risk Factor Surveillance System. 
+
+**Are we missing key resources?**  
+This is a growing list and we appreciate your help in including important resources here, please contact [Penny Atkins](mailto:pennyatkins@hsc.utah.edu?subject=One%20Utah%20Data%20Science%20Hub%20Data%20Resources) with additional resources that should be included. 

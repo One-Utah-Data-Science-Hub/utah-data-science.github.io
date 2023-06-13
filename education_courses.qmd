@@ -10,7 +10,8 @@ Software Carpentries workshops are offered in person over two-days, including br
 **When:** August 21-22 2023\
 **Where:** HSEB, Salt Lake City, UT 84113\
 **Instructors:** Rebecca Barter, George Vega Yon\
-Additional Information can be found on the website. *Coming Soon!*
+[Register to save your spot!](https://docs.google.com/forms/d/e/1FAIpQLSf3XyQ345D6nm-AKd4srWDGQ7C0UxDZczuyrOGttz66gFIgoQ/viewform)
+Additional Information can be found on the [website](https://uofudelphi.github.io/2023-08-21-Intro_R/). 
 
 ## Data Science Series
 Each course will run for four weeks with an asynchronous lecture, virtual office hour session, and project based assignments each week and will be taught in either R or Python. The series has been designed by Dr. Rebecca Barter and will include the following modules: introduction, data cleaning, data visualization, and modeling. \
