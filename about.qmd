@@ -7,7 +7,7 @@ The One Utah Data Science Hub a university-wide effort designed to enhance resea
 
 On this site you will find regularly updated and dynamic information about Seminars and Events, Data Resources, Funding Opportunities, and Education and Training Resources of the One Utah Data Science Hub. See our University Webpages for additional information.
 
-[![One Utah Data Science Hub](images/HubLogo.png){width="200"}](https://www.research.utah.edu/one-utah-data-science-hub/)[![Data Science and Ethics of Technology (DATASET) Initiative Webpage](images/DATASET_Logo.png){width="200"}](https://www.research.utah.edu/one-utah-data-science-hub/data-science-ethics-of-technology-initiative-dataset/)[![Data Exploration and Learning for Precision Health Intelligence (DELPHI) Webpage](images/DELPHI_Logo_long.png){width="200"}](https://uofuhealth.utah.edu/delphi-data-science-initiative)[![Utah Center for Data Science Webpage](images/Utah-Center-of-DS_cropped.png){width="200"}](https://datascience.utah.edu/)
+[![One Utah Data Science Hub](images/NewHubLogo.png){width="200"}](https://www.research.utah.edu/one-utah-data-science-hub/)[![Data Science and Ethics of Technology (DATASET) Initiative Webpage](images/DATASET_Logo.png){width="200"}](https://www.research.utah.edu/one-utah-data-science-hub/data-science-ethics-of-technology-initiative-dataset/)[![Data Exploration and Learning for Precision Health Intelligence (DELPHI) Webpage](images/DELPHI_Logo_long.png){width="200"}](https://uofuhealth.utah.edu/delphi-data-science-initiative)[![Utah Center for Data Science Webpage](images/Utah-Center-of-DS_cropped.png){width="200"}](https://datascience.utah.edu/)
 
 ------------------------------------------------------------------------
 

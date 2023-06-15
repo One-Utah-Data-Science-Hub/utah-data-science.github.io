@@ -10,10 +10,10 @@ website:
       - icon: twitter
         href: https://twitter.com/UtahDataSciHub
       - icon: envelope
-        href: mailto:penny.atkins@hsc.utah.edu?subject=Utah%20Data%20Science%20Page%20Request
+        href: mailto:data-science-hub@utah.edu?subject=Utah%20Data%20Science%20Webpage%20Request
     style: "docked"
     search: true
-    logo: images/HubLogo.png
+    logo: images/NewHubLogoSquare.png
     contents:
       - text: "Overview"
         href: about.qmd
@@ -45,8 +45,12 @@ website:
         href: news.qmd
       - text: "Data Resources"
         href: data.qmd
-      - text: "Research Areas - Coming Soon!"
+      - text: "Strengths and Aspirations"
         href: research.qmd
+      - text: "Positions and Projects"
+        href: projects.qmd
+      - text: "Collaboration"
+        href: collaborations.qmd
     
 format:
   html:

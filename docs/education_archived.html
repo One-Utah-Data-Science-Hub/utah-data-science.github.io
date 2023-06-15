@@ -87,11 +87,11 @@ ul.task-list li input[type="checkbox"] {
   <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal sidebar-navigation docked overflow-auto">
     <div class="pt-lg-2 mt-2 text-left sidebar-header">
       <a href="./index.html" class="sidebar-logo-link">
-      <img src="./images/HubLogo.png" alt="" class="sidebar-logo py-0 d-lg-inline d-none">
+      <img src="./images/NewHubLogoSquare.png" alt="" class="sidebar-logo py-0 d-lg-inline d-none">
       </a>
       <div class="sidebar-tools-main">
     <a href="https://twitter.com/UtahDataSciHub" title="" class="quarto-navigation-tool px-1" aria-label=""><i class="bi bi-twitter"></i></a>
-    <a href="mailto:penny.atkins@hsc.utah.edu?subject=Utah%20Data%20Science%20Page%20Request" title="" class="quarto-navigation-tool px-1" aria-label=""><i class="bi bi-envelope"></i></a>
+    <a href="mailto:data-science-hub@utah.edu?subject=Utah%20Data%20Science%20Webpage%20Request" title="" class="quarto-navigation-tool px-1" aria-label=""><i class="bi bi-envelope"></i></a>
 </div>
       </div>
         <div class="mt-2 flex-shrink-0 align-items-center">
@@ -185,39 +185,40 @@ ul.task-list li input[type="checkbox"] {
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
+  <a href="./roster.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Data Science Roster</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
   <a href="./news.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">News and Highlights</span></a>
   </div>
 </li>
-        <li class="sidebar-item sidebar-item-section">
-      <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" aria-expanded="true">
- <span class="menu-text">WIP - Coming Soon!</span></a>
-          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" aria-expanded="true" aria-label="Toggle section">
-            <i class="bi bi-chevron-right ms-2"></i>
-          </a> 
-      </div>
-      <ul id="quarto-sidebar-section-3" class="collapse list-unstyled sidebar-section depth1 show">  
-          <li class="sidebar-item">
+        <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./data.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Data Resources</span></a>
   </div>
 </li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./roster.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Roster</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
+        <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./research.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Research Areas</span></a>
+ <span class="menu-text">Strengths and Aspirations</span></a>
   </div>
 </li>
-      </ul>
-  </li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./projects.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Positions and Projects</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./collaborations.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Collaboration</span></a>
+  </div>
+</li>
     </ul>
     </div>
 </nav>
@@ -231,6 +232,7 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#software-carpentries" id="toc-software-carpentries" class="nav-link active" data-scroll-target="#software-carpentries">Software Carpentries</a>
   <ul class="collapse">
   <li><a href="#introduction-to-python" id="toc-introduction-to-python" class="nav-link" data-scroll-target="#introduction-to-python">Introduction to Python</a></li>
+  <li><a href="#introduction-to-r" id="toc-introduction-to-r" class="nav-link" data-scroll-target="#introduction-to-r">Introduction to R</a></li>
   </ul></li>
   </ul>
 </nav>
@@ -263,6 +265,9 @@ ul.task-list li input[type="checkbox"] {
 <strong>Where:</strong> EHSEB 3515B, 26 2000 E, Salt Lake City, UT 84112<br>
 <strong>Instructors:</strong> Janani Hariharan, Harriet Dashnow<br>
 Additional Information can be found on the <a href="https://quinlan-lab.github.io/2022-10-11-Utah-Python/">website</a>.</p>
+</section>
+<section id="introduction-to-r" class="level3">
+<h3 class="anchored" data-anchor-id="introduction-to-r">Introduction to R</h3>
 <p><strong>When:</strong> May 17-18, 2023<br>
 <strong>Where:</strong> EHSEB 2680, 26 2000 E, Salt Lake City, UT 84113<br>
 <strong>Instructors:</strong> Rebecca Barter, George Vega Yon<br>
@@ -504,6 +509,20 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       });
     }
   }
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+      var filterRegex = new RegExp("^(?:http:|https:)\/\/www\.utah-data-science-hub\.github\.io\/**");
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+          // target, if specified
+          link.setAttribute("target", "_blank");
+      }
+    }
 });
 </script>
 </div> <!-- /content -->

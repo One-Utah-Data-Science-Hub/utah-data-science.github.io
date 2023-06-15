@@ -20,6 +20,7 @@ We invite faculty and staff to present their research highlights, research needs
 * **Multidisciplinary Data Integration for Climate Change Resilience in the American West** 
   + PI: Tabitha Benney
   + Co-PIs: Divya Chandrasekhar, Masood Parvania, John Horel, Manish Parashar
+  + October 19-20, 2023, West Ballroom of the Union
   + Additional details forthcoming
 <!--  + Keynote: What is the current and future role of data science in building climate change resilience and advancing adaptative capacity in the western U.S.?
   + Track 1: Critical Infrastructure Systems Data, Masood Parvania and Heather Holmes
@@ -30,8 +31,9 @@ We invite faculty and staff to present their research highlights, research needs
 * **Bias, Ethics, and Trustworthiness in Data Science and AI**
   + PI: Rebecca Barter
   + Co-PIs: Daniel Scharfstein, Jim Hotaling, Aaron Quinlan
+  + September 15, 2023, 11am-2pm
   + Additional details forthcoming
   
 ## DELPHI Symposium *- Save the Date* 
-**When:** October 20, 2023, 9am - 5pm  
+**When:** October 20, 2023, 9am - 3pm  
 **Where:** Cleone Peterson Eccles Alumni House

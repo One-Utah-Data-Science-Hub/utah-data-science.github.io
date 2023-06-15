@@ -11,6 +11,8 @@ format: html
 **Instructors:** Janani Hariharan, Harriet Dashnow\
 Additional Information can be found on the [website](https://quinlan-lab.github.io/2022-10-11-Utah-Python/).
 
+
+### Introduction to R
 **When:** May 17-18, 2023\
 **Where:** EHSEB 2680, 26 2000 E, Salt Lake City, UT 84113\
 **Instructors:** Rebecca Barter, George Vega Yon\

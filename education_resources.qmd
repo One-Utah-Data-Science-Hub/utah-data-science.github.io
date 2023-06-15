@@ -9,5 +9,7 @@ format: html
 
 ### Reference Materials
 * [Applied HPC with R](https://book-hpc.ggvy.cl/) by George Vega Yon
+* [Human Centered Data Science](https://mitpress.mit.edu/9780262543217/human-centered-data-science/), co-authored by Marina Kogan
+* [Mathematical Foundations for Data Analysis](https://mathfordata.github.io/) by Jeff Phillips
 * [R for Data Science](https://r4ds.had.co.nz/)
 * [NIH STRIDES Cloud Training](https://cloud.nih.gov/training/)
