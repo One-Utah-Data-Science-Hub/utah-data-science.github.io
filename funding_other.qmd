@@ -3,24 +3,24 @@ title: "Other Funding Opportunities"
 format: html
 editor: visual
 ---
-<!-- ### []()
+<!-- ### [](){target="_blank"}
 * S
 * Deadline: 
 * Award: $ for durations up to  years -->
 ## Foundation Funding Opportunities
-### [Digital Assessment Tools for FTD and ALS](https://www.als.org/research/funding-opportunities/digital-assessment-tools-ftd-and-als-2023)
+### [Digital Assessment Tools for FTD and ALS](https://www.als.org/research/funding-opportunities/digital-assessment-tools-ftd-and-als-2023){target="_blank"}
 * Supports the development of digital tools with broad applicability across the FTD-ALS spectrum beyond the discovery stage toward validation with two types of projects:
   + *Advancing Tool Development*
   + *Creating a Conceptual Model as a Guide for Digital Outcome Assessment Development*
 * Deadline: July 14, 2023
 * Award: $150-400K for durations up to two years
 
-### [LTC Data Cooperative: Real World Data Scholars Program](https://impactcollaboratory.org/ltc-real-world-data-scholars-program/)
+### [LTC Data Cooperative: Real World Data Scholars Program](https://impactcollaboratory.org/ltc-real-world-data-scholars-program/){target="_blank"}
 * Supports the development of advanced graduate students, postdoctoral fellows, and early-career faculty who are interested in developing their expertise and experience in working with electronic health record (EHR) data. 
 * Deadline: August 4, 2023
 * Award: $50K (direct) for one year
 
-### [Simons Foundation: Scientific Software Research Faculty Award](https://www.simonsfoundation.org/grant/scientific-software-research-faculty-award/)
+### [Simons Foundation: Scientific Software Research Faculty Award](https://www.simonsfoundation.org/grant/scientific-software-research-faculty-award/){target="_blank"}
 * Supports the development and maintenance of core scientific software infrastructure in academic environments through creating a new, long-term, faculty-level career path.
 * Deadline: December 8, 2023
 * Award: 50% salary and $50K allowable expenses for durations up to five years
@@ -29,20 +29,20 @@ editor: visual
 
 
 ## Industry Funding Opportunities
-### [OpenAI, Inc.: Pilot Grants for Democratic Inputs to Artificial Intelligence](https://openai.com/blog/democratic-inputs-to-ai)
+### [OpenAI, Inc.: Pilot Grants for Democratic Inputs to Artificial Intelligence](https://openai.com/blog/democratic-inputs-to-ai){target="_blank"}
 * Supports experiments in setting up a democratic process for deciding what rules AI systems should follow within the bounds defined by the law.
 * Deadline: June 24, 2023
 * Award: $100K
 * Please contact [Gwen Allouch](mailto:gwen.allouch@hsc.utah.edu) if you are interested in applying to this opportunity.
 
-### [Permanente Medical Group: Artificial Intelligence and Machine Learning in Healthcare Grants](https://divisionofresearch.kaiserpermanente.org/projects/aim-hi?kp_shortcut_referrer=kp.org/aim-hi)
+### [Permanente Medical Group: Artificial Intelligence and Machine Learning in Healthcare Grants](https://divisionofresearch.kaiserpermanente.org/projects/aim-hi?kp_shortcut_referrer=kp.org/aim-hi){target="_blank"}
 * Supports research that evaluates the implementation of existing Artificial Intelligence/Machine Learning algorithms that enhance diagnostic decision making to achieve the following objective: to advance research methods, identify best practices for scalability, and build capacity for effectively implementing and rigorously evaluating the use of AI/ML algorithms for diagnostic decision-making in real-world settings.
 * Deadline: October 13, 2023 (LOI due June 30, 2023)
 * Award: $750K
 * Please contact [Lynn Wong](mailto:lynn.wong@hsc.utah.edu) if you are interested in applying for this opportunity. 
 
 ## Governmental Funding Opportunities
-### [ARPA-H: Open-Office Broad Agency Announcement](https://arpa-h.gov/engage/baa/)
+### [ARPA-H: Open-Office Broad Agency Announcement](https://arpa-h.gov/engage/baa/){target="_blank"}
 * Supports research aiming to improve health outcomes across patient populations, communities, diseases, and health conditions. The BAA calls for proposals to outline breakthrough research and technological advancements.
   + Health Science Futures - Expanding what's technically possible
   + Scalable Solutions - Reaching everyone quickly
@@ -51,55 +51,55 @@ editor: visual
 * Deadline: Rolling, expires March 14, 2024
 * Award: Unspecified, budget must be align with the project scope
 
-### [Utah System of Higher Education: Computer Science Targeted Workforce Initiative Grant](https://drive.google.com/file/d/1aLPZH-mcI_BBuVslNrNlWiweOnvx86bF/view)
+### [Utah System of Higher Education: Computer Science Targeted Workforce Initiative Grant](https://drive.google.com/file/d/1aLPZH-mcI_BBuVslNrNlWiweOnvx86bF/view){target="_blank"}
 * Supports the creation and/or expansion of capacity in computer science workforce education programs to include: Information Security Analysts, Software Developers and QA Analysts, Digital Interface Designers, Computer and Information Research Scientists, Database Administrators, and Architects.
 * Deadline: June 19, 2023, recurring quarterly if funds remain
 * Award: Unspecified, $4.5M available
 
-### [Utah System of Higher Education: Healthcare Targeted Workforce Initiative Grant Request for Proposals](https://drive.google.com/file/d/1aLbxQh74PyzdtrCKzd3WfXWBRtfnyEpg/view)
+### [Utah System of Higher Education: Healthcare Targeted Workforce Initiative Grant Request for Proposals](https://drive.google.com/file/d/1aLbxQh74PyzdtrCKzd3WfXWBRtfnyEpg/view){target="_blank"}
 * Supports the creation and/or expansion of capacity in healthcare workforce education programs to include: Respiratory Therapists, Registered Nurses, Licensed Practical Nurses, Radiology Technologists, Surgical Technologists, Diagnostic Medical Sonographers, Behavioral Health, Psychiatric Technicians, and/or Behavioral Management Specialists.
 * Deadline: June 19, 2023, recurring quarterly if funds remain
 * Award: Unspecified, $4.5M available
 
-### [HHS: Career Pathways Secondary Data Analysis Grants](https://www.grants.gov/web/grants/view-opportunity.html?oppId=344009)
+### [HHS: Career Pathways Secondary Data Analysis Grants](https://www.grants.gov/web/grants/view-opportunity.html?oppId=344009){target="_blank"}
 * Supports secondary analysis of data collected to rigorously evaluate a collection of career pathways programs. The purpose of these awards is to better understand the effectiveness of services funded by Temporary Assistance for Needy Families (TANF) programs that aim to address the employment and self-sufficiency needs of TANF recipients and those eligible for or at risk of TANF receipt.
 * Deadline: June 29, 2023
 * Award: $100K
 
-### [NIST: Regional Alliances and Multistakeholder Partnerships to Stimulate (RAMPS) Cybersecurity Education and Workforce Development](https://www.grants.gov/web/grants/view-opportunity.html?oppId=348550)
+### [NIST: Regional Alliances and Multistakeholder Partnerships to Stimulate (RAMPS) Cybersecurity Education and Workforce Development](https://www.grants.gov/web/grants/view-opportunity.html?oppId=348550){target="_blank"}
 * Supports activities to establish community-based partnerships to develop cybersecurity career pathways that address local workforce needs. 
 * Deadline: August 7, 2023
 * Award: $200K for durations up to two years
 
-### [US Economic Development Administration: Regional Technology and Innovation Hubs (Tech Hubs) Phase 1](https://www.grants.gov/web/grants/view-opportunity.html?oppId=348101)
+### [US Economic Development Administration: Regional Technology and Innovation Hubs (Tech Hubs) Phase 1](https://www.grants.gov/web/grants/view-opportunity.html?oppId=348101){target="_blank"}
 * Supports consortia through an economic development initiative designed to drive regional technology- and innovation-centric growth by strengthening a region’s capacity to manufacture, commercialize, and deploy critical technologies.
 * Deadline: August 15, 2023
 * Award: $500K, ability to apply for Phase 2
 
-### [DoD: Prostate Cancer, Data Science Award](https://www.grants.gov/web/grants/view-opportunity.html?oppId=347770)
+### [DoD: Prostate Cancer, Data Science Award](https://www.grants.gov/web/grants/view-opportunity.html?oppId=347770){target="_blank"}
 * Supports research where quantitative and analytical approaches, processes, and/or systems are developed and/or used to obtain knowledge and insight from large and/or complex sets of prostate cancer data.
 * Deadline: August 24, 2023
 * Award: $1M direct
 
-### [NEH: Humanities Connections](https://www.grants.gov/web/grants/view-opportunity.html?oppId=348280)
+### [NEH: Humanities Connections](https://www.grants.gov/web/grants/view-opportunity.html?oppId=348280){target="_blank"}
 * Supports the planning or implementation of curricular projects connecting the humanities to the physical and natural sciences; pre-service or professional programs, including law and business; computer science, data science, and other technology-driven fields; or other non-humanities departments or schools. 
 * Deadline: September 7, 2023 (Optional draft due July 21, 2023)
 * Award: $50K for planning for 1 year, $150K for implementation for 1.5 to 3 years
 
 
 ## Challenges and Other Opportunities
-* [The Veterans Cardiac Health and AI Model Predictions (V-CHAMPS) Challenge](https://precision.fda.gov/challenges/31) calls on the scientific and data analytics community to develop and evaluate Artificial Intelligence and Machine Learning (AI/ML) models to predict cardiovascular health related outcomes in Veterans. Challenge open through July 26, 2023. 
+* [The Veterans Cardiac Health and AI Model Predictions (V-CHAMPS) Challenge](https://precision.fda.gov/challenges/31){target="_blank"} calls on the scientific and data analytics community to develop and evaluate Artificial Intelligence and Machine Learning (AI/ML) models to predict cardiovascular health related outcomes in Veterans. Challenge open through July 26, 2023. 
 
-* [2023 DataWorks! Prize](https://www.herox.com/dataworks) will recognize and reward exceptional data practices in biological and biomedical research labs during the active phase of research which enable robust data sharing and reuse, and create a library of best practice methods that can be used by the broader research community. Submit your data sharing/reuse best practice recipes in a form that can be used by an audience of your peers, such as a teaching resource or tool for active data management, by July 24, 2023 for a chance to win up to $100k. 
+* [2023 DataWorks! Prize](https://www.herox.com/dataworks){target="_blank"} will recognize and reward exceptional data practices in biological and biomedical research labs during the active phase of research which enable robust data sharing and reuse, and create a library of best practice methods that can be used by the broader research community. Submit your data sharing/reuse best practice recipes in a form that can be used by an audience of your peers, such as a teaching resource or tool for active data management, by July 24, 2023 for a chance to win up to $100k. 
 
 
 
 ## Policy and Engagement
-* [Health Data, Technology, and Interoperability: Certification Program Updates, Algorithm Transparency, and Information Sharing (HTI-1) Proposed Rule](https://www.healthit.gov/topic/laws-regulation-and-policy/health-data-technology-and-interoperability-certification-program) public comment period ends June 20, 2023. 
+* [Health Data, Technology, and Interoperability: Certification Program Updates, Algorithm Transparency, and Information Sharing (HTI-1) Proposed Rule](https://www.healthit.gov/topic/laws-regulation-and-policy/health-data-technology-and-interoperability-certification-program){target="_blank"} public comment period ends June 20, 2023. 
 
-* [**Request for Information** National Priorities for Artificial Intelligence](https://www.whitehouse.gov/wp-content/uploads/2023/05/OSTP-Request-for-Information-National-Priorities-for-Artificial-Intelligence.pdf) due by July 7, 2023. 
+* [**Request for Information** National Priorities for Artificial Intelligence](https://www.whitehouse.gov/wp-content/uploads/2023/05/OSTP-Request-for-Information-National-Priorities-for-Artificial-Intelligence.pdf){target="_blank"} due by July 7, 2023. 
 
 ## Additional Funding Opportunity Resources
-* [ProQuest Pivot listing of funding opportunities related to data science](https://pivot.proquest.com//funding/results?s_id=2660468) requires registration and login through the University of Utah.
+* [ProQuest Pivot listing of funding opportunities related to data science](https://pivot.proquest.com//funding/results?s_id=2660468){target="_blank"} requires registration and login through the University of Utah.
 
 Updated June 13, 2023.

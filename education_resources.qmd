@@ -6,6 +6,7 @@ format: html
 * [Introduction to Data Science Course](https://datasciencecourse.net/2023/index.html)
 * [School of Computing Data Science YouTube Channel](https://www.youtube.com/@UofUDataScience/videos)
 * [Utah Data Science Club YouTube Channel](https://www.youtube.com/@utahdatascience6178/videos)
+* [ETH Zurich Deep Learning in Scientific Computing on YouTube](https://www.youtube.com/@CAMLabETHZurich)
 
 ### Reference Materials
 * [Applied HPC with R](https://book-hpc.ggvy.cl/) by George Vega Yon
