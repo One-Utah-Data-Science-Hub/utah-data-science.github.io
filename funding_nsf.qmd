@@ -66,7 +66,7 @@ format: html
 * Award: $750K for Phase 1 for durations of one year (supports application to Phase 2 for $5M total for durations of two years)
 
 ### [Cyberinfrastructure Technology Acceleration Pathway (CITAP)](https://new.nsf.gov/funding/opportunities/cyberinfrastructure-technology-acceleration){target="_blank"}
-* Supports the translation of innovative research CI software  such as system software, libraries, application codes, and software enabling data services. 
+* Supports the translation of innovative research CI software, such as system software, libraries, application codes, and software enabling data services. 
 * Deadline: September 6, 2023
 * Award: $10M for durations up to five years with opportunity for renewal
 
@@ -89,6 +89,8 @@ format: html
     *   *Transition to Cyberinfrastructure Resilience (TCR)*: Projects in this program area should improve the robustness, trustworthiness, integrity, and/or resilience of scientific cyberinfrastructure through testing, evaluation, hardening, validation, and technology transition of novel cybersecurity research. The TCR area further encourages transition activities that advance the deployment and use of reproducibility in CI, workflows, and data.
 *   Deadline: February 1, 2024
 *   Award: \$600K *(UCSS and RSSD)* - \$1.2M *(TCR)* for durations up to three years
+
+
 
 
 
@@ -179,6 +181,11 @@ format: html
 *   Deadline: March 1, 2024, annually thereafter
 *   Award: \$500-750K for durations up to three years
 
+### [National Artificial Intelligence (AI) Research Institutes](https://new.nsf.gov/funding/opportunities/national-artificial-intelligence-research){target="_blank"}
+* Supports institutes focused on long-term, high-reward AI research, with themes including next-generation cybersecurity, neural and cognitive foundations of AI, climate-smart agriculture and forestry, trustworthy AI, and AI-augmented learning.
+* Deadline: May 2024 (anticipated, recurring every other year)
+* Award: $16-20M for durations of four or five years
+
 ### [Mid-scale Research Infrastructure-1 (Mid-scale RI-1)](https://new.nsf.gov/funding/opportunities/mid-scale-research-infrastructure-1-mid-scale-ri-1){target="_blank"}
 * Supports the design and implementation of research infrastructure — including equipment, cyberinfrastructure, large-scale datasets and personnel — whose total project costs exceed NSF's Major Research Instrumentation program but are under $20 million.
 * Deadline: January 2025 (anticipated, recurring every other year)
@@ -229,4 +236,4 @@ format: html
 
 * [Fairness, Ethics, Accountability, and Transparency: Enabling Breakthrough Research to Expand Inclusivity in Computer and Information Science and Engineering Research](https://www.nsf.gov/pubs/2019/nsf19016/nsf19016.jsp){target="_blank"} <!-- Nov 2, 2018 -->
 
-Updated June 13, 2023.
+Updated June 20, 2023.

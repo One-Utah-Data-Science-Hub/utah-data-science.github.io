@@ -6,11 +6,6 @@ title: "NIH Funding Opportunities"
 * Deadline: 
 * Award: , $ for durations up to  years -->
 ## Cooperative Agreement (U) Grants
-### [ClinGen Genomic Curation Expert Panels](https://grants.nih.gov/grants/guide/pa-files/PAR-23-199.html){target="_blank"}
-* Supports the establishment of Expert Panels that will select genes and genomic variants associated with diseases or conditions of high priority to participating NIH Institutes and Centers (ICs) and systematically determine their clinical significance for diagnosis and treatment of these diseases or conditions. 
-* Deadline: July 19, 2023 (LOI due 1 month prior), recurring on May 25, 2024 and 2025
-* Award: U24, $220K/year (direct) for durations up to three years
-
 ### [Alzheimer's Disease (AD) and AD-Related Dementias (ADRD) Real-World Data Platform](https://grants.nih.gov/grants/guide/rfa-files/RFA-AG-24-009.html){target="_blank"}
 * Supports the transformation of the AD/ADRD research enterprise by serving as a central hub of research access that seeks to: 1) improve applicability and generalizability of findings through larger datasets that include more diverse populations; 2) capture more complete information through linking a variety of data sources; 3) increase the speed at which scientific questions can be answered; and 4) improve researchers’ ability to answer questions that cannot be feasibly or readily answered via clinical trial.
 * Deadline: July 31, 2023 (LOI due 1 month prior)
@@ -25,6 +20,11 @@ title: "NIH Funding Opportunities"
 * Supports research that will integrate and harmonize existing large prevention trial data sets consisting of well-characterized participant-level data for interventions implemented earlier in life to examine whether they reduce risk for later suicide, including suicidal thoughts and behaviors — fatal and nonfatal (STB), and related external injuries (e.g., nonfatal SUD/OUD/accidents, and all-cause mortality (e.g., National Death Index)). 
 * Deadline: October 10, 2023 (LOI due 1 month prior)
 * Award: U01, budget must align with the project scope ($3M/year), for durations up to four years
+
+### [Development of Software for Data Science in Infectious and Immune-Mediated Diseases Research](https://grants.nih.gov/grants/guide/rfa-files/RFA-AI-23-038.html){target="_blank"}
+* Supports the development of software to improve the acquisition, management, analysis, visualization, and dissemination of data and knowledge for data science research on infectious and immune-mediated diseases (IID). 
+* Deadline: October 11, 2023 (LOI due 1 month prior)
+* Award: U01, $300K/year (direct) for durations of three years
 
 ### [Precision Mental Health: Develop Tools to Inform Treatment Selection in Depression](https://grants.nih.gov/grants/guide/rfa-files/RFA-MH-24-120.html){target="_blank"}
 * Supports creation of a pipeline to accelerate the development and early validation of predictive tools and/or biomarkers to inform individual-level treatment selection among two or more existing therapeutics for depression. 
@@ -41,7 +41,7 @@ title: "NIH Funding Opportunities"
 * Deadline: October 23, 2023 (LOI due 1 month prior)
 * Award: U01, $1.5M/year (direct) for durations up to five years
 
-### [Integration of Novel Measures for Improved Classification of Type 2 Diabetes](https://grants.nih.gov/grants/guide/rfa-files/rfa-dk-23-020.html){target="_blank"}
+### [Integration of Novel Measures for Improved Classification of Type 2 Diabetes](https://grants.nih.gov/grants/guide/rfa-files/rfa-dk-23-019.html){target="_blank"}
 * Supports a consortium to bring together investigative teams for integration of multiple data types, including markers of organ or tissue function, into analysis approaches for stratifying individuals with type 2 diabetes (T2D) and developing more precise definitions of disease. 
 * Deadline: October 26, 2023 (LOI due 1 month prior)
 * Award: U01, $500K/year (direct) for durations up to five years
@@ -66,10 +66,20 @@ title: "NIH Funding Opportunities"
 * Deadline: November 7, 2023 (Expected)
 * Award: U01, budget must align with the project scope ($750K/year) for durations of five years
 
+### [Early-Stage Development of Informatics Technologies for Cancer Research and Management](https://grants.nih.gov/grants/guide/rfa-files/RFA-CA-23-015.html){target="_blank"}
+* Supports the development of enabling informatics technologies to improve the acquisition, management, analysis, and dissemination of data and knowledge across the cancer research continuum including cancer biology, cancer treatment and diagnosis, early cancer detection, risk assessment and prevention, cancer control and epidemiology, and/or cancer health disparities. 
+* Deadline: November 17, 2023 (LOI due 1 month prior)
+* Award: U01, $300K/year (direct) for durations of three years
+
 ### [Consortium Organization and Data Collaboration Center (CODCC) for the Human Virome Project (HVP)](https://grants.nih.gov/grants/guide/notice-files/NOT-RM-23-016.html){target="_blank"}
 * Supports the HVP CODCC to serve as an organizational hub to provide support for administrative activities, promotion of research protocols and tool development, and assist data and biospecimen collection and harmonization. The CODCC will create and maintain a program data portal that will be an interactive dashboard and repository with visualization and search capabilities. 
 * Deadline: November 29, 2023 (expected)
 * Award: U24, forthcoming
+
+### [ClinGen Genomic Curation Expert Panels](https://grants.nih.gov/grants/guide/pa-files/PAR-23-199.html){target="_blank"}
+* Supports the establishment of Expert Panels that will select genes and genomic variants associated with diseases or conditions of high priority to participating NIH Institutes and Centers (ICs) and systematically determine their clinical significance for diagnosis and treatment of these diseases or conditions. 
+* Deadline: May 25, 2024 (LOI due 1 month prior), recurring on May 25, 2025
+* Award: U24, $220K/year (direct) for durations up to three years
 
 ### [BRAIN Initiative: Development of Novel Tools to Probe Cell-Specific and Circuit-Specific Processes in Human and Non-Human Primate Brain](https://grants.nih.gov/grants/guide/rfa-files/RFA-MH-23-295.html){target="_blank"}
 * Supports the development and validation of novel tools to facilitate the detailed analysis and manipulation of complex circuits in large brains. Critical advances in the treatment of brain disorders in human populations are hindered by our lack of ability to monitor and manipulate circuitry in safe, minimally-invasive ways. 
@@ -148,6 +158,11 @@ title: "NIH Funding Opportunities"
 * Deadline: September 12, 2023 and September 12, 2024 (LOI due 1 month prior) 
 * Award: R01, approximately $150-250K for durations up to three years
 
+### [Enhancing Use of Harmonized Cognitive Assessment Protocol Data](https://grants.nih.gov/grants/guide/rfa-files/RFA-AG-24-032.html){target="_blank"}
+* Supports  analyses of HCAP data from the U.S. or from another country where HCAP data is available, or cross-national analyses of HCAP data. This research will help further our understanding of how different behavioral, social, cultural, environmental, and institutional factors affect the trajectory of cognitive aging and AD/ADRD and the experience of living with or managing AD/ADRD in different national or regional contexts.
+* Deadline: October 2, 2023 (LOI due 1 month prior)
+* Award: R01, $500K/year (direct) for durations up to five years
+
 ### [BRAIN Initiative: Targeted BRAIN Circuits Projects- TargetedBCP](https://grants.nih.gov/grants/guide/rfa-files/RFA-NS-23-024.html){target="_blank"}
 * Supports research projects that seek to understand how circuit activity gives rise to mental experience and behavior using innovative, methodologically-integrated approaches.
 * Deadline: October 4, 2023 (LOI due 1 month prior), recurring in June and October through 2024
@@ -211,11 +226,6 @@ title: "NIH Funding Opportunities"
 * Deadline: September 22, 2023 (LOI due 1 month prior)
 * Award: R21/R33, $275K/year (direct) for R21 and $500K/year (direct) for R33 for durations up to five years (two years for R21, three years for R33)
 
-### [HEAL Initiative: Toward Developing Quantitative Imaging and Other Relevant Biomarkers of Myofascial Tissues for Clinical Pain Management](https://grants.nih.gov/grants/guide/rfa-files/RFA-AT-24-003.html){target="_blank"}
-* Supports the development of innovative methods for quantitative evaluation of  myofascial tissues for pain management involving research participants using a two-phase grant funding mechanism.
-* Deadline: October 2, 2023 (LOI due 1 month prior)
-* Award: R61/R33, $500K/year (direct) for durations up to two years for R61, $700K/year (direct) for durations up to three years for R33
-
 ### [BRAIN Initiative: Targeted BRAIN Circuits Planning Projects – TargetedBCPP](https://grants.nih.gov/grants/guide/rfa-files/RFA-NS-23-023.html){target="_blank"}
 * Supports research projects that offer a limited scope of aims and an approach that will establish feasibility, validity, or other technically qualifying results that, if successful, would support, enable, and/or lay the groundwork for a potential, subsequent Targeted BRAIN Circuits Projects - Targeted BCP R01.
 * Deadline: October 4, 2023 (LOI due 1 month prior), recurring in June and October through 2024
@@ -225,6 +235,11 @@ title: "NIH Funding Opportunities"
 * Supports vision-related secondary data analyses utilizing existing database resources.
 * Deadline: October 16, 2023, annually in February, June, and October through Feb 2025 <!-- on the 16th -->
 * Award: R21, $275K (direct) for durations up to two years
+
+### [HEAL Initiative: Toward Developing Quantitative Imaging and Other Relevant Biomarkers of Myofascial Tissues for Clinical Pain Management](https://grants.nih.gov/grants/guide/rfa-files/RFA-AT-24-003.html){target="_blank"}
+* Supports the development of innovative methods for quantitative evaluation of  myofascial tissues for pain management involving research participants using a two-phase grant funding mechanism.
+* Deadline: October 18, 2023 (LOI due 1 month prior)
+* Award: R61/R33, $500K/year (direct) for durations up to two years for R61, $700K/year (direct) for durations up to three years for R33
 
 ### [Secondary Analysis of Existing Datasets in Heart, Lung, and Blood Diseases and Sleep Disorders](https://grants.nih.gov/grants/guide/pa-files/PAR-23-036.html){target="_blank"}
 * Supports secondary analyses using existing human datasets in areas relevant to the National Heart, Lung, Blood Diseases and Sleep Disorders Institute (NHLBI) scientific mission.
@@ -294,10 +309,11 @@ title: "NIH Funding Opportunities"
 * [Leveraging Data Science to Bring Actionable Insights for Substance Use Prevention and Treatment](https://grants.nih.gov/grants/guide/notice-files/NOT-DA-23-006.html){target="_blank"} expires September 8, 2025.
 * [Optimization of Data Storage and Utilization for the Sequence Read Archive (SRA)](https://grants.nih.gov/grants/guide/notice-files/NOT-GM-23-015.html){target="_blank"} expires December 19, 2025.
 * [Computational and Statistical Methods to Enhance Discovery from Health Data](https://grants.nih.gov/grants/guide/notice-files/NOT-LM-23-001.html){target="_blank"} expires January 8, 2026.
+* [Applications of Data Science in Translational Dental, Oral, and Craniofacial Research](https://grants.nih.gov/grants/guide/notice-files/NOT-DE-23-002.html){target="_blank"} expires May 8, 2026.
 
 ## Funding Opportunity Resources
 * See the [full listing of *All of Us* funding opportunities](https://allofus.nih.gov/funding-and-program-partners/funding-opportunities?utm_medium=email&utm_source=mailchimp&utm_campaign=researcher_news&utm_medium=email&utm_source=mailchimp&utm_campaign=researcher_news){target="_blank"}.
 
 * [NIH Office for Data Science Strategy](https://datascience.nih.gov/research-and-training-funding){target="_blank"} list of funding opportunities.
 
-Updated June 13, 2023.
+Updated June 20, 2023.

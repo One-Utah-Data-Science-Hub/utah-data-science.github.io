@@ -130,9 +130,12 @@ format: html
 * Supports small businesses and technology integrators, in the areas of Artificial Intelligence/Machine Learning, Autonomy, Climate and Clean Technologies, Immersive/Wearables, and Sensors, to engage with the DoD, earn prize money, participate in the accelerator program and submit for a Direct to Phase II SBIR award.
 * Deadline: June 7, 2023
 * Award: Participation in the accelerator program and submit for a Direct to Phase II SBIR award
+
 ### [IARPA: Rapid Explanation, Analysis and Sourcing Online (REASON)](https://www.iarpa.gov/research-programs/reason)
 * Supports novel technologies that will enable intelligence analysts to substantially improve the evidence and reasoning in draft analytic reports.
   + Task Area 1 (TA1) – Identify Additional Evidence
   + Task Area 2 (TA2) – Identify Reasoning Strengths and Weaknesses
   + Task Area 3 (TA3) – Produce Comments to Increase Quality of Argumentation
 * Deadline: May 8, 2023
+
+<!-- * [Health Data, Technology, and Interoperability: Certification Program Updates, Algorithm Transparency, and Information Sharing (HTI-1) Proposed Rule](https://www.healthit.gov/topic/laws-regulation-and-policy/health-data-technology-and-interoperability-certification-program){target="_blank"} public comment period ends June 20, 2023. -->
