@@ -29,12 +29,6 @@ editor: visual
 
 
 ## Industry Funding Opportunities
-### [OpenAI, Inc.: Pilot Grants for Democratic Inputs to Artificial Intelligence](https://openai.com/blog/democratic-inputs-to-ai){target="_blank"}
-* Supports experiments in setting up a democratic process for deciding what rules AI systems should follow within the bounds defined by the law.
-* Deadline: June 24, 2023
-* Award: $100K
-* Please contact [Gwen Allouch](mailto:gwen.allouch@hsc.utah.edu) if you are interested in applying to this opportunity.
-
 ### [Permanente Medical Group: Artificial Intelligence and Machine Learning in Healthcare Grants](https://divisionofresearch.kaiserpermanente.org/projects/aim-hi?kp_shortcut_referrer=kp.org/aim-hi){target="_blank"}
 * Supports research that evaluates the implementation of existing Artificial Intelligence/Machine Learning algorithms that enhance diagnostic decision making to achieve the following objective: to advance research methods, identify best practices for scalability, and build capacity for effectively implementing and rigorously evaluating the use of AI/ML algorithms for diagnostic decision-making in real-world settings.
 * Deadline: October 13, 2023 (LOI due June 30, 2023)
@@ -119,6 +113,11 @@ editor: visual
 * Deadline: September 7, 2023 (Optional draft due July 21, 2023)
 * Award: $50K for planning for 1 year, $150K for implementation for 1.5 to 3 years
 
+### [NIH NPH: AIMINGS AI for Precision Nutrition Pilot Program Round Two](https://www.phicor.org/rfa){target="_blank"}
+* Supports research projects that develop and utilize artificial intelligence (AI) and other computer-aided approaches to facilitate precision nutrition. 
+* Deadline: October 2, 2023
+* Award: $125K (total) for one year
+
 
 
 ## Challenges and Other Opportunities
@@ -134,4 +133,4 @@ editor: visual
 ## Additional Funding Opportunity Resources
 * [ProQuest Pivot listing of funding opportunities related to data science](https://pivot.proquest.com//funding/results?s_id=2660468){target="_blank"} requires registration and login through the University of Utah.
 
-Updated June 20, 2023.
+Updated June 23, 2023.

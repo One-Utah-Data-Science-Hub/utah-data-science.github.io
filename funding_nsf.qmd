@@ -49,6 +49,8 @@ format: html
   + *CORE and TTP Medium Projects* $1.2M for durations up to four years
   + *EDU Projects* $400K for durations up to three years or $500K for durations up to three years for collaborations between a cybersecurity subject matter expert and an education researcher
   
+  
+  
 
 
 ## Upcoming Proposal Deadlines
@@ -56,6 +58,11 @@ format: html
 *   Supports developing centers (Phase I) and large, multi-institutional research centers (Phase II) focused on major, long-term chemical research challenges.
 *   Deadline: August 10, 2023 (Preliminary Proposal)
 *   Award: \$1.8M for durations up to three years, eligible for Phase II (\$4M/year for durations up to five years)
+
+### [Assessing and Predicting Technology Outcomes (APTO)](https://new.nsf.gov/funding/opportunities/assessing-predicting-technology-outcomes-apto){target="_blank"}
+* Supports the assessment of how investments in science and technology research and development will contribute to specific technology outcomes: technology capabilities, technology production, and technology use. These models should be able to predict future as well as past states of technology outcomes. 
+* Deadline: August 21, 2023 (Preliminary)
+* Award: $500K to $4M per year for durations of one to five years
 
 ### [NSF Convergence Accelerator Phases 1 and 2 for the 2023 Cohort - Tracks K, L, M](https://new.nsf.gov/funding/opportunities/nsf-convergence-accelerator-phases-1-2-2023-cohort){target="_blank"}
 * Supports the transition of basic research and discovery into practice—to solve high-impact societal challenges aligned with specific research themes (tracks). 
@@ -72,7 +79,7 @@ format: html
 
 ### [BioFoundries to Enable Access to Infrastructure and Resources for Advancing Modern Biology and Biotechnology (BioFoundries)](https://new.nsf.gov/funding/opportunities/biofoundries-enable-access-infrastructure){target="_blank"}
 * Supports grand challenge questions requiring a deeper understanding of biological systems and technologies are as diverse as life itself. Understanding the complexity of living systems and their interactions with human-derived products and processes, ensuring the safe, ethical and equitable access to and co-generation of knowledge and products,  requires the sustained development of technologies, sophisticated instrumentation, workflow pipelines and their automation, and advanced computing that are beyond the capabilities found in the laboratories of individual investigators. 
-* Deadline: October 2, 2023 (LOI due August 1, 2023, )
+* Deadline: October 2, 2023 (LOI due August 1, 2023)
 * Award: $15-24M for durations of six years
 * This is a [*limited submission opportunity*](https://utah.infoready4.com/#competitionDetail/1904678){target="_blank"} due July 11, 2023
 
@@ -236,4 +243,4 @@ format: html
 
 * [Fairness, Ethics, Accountability, and Transparency: Enabling Breakthrough Research to Expand Inclusivity in Computer and Information Science and Engineering Research](https://www.nsf.gov/pubs/2019/nsf19016/nsf19016.jsp){target="_blank"} <!-- Nov 2, 2018 -->
 
-Updated June 20, 2023.
+Updated June 23, 2023.

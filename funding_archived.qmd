@@ -55,7 +55,7 @@ format: html
 	+ Supports multidisciplinary research projects that use AI/ML and develop novel algorithms and approaches that address health disparities and inequities and have the potential to significantly impact healthcare access and health outcomes for populations that experience health disparities.
 	+ Deadline: June 20, 2023 (LOI due May 10, 2023)
 	+ Award: $500K-1M for durations up to two years
-	
+
 ## Notices of Special Interest and Requests for Information
 * [Administrative Supplements to Support Collaborations to Improve the AI/ML-Readiness of NIH-Supported Data](https://grants.nih.gov/grants/guide/notice-files/not-od-23-082.html) expires May 17, 2023.
 
@@ -94,6 +94,12 @@ format: html
 
 
 # Industry Funding Opportunities
+### [OpenAI, Inc.: Pilot Grants for Democratic Inputs to Artificial Intelligence](https://openai.com/blog/democratic-inputs-to-ai){target="_blank"}
+* Supports experiments in setting up a democratic process for deciding what rules AI systems should follow within the bounds defined by the law.
+* Deadline: June 24, 2023
+* Award: $100K
+* Please contact [Gwen Allouch](mailto:gwen.allouch@hsc.utah.edu) if you are interested in applying to this opportunity.
+
 ### [AWS AI: Generative AI call for proposals — Spring 2023](https://www.amazon.science/research-awards/call-for-proposals/aws-ai-generative-ai-call-for-proposals-spring-2023)
 * Supports proposals that focus on innovation related to supporting annotators with machine learning and artificial intelligence.
 * Deadline: April 26, 2023

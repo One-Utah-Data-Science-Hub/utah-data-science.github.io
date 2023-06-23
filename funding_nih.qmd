@@ -51,10 +51,20 @@ title: "NIH Funding Opportunities"
 * Deadline: October 26, 2023 (LOI due 1 month prior)
 * Award: U01, $1M/year (direct) for durations up to five years
 
+### [Center for ELSI Resources and Analysis](https://grants.nih.gov/grants/guide/rfa-files/RFA-HG-23-027.html){target="_blank"}
+* Supports the renewal of the Center for ELSI Resources and Analysis (CERA), that will: 1) provide ELSI researchers with an online platform to share ELSI research products; 2) curate and synthesize ELSI research; and 3) facilitate new research collaborations and uptake of ELSI research. 
+* Deadline: October 26, 2023 (LOI due 1 month prior)
+* Award: U01, $1.5M/year (direct) for durations up to five years (max $6M)
+
 ### [Research Coordinating Center on the Exposome and Alzheimer's Disease (AD) and AD-Related Dementias (ADRD): Elucidating the Role of Social and Behavioral Determinants of Health in AD/ADRD Etiology and Disparities](https://grants.nih.gov/grants/guide/rfa-files/RFA-AG-24-011.html){target="_blank"}
 * Supports the establishment of a national coordinating center that will serve as a centralized hub for accessing, harmonizing, linking, and sharing environmental contextual data and individual exposure data with NIA/NIH-funded projects. 
 * Deadline: October 27, 2023 (LOI due August 27, 2023)
 * Award: U24, $5M/year for durations of five years
+
+### [Informatics Tools for the Pangenome](https://grants.nih.gov/grants/guide/rfa-files/RFA-HG-23-026.html){target="_blank"}
+* Supports the development of informatics tools to facilitate uptake and scientific use of the human pangenome reference being developed and maintained by the NHGRI Human Genome Reference Program (HGRP).
+* Deadline: November 1, 2023 or March 3, 2025 (LOI due 1 month prior)
+* Award: U01, $400L/year (direct) for durations up to three years
 
 ### [Network of Genomic-Enabled Learning Health Systems (gLHS) – Coordinating Center](https://grants.nih.gov/grants/guide/notice-files/NOT-HG-23-045.html){target="_blank"}
 * Supports a network of genomic-enabled learning health systems (gLHS) to identify and improve approaches for clinical integration of genomic information in a virtuous cycle of implementation, assessment, refinement, and reimplementation. Specifically, this initiative would support a coordinating center (CC) for 4-6 established or emerging gLHS clinical sites to share their genomic medicine implementation practices and identify those most suitable for cross-network implementation. 
@@ -269,12 +279,6 @@ title: "NIH Funding Opportunities"
 
 
 ## Other Activities
-### [Artificial Intelligence/Machine Learning Consortium to Advance Health Equity and Researcher Diversity (AIM-AHEAD)](https://www.aim-ahead.net/call-for-proposals-year-2/){target="_blank"}
-* [Hub-Specific Pilot Projects](https://www.aim-ahead.net/call-for-proposals-year-2/hub-specific-pilot-grant-program/){target="_blank"}
-  + Supports stakeholders in their regions to conduct small-scale, community-engaged research studies or capacity building projects that align with the overall goal of AIM-AHEAD.
-	+ Deadline: June 20, 2023
-	+ Award: $75-150K for one year
-	
 ### [NHLBI Trans-Omics for Precision Medicine 2023 Fellowship](https://topmed.nhlbi.nih.gov/2023-topmed-fellowship){target="_blank"}
 * Supports a diverse pool of highly trained scientists pursue further studies or careers in genomic data science research.
 <!-- * [Informational Webinar on June 5, 2023 at 12:00pm](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NXMxa21pMHJ2MWllNWNsY2NzZzIwaGczN3YgY2Y0ZDA4OThhMjJiMmQxOTY5NzU1ZDRiYmU3NzA2M2U4MGVhNDgxMGEyNGEyYTI0ZWQ4NDAwM2IyMjU0NGY1NEBn&tmsrc=cf4d0898a22b2d1969755d4bbe77063e80ea4810a24a2a24ed84003b22544f54%40group.calendar.google.com){target="_blank"} -->
@@ -316,4 +320,4 @@ title: "NIH Funding Opportunities"
 
 * [NIH Office for Data Science Strategy](https://datascience.nih.gov/research-and-training-funding){target="_blank"} list of funding opportunities.
 
-Updated June 20, 2023.
+Updated June 23, 2023.
