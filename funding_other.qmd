@@ -20,6 +20,12 @@ editor: visual
 * Deadline: August 4, 2023
 * Award: $50K (direct) for one year
 
+### [Health Data for Action (HD4A, Data Access Award)](https://www.rwjf.org/en/grants/active-funding-opportunities/2023/health-data-for-action-data-access-award.html){target="_blank"}
+* Supports free access to selected data sets, while limited funding is available for a small number of projects from First-Time Investigators who will receive both funds and access to conduct studies using selected data sets.
+* Deadline: August 18, 2023 (brief proposal)
+* Award: data access for durations one to two years with up to $100K for first-time investigators
+* Optional informational webinar on July 18 at 11 am ([registration required](https://academyhealth.org/events/2023-07/webinar-health-data-action-2023-applicant-information-session){target="_blank"})
+
 ### [Simons Foundation: Scientific Software Research Faculty Award](https://www.simonsfoundation.org/grant/scientific-software-research-faculty-award/){target="_blank"}
 * Supports the development and maintenance of core scientific software infrastructure in academic environments through creating a new, long-term, faculty-level career path.
 * Deadline: December 8, 2023
@@ -34,6 +40,16 @@ editor: visual
 * Deadline: October 13, 2023 (LOI due June 30, 2023)
 * Award: $750K
 * Please contact [Lynn Wong](mailto:lynn.wong@hsc.utah.edu) if you are interested in applying for this opportunity. 
+
+
+
+
+## International Funding Opportunities
+### [Japan Science and Technology Agency: Adopting Sustainable Partnerships for Innovative Research Ecosystem (ASPIRE) 2023 Call for Proposals](https://www.jst.go.jp/inter/aspire/en/program_e/announce_e/announce_aspire2023_e.html){target="_blank"}
+* Proposals are welcomed from Japan-based researchers intending to conduct collaborative research with researchers from other advanced countries and regions in science and technology. 
+  + *AI and information* research for the realization of [Society 5.0](https://www8.cao.go.jp/cstp/english/society5_0/index.html) based on the principles of human understanding and respect, diversity, and sustainability.
+* Deadline: August 17, 2023 (recommended LOI by July 31)
+* Award: 30-100M Yen for durations up of three to five  years
 
 
 
@@ -120,10 +136,12 @@ editor: visual
 
 
 
-## Challenges and Other Opportunities
+## Challenges, Awards, and Other Opportunities
 * [The Veterans Cardiac Health and AI Model Predictions (V-CHAMPS) Challenge](https://precision.fda.gov/challenges/31){target="_blank"} calls on the scientific and data analytics community to develop and evaluate Artificial Intelligence and Machine Learning (AI/ML) models to predict cardiovascular health related outcomes in Veterans. Challenge open through July 26, 2023. 
 
 * [2023 DataWorks! Prize](https://www.herox.com/dataworks){target="_blank"} will recognize and reward exceptional data practices in biological and biomedical research labs during the active phase of research which enable robust data sharing and reuse, and create a library of best practice methods that can be used by the broader research community. Submit your data sharing/reuse best practice recipes in a form that can be used by an audience of your peers, such as a teaching resource or tool for active data management, by July 24, 2023 for a chance to win up to $100k. 
+
+* [Samsung AI Researcher of 2023](https://www.sait.samsung.co.kr/saithome/event/aiResearcher.do){target="_blank"} recognizes promising researchers who have made outstanding research or contributions to the field of AI. Applications are due by July 29, 2023 and the awardee will receive $30K and plaque. 
 
 
 
@@ -133,4 +151,4 @@ editor: visual
 ## Additional Funding Opportunity Resources
 * [ProQuest Pivot listing of funding opportunities related to data science](https://pivot.proquest.com//funding/results?s_id=2660468){target="_blank"} requires registration and login through the University of Utah.
 
-Updated June 23, 2023.
+Updated June 26, 2023.
