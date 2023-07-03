@@ -26,7 +26,12 @@ format: html
 * Award: U24, $1M/year (direct) for durations up to five years
 
 <!--## Program and Center (P) Grants-->
-<!--## Career Development (F/K) Grants-->
+## Career Development (F/K) Grants
+### [INCLUDE (INvestigation of Co-occurring conditions across the Lifespan to Understand Down syndromE) Predoctoral to Postdoctoral Fellow Transition Award](https://grants.nih.gov/grants/guide/rfa-files/RFA-OD-23-016.html){target="_blank"}
+* Supports exceptional graduate students from a broad variety of  research fields to pursue postdoctoral training focused on Down syndrome related research.
+* Deadline: July 1, 2023
+* Award: F99/K00, covers stipends, tuition, fees, and institutional allowance for durations up to six years (F99 for two years, K00 for four years).
+
 ## Research Grants - R01 Activities
 ### [Strategies for Responsibly Reporting Back Environmental Health and Non-Genomic Research Results](https://grants.nih.gov/grants/guide/rfa-files/RFA-ES-23-006.html)
 * Supports projects that will identify, develop and/or adapt, as well as test strategies for responsibly reporting back environmental health, non-genomic research, and gene-environment interaction (GxE) results to research participants and/or key partners (for example, health care professionals, IRBs, and policy makers)
@@ -77,8 +82,10 @@ format: html
 * Award: \$750K for durations up to three years
 
 ## Dear Colleague Letters
+* [**Request for Information** on the Capacity of Institutions of Higher Education to Produce Graduates with Degrees, Certifications, and Relevant Skills Related to Artificial Intelligence](https://www.nsf.gov/pubs/2023/nsf23099/nsf23099.jsp){target="_blank"} response due June 21, 2023.<!-- May 8, 2023 -->
+* [**Request for Information** on Future Topics for Workforce Development in Emerging Technology Career Pathways](https://www.nsf.gov/pubs/2023/nsf23100/nsf23100.jsp){target="_blank"} response due June 21, 2023.<!-- May 8, 2023 -->
+* [**Request for Input** on the Development of the U.S. Research Security and Integrity Information Sharing Analysis Organization](https://www.nsf.gov/pubs/2023/nsf23098/nsf23098.pdf){target="_blank"} response due June 30, 2023.<!-- May 4, 2023 -->
 * [Supporting Cybersecurity & Privacy Education and Workforce Development](https://www.nsf.gov/pubs/2023/nsf23091/nsf23091.jsp) due by May 23, 2023. <!--April 24, 2023 -->
-
 * [Seeking US Industry and US Federal Agency Partners to Support Research Projects in Advanced Networking Systems](https://www.nsf.gov/pubs/2023/nsf23090/nsf23090.jsp) response due May 15, 2023.<!-- April 18, 2023 -->
 
 # Foundation Funding Opportunities
@@ -117,6 +124,26 @@ format: html
 
 
 # Governmental Funding Opportunities
+### [National Geospatial-Intelligence Agency, Boosting Innovative GEOINT - Research, Broad Agency Announcement (NGA BIG-R BAA)](https://sam.gov/opp/99962bd4a4524805ba2e7dd7e283f12b/view){target="_blank"}
+-   [Topic 10: Advanced 3D Analytic Tool Development, Enhancement, and Integration](https://sam.gov/api/prod/opps/v3/opportunities/resources/files/563f93eaa9814df0950a39e1a74c65fa/download?&token=)
+-   Deadline: July 28, 2023 (Abstract due June 26, 2023)
+-   Award: Up to \$8M in total awards for several technical elements
+
+### [Utah System of Higher Education: Computer Science Targeted Workforce Initiative Grant](https://drive.google.com/file/d/1aLPZH-mcI_BBuVslNrNlWiweOnvx86bF/view){target="_blank"}
+-   Supports the creation and/or expansion of capacity in computer science workforce education programs to include: Information Security Analysts, Software Developers and QA Analysts, Digital Interface Designers, Computer and Information Research Scientists, Database Administrators, and Architects.
+-   Deadline: *EXTENDED* June 29, 2023, recurring quarterly if funds remain
+-   Award: Unspecified, \$4.5M available
+
+### [Utah System of Higher Education: Healthcare Targeted Workforce Initiative Grant Request for Proposals](https://drive.google.com/file/d/1aLbxQh74PyzdtrCKzd3WfXWBRtfnyEpg/view){target="_blank"}
+-   Supports the creation and/or expansion of capacity in healthcare workforce education programs to include: Respiratory Therapists, Registered Nurses, Licensed Practical Nurses, Radiology Technologists, Surgical Technologists, Diagnostic Medical Sonographers, Behavioral Health, Psychiatric Technicians, and/or Behavioral Management Specialists.
+-   Deadline: *EXTENDED* June 29, 2023, recurring quarterly if funds remain
+-   Award: Unspecified, \$4.5M available
+
+### [HHS: Career Pathways Secondary Data Analysis Grants](https://www.grants.gov/web/grants/view-opportunity.html?oppId=344009){target="_blank"}
+-   Supports secondary analysis of data collected to rigorously evaluate a collection of career pathways programs. The purpose of these awards is to better understand the effectiveness of services funded by Temporary Assistance for Needy Families (TANF) programs that aim to address the employment and self-sufficiency needs of TANF recipients and those eligible for or at risk of TANF receipt.
+-   Deadline: June 29, 2023
+-   Award: \$100K
+
 ### [Institute of Education Sciences Applications (IES): Statewide Longitudinal Data Systems (SLDS)](https://www.grants.gov/web/grants/view-opportunity.html?oppId=347943)
 * Supports state educational agency to design, develop, and implement statewide longitudinal data systems to efficiently and accurately manage, analyze, disaggregate, and use individual student data. 
 * Deadline: June 29, 2023 (LOI due May 19, 2023)

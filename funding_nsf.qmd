@@ -214,15 +214,14 @@ format: html
 *   Deadline: *LOI* May 2025, *Preliminary Proposal* June 2025 (anticipated, recurring every other year)
 *   Award: \$20-100M for durations up to five years
 
+### [Smart Health and Biomedical Research in the Era of Artificial Intelligence and Advanced Data Science (SCH)](https://new.nsf.gov/funding/opportunities/smart-health-biomedical-research-era-artificial){target="_blank"}
+* Supports the development of transformative high-risk, high-reward advances in computer and information science, engineering, mathematics, statistics, behavioral and/or cognitive research to address pressing questions in the biomedical and public health communities.
+* Deadline: November/December 2023 (anticipated)
+* Award: $300K/year for durations up to four years
+
 
 
 ### Dear Colleague Letters
-* [**Request for Information** on the Capacity of Institutions of Higher Education to Produce Graduates with Degrees, Certifications, and Relevant Skills Related to Artificial Intelligence](https://www.nsf.gov/pubs/2023/nsf23099/nsf23099.jsp){target="_blank"} response due June 21, 2023.<!-- May 8, 2023 -->
-
-* [**Request for Information** on Future Topics for Workforce Development in Emerging Technology Career Pathways](https://www.nsf.gov/pubs/2023/nsf23100/nsf23100.jsp){target="_blank"} response due June 21, 2023.<!-- May 8, 2023 -->
-
-* [**Request for Input** on the Development of the U.S. Research Security and Integrity Information Sharing Analysis Organization](https://www.nsf.gov/pubs/2023/nsf23098/nsf23098.pdf){target="_blank"} response due June 30, 2023.<!-- May 4, 2023 -->
-
 * [**Request for Information** on Developing a Roadmap for the Directorate for Technology, Innovation, and Partnerships at the National Science Foundation](https://www.federalregister.gov/documents/2023/04/28/2023-08995/request-for-information-rfi-on-developing-a-roadmap-for-the-directorate-for-technology-innovation){target="_blank"} response due July 27, 2023. <!-- April 28, 2023 --> 
 
 * [**Request for Information** on Developing a Roadmap for the Directorate for Technology, Innovation, and Partnerships at the National Science Foundation](https://www.federalregister.gov/documents/2023/04/28/2023-08995/request-for-information-rfi-on-developing-a-roadmap-for-the-directorate-for-technology-innovation){target="_blank"} response due July 27, 2023.<!-- May 1, 2023 -->
