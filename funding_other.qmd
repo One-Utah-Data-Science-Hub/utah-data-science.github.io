@@ -58,17 +58,6 @@ editor: visual
 -   Deadline: Rolling, expires March 14, 2024
 -   Award: Unspecified, budget must be align with the project scope
 
-### [National Center for Health Statistics: National Vital Statistics System Modernization---New Opportunities for Interoperable Data](https://www.americasdatahub.org/opportunities/){target="_blank"}
-
--   Supports opportunities for the use of interoperable health data to support timely research and public health surveillance. Insights from this project will help to modernize health data interoperability that can inform best practices for a possible, future National Secure Data Service (NSDS) and the broader data and evidence ecosystem.
--   Deadline: July 6, 2023
--   Award: \$300K
-
-### [Expanding Equitable Access to Restricted-Use Data through Federal Statistical Research Data Centers](https://www.americasdatahub.org/opportunities/){target="_blank"}
--   Supports assessment of future capabilities of a National Secure Data Service (NSDS) by strategically examining user demand/needs of the Federal Statistical Research Data Center (FSRDC) network and by establishing a targeted pilot program to make funding supports available among underserved communities and institutions.
--   Deadline: July 6, 2023
--   Award: \$500K
-
 ### [Bureau of Cyberspace and Digital Policy: Responsible State Behavior in Cyberspace Capacity Building](https://www.grants.gov/web/grants/view-opportunity.html?oppId=348759){target="_blank"}
 -   Supports partnership with a capable organization(s) to develop curriculum and provide capacity building for two complementary, yet distinct, focal areas that seek to improve international stability in cyberspace.
 -   Deadline: August 4, 2023
@@ -108,21 +97,22 @@ editor: visual
 -   Supports research projects that develop and utilize artificial intelligence (AI) and other computer-aided approaches to facilitate precision nutrition.
 -   Deadline: October 2, 2023
 -   Award: \$125K (total) for one year
+* **Informational Webinar**: July 20, 2023 at 1:30pm, register [here](https://www.eventbrite.com/e/aimings-ai-for-precision-nutritions-applicant-informational-webinar-tickets-668966997297?aff=oddtdtcreator).
 
 ### [DARPA: Automating Scientific Knowledge Extraction and Modeling (ASKEM)](https://www.darpa.mil/program/automating-scientific-knowledge-extraction-and-modelinga){target="_blank"}
 -   Supports the demands of complex, modern-day systems, computational models and simulators have become the primary artifacts for encoding, propagating, and applying expert knowledge to real-world science and engineering problems.
 
 ## Challenges, Awards, and Other Opportunities
--   [The Veterans Cardiac Health and AI Model Predictions (V-CHAMPS) Challenge](https://precision.fda.gov/challenges/31){target="_blank"} calls on the scientific and data analytics community to develop and evaluate Artificial Intelligence and Machine Learning (AI/ML) models to predict cardiovascular health related outcomes in Veterans. Challenge open through July 26, 2023.
 -   [2023 DataWorks! Prize](https://www.herox.com/dataworks){target="_blank"} will recognize and reward exceptional data practices in biological and biomedical research labs during the active phase of research which enable robust data sharing and reuse, and create a library of best practice methods that can be used by the broader research community. Submit your data sharing/reuse best practice recipes in a form that can be used by an audience of your peers, such as a teaching resource or tool for active data management, by July 24, 2023 for a chance to win up to \$100k.
+-   [The Veterans Cardiac Health and AI Model Predictions (V-CHAMPS) Challenge](https://precision.fda.gov/challenges/31){target="_blank"} calls on the scientific and data analytics community to develop and evaluate Artificial Intelligence and Machine Learning (AI/ML) models to predict cardiovascular health related outcomes in Veterans. Challenge open through July 26, 2023.
 -   [Samsung AI Researcher of 2023](https://www.sait.samsung.co.kr/saithome/event/aiResearcher.do){target="_blank"} recognizes promising researchers who have made outstanding research or contributions to the field of AI. Applications are due by July 29, 2023 and the awardee will receive \$30K and plaque.
+* [Health Equity Data Access Program (HEDAP)](https://www.grants.gov/web/grants/view-opportunity.html?oppId=348252) assists researchers in gaining access to CMS restricted data to conduct health services research focusing on, but not limited to, racial and ethnic minority groups; people with disabilities; members of the lesbian, gay, bisexual, transgender, and queer (LGBTQ+) community; individuals with limited English proficiency; individuals residing in rural areas; and individuals adversely affected by persistent poverty or inequality. Applications due August 15, 2023. Access will be funded for three years.
 
 ## Policy and Engagement
-
 -   [**Request for Information** National Priorities for Artificial Intelligence](https://www.whitehouse.gov/wp-content/uploads/2023/05/OSTP-Request-for-Information-National-Priorities-for-Artificial-Intelligence.pdf){target="_blank"} due by July 7, 2023.
 
 ## Additional Funding Opportunity Resources
 
 -   [ProQuest Pivot listing of funding opportunities related to data science](https://pivot.proquest.com//funding/results?s_id=2660468){target="_blank"} requires registration and login through the University of Utah.
 
-Updated June 26, 2023.
+Updated July 6, 2023.

@@ -333,4 +333,4 @@ title: "NIH Funding Opportunities"
 
 * [NIH Office for Data Science Strategy](https://datascience.nih.gov/research-and-training-funding){target="_blank"} list of funding opportunities.
 
-Updated June 23, 2023.
+Updated July 6, 2023.

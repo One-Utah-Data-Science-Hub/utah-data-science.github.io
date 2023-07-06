@@ -1,6 +1,10 @@
 project:
   type: website
   output-dir: docs
+  render: 
+    - "*.qmd"
+    - "!collaborations.qmd"
+    - "!projects.qmd"
   
 
 website:
@@ -47,11 +51,7 @@ website:
         href: data.qmd
       - text: "Strengths and Aspirations"
         href: research.qmd
-      - text: "Positions and Projects"
-        href: projects.qmd
-      - text: "Collaboration"
-        href: collaborations.qmd
-    
+
 format:
   html:
     theme: cosmo

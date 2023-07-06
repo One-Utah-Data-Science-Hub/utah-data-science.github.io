@@ -62,3 +62,8 @@ See our growing list of these [resources](https://utah-data-science-hub.github.i
 * We are aware of local expertise, ongoing projects, and are initializing
 * We are proud to host an environment of cross-collaboration, where research is truly larger than the sum of the parts
   + We are in the process of developing a network of collaborations to showcase this environment
+  
+### Serve our community based on identified needs
+From our initial survey our community of data scientists is looking for collaboration, funding opportunities, education, and connection to students and industry. 
+![Services](images/servicesPlot.png){}
+

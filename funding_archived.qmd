@@ -124,6 +124,16 @@ format: html
 
 
 # Governmental Funding Opportunities
+### [National Center for Health Statistics: National Vital Statistics System Modernization---New Opportunities for Interoperable Data](https://www.americasdatahub.org/opportunities/){target="_blank"}
+-   Supports opportunities for the use of interoperable health data to support timely research and public health surveillance. Insights from this project will help to modernize health data interoperability that can inform best practices for a possible, future National Secure Data Service (NSDS) and the broader data and evidence ecosystem.
+-   Deadline: July 6, 2023
+-   Award: \$300K
+
+### [Expanding Equitable Access to Restricted-Use Data through Federal Statistical Research Data Centers](https://www.americasdatahub.org/opportunities/){target="_blank"}
+-   Supports assessment of future capabilities of a National Secure Data Service (NSDS) by strategically examining user demand/needs of the Federal Statistical Research Data Center (FSRDC) network and by establishing a targeted pilot program to make funding supports available among underserved communities and institutions.
+-   Deadline: July 6, 2023
+-   Award: \$500K
+
 ### [National Geospatial-Intelligence Agency, Boosting Innovative GEOINT - Research, Broad Agency Announcement (NGA BIG-R BAA)](https://sam.gov/opp/99962bd4a4524805ba2e7dd7e283f12b/view){target="_blank"}
 -   [Topic 10: Advanced 3D Analytic Tool Development, Enhancement, and Integration](https://sam.gov/api/prod/opps/v3/opportunities/resources/files/563f93eaa9814df0950a39e1a74c65fa/download?&token=)
 -   Deadline: July 28, 2023 (Abstract due June 26, 2023)
