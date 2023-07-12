@@ -5,6 +5,11 @@ format: html
 
 # NIH Funding Opportunities
 ## Cooperative Agreement (U) Grants
+### [Alzheimer's Disease (AD) and AD-Related Dementias (ADRD) Real-World Data Platform](https://grants.nih.gov/grants/guide/rfa-files/RFA-AG-24-009.html){target="_blank"}
+* Supports the transformation of the AD/ADRD research enterprise by serving as a central hub of research access that seeks to: 1) improve applicability and generalizability of findings through larger datasets that include more diverse populations; 2) capture more complete information through linking a variety of data sources; 3) increase the speed at which scientific questions can be answered; and 4) improve researchers’ ability to answer questions that cannot be feasibly or readily answered via clinical trial.
+* Deadline: July 31, 2023 (LOI due 1 month prior)
+* Award: U54, $52M/year for durations up to six years
+
 ### [BRAIN Initiative: Brain Behavior Quantification and Synchronization – Data Coordination and Artificial Intelligence Center](https://grants.nih.gov/grants/guide/rfa-files/RFA-MH-23-130.html)
 * Data Coordination and Artificial Intelligence Center (DCAIC) for the Brain Behavior Quantification and Synchronization (BBQS) Consortium of the BRAIN Initiative. The DCAIC will serve as the organizational hub for BBQS data management and sharing. 
 * Deadline: June 14, 2023
@@ -33,6 +38,11 @@ format: html
 * Award: F99/K00, covers stipends, tuition, fees, and institutional allowance for durations up to six years (F99 for two years, K00 for four years).
 
 ## Research Grants - R01 Activities
+### [Leveraging Big Data Science to Elucidate the Mechanisms of HIV Activity and Interaction with Substance Use Disorder](https://grants.nih.gov/grants/guide/rfa-files/RFA-DA-24-008.html){target="_blank"}
+* Supports research using data science and computational approaches to generate new insights into mechanisms and consequences of the interaction of HIV and addictive drugs. 
+* Deadline: August 10, 2023 (LOI due 1 month prior)
+* Award: R01, $350K (direct) for durations up to five years ([R21](https://grants.nih.gov/grants/guide/rfa-files/RFA-DA-24-009.html){target="_blank"} also available)
+
 ### [Strategies for Responsibly Reporting Back Environmental Health and Non-Genomic Research Results](https://grants.nih.gov/grants/guide/rfa-files/RFA-ES-23-006.html)
 * Supports projects that will identify, develop and/or adapt, as well as test strategies for responsibly reporting back environmental health, non-genomic research, and gene-environment interaction (GxE) results to research participants and/or key partners (for example, health care professionals, IRBs, and policy makers)
 * Deadline: June 15, 2023 (LOI due 1 month prior)
@@ -62,6 +72,7 @@ format: html
 	+ Award: $500K-1M for durations up to two years
 
 ## Notices of Special Interest and Requests for Information
+* [**Administrative Supplements** to Support Collaborations to Improve Data Interoperability/Re-use for Existing Type 2 Diabetes Relevant Data Sets](http://grants.nih.gov/grants/guide/notice-files/NOT-DK-23-022.html){target="_blank"} expires July 12,2023. 
 * [Administrative Supplements to Support Collaborations to Improve the AI/ML-Readiness of NIH-Supported Data](https://grants.nih.gov/grants/guide/notice-files/not-od-23-082.html) expires May 17, 2023.
 
 
@@ -101,6 +112,12 @@ format: html
 
 
 # Industry Funding Opportunities
+### [Permanente Medical Group: Artificial Intelligence and Machine Learning in Healthcare Grants](https://divisionofresearch.kaiserpermanente.org/projects/aim-hi?kp_shortcut_referrer=kp.org/aim-hi){target="_blank"}
+-   Supports research that evaluates the implementation of existing Artificial Intelligence/Machine Learning algorithms that enhance diagnostic decision making to achieve the following objective: to advance research methods, identify best practices for scalability, and build capacity for effectively implementing and rigorously evaluating the use of AI/ML algorithms for diagnostic decision-making in real-world settings.
+-   Deadline: October 13, 2023 (LOI due June 30, 2023)
+-   Award: \$750K
+-   Please contact [Lynn Wong](mailto:lynn.wong@hsc.utah.edu) if you are interested in applying for this opportunity.
+
 ### [OpenAI, Inc.: Pilot Grants for Democratic Inputs to Artificial Intelligence](https://openai.com/blog/democratic-inputs-to-ai){target="_blank"}
 * Supports experiments in setting up a democratic process for deciding what rules AI systems should follow within the bounds defined by the law.
 * Deadline: June 24, 2023
@@ -181,4 +198,6 @@ format: html
   + Task Area 3 (TA3) – Produce Comments to Increase Quality of Argumentation
 * Deadline: May 8, 2023
 
-<!-- * [Health Data, Technology, and Interoperability: Certification Program Updates, Algorithm Transparency, and Information Sharing (HTI-1) Proposed Rule](https://www.healthit.gov/topic/laws-regulation-and-policy/health-data-technology-and-interoperability-certification-program){target="_blank"} public comment period ends June 20, 2023. -->
+## Policy and Engagement
+-   [**Request for Information** National Priorities for Artificial Intelligence](https://www.whitehouse.gov/wp-content/uploads/2023/05/OSTP-Request-for-Information-National-Priorities-for-Artificial-Intelligence.pdf){target="_blank"} due by July 7, 2023.
+* [Health Data, Technology, and Interoperability: Certification Program Updates, Algorithm Transparency, and Information Sharing (HTI-1) Proposed Rule](https://www.healthit.gov/topic/laws-regulation-and-policy/health-data-technology-and-interoperability-certification-program){target="_blank"} public comment period ends June 20, 2023. 

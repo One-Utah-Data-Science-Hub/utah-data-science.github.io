@@ -5,6 +5,7 @@ format: html
 ## Professional Education
 * [Data Analytics Boot Camp](https://bootcamps.continue.utah.edu/data/)
 * [Cybersecurity Boot Camp](https://bootcamps.continue.utah.edu/cybersecurity/)
+* [Machine Learning and AI MicroBootCamp](https://bootcamps.continue.utah.edu/micro/artificial-intelligence/landing/)
 
 ## Undergraduate Education
 ### Degrees

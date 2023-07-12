@@ -14,3 +14,5 @@ format: html
 * [Mathematical Foundations for Data Analysis](https://mathfordata.github.io/) by Jeff Phillips
 * [R for Data Science](https://r4ds.had.co.nz/)
 * [NIH STRIDES Cloud Training](https://cloud.nih.gov/training/)
+* [Principles of Artifical Intelligence Ethics for the Intelligence Community](https://www.intelligence.gov/principles-of-artificial-intelligence-ethics-for-the-intelligence-community) by the Office of the Director of National Intelligence
+* [National Artificial Intelligence Research and Development Strategic Plan 2023 Update](https://www.whitehouse.gov/wp-content/uploads/2023/05/National-Artificial-Intelligence-Research-and-Development-Strategic-Plan-2023-Update.pdf), a Report by the Select Committee on Artificial Intelligence of the National Science and Technology Council

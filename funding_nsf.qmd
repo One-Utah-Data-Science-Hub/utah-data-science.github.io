@@ -104,7 +104,7 @@ format: html
 ## Upcoming Recurring Proposal Deadlines
 ### [Human Networks and Data Science (HNDS)](https://beta.nsf.gov/funding/opportunities/human-networks-data-science-hnds){target="_blank"}
 *   Supports research that studies the behavior of individuals and groups by leveraging data and network science and the development of data infrastructure that makes such work possible.
-*   Deadline: *Core Research* July 13, 2023, January 11, 2024, annually thereafter; *Infrastructure* August 3, 2023, February 1, 2024, annually thereafter
+*   Deadline: *Core Research* January 11, 2024, July 11, 2024, annually thereafter in January and July; *Infrastructure* August 3, 2023, February 1, 2024, annually thereafter in February and August
 *   Awards: *Core Research* \$400K; *Infrastructure* \$800K for durations of one to five years
 
 ### [CyberCorps Scholarship for Service (SFS)](https://new.nsf.gov/funding/opportunities/cybercorps-scholarship-service-sfs-0){target="_blank"}
@@ -226,7 +226,9 @@ format: html
 
 * [**Request for Information** on Developing a Roadmap for the Directorate for Technology, Innovation, and Partnerships at the National Science Foundation](https://www.federalregister.gov/documents/2023/04/28/2023-08995/request-for-information-rfi-on-developing-a-roadmap-for-the-directorate-for-technology-innovation){target="_blank"} response due July 27, 2023.<!-- May 1, 2023 -->
 
-* [Joint NSF-JST Proposals to Advance Human-Centered Data for Disaster Resilience Research (HCDDRR)](https://new.nsf.gov/funding/opportunities/joint-nsf-jst-proposals-advance-human-centered){target="_blank"} due August 18, 2023 to programs: Smart and Connected Communities (CISE), CPS-CISE, HDBE-ENG, or DRMS-SBE.
+* [Joint NSF-JST Proposals to Advance Human-Centered Data for Disaster Resilience Research (HCDDRR)](https://new.nsf.gov/funding/opportunities/joint-nsf-jst-proposals-advance-human-centered){target="_blank"} due August 18, 2023 to programs: Smart and Connected Communities (CISE), CPS-CISE, HDBE-ENG, or DRMS-SBE. <--! April 14, 2023 -->
+
+* [Workshop to Inform Development of the NSF Research on Research Security Program (RRSP)](https://www.nsf.gov/pubs/2023/nsf23126/nsf23126.jsp){target="_blank"} proposals due by September 25, 2023. Webinars on creating a Research on Research Security Program will be held July 13 and July 26.[Register now!](https://nsf.zoomgov.com/webinar/register/WN_Q538jXFsRiOmHfyI-89n8A?utm_medium=email&utm_source=govdelivery){target="_blank"}
 
 * [Stimulating Diversification in Language Science Research (LangDiv)](https://www.nsf.gov/pubs/2023/nsf23103/nsf23103.pdf){target="_blank"} <!-- May 10, 2023 -->
 
@@ -242,4 +244,4 @@ format: html
 
 * [Fairness, Ethics, Accountability, and Transparency: Enabling Breakthrough Research to Expand Inclusivity in Computer and Information Science and Engineering Research](https://www.nsf.gov/pubs/2019/nsf19016/nsf19016.jsp){target="_blank"} <!-- Nov 2, 2018 -->
 
-Updated June 23, 2023.
+Updated July 12, 2023.
