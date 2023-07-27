@@ -238,6 +238,11 @@ title: "NIH Funding Opportunities"
 
 
 ## Research Grants - Other Activities
+### [Research Resource for Systematic Reviews of Complementary and Integrative Health](https://grants.nih.gov/grants/guide/rfa-files/RFA-AT-24-005.html){target="_blank"}
+* Supports a research resource that will continue to build, grow and maintain a database of clinical trials of complementary and integrative health interventions, that can be used to conduct systematic reviews to inform the public, practitioners, and policy makers. The research team will need to describe the features of the database, and whether it is building upon or converting an existing database, and how it will be maintained and kept current during the award period.
+* Deadline: August 31, 2023
+* Award: R24, $400K/year (direct) for durations up to five years
+
 ### [Team Science Approaches Integrating Experimental and Computational Brain Aging Models](https://grants.nih.gov/grants/guide/rfa-files/RFA-AG-24-018.html){target="_blank"}
 * Supports establishing new, or significantly expanding existing, interdisciplinary collaborations involving both experimental and computational researchers to simultaneously address a targeted research question in brain aging and Alzheimer's disease (AD), including AD-related dementias (ADRD).
 * Deadline: September 22, 2023 (LOI due 1 month prior)
@@ -317,6 +322,7 @@ title: "NIH Funding Opportunities"
 * [**Request for Input** National Library of Medicine, National Center for Biotechnology Information Data Submission Survey](https://nlmenterprise.co1.qualtrics.com/jfe/form/SV_6fMaMvvU5IoQk5g){target="_blank"} expires July 31, 2023.
 * [NIDCR: Supporting Dental, Oral, and Craniofacial Research Using Bioinformatic, Computational, and Data Science Approaches](https://grants.nih.gov/grants/guide/notice-files/NOT-DE-20-006.html){target="_blank"} expires August 08, 2023.
 * [**Request for Information** NIH Common Fund is Soliciting Ideas for NIH-wide Challenges and Opportunities](https://grants.nih.gov/grants/guide/notice-files/NOT-RM-23-013.html){target="_blank"} due by August 11, 2023.
+* [**Request for Information** Catalyzing the Development and Use of Novel Alternative Methods to Advance Biomedical Research](https://osp.od.nih.gov/request-for-information-rfi-catalyzing-the-development-and-use-of-novel-alternative-methods-to-advance-biomedical-research/){target="_blank"} due by August 16, 2023.
 * [**Administrative Supplements** for R25 Data Science Training for Infectious and Immune-mediated Disease Research](https://grants.nih.gov/grants/guide/notice-files/NOT-AI-23-010.html) expires February 14, 2024.
 * [**Administrative Supplements** to Enhance Institutional Data Science Capacity](https://grants.nih.gov/grants/guide/notice-files/NOT-OD-23-123.html){target="_blank"} in institutions serving medically underserved communities and underrepresented students due June 19, 2023 or April 1, 2024; expires April 2, 2024.
 * [Harnessing Big Data to Halt HIV](https://grants.nih.gov/grants/guide/notice-files/NOT-AI-21-054.html){target="_blank"} expires May 8, 2024.
@@ -336,4 +342,4 @@ title: "NIH Funding Opportunities"
 
 * [NIH Office for Data Science Strategy](https://datascience.nih.gov/research-and-training-funding){target="_blank"} list of funding opportunities.
 
-Updated July 12, 2023.
+Updated July 27, 2023.

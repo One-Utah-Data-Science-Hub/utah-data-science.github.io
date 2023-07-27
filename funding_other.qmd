@@ -11,23 +11,27 @@ editor: visual
 * Award: $ for durations up to  years -->
 ```
 ## Foundation Funding Opportunities
-### [Digital Assessment Tools for FTD and ALS](https://www.als.org/research/funding-opportunities/digital-assessment-tools-ftd-and-als-2023){target="_blank"}
--   Supports the development of digital tools with broad applicability across the FTD-ALS spectrum beyond the discovery stage toward validation with two types of projects:
-    -   *Advancing Tool Development*
-    -   *Creating a Conceptual Model as a Guide for Digital Outcome Assessment Development*
--   Deadline: July 14, 2023
--   Award: \$150-400K for durations up to two years
-
 ### [LTC Data Cooperative: Real World Data Scholars Program](https://impactcollaboratory.org/ltc-real-world-data-scholars-program/){target="_blank"}
 -   Supports the development of advanced graduate students, postdoctoral fellows, and early-career faculty who are interested in developing their expertise and experience in working with electronic health record (EHR) data.
 -   Deadline: August 4, 2023
 -   Award: \$50K (direct) for one year
+
+### [Polycystic Kidney Disease (PKD) Foundation Research Grant](https://pkdcure.org/research-medical-professionals/research-funding/apply-for-funding/pkd-foundation-research-rfa/){target="_blank"}
+* The PKD Foundation’s principal mission is to support basic, translational, and clinical research that will benefit patients with autosomal dominant and autosomal recessive polycystic kidney disease (ADPKD and ARPKD).  
+  + Epidemiology/data analysis research — to conduct secondary data analyses utilizing existing database resources, or to develop new statistical methodologies or test hypotheses using [existing data](https://pkdcure.org/research-medical-professionals/data-resources-in-pkd-research/){target="_blank"}.
+* Deadline: August 14, 2023
+* Award: $80K per year for durations up to three years
 
 ### [Health Data for Action (HD4A, Data Access Award)](https://www.rwjf.org/en/grants/active-funding-opportunities/2023/health-data-for-action-data-access-award.html){target="_blank"}
 -   Supports free access to selected data sets, while limited funding is available for a small number of projects from First-Time Investigators who will receive both funds and access to conduct studies using selected data sets.
 -   Deadline: August 18, 2023 (brief proposal)
 -   Award: data access for durations one to two years with up to \$100K for first-time investigators
 -   Optional informational webinar on July 18 at 11 am ([registration required](https://academyhealth.org/events/2023-07/webinar-health-data-action-2023-applicant-information-session){target="_blank"})
+
+### [Mozilla Data Futures Lab Infrastructure Fund](https://foundation.mozilla.org/en/data-futures-lab/grantmaking/infrastructure-fund/){target="_blank"}
+* Supports the development of open source software needed to foster a more fair and just data ecosystem.
+* Deadline: *Letter of Intent* August 31, 2023
+* Award: *Idea* phase $10K; *Development/testing* phase $25K; *Launched*, in-use project (milestone deliverable) $50K
 
 ### [Simons Foundation: Scientific Software Research Faculty Award](https://www.simonsfoundation.org/grant/scientific-software-research-faculty-award/){target="_blank"}
 -   Supports the development and maintenance of core scientific software infrastructure in academic environments through creating a new, long-term, faculty-level career path.
@@ -42,11 +46,24 @@ editor: visual
 
 
 ## International Funding Opportunities
+### [Generative AI Skills Challenge](https://data.org/initiatives/ai-challenge/){target="_blank"}
+* A global grant for organizations training and upskilling teams on generative AI to drive social impact. With a particular focus on fair and community-led integration in low- and middle-income countries and contexts (LMICs), the Challenge aims to accelerate digital inclusion, socioeconomic mobility, and skills advancement and acquisition for workers from historically marginalized populations around the world.
+* Deadline: August 15, 2023
+* Award: $250K for durations of 7-8 months
+* [Q&A Session on August 2, 2023 at 7am MT](https://events.teams.microsoft.com/event/2d44f676-6b1e-49e1-b5d8-e88125e99da1@4ff91a0d-0e02-4e46-8d31-b793d477b044)
+
 ### [Japan Science and Technology Agency: Adopting Sustainable Partnerships for Innovative Research Ecosystem (ASPIRE) 2023 Call for Proposals](https://www.jst.go.jp/inter/aspire/en/program_e/announce_e/announce_aspire2023_e.html){target="_blank"}
 -   Proposals are welcomed from Japan-based researchers intending to conduct collaborative research with researchers from other advanced countries and regions in science and technology.
     -   *AI and information* research for the realization of [Society 5.0](https://www8.cao.go.jp/cstp/english/society5_0/index.html) based on the principles of human understanding and respect, diversity, and sustainability.
 -   Deadline: August 17, 2023 (recommended LOI by July 31)
 -   Award: 30-100M Yen for durations up of three to five years
+
+### [Critical and Emerging Technology: Quantum Technologies and Artificial Intelligence for Transforming Lives](https://cet.usistef.online/login){target="_blank"}
+* India and the United States are building a comprehensive roadmap for partnership in crucial areas of mutual interest while emphasizing the importance of leveraging complementary strengths and addressing critical challenges. In alignment with the recent U.S.-India initiative on Critical and Emerging Technology (CET), to strengthen links and enhance technology cooperation between the innovation ecosystems of both nations, the United States–India Science & Technology Endowment Fund (USISTEF) announces this special call.
+  + *Quantum Technologies*: The joint proposals focus on innovation pertinent to the scaling-up and application of emerging quantum technologies.
+  + *Artificial Intelligence*: The joint proposals to support a team deploy and commercialize a laboratory-validated prototype that ensures and demonstrates advanced innovation and societal impact.
+* Deadline: August 31, 2023
+* Award: $120K (10M INR) for durations of two years
 
 
 
@@ -95,6 +112,11 @@ editor: visual
 -   Deadline: September 7, 2023 (Optional draft due July 21, 2023)
 -   Award: \$50K for planning for 1 year, \$150K for implementation for 1.5 to 3 years
 
+### [Office of Postsecondary Education (OPE): Higher Education Programs (HEP): Fund for The Improvement of Postsecondary Education (FIPSE): Postsecondary Student Success Grant](https://www.grants.gov/web/grants/view-opportunity.html?oppId=349499){target="_blank"}
+* Supports equitable improvement for postsecondary student outcomes, including retention, transfer (including successful transfer of completed credits), credit accumulation, and completion, by leveraging data and implementing, scaling, and rigorously evaluating evidence-based activities to support data-driven decisions and actions by institutional leaders committed to inclusive student success.
+* Deadline: September 25, 2023
+* Award: $1.75M 
+
 ### [NIH NPH: AIMINGS AI for Precision Nutrition Pilot Program Round Two](https://www.phicor.org/rfa){target="_blank"}
 -   Supports research projects that develop and utilize artificial intelligence (AI) and other computer-aided approaches to facilitate precision nutrition.
 -   Deadline: October 2, 2023
@@ -107,9 +129,8 @@ editor: visual
 
 
 ## Challenges, Awards, and Other Opportunities
--   [2023 DataWorks! Prize](https://www.herox.com/dataworks){target="_blank"} will recognize and reward exceptional data practices in biological and biomedical research labs during the active phase of research which enable robust data sharing and reuse, and create a library of best practice methods that can be used by the broader research community. Submit your data sharing/reuse best practice recipes in a form that can be used by an audience of your peers, such as a teaching resource or tool for active data management, by July 24, 2023 for a chance to win up to \$100k.
--   [The Veterans Cardiac Health and AI Model Predictions (V-CHAMPS) Challenge](https://precision.fda.gov/challenges/31){target="_blank"} calls on the scientific and data analytics community to develop and evaluate Artificial Intelligence and Machine Learning (AI/ML) models to predict cardiovascular health related outcomes in Veterans. Challenge open through July 26, 2023.
 -   [Samsung AI Researcher of 2023](https://www.sait.samsung.co.kr/saithome/event/aiResearcher.do){target="_blank"} recognizes promising researchers who have made outstanding research or contributions to the field of AI. Applications are due by July 29, 2023 and the awardee will receive \$30K and plaque.
+-   [2023 DataWorks! Prize **Deadline Extended**](https://www.herox.com/dataworks){target="_blank"} will recognize and reward exceptional data practices in biological and biomedical research labs during the active phase of research which enable robust data sharing and reuse, and create a library of best practice methods that can be used by the broader research community. Submit your data sharing/reuse best practice recipes in a form that can be used by an audience of your peers, such as a teaching resource or tool for active data management, by August 15, 2023 for a chance to win up to \$100k.
 * [Health Equity Data Access Program (HEDAP)](https://www.grants.gov/web/grants/view-opportunity.html?oppId=348252) assists researchers in gaining access to CMS restricted data to conduct health services research focusing on, but not limited to, racial and ethnic minority groups; people with disabilities; members of the lesbian, gay, bisexual, transgender, and queer (LGBTQ+) community; individuals with limited English proficiency; individuals residing in rural areas; and individuals adversely affected by persistent poverty or inequality. Applications due August 15, 2023. Access will be funded for three years.
 
 <!--## Policy and Engagement -->
@@ -119,4 +140,4 @@ editor: visual
 
 -   [ProQuest Pivot listing of funding opportunities related to data science](https://pivot.proquest.com//funding/results?s_id=2660468){target="_blank"} requires registration and login through the University of Utah.
 
-Updated July 12, 2023.
+Updated July 27, 2023.

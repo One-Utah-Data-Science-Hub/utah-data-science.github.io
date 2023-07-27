@@ -49,11 +49,20 @@ format: html
   + *CORE and TTP Medium Projects* $1.2M for durations up to four years
   + *EDU Projects* $400K for durations up to three years or $500K for durations up to three years for collaborations between a cybersecurity subject matter expert and an education researcher
   
-  
-  
+### [Computational and Data-Enabled Science and Engineering (CDS&E)](https://new.nsf.gov/funding/opportunities/computational-data-enabled-science-engineering-2){target="_blank"}
+* Supports research that uses new computational and data science approaches to advance knowledge and accelerate discovery in science and engineering.
+* Deadline: Depends on the Division; anytime or annually in the Fall
+* Award: The size and duration of any individual request should be justified by the amount and complexity of the work to be accomplished.  
+
 
 
 ## Upcoming Proposal Deadlines
+### [BioFoundries to Enable Access to Infrastructure and Resources for Advancing Modern Biology and Biotechnology (BioFoundries)](https://new.nsf.gov/funding/opportunities/biofoundries-enable-access-infrastructure){target="_blank"}
+* Supports grand challenge questions requiring a deeper understanding of biological systems and technologies are as diverse as life itself. Understanding the complexity of living systems and their interactions with human-derived products and processes, ensuring the safe, ethical and equitable access to and co-generation of knowledge and products,  requires the sustained development of technologies, sophisticated instrumentation, workflow pipelines and their automation, and advanced computing that are beyond the capabilities found in the laboratories of individual investigators. 
+* Deadline: October 2, 2023 (LOI due August 1, 2023)
+* Award: $15-24M for durations of six years
+* This is a [*limited submission opportunity*](https://utah.infoready4.com/#competitionDetail/1904678){target="_blank"} due July 11, 2023.
+
 ### [Centers for Chemical Innovation (CCI)](https://new.nsf.gov/funding/opportunities/centers-chemical-innovation-cci){target="_blank"}
 *   Supports developing centers (Phase I) and large, multi-institutional research centers (Phase II) focused on major, long-term chemical research challenges.
 *   Deadline: August 10, 2023 (Preliminary Proposal)
@@ -64,24 +73,19 @@ format: html
 * Deadline: August 21, 2023 (Preliminary)
 * Award: $500K to $4M per year for durations of one to five years
 
-### [NSF Convergence Accelerator Phases 1 and 2 for the 2023 Cohort - Tracks K, L, M](https://new.nsf.gov/funding/opportunities/nsf-convergence-accelerator-phases-1-2-2023-cohort){target="_blank"}
-* Supports the transition of basic research and discovery into practice—to solve high-impact societal challenges aligned with specific research themes (tracks). 
-  + Track K: Equitable Water Solutions
-  + Track L: Real-World Chemical Sensing Applications
-  + Track M: Bio-Inspired Design Innovations
-* Deadline: August 22, 2023 (LOI due July 11, 2023)
-* Award: $750K for Phase 1 for durations of one year (supports application to Phase 2 for $5M total for durations of two years)
+### [Predictive Intelligence for Pandemic Prevention Phase II (PIPP Phase II Centers Program)](https://new.nsf.gov/funding/opportunities/predictive-intelligence-pandemic-prevention-phase){target="_blank"}
+* Supports interdisciplinary team-based approaches to accelerate research and development activities in emerging infectious diseases and pandemics. The overall goal of the PIPP Phase II Centers program is to support research and development activities needed to transform society’s ability to forecast the likelihood of pandemic-scale events, detect outbreaks early, and respond efficiently.
+  + Theme 1: **Pre-emergence** – Predicting and detecting rare events in complex, dynamical systems 
+  + Theme 2: **Data, AI/ML and Design** - Computing, manufacturing and technology innovation for pandemics 
+  + Theme 3: **The Host as the Universe** - Identifying host-pathogen tipping points that dictate control or spread of an infection
+  + Theme 4: **Human Systems** – The role of human behavior, activities and environments in disease emergence, transmission, and response or mitigation
+* Deadline: December 8, 2023 (LOI due August 25, 2023)
+* Award: $15-18M for durations up to seven years
 
 ### [Cyberinfrastructure Technology Acceleration Pathway (CITAP)](https://new.nsf.gov/funding/opportunities/cyberinfrastructure-technology-acceleration){target="_blank"}
 * Supports the translation of innovative research CI software, such as system software, libraries, application codes, and software enabling data services. 
 * Deadline: September 6, 2023
 * Award: $10M for durations up to five years with opportunity for renewal
-
-### [BioFoundries to Enable Access to Infrastructure and Resources for Advancing Modern Biology and Biotechnology (BioFoundries)](https://new.nsf.gov/funding/opportunities/biofoundries-enable-access-infrastructure){target="_blank"}
-* Supports grand challenge questions requiring a deeper understanding of biological systems and technologies are as diverse as life itself. Understanding the complexity of living systems and their interactions with human-derived products and processes, ensuring the safe, ethical and equitable access to and co-generation of knowledge and products,  requires the sustained development of technologies, sophisticated instrumentation, workflow pipelines and their automation, and advanced computing that are beyond the capabilities found in the laboratories of individual investigators. 
-* Deadline: October 2, 2023 (LOI due August 1, 2023)
-* Award: $15-24M for durations of six years
-* This is a [*limited submission opportunity*](https://utah.infoready4.com/#competitionDetail/1904678){target="_blank"} due July 11, 2023
 
 ### [Synthesis Center for Understanding Organismal Resilience](https://new.nsf.gov/funding/opportunities/synthesis-center-understanding-organismal){target="_blank"}
 * Supports the establishment of a new Synthesis Center focused on organismal resilience and plasticity as well as training new generations of researchers in data-intensive, open, cross-disciplinary and collaborative science.
@@ -107,26 +111,16 @@ format: html
 *   Deadline: *Core Research* January 11, 2024, July 11, 2024, annually thereafter in January and July; *Infrastructure* August 3, 2023, February 1, 2024, annually thereafter in February and August
 *   Awards: *Core Research* \$400K; *Infrastructure* \$800K for durations of one to five years
 
-### [CyberCorps Scholarship for Service (SFS)](https://new.nsf.gov/funding/opportunities/cybercorps-scholarship-service-sfs-0){target="_blank"}
-* Supports scholarships in cybersecurity that require a service obligation following graduation equivalent to the length of the scholarship.
-* Deadline: July 17, 2023; annually thereafter on July 15
-* Award: Full scholarship for undergraduate and graduate students in cybersecurity for durations up to three years
-
-### [Computational and Data-Enabled Science and Engineering (CDS&E)](https://new.nsf.gov/funding/opportunities/computational-data-enabled-science-engineering-2){target="_blank"}
-* Supports research that uses new computational and data science approaches to advance knowledge and accelerate discovery in science and engineering.
-* Deadline: October 15, 2023; annually thereafter
-* Award: The size and duration of any individual request should be justified by the amount and complexity of the work to be accomplished.
-
 ### [Decision, Risk and Management Sciences (DRMS)](https://new.nsf.gov/funding/opportunities/decision-risk-management-sciences-drms-0){target="_blank"}
 * Supports research that increases understanding of how individuals, organizations and societies make decisions. Areas include judgment, decision analysis and aids, risk analysis and communication, public policy decision making and management science.
-* Deadline: August 18and January 18; annually
+* Deadline: August 18 and January 18; annually
 
 ### [Community Infrastructure for Research in Computer and Information Science and Engineering (CIRC)](https://new.nsf.gov/funding/opportunities/cise-community-research-infrastructure-ccri){target="_blank"}
 *   *Planning Community Infrastructure (Planning)* awards support planning efforts to engage research communities to develop new CISE community research infrastructures. Such an infrastructure could be eventually funded through the CIRC program (Planning-C) or the [Mid-scale RI-1](https://new.nsf.gov/funding/opportunities/mid-scale-research-infrastructure-1-mid-scale-ri-1){target="_blank"} or [Mid-scale RI-2](https://new.nsf.gov/funding/opportunities/mid-scale-research-infrastructure-2-mid-scale-ri-2){target="_blank"} programs (Planning-M).
 * *Exploratory Development (Dev)* awards support activities that involve the validation of one or more unproven infrastructure designs and/or technologies, which, if validated, could enable transformative community research infrastructure in the future. Successful projects are expected to provide the technical foundations necessary to pursue subsequent CIRC (**New** or **Grand**), [Mid-scale RI-1](https://new.nsf.gov/funding/opportunities/mid-scale-research-infrastructure-1-mid-scale-ri-1){target="_blank"}, or [Mid-scale RI-2](https://new.nsf.gov/funding/opportunities/mid-scale-research-infrastructure-2-mid-scale-ri-2){target="_blank"} projects.
 *   *Medium Community Infrastructure (Medium)* awards support the creation of new CISE community research infrastructure or the enhancement of existing CISE community research infrastructure with integrated tools, resources, user services, and research community outreach to enable innovative CISE research opportunities to advance the frontiers of the CISE core research areas.
 *   *Grand Community Infrastructure (Grand)* awards support projects involving significant efforts to develop new CISE community research infrastructure or to enhance and sustain an existing CISE community research infrastructure to enable world-class CISE research opportunities for broad-based communities of CISE researchers that extend well beyond the awardee organization(s).
-*   Deadline: September 8, 2023, annually thereafter
+*   Deadline: September 8, 2023, annually thereafter on the second Friday in September
 *   Award: *Planning* \$50-250K for durations up to two years; *Dev* \$250-750K for durations up to two years; *Medium* \$750K-2M for durations up to three years; *Grand* \$2-5M for durations up to five years
 
 ### [Campus Cyberinfrastructure (CC\*)](https://new.nsf.gov/funding/opportunities/campus-cyberinfrastructure-cc){target="_blank"}
@@ -148,6 +142,12 @@ format: html
     *   *Explorations* track aims to provide individuals with limited or no specialized STEM education the inspiration and opportunity to explore the potential of a career path in emerging technology fields.
 *   Deadline: September 14, 2023; annually thereafter
 *   Award: \$1M for durations up to three years
+
+### [NSF National Quantum Virtual Laboratory (NQVL) Quantum Science and Technology Demonstrations (QSTD): I. **Pilot Phase**](https://www.nsf.gov/pubs/2023/nsf23604/nsf23604.htm){target="_blank"}
+* Supports the demonstration of practical quantum advantage, the actual application of the tools of Quantum Information Science and Engineering (QISE) to problems that will enable solutions that classical approaches can only solve much less efficiently or not at all.
+* Deadline: November 30, 2023 (LOI due October 6, 2023) or June 11, 2024 (LOI due April 9, 2024)
+* Award: $1M for durations of one year
+* [NSF NQVL Webinar on August 4, 2023](https://new.nsf.gov/events/nqvl-webinar/2023-08-04) at 11am MT. 
 
 ### [Geoinformatics (GI)](https://new.nsf.gov/funding/opportunities/geoinformatics-gi){target="_blank"}
 * Supports the deployment, operation, and sustainment of cyberinfrastructure (CI) resources to serve and support Earth Sciences research and education.
@@ -203,6 +203,11 @@ format: html
 *   Deadline: *Preliminary Proposal* June 19, 2024, *Full Proposal* March 31, 2025, recurring every other year
 *   Award: \$15M for durations up to seven years
 
+### [CyberCorps Scholarship for Service (SFS)](https://new.nsf.gov/funding/opportunities/cybercorps-scholarship-service-sfs-0){target="_blank"}
+* Supports scholarships in cybersecurity that require a service obligation following graduation equivalent to the length of the scholarship.
+* Deadline: July 15, 2024; annually thereafter on July 15
+* Award: Full scholarship for undergraduate and graduate students in cybersecurity for durations up to three years
+
 ### [Engineering Research Center (ERC)](https://new.nsf.gov/funding/opportunities/gen-4-engineering-research-centers-erc){target="_blank"}
 *   Convergent Research and Innovation through Inclusive Partnerships and Workforce Development
 *   Supports high-risk, high-payoff research centers focused on advancing engineered systems technology and education through multidisciplinary, cross-sector partnerships.
@@ -222,13 +227,11 @@ format: html
 
 
 ### Dear Colleague Letters
-* [**Request for Information** on Developing a Roadmap for the Directorate for Technology, Innovation, and Partnerships at the National Science Foundation](https://www.federalregister.gov/documents/2023/04/28/2023-08995/request-for-information-rfi-on-developing-a-roadmap-for-the-directorate-for-technology-innovation){target="_blank"} response due July 27, 2023. <!-- April 28, 2023 --> 
-
-* [**Request for Information** on Developing a Roadmap for the Directorate for Technology, Innovation, and Partnerships at the National Science Foundation](https://www.federalregister.gov/documents/2023/04/28/2023-08995/request-for-information-rfi-on-developing-a-roadmap-for-the-directorate-for-technology-innovation){target="_blank"} response due July 27, 2023.<!-- May 1, 2023 -->
-
 * [Joint NSF-JST Proposals to Advance Human-Centered Data for Disaster Resilience Research (HCDDRR)](https://new.nsf.gov/funding/opportunities/joint-nsf-jst-proposals-advance-human-centered){target="_blank"} due August 18, 2023 to programs: Smart and Connected Communities (CISE), CPS-CISE, HDBE-ENG, or DRMS-SBE. <--! April 14, 2023 -->
 
 * [Workshop to Inform Development of the NSF Research on Research Security Program (RRSP)](https://www.nsf.gov/pubs/2023/nsf23126/nsf23126.jsp){target="_blank"} proposals due by September 25, 2023. Webinars on creating a Research on Research Security Program will be held July 13 and July 26.[Register now!](https://nsf.zoomgov.com/webinar/register/WN_Q538jXFsRiOmHfyI-89n8A?utm_medium=email&utm_source=govdelivery){target="_blank"}
+
+* [Workshops to Identify Educational Requirements of the Future Ocean Technical Workforce](https://www.nsf.gov/pubs/2023/nsf23134/nsf23134.jsp){target="_blank"} <!-- July 21, 2023 -->
 
 * [Stimulating Diversification in Language Science Research (LangDiv)](https://www.nsf.gov/pubs/2023/nsf23103/nsf23103.pdf){target="_blank"} <!-- May 10, 2023 -->
 
@@ -244,4 +247,5 @@ format: html
 
 * [Fairness, Ethics, Accountability, and Transparency: Enabling Breakthrough Research to Expand Inclusivity in Computer and Information Science and Engineering Research](https://www.nsf.gov/pubs/2019/nsf19016/nsf19016.jsp){target="_blank"} <!-- Nov 2, 2018 -->
 
-Updated July 12, 2023.
+
+Updated July 27, 2023.

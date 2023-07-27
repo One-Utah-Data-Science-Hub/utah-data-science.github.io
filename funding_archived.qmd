@@ -77,6 +77,14 @@ format: html
 
 
 # NSF Funding Opportunities
+### [NSF Convergence Accelerator Phases 1 and 2 for the 2023 Cohort - Tracks K, L, M](https://new.nsf.gov/funding/opportunities/nsf-convergence-accelerator-phases-1-2-2023-cohort){target="_blank"}
+* Supports the transition of basic research and discovery into practice—to solve high-impact societal challenges aligned with specific research themes (tracks). 
+  + Track K: Equitable Water Solutions
+  + Track L: Real-World Chemical Sensing Applications
+  + Track M: Bio-Inspired Design Innovations
+* Deadline: August 22, 2023 (LOI due July 11, 2023)
+* Award: $750K for Phase 1 for durations of one year (supports application to Phase 2 for $5M total for durations of two years)
+
 ### [Building the Prototype Open Knowledge Network (Proto-OKN)](https://beta.nsf.gov/funding/opportunities/building-prototype-open-knowledge-network-proto)
 *   Supports the creation of a prototype Open Knowledge Network --- an essential public-data infrastructure to power the next information revolution.
 *   Deadline: June 20, 2023; [(Internal LSO due April 25)](https://utah.infoready4.com/#competitionDetail/1900424)
@@ -100,6 +108,13 @@ format: html
 * [Seeking US Industry and US Federal Agency Partners to Support Research Projects in Advanced Networking Systems](https://www.nsf.gov/pubs/2023/nsf23090/nsf23090.jsp) response due May 15, 2023.<!-- April 18, 2023 -->
 
 # Foundation Funding Opportunities
+### [Digital Assessment Tools for FTD and ALS](https://www.als.org/research/funding-opportunities/digital-assessment-tools-ftd-and-als-2023){target="_blank"}
+-   Supports the development of digital tools with broad applicability across the FTD-ALS spectrum beyond the discovery stage toward validation with two types of projects:
+    -   *Advancing Tool Development*
+    -   *Creating a Conceptual Model as a Guide for Digital Outcome Assessment Development*
+-   Deadline: July 14, 2023
+-   Award: \$150-400K for durations up to two years
+
 ### [PhRMA Foundation: Faculty Starter Grant in Drug Discovery Targets and Pathways](https://www.phrmafoundation.org/awards/faculty-starter-grants/drug-discovery/)
 * Supports individuals beginning independent careers in drug discovery research at the faculty level at an accredited U.S. university.
 * Deadline: July 1, 2023 (LOI due May 15, 2023)
@@ -198,6 +213,10 @@ format: html
   + Task Area 3 (TA3) – Produce Comments to Increase Quality of Argumentation
 * Deadline: May 8, 2023
 
+## Challenges, Awards, and Other Opportunities
+-   [The Veterans Cardiac Health and AI Model Predictions (V-CHAMPS) Challenge](https://precision.fda.gov/challenges/31){target="_blank"} calls on the scientific and data analytics community to develop and evaluate Artificial Intelligence and Machine Learning (AI/ML) models to predict cardiovascular health related outcomes in Veterans. Challenge open through July 26, 2023.
+
 ## Policy and Engagement
+* [**Request for Information** on Developing a Roadmap for the Directorate for Technology, Innovation, and Partnerships at the National Science Foundation](https://www.federalregister.gov/documents/2023/04/28/2023-08995/request-for-information-rfi-on-developing-a-roadmap-for-the-directorate-for-technology-innovation){target="_blank"} response due July 27, 2023. <!-- April 28, 2023 --> 
 -   [**Request for Information** National Priorities for Artificial Intelligence](https://www.whitehouse.gov/wp-content/uploads/2023/05/OSTP-Request-for-Information-National-Priorities-for-Artificial-Intelligence.pdf){target="_blank"} due by July 7, 2023.
 * [Health Data, Technology, and Interoperability: Certification Program Updates, Algorithm Transparency, and Information Sharing (HTI-1) Proposed Rule](https://www.healthit.gov/topic/laws-regulation-and-policy/health-data-technology-and-interoperability-certification-program){target="_blank"} public comment period ends June 20, 2023. 

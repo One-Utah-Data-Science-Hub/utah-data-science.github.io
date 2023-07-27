@@ -8,17 +8,27 @@ Check out our calendar of upcoming events and seminars in our [Google Calendar](
 <iframe src="https://calendar.google.com/calendar/embed?src=cf4d0898a22b2d1969755d4bbe77063e80ea4810a24a2a24ed84003b22544f54%40group.calendar.google.com&amp;ctz=America%2FDenver" style="border: 0" width="800" height="600" frameborder="0" scrolling="no">
 </iframe>
 
-## DELPHI Symposium *- Save the Date* 
-**Date:** October 20, 2023  
-**Time:** 9am - 3pm  
-**Location:** Cleone Peterson Eccles Alumni House  
-Register and submit your abstract for a poster or lightning talk [here](https://forms.gle/FuUCPC7J8BXetwEeA).
 
 ## Fall 2023 Networking Event
-We invite faculty and staff to present their research highlights, research needs, and burning questions related to data science in a lightning-talk format. *More details coming soon!*
+**Date:** September 12, 2023  
+**Time:** 5pm - 7pm  
+**Location:** Thomas S. Monson Center  
+We invite faculty and staff to present their research highlights, research needs, and burning questions related to data science in a lightning-talk format. 
+
+<object data="images/SaveTheDate_Networking2023.pdf" type="application/pdf" width="800" height="450" style="overflow:hidden" scrolling="no">
+</object>
+
+## DELPHI Symposium  
+**Date:** October 20, 2023  
+**Time:** 8:30am - 4:00pm  
+**Location:** Cleone Peterson Eccles Alumni House  
+Register and submit your abstract for a poster or lightning talk [here](https://forms.gle/FuUCPC7J8BXetwEeA). 
+
+<object data="images/DELPHISymposium_SaveTheDate.pdf" type="application/pdf" width="800" height="445" style="overflow:hidden" scrolling="no">
+</object>
 
 ## DATASET Discovery Workshops
-### Multidisciplinary Data Integration for Climate Change Resilience in the American West
+### Multidisciplinary Data Integration for Climate Resilience in the American West
 **Hosted by:** PI: Tabitha Benney; Co-PIs: Divya Chandrasekhar, Masood Parvania, John Horel, Manish Parashar  
 **Date:** October 19-20, 2023  
 **Location:** West Ballroom of the Union  
@@ -47,6 +57,8 @@ We also encourage you to help us spread the word by sharing this invitation with
 This event is supported by the Data Science and Ethics of Technology (DATASET) Initiative. If you have any questions, please reach out to [Rebecca Barter](mailto:rebecca.barter@hsc.utah.edu).
 
 
+<object data="images/bias_event.pdf" type="application/pdf" width="800" height="1100" style="overflow:hidden" scrolling="no">
+</object>
   
 ## Other Seminars on Campus
 * [Utah Center for Data Science](https://datascience.utah.edu/seminar.html)  
