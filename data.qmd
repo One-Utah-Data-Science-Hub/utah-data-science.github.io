@@ -36,5 +36,24 @@ editor: source
 * [NIH NCI-DOE Collaboration AI/ML Resources](https://datascience.cancer.gov/collaborations/nci-department-energy-collaborations/ai-ml-resources){target="_blank"} include [Modeling Outcomes Using Surveillance Data and Scalable AI for Cancer (MOSSAIC)](https://datascience.cancer.gov/collaborations/nci-department-energy-collaborations/mossaic){target="_blank"}, [AI-Driven Multiscale Investigation of the RAS/RAF Activation Lifecycle (ADMIRRAL)](https://datascience.cancer.gov/collaborations/nci-department-energy-collaborations/admirral){target="_blank"}, [Innovative Methodologies and New Data for Predictive Oncology Model Evaluation (IMPROVE)](https://datascience.cancer.gov/collaborations/nci-department-energy-collaborations/improve){target="_blank"}, Accelerating Therapeutics for Opportunities in Medicine (ATOM), CANcer Distributed Learning Environment (CANDLE), and the Predictive Oncology Model and Data Clearinghouse (MoDaC).
 * [Data Resources in Polycystic Kidney Disease](https://pkdcure.org/research-medical-professionals/data-resources-in-pkd-research/){target="_blank"}
 
+## Common Fund Datasets
+* 4D Nucleome (4DN): Reference nucleomics and imaging data sets, including an expanding tool set for open data processing and visualization
+* Extracellular RNA Communication (exRNA): Catalog of exRNA molecules found in human biofluids like plasma, saliva, and urine; and potential exRNA biomarkers for diseases
+* Gabriella First Kids First (KF): Data from whole-genome sequencing of cohorts with structural birth defects and/or susceptibility to childhood cancer, with associated phenotypic and clinical data
+* Genotype-Tissue Expression (GTEx): Whole genome- and RNA sequence data from multiple human tissues to study tissue-specific gene expression and regulation, including tissue samples
+* Glycoscience (GL): A data integration and dissemination project for carbohydrate and glycoconjugate related data
+* Human BioMolecular Atlas Program (HuBMAP): An open and global platform to map healthy cells in the human body to determine how the relationships between cells can affect the health of an individual
+* H3Africa: The initiative consists of 51 African projects across 30 African countries that include population-based genomic studies of common, non-communicable disorders such as heart and renal disease, as well as communicable diseases such as tuberculosis
+* Human Microbiome Project (HMP): Characterization of 5 major human body sites and three cohorts using multiomics, including16s and metagenomics shotgun sequencing
+* Illuminating the Druggable Genome (IDG): Data on understudied druggable proteins, including mRNA and protein expression data, phenotype associations, bioactivity data, drug target interactions, disease links, and functional information
+* Integrated Human Microbiome Project (iHMP): Microbiome, epigenomic, metabolomic, and phenotypic data for three cohorts
+* Knockout Mouse Phenotyping Program (KOMP2): Data from broad, standardized phenotyping of a genome-wide collection of mouse knockouts
+* Library of Integrated Network-based Cellular Signatures (LINCS): Molecular signatures that describe how different types of cells respond to a variety of agents that disrupt normal cellular function
+* Metabolomics Workbench: Metabolomics data and metadata from studies on cells, tissues, and organisms
+* Molecular Transducers of Physical Activity in Humans (MoTrPAC): Data contain assay-specific results, associated metadata, quality control reports, and animal phenotype data related to molecular transducers that underlie the effects of physical activity
+* Stimulating Peripheral Activity to Relieve Conditions (SPARC): Maps and tools to identify and influence therapeutic targets that exist within the neural circuitry of a wide range of organs and tissues
+* Undiagnosed Diseases Network (UDN): Provides clinical, multiomics, and model organism data to provide answers for patients and families affected by these mysterious conditions
+
+
 **Are we missing key resources?**  
 This is a growing list and we appreciate your help in including important resources here, please contact [Penny Atkins](mailto:pennyatkins@hsc.utah.edu?subject=One%20Utah%20Data%20Science%20Hub%20Data%20Resources){target="_blank"} with additional resources that should be included. 

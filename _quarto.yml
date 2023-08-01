@@ -33,8 +33,10 @@ website:
             href: funding_archived.qmd
       - section: "Education"
         contents:
-          - text: "Current Opportunities"
+          - text: "Data Science Series"
             href: education_courses.qmd
+          - text: "Educational Workshops"
+            href: education_workshops.qmd
           - text: "Degree-based Programs"
             href: education_degrees.qmd
           - text: "Other Resources"

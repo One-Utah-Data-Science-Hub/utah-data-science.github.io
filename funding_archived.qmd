@@ -30,8 +30,26 @@ format: html
 * Deadline: June 14, 2023 (LOI due 1 month prior)
 * Award: U24, $1M/year (direct) for durations up to five years
 
-<!--## Program and Center (P) Grants-->
+## Program and Center (P) Grants
+### [Developmental AIDS Research Centers on Mental Health and HIV/AIDS](https://grants.nih.gov/grants/guide/pa-files/PAR-20-307.html){target="_blank"}
+* Supports Developmental HIV/AIDS Research Centers (D-ARC) intended to provide infrastructure support that facilitates the development of high impact science in HIV/AIDS and mental health that is relevant to the NIMH mission. 
+* Pursuit of innovative data science approaches to promote HIV treatment and prevention delivery advances. This may include methods such as artificial intelligence and predictive analytics applied to large data sets that include electronic medical records, pharmacy claims data, and medical insurance data, as well as the integration of digital technology data (e.g., cellphones or other sensors) with other datasets to improve service delivery and impact.
+* Deadline: August 25, 2023 (LOI due 1 month prior)
+* Award: P30, $750K/year for durations up to four years
+
+### [NIMH AIDS Research Center on Mental Health and HIV/AIDS](https://grants.nih.gov/grants/guide/pa-files/PAR-20-308.html){target="_blank"}
+* Supports HIV/AIDS Research Centers (ARC) intended to provide infrastructure support that facilitates the development of high impact science in HIV/AIDS and mental health that is relevant to the NIMH mission. 
+* Pursuit of innovative data science approaches to promote HIV treatment and prevention delivery advances. This may include methods such as artificial intelligence and predictive analytics applied to large data sets that include electronic medical records, pharmacy claims data, and medical insurance data, as well as the integration of digital technology data (e.g., cellphones or other sensors) with other datasets to improve service delivery and impact.
+* Deadline: August 25, 2023 (LOI due 1 month prior)
+* Award: P30, $1.5M/year for durations up to five years
+
+
 ## Career Development (F/K) Grants
+### [NHLBI Trans-Omics for Precision Medicine (TOPMed) Fellowship](https://topmed.nhlbi.nih.gov/2023-topmed-fellowship){target="_blank"}
+* Supports the career advancement and/or transition of participants to the next steps in their scientific careers and to develop a cadre of diverse scientists capable of leading genomic data science research in the areas relevant to heart, lung, blood, and sleep disorders.
+* Deadline: July 31, 2023
+* Award: Salary and travel support for one year
+
 ### [INCLUDE (INvestigation of Co-occurring conditions across the Lifespan to Understand Down syndromE) Predoctoral to Postdoctoral Fellow Transition Award](https://grants.nih.gov/grants/guide/rfa-files/RFA-OD-23-016.html){target="_blank"}
 * Supports exceptional graduate students from a broad variety of  research fields to pursue postdoctoral training focused on Down syndrome related research.
 * Deadline: July 1, 2023
@@ -72,6 +90,7 @@ format: html
 	+ Award: $500K-1M for durations up to two years
 
 ## Notices of Special Interest and Requests for Information
+* [**Request for Input** National Library of Medicine, National Center for Biotechnology Information Data Submission Survey](https://nlmenterprise.co1.qualtrics.com/jfe/form/SV_6fMaMvvU5IoQk5g){target="_blank"} expires July 31, 2023.
 * [**Administrative Supplements** to Support Collaborations to Improve Data Interoperability/Re-use for Existing Type 2 Diabetes Relevant Data Sets](http://grants.nih.gov/grants/guide/notice-files/NOT-DK-23-022.html){target="_blank"} expires July 12,2023. 
 * [Administrative Supplements to Support Collaborations to Improve the AI/ML-Readiness of NIH-Supported Data](https://grants.nih.gov/grants/guide/notice-files/not-od-23-082.html) expires May 17, 2023.
 
@@ -214,6 +233,7 @@ format: html
 * Deadline: May 8, 2023
 
 ## Challenges, Awards, and Other Opportunities
+-   [Samsung AI Researcher of 2023](https://www.sait.samsung.co.kr/saithome/event/aiResearcher.do){target="_blank"} recognizes promising researchers who have made outstanding research or contributions to the field of AI. Applications are due by July 29, 2023 and the awardee will receive \$30K and plaque.
 -   [The Veterans Cardiac Health and AI Model Predictions (V-CHAMPS) Challenge](https://precision.fda.gov/challenges/31){target="_blank"} calls on the scientific and data analytics community to develop and evaluate Artificial Intelligence and Machine Learning (AI/ML) models to predict cardiovascular health related outcomes in Veterans. Challenge open through July 26, 2023.
 
 ## Policy and Engagement

@@ -66,6 +66,11 @@ title: "NIH Funding Opportunities"
 * Deadline: November 1, 2023 or March 3, 2025 (LOI due 1 month prior)
 * Award: U01, $400L/year (direct) for durations up to three years
 
+### [Notice of Intent to Publish a Funding Opportunity Announcement for Diagnostic Centers of Excellence](https://grants.nih.gov/grants/guide/notice-files/NOT-NS-23-096.html){target="_blank"}
+* Supports clinical sites that will provide expert diagnostic services for undiagnosed diseases across the nation.  
+* Deadline: November 3, 2023
+* Award: U01, $500K (direct) 
+
 ### [Network of Genomic-Enabled Learning Health Systems (gLHS) – Coordinating Center](https://grants.nih.gov/grants/guide/notice-files/NOT-HG-23-045.html){target="_blank"}
 * Supports a network of genomic-enabled learning health systems (gLHS) to identify and improve approaches for clinical integration of genomic information in a virtuous cycle of implementation, assessment, refinement, and reimplementation. Specifically, this initiative would support a coordinating center (CC) for 4-6 established or emerging gLHS clinical sites to share their genomic medicine implementation practices and identify those most suitable for cross-network implementation. 
 * Deadline: November 7, 2023 (Expected)
@@ -114,22 +119,11 @@ title: "NIH Funding Opportunities"
 
 
 ## Program and Center (P) Grants
-### [Developmental AIDS Research Centers on Mental Health and HIV/AIDS](https://grants.nih.gov/grants/guide/pa-files/PAR-20-307.html){target="_blank"}
-* Supports Developmental HIV/AIDS Research Centers (D-ARC) intended to provide infrastructure support that facilitates the development of high impact science in HIV/AIDS and mental health that is relevant to the NIMH mission. 
-* Pursuit of innovative data science approaches to promote HIV treatment and prevention delivery advances. This may include methods such as artificial intelligence and predictive analytics applied to large data sets that include electronic medical records, pharmacy claims data, and medical insurance data, as well as the integration of digital technology data (e.g., cellphones or other sensors) with other datasets to improve service delivery and impact.
-* Deadline: August 25, 2023 (LOI due 1 month prior)
-* Award: P30, $750K/year for durations up to four years
-
-### [NIMH AIDS Research Center on Mental Health and HIV/AIDS](https://grants.nih.gov/grants/guide/pa-files/PAR-20-308.html){target="_blank"}
-* Supports HIV/AIDS Research Centers (ARC) intended to provide infrastructure support that facilitates the development of high impact science in HIV/AIDS and mental health that is relevant to the NIMH mission. 
-* Pursuit of innovative data science approaches to promote HIV treatment and prevention delivery advances. This may include methods such as artificial intelligence and predictive analytics applied to large data sets that include electronic medical records, pharmacy claims data, and medical insurance data, as well as the integration of digital technology data (e.g., cellphones or other sensors) with other datasets to improve service delivery and impact.
-* Deadline: August 25, 2023 (LOI due 1 month prior)
-* Award: P30, $1.5M/year for durations up to five years
-
 ### [Exploratory Grants for Climate Change and Health Research Center Development](https://grants.nih.gov/grants/guide/rfa-files/RFA-ES-23-007.html){target="_blank"}
 * Supports the development of a transdisciplinary research environment to sustain a program of fundamental and applied research to examine the impacts of climate change on health and to develop action-oriented solutions to protect the health of individuals, communities, and nations from the hazards posed by climate change.
 * Deadline: November 7, 2023 (LOI due 1 month prior)
 * Award: P20, $850K/year (direct) for durations up to three years
+* [Webinar on August 17 at 11:00 am MT](https://nih.zoomgov.com/webinar/register/WN_PYfwfWOnT_iGcywfUWTO7Q)
 
 ### [Silvio O. Conte Centers for Basic Neuroscience or Translational Mental Health Research](https://grants.nih.gov/grants/guide/pa-files/PAR-22-155.html){target="_blank"}
 * Supports teams of researchers working at different levels of analysis and employing integrative, novel, and creative experimental approaches to address high-risk, high-impact questions with the primary objectives of: (a) advancing the state of the science in basic brain and behavior research that will uncover and dissect the underlying mechanisms that will ultimately provide the foundation for understanding mental disorders; (b) supporting the integration and translation of basic and clinical neuroscience research on severe mental illnesses; and/or (c) advancing our understanding of the neurobehavioral developmental mechanisms and trajectories of psychopathology that begin in childhood and adolescence.
@@ -140,11 +134,6 @@ title: "NIH Funding Opportunities"
 
 
 ## Career Development and Training (F/K and T) Grants
-### [NHLBI Trans-Omics for Precision Medicine (TOPMed) Fellowship](https://topmed.nhlbi.nih.gov/2023-topmed-fellowship){target="_blank"}
-* Supports the career advancement and/or transition of participants to the next steps in their scientific careers and to develop a cadre of diverse scientists capable of leading genomic data science research in the areas relevant to heart, lung, blood, and sleep disorders.
-* Deadline: July 31, 2023
-* Award: Salary and travel support for one year
-
 ### [Broadening Opportunities for Computational Genomics and Data Science Education](https://grants.nih.gov/grants/guide/notice-files/NOT-HG-23-043.html){target="_blank"}
 * Supports faculty members at institutions with a mission to serve historically underrepresented populations in biomedical research to develop undergraduate and master’s degree-level educational content in computational genomics, data science, or a combination of these topics.
 * Deadline: October 10, 2023 (expected)
@@ -283,6 +272,11 @@ title: "NIH Funding Opportunities"
 * Deadline: November 17, 2023
 * Award: R21, $275K (direct) for durations up to two years
 
+### [Pilot Projects Enhancing Utility and Usage of Common Fund Data Sets](https://grants.nih.gov/grants/guide/rfa-files/RFA-RM-23-015.html){target="_blank"}
+* Supports the demonstration and enhancement of the utility of selected [Common Fund](https://commonfund.nih.gov/){target="_blank"} data sets, including generating hypotheses and catalyzing discoveries.
+* Deadline: November 17, 2023
+* Award: R03, $200K (direct) for one year
+
 ### [Precision HIV Health: Integrating Data and Implementation Science to Accelerate HIV Prevention and Treatment](https://grants.nih.gov/grants/guide/rfa-files/RFA-MH-24-100.html){target="_blank"}
 * Supports participatory data science and implementation science research to accelerate the implementation of more targeted and sustainable HIV interventions with the goals of (1) using data science methods to model complex systems, including social and structural determinants of health, to identify more targeted HIV prevention, treatment, and care interventions and implementation strategies; (2) using novel measurement approaches and modern statistical methods to evaluate the implementation of data-driven discoveries; (3) integrating meaningful engagement of community and implementing partners at every stage of the research.
 * Deadline: November 22, 2023 (LOI due 1 month prior)
@@ -301,12 +295,6 @@ title: "NIH Funding Opportunities"
 
 
 ## Other Activities
-### [NHLBI Trans-Omics for Precision Medicine 2023 Fellowship](https://topmed.nhlbi.nih.gov/2023-topmed-fellowship){target="_blank"}
-* Supports a diverse pool of highly trained scientists pursue further studies or careers in genomic data science research.
-<!-- * [Informational Webinar on June 5, 2023 at 12:00pm](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NXMxa21pMHJ2MWllNWNsY2NzZzIwaGczN3YgY2Y0ZDA4OThhMjJiMmQxOTY5NzU1ZDRiYmU3NzA2M2U4MGVhNDgxMGEyNGEyYTI0ZWQ4NDAwM2IyMjU0NGY1NEBn&tmsrc=cf4d0898a22b2d1969755d4bbe77063e80ea4810a24a2a24ed84003b22544f54%40group.calendar.google.com){target="_blank"} -->
-* Deadline: July 31, 2023
-* Award: Salary support and annual meeting travel award for one year
-
 ### [Diagnostic Centers of Excellence](https://grants.nih.gov/grants/guide/pa-files/PAR-23-171.html){target="_blank"}
 * Supports access to resources provided by the Data Management Coordinating Center for Diagnostic Centers of Excellence (RFA-NS-22-051), as part of the next phase of the Undiagnosed Diseases Network. 
 * Deadline: October 17, 2023 (LOI due 30 days prior); October 17, 2024
@@ -319,7 +307,6 @@ title: "NIH Funding Opportunities"
 
 ## Notices of Special Interest
 <!-- * [](){target="_blank"} expires -->
-* [**Request for Input** National Library of Medicine, National Center for Biotechnology Information Data Submission Survey](https://nlmenterprise.co1.qualtrics.com/jfe/form/SV_6fMaMvvU5IoQk5g){target="_blank"} expires July 31, 2023.
 * [NIDCR: Supporting Dental, Oral, and Craniofacial Research Using Bioinformatic, Computational, and Data Science Approaches](https://grants.nih.gov/grants/guide/notice-files/NOT-DE-20-006.html){target="_blank"} expires August 08, 2023.
 * [**Request for Information** NIH Common Fund is Soliciting Ideas for NIH-wide Challenges and Opportunities](https://grants.nih.gov/grants/guide/notice-files/NOT-RM-23-013.html){target="_blank"} due by August 11, 2023.
 * [**Request for Information** Catalyzing the Development and Use of Novel Alternative Methods to Advance Biomedical Research](https://osp.od.nih.gov/request-for-information-rfi-catalyzing-the-development-and-use-of-novel-alternative-methods-to-advance-biomedical-research/){target="_blank"} due by August 16, 2023.
@@ -342,4 +329,4 @@ title: "NIH Funding Opportunities"
 
 * [NIH Office for Data Science Strategy](https://datascience.nih.gov/research-and-training-funding){target="_blank"} list of funding opportunities.
 
-Updated July 27, 2023.
+Updated August 1, 2023.

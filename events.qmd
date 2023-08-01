@@ -15,7 +15,7 @@ Check out our calendar of upcoming events and seminars in our [Google Calendar](
 **Location:** Thomas S. Monson Center  
 We invite faculty and staff to present their research highlights, research needs, and burning questions related to data science in a lightning-talk format. 
 
-<object data="images/SaveTheDate_Networking2023.pdf" type="application/pdf" width="800" height="450" style="overflow:hidden" scrolling="no">
+<object data="pdfs/SaveTheDate_Networking2023_fullpage.pdf" type="application/pdf" width="800" height="1100" style="overflow:hidden" scrolling="no">
 </object>
 
 ## DELPHI Symposium  
@@ -24,7 +24,7 @@ We invite faculty and staff to present their research highlights, research needs
 **Location:** Cleone Peterson Eccles Alumni House  
 Register and submit your abstract for a poster or lightning talk [here](https://forms.gle/FuUCPC7J8BXetwEeA). 
 
-<object data="images/DELPHISymposium_SaveTheDate.pdf" type="application/pdf" width="800" height="445" style="overflow:hidden" scrolling="no">
+<object data="pdfs/DELPHISymposium_SaveTheDate.pdf" type="application/pdf" width="800" height="500" style="overflow:hidden" scrolling="no">
 </object>
 
 ## DATASET Discovery Workshops
@@ -57,7 +57,7 @@ We also encourage you to help us spread the word by sharing this invitation with
 This event is supported by the Data Science and Ethics of Technology (DATASET) Initiative. If you have any questions, please reach out to [Rebecca Barter](mailto:rebecca.barter@hsc.utah.edu).
 
 
-<object data="images/bias_event.pdf" type="application/pdf" width="800" height="1100" style="overflow:hidden" scrolling="no">
+<object data="pdfs/bias_event.pdf" type="application/pdf" width="800" height="1100" style="overflow:hidden" scrolling="no">
 </object>
   
 ## Other Seminars on Campus

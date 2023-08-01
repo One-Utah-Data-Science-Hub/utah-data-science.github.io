@@ -2,11 +2,6 @@
 title: "Degree-based Programs"
 format: html
 ---
-## Professional Education
-* [Data Analytics Boot Camp](https://bootcamps.continue.utah.edu/data/)
-* [Cybersecurity Boot Camp](https://bootcamps.continue.utah.edu/cybersecurity/)
-* [Machine Learning and AI MicroBootCamp](https://bootcamps.continue.utah.edu/micro/artificial-intelligence/landing/)
-
 ## Undergraduate Education
 ### Degrees
 * [BS in Data Science](https://www.cs.utah.edu/undergraduate/academic-programs/undergraduate-academic-program-overview/data-science/#data-science) from the Kahlert School of Computing
@@ -48,3 +43,8 @@ format: html
   + [Certificate in Information Systems](https://eccles.utah.edu/programs/master-of-science-in-information-systems/graduate-certificate/)
 * Biomedical Informatics within the School of Medicine
   + [Informatics Certificate](https://medicine.utah.edu/dbmi/academics-education/other/graduate-certificate)
+  
+## Professional Education
+* [Data Analytics Boot Camp](https://bootcamps.continue.utah.edu/data/)
+* [Cybersecurity Boot Camp](https://bootcamps.continue.utah.edu/cybersecurity/)
+* [Machine Learning and AI MicroBootCamp](https://bootcamps.continue.utah.edu/micro/artificial-intelligence/landing/)
