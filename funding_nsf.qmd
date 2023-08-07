@@ -57,12 +57,6 @@ format: html
 
 
 ## Upcoming Proposal Deadlines
-### [BioFoundries to Enable Access to Infrastructure and Resources for Advancing Modern Biology and Biotechnology (BioFoundries)](https://new.nsf.gov/funding/opportunities/biofoundries-enable-access-infrastructure){target="_blank"}
-* Supports grand challenge questions requiring a deeper understanding of biological systems and technologies are as diverse as life itself. Understanding the complexity of living systems and their interactions with human-derived products and processes, ensuring the safe, ethical and equitable access to and co-generation of knowledge and products,  requires the sustained development of technologies, sophisticated instrumentation, workflow pipelines and their automation, and advanced computing that are beyond the capabilities found in the laboratories of individual investigators. 
-* Deadline: October 2, 2023 (LOI due August 1, 2023)
-* Award: $15-24M for durations of six years
-* This is a [*limited submission opportunity*](https://utah.infoready4.com/#competitionDetail/1904678){target="_blank"} due July 11, 2023.
-
 ### [Centers for Chemical Innovation (CCI)](https://new.nsf.gov/funding/opportunities/centers-chemical-innovation-cci){target="_blank"}
 *   Supports developing centers (Phase I) and large, multi-institutional research centers (Phase II) focused on major, long-term chemical research challenges.
 *   Deadline: August 10, 2023 (Preliminary Proposal)
@@ -123,6 +117,11 @@ format: html
 *   Deadline: September 8, 2023, annually thereafter on the second Friday in September
 *   Award: *Planning* \$50-250K for durations up to two years; *Dev* \$250-750K for durations up to two years; *Medium* \$750K-2M for durations up to three years; *Grand* \$2-5M for durations up to five years
 
+### [Research Security and Integrity Information Sharing Analysis Organization (RSI-ISAO)](https://new.nsf.gov/funding/opportunities/research-security-integrity-information-sharing){target="_blank"}
+* Supports the establishment of an independent Research Security and Integrity Information Sharing Analysis Organization (RSI-ISAO) to empower the U.S. research community (institutions of higher education (IHEs), non-profit research institutions, and small and medium-sized for-profit organizations) to address foreign government interference, support security-informed decision-making, and serve as a conduit that connects research community stakeholders with one another and with U.S. government (USG) agencies via NSF.
+* Deadline: *Letter of Intent* September 8, 2023, *Full Proposal* October 30, 2023
+* Award: $9.5M for FY2024 then at least $10M/year for durations up to five years
+
 ### [Campus Cyberinfrastructure (CC\*)](https://new.nsf.gov/funding/opportunities/campus-cyberinfrastructure-cc){target="_blank"}
 * Supports coordinated campus-level networking and cyberinfrastructure improvements for science applications and distributed research projects.
   + Area (1) Data-Driven Networking Infrastructure for the Campus and Researcher;
@@ -142,6 +141,17 @@ format: html
     *   *Explorations* track aims to provide individuals with limited or no specialized STEM education the inspiration and opportunity to explore the potential of a career path in emerging technology fields.
 *   Deadline: September 14, 2023; annually thereafter
 *   Award: \$1M for durations up to three years
+
+### [National Artificial Intelligence (AI) Research Institutes](https://new.nsf.gov/funding/opportunities/national-artificial-intelligence-research){target="_blank"}
+* Supports the development of new AI Institutes that focus on one of the following themes: astronomical sciences, materials research and new methods for strengthening AI.
+  + Theme 1: AI for Astronomical Sciences
+  + Theme 2: AI for Discovery in Materials Research
+  + Theme 3: Strengthening AI
+* Deadline: *Preliminary Proposal* October 31, 2023 (Theme 1), January 12, 2024 (Themes 2 & 3), *Full Proposal* February 16, 2024 (Theme 1), May 17, 2024 (Themes 2 & 3); recurring every other year
+* Award: $16-20M for durations of four or five years
+* DATASET will be supporting concepts via an Ideas Lab - submit your concept to [Penny Atkins](mailto:data-science-hub@utah.edu?subject=Ideas%20Lab%20Concept%20Proposal) by August 20, 2023; [additional details here](pdfs/DATASET_IdeasLab_CallForConcepts.pdf){target="_blank"}.
+* [Internal Limited Submission Opportunity (LSO)](https://utah.infoready4.com/#freeformCompetitionDetail/1912202){target="_blank"} due October 10!
+
 
 ### [NSF National Quantum Virtual Laboratory (NQVL) Quantum Science and Technology Demonstrations (QSTD): I. **Pilot Phase**](https://www.nsf.gov/pubs/2023/nsf23604/nsf23604.htm){target="_blank"}
 * Supports the demonstration of practical quantum advantage, the actual application of the tools of Quantum Information Science and Engineering (QISE) to problems that will enable solutions that classical approaches can only solve much less efficiently or not at all.
@@ -187,11 +197,6 @@ format: html
 *   Supports research in mathematical biology that addresses significant biological questions by applying nontrivial mathematics or developing new theories --- particularly from foundational mathematics, including artificial intelligence or machine learning.
 *   Deadline: March 1, 2024, annually thereafter
 *   Award: \$500-750K for durations up to three years
-
-### [National Artificial Intelligence (AI) Research Institutes](https://new.nsf.gov/funding/opportunities/national-artificial-intelligence-research){target="_blank"}
-* Supports institutes focused on long-term, high-reward AI research, with themes including next-generation cybersecurity, neural and cognitive foundations of AI, climate-smart agriculture and forestry, trustworthy AI, and AI-augmented learning.
-* Deadline: May 2024 (anticipated, recurring every other year)
-* Award: $16-20M for durations of four or five years
 
 ### [Mid-scale Research Infrastructure-1 (Mid-scale RI-1)](https://new.nsf.gov/funding/opportunities/mid-scale-research-infrastructure-1-mid-scale-ri-1){target="_blank"}
 * Supports the design and implementation of research infrastructure — including equipment, cyberinfrastructure, large-scale datasets and personnel — whose total project costs exceed NSF's Major Research Instrumentation program but are under $20 million.

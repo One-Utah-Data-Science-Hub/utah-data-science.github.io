@@ -3,16 +3,20 @@ title: "Other Resources"
 format: html
 ---
 ### Resources
-* [Introduction to Data Science Course](https://datasciencecourse.net/2023/index.html)
-* [School of Computing Data Science YouTube Channel](https://www.youtube.com/@UofUDataScience/videos)
-* [Utah Data Science Club YouTube Channel](https://www.youtube.com/@utahdatascience6178/videos)
-* [ETH Zurich Deep Learning in Scientific Computing on YouTube](https://www.youtube.com/@CAMLabETHZurich)
+* [Introduction to Data Science Course](https://datasciencecourse.net/2023/index.html){target="_blank"}
+* [School of Computing Data Science YouTube Channel](https://www.youtube.com/@UofUDataScience/videos){target="_blank"}
+* [Utah Data Science Club YouTube Channel](https://www.youtube.com/@utahdatascience6178/videos){target="_blank"}
+* [ETH Zurich Deep Learning in Scientific Computing on YouTube](https://www.youtube.com/@CAMLabETHZurich){target="_blank"}
 
 ### Reference Materials
-* [Applied HPC with R](https://book-hpc.ggvy.cl/) by George Vega Yon
-* [Human Centered Data Science](https://mitpress.mit.edu/9780262543217/human-centered-data-science/), co-authored by Marina Kogan
-* [Mathematical Foundations for Data Analysis](https://mathfordata.github.io/) by Jeff Phillips
-* [R for Data Science](https://r4ds.had.co.nz/)
-* [NIH STRIDES Cloud Training](https://cloud.nih.gov/training/)
-* [Principles of Artifical Intelligence Ethics for the Intelligence Community](https://www.intelligence.gov/principles-of-artificial-intelligence-ethics-for-the-intelligence-community) by the Office of the Director of National Intelligence
-* [National Artificial Intelligence Research and Development Strategic Plan 2023 Update](https://www.whitehouse.gov/wp-content/uploads/2023/05/National-Artificial-Intelligence-Research-and-Development-Strategic-Plan-2023-Update.pdf), a Report by the Select Committee on Artificial Intelligence of the National Science and Technology Council
+* [Applied HPC with R](https://book-hpc.ggvy.cl/){target="_blank"} by George Vega Yon
+* [Human Centered Data Science](https://mitpress.mit.edu/9780262543217/human-centered-data-science/){target="_blank"}, co-authored by Marina Kogan
+* [Mathematical Foundations for Data Analysis](https://mathfordata.github.io/){target="_blank"} by Jeff Phillips
+* [R for Data Science](https://r4ds.had.co.nz/){target="_blank"}
+* [NIH STRIDES Cloud Training](https://cloud.nih.gov/training/){target="_blank"}
+
+### Guidelines, Principles, and Other Materials
+* [Principles of Artifical Intelligence Ethics for the Intelligence Community](https://www.intelligence.gov/principles-of-artificial-intelligence-ethics-for-the-intelligence-community){target="_blank"} by the Office of the Director of National Intelligence
+* [National Artificial Intelligence Research and Development Strategic Plan 2023 Update](https://www.whitehouse.gov/wp-content/uploads/2023/05/National-Artificial-Intelligence-Research-and-Development-Strategic-Plan-2023-Update.pdf){target="_blank"}, a Report by the Select Committee on Artificial Intelligence of the National Science and Technology Council
+* [Coalition for Health AI](https://www.coalitionforhealthai.org/){target="_blank"} provides guidelines for the responsible use of AI in healthcare
+* [Algorithm Watch](https://algorithmwatch.org/en/){target="_blank"} is a non-profit research and advocacy organization that is committed to watch, unpack and analyze automated decision-making (ADM) systems and their impact on society

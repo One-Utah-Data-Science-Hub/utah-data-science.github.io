@@ -20,68 +20,57 @@ editor: visual
 * Award: $60K for one year
 
 ## Foundation Funding Opportunities
-### [LTC Data Cooperative: Real World Data Scholars Program](https://impactcollaboratory.org/ltc-real-world-data-scholars-program/){target="_blank"}
-
--   Supports the development of advanced graduate students, postdoctoral fellows, and early-career faculty who are interested in developing their expertise and experience in working with electronic health record (EHR) data.
--   Deadline: August 4, 2023
--   Award: \$50K (direct) for one year
-
 ### [Polycystic Kidney Disease (PKD) Foundation Research Grant](https://pkdcure.org/research-medical-professionals/research-funding/apply-for-funding/pkd-foundation-research-rfa/){target="_blank"}
-
 -   The PKD Foundation's principal mission is to support basic, translational, and clinical research that will benefit patients with autosomal dominant and autosomal recessive polycystic kidney disease (ADPKD and ARPKD).
     -   Epidemiology/data analysis research --- to conduct secondary data analyses utilizing existing database resources, or to develop new statistical methodologies or test hypotheses using [existing data](https://pkdcure.org/research-medical-professionals/data-resources-in-pkd-research/){target="_blank"}.
 -   Deadline: August 14, 2023
 -   Award: \$80K per year for durations up to three years
 
 ### [Health Data for Action (HD4A, Data Access Award)](https://www.rwjf.org/en/grants/active-funding-opportunities/2023/health-data-for-action-data-access-award.html){target="_blank"}
-
 -   Supports free access to selected data sets, while limited funding is available for a small number of projects from First-Time Investigators who will receive both funds and access to conduct studies using selected data sets.
 -   Deadline: August 18, 2023 (brief proposal)
 -   Award: data access for durations one to two years with up to \$100K for first-time investigators
 -   Optional informational webinar on July 18 at 11 am ([registration required](https://academyhealth.org/events/2023-07/webinar-health-data-action-2023-applicant-information-session){target="_blank"})
 
 ### [Mozilla Data Futures Lab Infrastructure Fund](https://foundation.mozilla.org/en/data-futures-lab/grantmaking/infrastructure-fund/){target="_blank"}
-
 -   Supports the development of open source software needed to foster a more fair and just data ecosystem.
 -   Deadline: *Letter of Intent* August 31, 2023
 -   Award: *Idea* phase \$10K; *Development/testing* phase \$25K; *Launched*, in-use project (milestone deliverable) \$50K
 
 ### [Simons Foundation: Scientific Software Research Faculty Award](https://www.simonsfoundation.org/grant/scientific-software-research-faculty-award/){target="_blank"}
-
 -   Supports the development and maintenance of core scientific software infrastructure in academic environments through creating a new, long-term, faculty-level career path.
 -   Deadline: December 8, 2023
 -   Award: 50% salary and \$50K allowable expenses for durations up to five years
 
 <!-- ## Industry Funding Opportunities -->
 
+
+
 ## International Funding Opportunities
-
 ### [Generative AI Skills Challenge](https://data.org/initiatives/ai-challenge/){target="_blank"}
-
 -   A global grant for organizations training and upskilling teams on generative AI to drive social impact. With a particular focus on fair and community-led integration in low- and middle-income countries and contexts (LMICs), the Challenge aims to accelerate digital inclusion, socioeconomic mobility, and skills advancement and acquisition for workers from historically marginalized populations around the world.
 -   Deadline: August 15, 2023
 -   Award: \$250K for durations of 7-8 months
 -   [Q&A Session on August 2, 2023 at 7am MT](https://events.teams.microsoft.com/event/2d44f676-6b1e-49e1-b5d8-e88125e99da1@4ff91a0d-0e02-4e46-8d31-b793d477b044)
 
 ### [Japan Science and Technology Agency: Adopting Sustainable Partnerships for Innovative Research Ecosystem (ASPIRE) 2023 Call for Proposals](https://www.jst.go.jp/inter/aspire/en/program_e/announce_e/announce_aspire2023_e.html){target="_blank"}
-
 -   Proposals are welcomed from Japan-based researchers intending to conduct collaborative research with researchers from other advanced countries and regions in science and technology.
     -   *AI and information* research for the realization of [Society 5.0](https://www8.cao.go.jp/cstp/english/society5_0/index.html) based on the principles of human understanding and respect, diversity, and sustainability.
 -   Deadline: August 17, 2023 (recommended LOI by July 31)
 -   Award: 30-100M Yen for durations up of three to five years
 
 ### [Critical and Emerging Technology: Quantum Technologies and Artificial Intelligence for Transforming Lives](https://cet.usistef.online/login){target="_blank"}
-
 -   India and the United States are building a comprehensive roadmap for partnership in crucial areas of mutual interest while emphasizing the importance of leveraging complementary strengths and addressing critical challenges. In alignment with the recent U.S.-India initiative on Critical and Emerging Technology (CET), to strengthen links and enhance technology cooperation between the innovation ecosystems of both nations, the United States--India Science & Technology Endowment Fund (USISTEF) announces this special call.
     -   *Quantum Technologies*: The joint proposals focus on innovation pertinent to the scaling-up and application of emerging quantum technologies.
     -   *Artificial Intelligence*: The joint proposals to support a team deploy and commercialize a laboratory-validated prototype that ensures and demonstrates advanced innovation and societal impact.
 -   Deadline: August 31, 2023
 -   Award: \$120K (10M INR) for durations of two years
 
+
+
+
 ## Governmental Funding Opportunities
-
 ### [ARPA-H: Open-Office Broad Agency Announcement](https://arpa-h.gov/engage/baa/){target="_blank"}
-
 -   Supports research aiming to improve health outcomes across patient populations, communities, diseases, and health conditions. The BAA calls for proposals to outline breakthrough research and technological advancements.
     -   Health Science Futures - Expanding what's technically possible
     -   Scalable Solutions - Reaching everyone quickly
@@ -90,38 +79,12 @@ editor: visual
 -   Deadline: Rolling, expires March 14, 2024
 -   Award: Unspecified, budget must be align with the project scope
 
-### [Bureau of Cyberspace and Digital Policy: Responsible State Behavior in Cyberspace Capacity Building](https://www.grants.gov/web/grants/view-opportunity.html?oppId=348759){target="_blank"}
-
--   Supports partnership with a capable organization(s) to develop curriculum and provide capacity building for two complementary, yet distinct, focal areas that seek to improve international stability in cyberspace.
--   Deadline: August 4, 2023
--   Award: \$500K-\$1M
-
-### [Bureau of Cyberspace and Digital Policy: AI Connect II](https://www.grants.gov/web/grants/view-opportunity.html?oppId=348758){target="_blank"}
-
--   Supports partnership with a capable organization to build the Promoting American Leadership, Democratic Values, and Economic Prosperity in Artificial Intelligence project by engaging with the AI Connect multi-stakeholder community and encouraging the responsible stewardship of AI technologies in line with the OECD AI Principles that empowers low- and middle-income countries to participate in the global, multi-stakeholder conversations more effectively on AI policy.
--   Deadline: August 4, 2023
--   Award: \$1M
-
-### [Bureau of Cyberspace and Digital Policy: Global Cyber and Digital Policy Training](https://www.grants.gov/web/grants/view-opportunity.html?oppId=348757){target="_blank"}
-
--   Supports partnership with a capable organization to develop curriculum and provide training to international entities and personnel for the development of responsible cybersecurity and digital policy.The training is intended to provide specialized and technical in-person capacity building training to primarily but not limited to government officials, from developing countries that are key stakeholders in cyber and digital policy in their respective countries, regional or multilateral institutions.
--   Deadline: August 4, 2023
--   Award: \$2.6M
-
-### [NIST: Regional Alliances and Multistakeholder Partnerships to Stimulate (RAMPS) Cybersecurity Education and Workforce Development](https://www.grants.gov/web/grants/view-opportunity.html?oppId=348550){target="_blank"}
-
--   Supports activities to establish community-based partnerships to develop cybersecurity career pathways that address local workforce needs.
--   Deadline: August 7, 2023
--   Award: \$200K for durations up to two years
-
 ### [US Economic Development Administration: Regional Technology and Innovation Hubs (Tech Hubs) Phase 1](https://www.grants.gov/web/grants/view-opportunity.html?oppId=348101){target="_blank"}
-
 -   Supports consortia through an economic development initiative designed to drive regional technology- and innovation-centric growth by strengthening a region's capacity to manufacture, commercialize, and deploy critical technologies.
 -   Deadline: August 15, 2023
 -   Award: \$500K, ability to apply for Phase 2
 
 ### [DoD: Prostate Cancer, Data Science Award](https://www.grants.gov/web/grants/view-opportunity.html?oppId=347770){target="_blank"}
-
 -   Supports research where quantitative and analytical approaches, processes, and/or systems are developed and/or used to obtain knowledge and insight from large and/or complex sets of prostate cancer data.
 -   Deadline: August 24, 2023
 -   Award: \$1M direct
@@ -161,7 +124,6 @@ editor: visual
 <!--## Policy and Engagement -->
 
 ## Additional Funding Opportunity Resources
-
 -   [ProQuest Pivot listing of funding opportunities related to data science](https://pivot.proquest.com//funding/results?s_id=2660468){target="_blank"} requires registration and login through the University of Utah.
 
-Updated August 1, 2023.
+Updated August 7, 2023.

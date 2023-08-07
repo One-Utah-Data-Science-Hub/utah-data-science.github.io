@@ -5,6 +5,16 @@ format: html
 
 # NIH Funding Opportunities
 ## Cooperative Agreement (U) Grants
+### [Data Analysis and Coordination Center for the PsychENCODE Consortium](https://grants.nih.gov/grants/guide/pa-files/PAR-23-234.html){target="_blank"}
+* Supports a Data Analysis and Coordination Center for PsychENCODE, a NIMH consortium for the discovery and characterization of human-specific non-coding functional genomic elements across brain regions, cell types, and developmental time periods and their role(s) in the molecular pathophysiology of psychiatric disorders.
+* Deadline: August 24, 2023 (LOI due 1 month prior)
+* Award: U24, budget must align with the project scope, for durations up to four years
+
+### [Bioinformatics Resource Centers (BRCs) for Infectious Diseases](https://grants.nih.gov/grants/guide/rfa-files/RFA-AI-23-032.html){target="_blank"}
+* Supports the Bioinformatics Resource Center (BRC) Program that will (1) create and manage integrated knowledgebases to accelerate basic and applied human infectious diseases research, (2) develop advanced innovative bioinformatics technologies for software and tools, (3) offer state-of-the-art bioinformatics expertise for investigators and (4) respond with cutting-edge bioinformatics in response to emerging needs, outbreaks, and public health emergencies.
+* Deadline: August 25, 2023 (LOI due 1 month prior)
+* Award: U24, $2.5M/year (direct) for one biological domain, $4.8M/year (direct) for two biological domains, for durations up to five years
+
 ### [Alzheimer's Disease (AD) and AD-Related Dementias (ADRD) Real-World Data Platform](https://grants.nih.gov/grants/guide/rfa-files/RFA-AG-24-009.html){target="_blank"}
 * Supports the transformation of the AD/ADRD research enterprise by serving as a central hub of research access that seeks to: 1) improve applicability and generalizability of findings through larger datasets that include more diverse populations; 2) capture more complete information through linking a variety of data sources; 3) increase the speed at which scientific questions can be answered; and 4) improve researchers’ ability to answer questions that cannot be feasibly or readily answered via clinical trial.
 * Deadline: July 31, 2023 (LOI due 1 month prior)
@@ -61,30 +71,30 @@ format: html
 * Deadline: August 10, 2023 (LOI due 1 month prior)
 * Award: R01, $350K (direct) for durations up to five years ([R21](https://grants.nih.gov/grants/guide/rfa-files/RFA-DA-24-009.html){target="_blank"} also available)
 
-### [Strategies for Responsibly Reporting Back Environmental Health and Non-Genomic Research Results](https://grants.nih.gov/grants/guide/rfa-files/RFA-ES-23-006.html)
+### [Strategies for Responsibly Reporting Back Environmental Health and Non-Genomic Research Results](https://grants.nih.gov/grants/guide/rfa-files/RFA-ES-23-006.html){target="_blank"}
 * Supports projects that will identify, develop and/or adapt, as well as test strategies for responsibly reporting back environmental health, non-genomic research, and gene-environment interaction (GxE) results to research participants and/or key partners (for example, health care professionals, IRBs, and policy makers)
 * Deadline: June 15, 2023 (LOI due 1 month prior)
 * Award: R01, $250K/year for durations up to four years
 
 ## Research Grants - Other Activities
-### [Emergency Award: Novel Insights through Cross-Site Analyses of Existing RADx-UP Data](https://grants.nih.gov/grants/guide/rfa-files/rfa-od-23-050.html)
+### [Emergency Award: Novel Insights through Cross-Site Analyses of Existing RADx-UP Data](https://grants.nih.gov/grants/guide/rfa-files/rfa-od-23-050.html){target="_blank"}
 * Supports analyses of existing RADx-UP data by proposing novel questions related to SARS-CoV-2 testing and health disparities. These projects will explore important questions focused on COVID-19 testing access and uptake, factors affecting testing and related COVID-19 outcomes, and meta-fanalyses of specific COVID-19 response and intervention approaches within and across populations.
 * Deadline: July 3, 2023 (LOI due one month prior)
 * Award: R21, $275K/year (direct) for durations of two years.
 
-### [Research Experience in Genomic Research for Data Scientists](https://grants.nih.gov/grants/guide/pa-files/PAR-21-075.html)
+### [Research Experience in Genomic Research for Data Scientists](https://grants.nih.gov/grants/guide/pa-files/PAR-21-075.html){target="_blank"}
 * Supports educational activities that encourage individuals from diverse backgrounds, including those from groups underrepresented in the biomedical and behavioral sciences, to pursue further studies or careers in research.
 * Deadline: May 25, 2023 (LOI due 1 month prior)
 * Award: R25, $250K/year (direct) for durations up to five years
 
 ## Other Activities
-### [Data and Technology Advancement (DATA) National Service Scholar Program: Data Scientists Advancing Biomedical Research](https://datascience.nih.gov/data-scholars-2023)
+### [Data and Technology Advancement (DATA) National Service Scholar Program: Data Scientists Advancing Biomedical Research](https://datascience.nih.gov/data-scholars-2023){target="_blank"}
 * The National Institutes of Health (NIH) Office of Data Science Strategy (ODSS) Data and Technology Advancement (DATA) National Service Scholar Program is seeking experienced data and computer scientists and engineers to tackle challenging biomedical data problems with the potential for substantial public health impact
 * Application Deadline: EXTENDED to May 31, 2023
 * Award: Remote position for one to two years
 
-### [Artificial Intelligence/Machine Learning Consortium to Advance Health Equity and Researcher Diversity (AIM-AHEAD)](https://www.aim-ahead.net/call-for-proposals-year-2/)
-* [Consortium Development Projects to Advance Health Equity](https://www.aim-ahead.net/call-for-proposals-year-2/consortium-development-projects/)
+### [Artificial Intelligence/Machine Learning Consortium to Advance Health Equity and Researcher Diversity (AIM-AHEAD)](https://www.aim-ahead.net/call-for-proposals-year-2/){target="_blank"}
+* [Consortium Development Projects to Advance Health Equity](https://www.aim-ahead.net/call-for-proposals-year-2/consortium-development-projects/){target="_blank"}
 	+ Supports multidisciplinary research projects that use AI/ML and develop novel algorithms and approaches that address health disparities and inequities and have the potential to significantly impact healthcare access and health outcomes for populations that experience health disparities.
 	+ Deadline: June 20, 2023 (LOI due May 10, 2023)
 	+ Award: $500K-1M for durations up to two years
@@ -92,10 +102,16 @@ format: html
 ## Notices of Special Interest and Requests for Information
 * [**Request for Input** National Library of Medicine, National Center for Biotechnology Information Data Submission Survey](https://nlmenterprise.co1.qualtrics.com/jfe/form/SV_6fMaMvvU5IoQk5g){target="_blank"} expires July 31, 2023.
 * [**Administrative Supplements** to Support Collaborations to Improve Data Interoperability/Re-use for Existing Type 2 Diabetes Relevant Data Sets](http://grants.nih.gov/grants/guide/notice-files/NOT-DK-23-022.html){target="_blank"} expires July 12,2023. 
-* [Administrative Supplements to Support Collaborations to Improve the AI/ML-Readiness of NIH-Supported Data](https://grants.nih.gov/grants/guide/notice-files/not-od-23-082.html) expires May 17, 2023.
+* [Administrative Supplements to Support Collaborations to Improve the AI/ML-Readiness of NIH-Supported Data](https://grants.nih.gov/grants/guide/notice-files/not-od-23-082.html){target="_blank"} expires May 17, 2023.
 
 
 # NSF Funding Opportunities
+### [BioFoundries to Enable Access to Infrastructure and Resources for Advancing Modern Biology and Biotechnology (BioFoundries)](https://new.nsf.gov/funding/opportunities/biofoundries-enable-access-infrastructure){target="_blank"}
+* Supports grand challenge questions requiring a deeper understanding of biological systems and technologies are as diverse as life itself. Understanding the complexity of living systems and their interactions with human-derived products and processes, ensuring the safe, ethical and equitable access to and co-generation of knowledge and products,  requires the sustained development of technologies, sophisticated instrumentation, workflow pipelines and their automation, and advanced computing that are beyond the capabilities found in the laboratories of individual investigators. 
+* Deadline: October 2, 2023 (LOI due August 1, 2023)
+* Award: $15-24M for durations of six years
+* This is a [*limited submission opportunity*](https://utah.infoready4.com/#competitionDetail/1904678){target="_blank"} due July 11, 2023.
+
 ### [NSF Convergence Accelerator Phases 1 and 2 for the 2023 Cohort - Tracks K, L, M](https://new.nsf.gov/funding/opportunities/nsf-convergence-accelerator-phases-1-2-2023-cohort){target="_blank"}
 * Supports the transition of basic research and discovery into practice—to solve high-impact societal challenges aligned with specific research themes (tracks). 
   + Track K: Equitable Water Solutions
@@ -104,17 +120,17 @@ format: html
 * Deadline: August 22, 2023 (LOI due July 11, 2023)
 * Award: $750K for Phase 1 for durations of one year (supports application to Phase 2 for $5M total for durations of two years)
 
-### [Building the Prototype Open Knowledge Network (Proto-OKN)](https://beta.nsf.gov/funding/opportunities/building-prototype-open-knowledge-network-proto)
+### [Building the Prototype Open Knowledge Network (Proto-OKN)](https://beta.nsf.gov/funding/opportunities/building-prototype-open-knowledge-network-proto){target="_blank"}
 *   Supports the creation of a prototype Open Knowledge Network --- an essential public-data infrastructure to power the next information revolution.
-*   Deadline: June 20, 2023; [(Internal LSO due April 25)](https://utah.infoready4.com/#competitionDetail/1900424)
+*   Deadline: June 20, 2023; [(Internal LSO due April 25)](https://utah.infoready4.com/#competitionDetail/1900424){target="_blank"}
 *   Award: \$1.5M for durations up to three years
 
-### [NSF Engines Builder Platform](https://sam.gov/opp/31dc45d7b356499ab8b88a143cdf27a6/view)
+### [NSF Engines Builder Platform](https://sam.gov/opp/31dc45d7b356499ab8b88a143cdf27a6/view){target="_blank"}
 * Supports an organization that can help develop, launch, and run a “Builder Platform” to support its NSF Regional Innovation Engines (NSF Engines) awardees, a signature initiative of NSF’s Technology, Innovation, and Partnerships (TIP) directorate. 
 * Deadline: June 12, 2023
 * Award: $9.5M (total) for durations of three years
 
-### [Spectrum and Wireless Innovation enabled by Future Technologies - Satellite-Terrestrial Coexistence (SWIFT-SAT)](https://new.nsf.gov/funding/opportunities/spectrum-wireless-innovation-enabled-future-0)
+### [Spectrum and Wireless Innovation enabled by Future Technologies - Satellite-Terrestrial Coexistence (SWIFT-SAT)](https://new.nsf.gov/funding/opportunities/spectrum-wireless-innovation-enabled-future-0){target="_blank"}
 * Supports research on techniques to overcome radio interference and light pollution conflicts between satellite users (communications, earth sensing) and terrestrial users (communications, astronomy) enabling usage growth to benefit society.
 * Deadline: June 5, 2023
 * Award: \$750K for durations up to three years
@@ -146,6 +162,11 @@ format: html
 
 
 # Industry Funding Opportunities
+### [LTC Data Cooperative: Real World Data Scholars Program](https://impactcollaboratory.org/ltc-real-world-data-scholars-program/){target="_blank"}
+-   Supports the development of advanced graduate students, postdoctoral fellows, and early-career faculty who are interested in developing their expertise and experience in working with electronic health record (EHR) data.
+-   Deadline: August 4, 2023
+-   Award: \$50K (direct) for one year
+
 ### [Permanente Medical Group: Artificial Intelligence and Machine Learning in Healthcare Grants](https://divisionofresearch.kaiserpermanente.org/projects/aim-hi?kp_shortcut_referrer=kp.org/aim-hi){target="_blank"}
 -   Supports research that evaluates the implementation of existing Artificial Intelligence/Machine Learning algorithms that enhance diagnostic decision making to achieve the following objective: to advance research methods, identify best practices for scalability, and build capacity for effectively implementing and rigorously evaluating the use of AI/ML algorithms for diagnostic decision-making in real-world settings.
 -   Deadline: October 13, 2023 (LOI due June 30, 2023)
@@ -175,6 +196,26 @@ format: html
 
 
 # Governmental Funding Opportunities
+### [Bureau of Cyberspace and Digital Policy: Responsible State Behavior in Cyberspace Capacity Building](https://www.grants.gov/web/grants/view-opportunity.html?oppId=348759){target="_blank"}
+-   Supports partnership with a capable organization(s) to develop curriculum and provide capacity building for two complementary, yet distinct, focal areas that seek to improve international stability in cyberspace.
+-   Deadline: August 4, 2023
+-   Award: \$500K-\$1M
+
+### [Bureau of Cyberspace and Digital Policy: AI Connect II](https://www.grants.gov/web/grants/view-opportunity.html?oppId=348758){target="_blank"}
+-   Supports partnership with a capable organization to build the Promoting American Leadership, Democratic Values, and Economic Prosperity in Artificial Intelligence project by engaging with the AI Connect multi-stakeholder community and encouraging the responsible stewardship of AI technologies in line with the OECD AI Principles that empowers low- and middle-income countries to participate in the global, multi-stakeholder conversations more effectively on AI policy.
+-   Deadline: August 4, 2023
+-   Award: \$1M
+
+### [Bureau of Cyberspace and Digital Policy: Global Cyber and Digital Policy Training](https://www.grants.gov/web/grants/view-opportunity.html?oppId=348757){target="_blank"}
+-   Supports partnership with a capable organization to develop curriculum and provide training to international entities and personnel for the development of responsible cybersecurity and digital policy.The training is intended to provide specialized and technical in-person capacity building training to primarily but not limited to government officials, from developing countries that are key stakeholders in cyber and digital policy in their respective countries, regional or multilateral institutions.
+-   Deadline: August 4, 2023
+-   Award: \$2.6M
+
+### [NIST: Regional Alliances and Multistakeholder Partnerships to Stimulate (RAMPS) Cybersecurity Education and Workforce Development](https://www.grants.gov/web/grants/view-opportunity.html?oppId=348550){target="_blank"}
+-   Supports activities to establish community-based partnerships to develop cybersecurity career pathways that address local workforce needs.
+-   Deadline: August 7, 2023
+-   Award: \$200K for durations up to two years
+
 ### [National Center for Health Statistics: National Vital Statistics System Modernization---New Opportunities for Interoperable Data](https://www.americasdatahub.org/opportunities/){target="_blank"}
 -   Supports opportunities for the use of interoperable health data to support timely research and public health surveillance. Insights from this project will help to modernize health data interoperability that can inform best practices for a possible, future National Secure Data Service (NSDS) and the broader data and evidence ecosystem.
 -   Deadline: July 6, 2023

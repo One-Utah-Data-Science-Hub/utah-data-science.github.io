@@ -6,16 +6,6 @@ title: "NIH Funding Opportunities"
 * Deadline: 
 * Award: , $ for durations up to  years -->
 ## Cooperative Agreement (U) Grants
-### [Data Analysis and Coordination Center for the PsychENCODE Consortium](https://grants.nih.gov/grants/guide/pa-files/PAR-23-234.html){target="_blank"}
-* Supports a Data Analysis and Coordination Center for PsychENCODE, a NIMH consortium for the discovery and characterization of human-specific non-coding functional genomic elements across brain regions, cell types, and developmental time periods and their role(s) in the molecular pathophysiology of psychiatric disorders.
-* Deadline: August 24, 2023 (LOI due 1 month prior)
-* Award: U24, budget must align with the project scope, for durations up to four years
-
-### [Bioinformatics Resource Centers (BRCs) for Infectious Diseases](https://grants.nih.gov/grants/guide/rfa-files/RFA-AI-23-032.html){target="_blank"}
-* Supports the Bioinformatics Resource Center (BRC) Program that will (1) create and manage integrated knowledgebases to accelerate basic and applied human infectious diseases research, (2) develop advanced innovative bioinformatics technologies for software and tools, (3) offer state-of-the-art bioinformatics expertise for investigators and (4) respond with cutting-edge bioinformatics in response to emerging needs, outbreaks, and public health emergencies.
-* Deadline: August 25, 2023 (LOI due 1 month prior)
-* Award: U24, $2.5M/year (direct) for one biological domain, $4.8M/year (direct) for two biological domains, for durations up to five years
-
 ### [Using Secondary Data Analysis to Determine Whether Preventive Interventions Implemented Earlier in Life Reduce Suicide Risk](https://grants.nih.gov/grants/guide/rfa-files/RFA-MH-23-275.html){target="_blank"}
 * Supports research that will integrate and harmonize existing large prevention trial data sets consisting of well-characterized participant-level data for interventions implemented earlier in life to examine whether they reduce risk for later suicide, including suicidal thoughts and behaviors — fatal and nonfatal (STB), and related external injuries (e.g., nonfatal SUD/OUD/accidents, and all-cause mortality (e.g., National Death Index)). 
 * Deadline: October 10, 2023 (LOI due 1 month prior)
@@ -189,6 +179,11 @@ title: "NIH Funding Opportunities"
 * Deadline: October 5, 2023 (LOI due 1 month prior), annually in February, June, and October through 2025
 * Award: R01, $250K/year (direct) for durations up to four years
 
+### [Secondary Analysis and Integration of Existing Data to Elucidate Cancer Risk and Related Outcomes](https://grants.nih.gov/grants/guide/pa-files/PAR-23-254.html){target="_blank"}
+* Supports secondary data analysis and integration of existing datasets and database resources, with the ultimate aim to elucidate cancer risk and related outcomes (e.g., risk prediction or reduction, survival, or response to treatment, etc.). 
+* Deadline: October 5, 2023 (LOI due 1 month prior), recurring annually in February, June, and October through June 2026
+* Award: R01, $350K/year (direct) for durations of up to five years ([R21](https://grants.nih.gov/grants/guide/pa-files/PAR-23-255.html){target="_blank"} also available)
+
 ### [NIDCR Research Grants for Analyses of Existing Genomics Data](https://grants.nih.gov/grants/guide/pa-files/PAR-23-133.html){target="_blank"}
 * Supports meritorious research projects that address research questions relevant to human dental, oral, or craniofacial (DOC) biology, and diseases and conditions, through analysis of existing and publicly available genomic data, with or without other types of complementary data, using statistical and computational approaches.
 * Deadline: October 5, 2023, recurring annually in February, June, and October through February 2026
@@ -318,6 +313,7 @@ title: "NIH Funding Opportunities"
 * [Advance Data Science Approaches Through Secondary Data Analysis to Reveal Scientific Insights of COVID-19 Testing Technologies (R21)](https://grants.nih.gov/grants/guide/notice-files/NOT-OD-23-040.html){target="_blank"} expires January 5, 2024.
 * [IDEA2Health: Innovative Data Evaluation and Analysis to Health](https://grants.nih.gov/grants/guide/notice-files/NOT-HL-22-001.html){target="_blank"} expires January 8, 2025.
 * [Leveraging Data Science to Bring Actionable Insights for Substance Use Prevention and Treatment](https://grants.nih.gov/grants/guide/notice-files/NOT-DA-23-006.html){target="_blank"} expires September 8, 2025.
+* [HEAL Initiative: Leveraging Inpatient Medical or Surgical Hospitalizations to Improve Outcomes for People Who Use Drugs](https://grants.nih.gov/grants/guide/notice-files/NOT-DA-24-011.html){target="_blank"} expires November 13, 2025.
 * [Optimization of Data Storage and Utilization for the Sequence Read Archive (SRA)](https://grants.nih.gov/grants/guide/notice-files/NOT-GM-23-015.html){target="_blank"} expires December 19, 2025.
 * [Computational and Statistical Methods to Enhance Discovery from Health Data](https://grants.nih.gov/grants/guide/notice-files/NOT-LM-23-001.html){target="_blank"} expires January 8, 2026.
 * [Explainable Artificial Intelligence for Decoding and Modulating Neural Circuit Activity Linked to Behavior](https://grants.nih.gov/grants/guide/notice-files/NOT-MH-23-110.html){target="_blank"} expires February 6, 2026.
@@ -329,4 +325,4 @@ title: "NIH Funding Opportunities"
 
 * [NIH Office for Data Science Strategy](https://datascience.nih.gov/research-and-training-funding){target="_blank"} list of funding opportunities.
 
-Updated August 1, 2023.
+Updated August 7, 2023.
