@@ -123,7 +123,6 @@ editor: visual
 
 <!--## Policy and Engagement -->
 
-## Additional Funding Opportunity Resources
--   [ProQuest Pivot listing of funding opportunities related to data science](https://pivot.proquest.com//funding/results?s_id=2660468){target="_blank"} requires registration and login through the University of Utah.
+
 
 Updated August 7, 2023.

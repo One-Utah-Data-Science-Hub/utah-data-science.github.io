@@ -29,6 +29,7 @@ website:
           - text: "Archived Funding"
             href: funding_archived.qmd
       - section: "Education"
+        href: education.qmd
         contents:
           - text: "Data Science Series"
             href: education_courses.qmd
@@ -36,8 +37,6 @@ website:
             href: education_workshops.qmd
           - text: "Degree-based Programs"
             href: education_degrees.qmd
-          - text: "Other Resources"
-            href: education_resources.qmd
           - text: "Archived Courses"
             href: education_archived.qmd
       - text: "Events and Seminars"

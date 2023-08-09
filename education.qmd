@@ -1,7 +1,13 @@
 ---
-title: "Other Resources"
+title: "Data Science Education"
 format: html
 ---
+# [Data Science Series](https://utah-data-science-hub.github.io/education_courses.html)
+
+# [Educational Workshops](https://utah-data-science-hub.github.io/education_workshops.html)
+
+# [Degree and Certificate Programs](https://utah-data-science-hub.github.io/education_degrees.html)
+
 ### Resources
 * [Introduction to Data Science Course](https://datasciencecourse.net/2023/index.html){target="_blank"}
 * [School of Computing Data Science YouTube Channel](https://www.youtube.com/@UofUDataScience/videos){target="_blank"}

@@ -1,0 +1,30 @@
+---
+title: "Curated Funding Opportunities"
+format: html
+---
+
+# [NIH Funding Opportunities](https://utah-data-science-hub.github.io/funding_nih.html)
+#### [Cooperative Agreement (U) Grants](https://utah-data-science-hub.github.io/funding_nih.html#cooperative-agreement-u-grants)
+#### [Program and Center (P) Grants](https://utah-data-science-hub.github.io/funding_nih.html#program-and-center-p-grants)
+#### [Career Development (F/K) Grants](https://utah-data-science-hub.github.io/funding_nih.html#career-development-and-training-fk-and-t-grants)
+#### [Research (R) Grants](https://utah-data-science-hub.github.io/funding_nih.html#research-grants---r01-activities)
+#### [Notices of Special Interest and Requests for Information](https://utah-data-science-hub.github.io/funding_nih.html#notices-of-special-interest)
+
+***
+# [NSF Funding Opportunities](https://utah-data-science-hub.github.io/funding_nsf.html)
+#### [Proposals Accepted Anytime](https://utah-data-science-hub.github.io/funding_nsf.html#proposals-accepted-anytime)
+#### [Upcoming Proposal Deadlines](https://utah-data-science-hub.github.io/funding_nsf.html#upcoming-proposal-deadlines)
+#### [Upcoming Recurring Proposal Deadlines](https://utah-data-science-hub.github.io/funding_nsf.html#upcoming-recurring-proposal-deadlines)
+#### [Dear Colleague Letters](https://utah-data-science-hub.github.io/funding_nsf.html#dear-colleague-letters)
+
+***
+# [Other Funding Opportunities](https://utah-data-science-hub.github.io/funding_other.html)
+#### [Internal Funding Opportunities](https://utah-data-science-hub.github.io/funding_other.html#internal-funding-opportunities)
+#### [Foundation Funding Opportunities](https://utah-data-science-hub.github.io/funding_other.html#foundation-funding-opportunities)
+#### [International Funding Opportunities](https://utah-data-science-hub.github.io/funding_other.html#international-funding-opportunities)
+#### [Industry Funding Opportunities](https://utah-data-science-hub.github.io/funding_other.html#industry-funding-opportunities)
+#### [Governmental Funding Opportunities](https://utah-data-science-hub.github.io/funding_other.html#governmental-funding-opportunities)
+#### [Challenges, Awards, and Other Opportunities](https://utah-data-science-hub.github.io/funding_other.html#challenges-awards-and-other-opportunities)
+***
+# Additional Funding Opportunity Resources
+-   [ProQuest Pivot listing of funding opportunities related to data science](https://pivot.proquest.com//funding/results?s_id=2660468){target="_blank"} requires registration and login through the University of Utah.
