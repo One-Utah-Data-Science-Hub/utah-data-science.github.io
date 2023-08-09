@@ -19,6 +19,7 @@ website:
       - text: "Overview"
         href: about.qmd
       - section: "Funding Opportunities"
+        href: funding.qmd
         contents: 
           - text: "NIH Funding"
             href: funding_nih.qmd
