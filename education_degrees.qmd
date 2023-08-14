@@ -37,6 +37,7 @@ format: html
 * Kahlert School of Computing
   + [Certificate in Data Science](https://www.cs.utah.edu/graduate/academic-programs/certificate-programs/graduate-certificate-in-data-science/)
   + [Certificate in Deep Learning](https://www.cs.utah.edu/graduate/academic-programs/certificate-programs/graduate-certificate-in-deep-learning/)
+  + [Certificate in Secure Computing](https://online.utah.edu/certificates/secure-computing-certificate/index.php)
 * David Eccles School of Business
   + [Certificate in Business Analytics](https://eccles.utah.edu/programs/master-of-science-in-information-systems/graduate-certificate/)
   + [Certificate in Cybersecurity Management](https://eccles.utah.edu/programs/master-of-science-in-information-systems/graduate-certificate/)

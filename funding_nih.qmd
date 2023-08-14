@@ -300,7 +300,7 @@ title: "NIH Funding Opportunities"
 * Deadline: May 15, 2024 (LOI due 1 month prior); May 15, 2025
 * Award: X01, access to data resource for up to three years
 
-## Notices of Special Interest
+## Notices of Special Interest and Requests for Information
 <!-- * [](){target="_blank"} expires -->
 * [NIDCR: Supporting Dental, Oral, and Craniofacial Research Using Bioinformatic, Computational, and Data Science Approaches](https://grants.nih.gov/grants/guide/notice-files/NOT-DE-20-006.html){target="_blank"} expires August 08, 2023.
 * [**Request for Information** NIH Common Fund is Soliciting Ideas for NIH-wide Challenges and Opportunities](https://grants.nih.gov/grants/guide/notice-files/NOT-RM-23-013.html){target="_blank"} due by August 11, 2023.

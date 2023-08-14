@@ -3,21 +3,22 @@ title: "Data Science Modules"
 format: html
 ---
 Each course will run for four weeks with an asynchronous lecture, virtual office hour session, and project based assignments each week and will be taught in either R or Python. The series has been designed by Dr. Rebecca Barter and will include the following modules: introduction, data cleaning, data visualization, and modeling. \
+
+See our full collection of courses on our [Data Science Learning Canvas Catalog](https://utah.catalog.instructure.com/browse/ds-learn/){target="_blank"}. 
+<object data="pdfs/DSLearning_flyer.pdf" type="application/pdf" width="800" height="1200" style="overflow:hidden" scrolling="no">
+</object>
   
-### Introduction to R
+### Introduction to R for Data Analysis
 **When:** August/September 2023\
 **Where:** Virtual\
 **Instructor:** Rebecca Barter
+Additional Information can be found on the [website](https://utah.catalog.instructure.com/browse/ds-learn/courses/introduction-to-r-for-data-analysis){target="_blank"}.
 
 ### Data Cleaning in R
-**When:** June 12 - July 7, 2023 (*Pilot*)\
-**Where:** Virtual\
-**Instructor:** Rebecca Barter  
-Additional Information can be found on the [website](https://utah.instructure.com/courses/907377).
-
 **When:** September/October 2023\
 **Where:** Virtual\
 **Instructor:** Rebecca Barter
+Additional Information can be found on the [website](https://utah.catalog.instructure.com/browse/ds-learn/courses/data-cleaning-with-r){target="_blank"}.
 
 ### Data Visualization in R
 **When:** October/November 2023\
