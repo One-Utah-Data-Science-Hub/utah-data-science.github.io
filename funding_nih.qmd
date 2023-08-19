@@ -189,6 +189,16 @@ title: "NIH Funding Opportunities"
 * Deadline: October 5, 2023, recurring annually in February, June, and October through February 2026
 * Award: R01, budget must align with the project scope, for durations of up to three years. ([R03 Opportunity](https://grants.nih.gov/grants/guide/pa-files/PAR-23-132.html){target="_blank"} also available.)
 
+### [Personal Health Informatics for Delivering Actionable Insights to Individuals](https://grants.nih.gov/grants/guide/pa-files/PAR-23-245.html){target="_blank"}
+* Supports development of novel informatics and data science approaches that can help individuals understand and improve their health through actionable insights.
+* Deadline: October 5, 2023, recurring annually in February, June, and October through October 2026
+* Award: R01, $K/year (direct) for durations of up to four years 
+
+### [Academic-Industrial Partnerships (AIP) to Translate and Validate In Vivo Imaging Systems](https://grants.nih.gov/grants/guide/pa-files/PAR-23-259.html){target="_blank"}
+* Supports translation of scientific discoveries and engineering developments in imaging, data science and/or spectroscopic technologies into methods or tools that address contemporary problems in understanding the fundamental biology, potential risk of development, diagnosis, or treatment of cancer.
+* Deadline: October 5, 2023, recurring annually in February, June, and October through October 2026
+* Award: R01, $500K/year (direct) for durations of up to five years 
+
 ### [Addressing the Impact of Structural Racism and Discrimination on Minority Health and Health Disparities](https://grants.nih.gov/grants/guide/pa-files/PAR-23-112.html){target="_blank"}
 * Supports intervention research that addresses structural racism and discrimination (SRD) in order to improve minority health or reduce health disparities.
 * Deadline: October 10, 2023 (LOI due 1 month prior), annually through 2025 

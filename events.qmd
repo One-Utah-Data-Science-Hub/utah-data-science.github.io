@@ -20,18 +20,18 @@ We invite faculty and staff to present their research highlights, research needs
 
 ## DELPHI Symposium  
 **Date:** October 20, 2023  
-**Time:** 8:30am - 4:00pm  
+**Time:** 8:30am - 4:15pm  
 **Location:** Cleone Peterson Eccles Alumni House  
 Register and submit your abstract for a poster or lightning talk [here](https://forms.gle/FuUCPC7J8BXetwEeA). 
 
-<object data="pdfs/DELPHISymposium_SaveTheDate.pdf" type="application/pdf" width="800" height="500" style="overflow:hidden" scrolling="no">
+<object data="pdfs/DELPHISymposium2023.pdf" type="application/pdf" width="800" height="1100" style="overflow:hidden" scrolling="no">
 </object>
 
 ## DATASET Discovery Workshops
 ### Multidisciplinary Data Integration for Climate Resilience in the American West
 **Hosted by:** PI: Tabitha Benney; Co-PIs: Divya Chandrasekhar, Masood Parvania, John Horel, Manish Parashar  
-**Date:** October 19-20, 2023  
-**Location:** West Ballroom of the Union  
+<!-- **Date:** October 19-20, 2023  
+**Location:** West Ballroom of the Union  -->
 Additional details forthcoming!
 <!--  + Keynote: What is the current and future role of data science in building climate change resilience and advancing adaptative capacity in the western U.S.?
   + Track 1: Critical Infrastructure Systems Data, Masood Parvania and Heather Holmes

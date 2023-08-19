@@ -54,6 +54,10 @@ format: html
 * Deadline: Depends on the Division; anytime or annually in the Fall
 * Award: The size and duration of any individual request should be justified by the amount and complexity of the work to be accomplished.  
 
+### [Condensed Matter and Materials Theory (CMMT)](https://new.nsf.gov/funding/opportunities/condensed-matter-materials-theory-cmmt-0){target="_blank"}
+* Supports fundamental research and education on hard and soft materials and related phenomena; the development of associated analytical, computational and data-centric techniques; and predictive materials-specific theory, simulation and modeling.
+* Deadline: Accepted anytime (recommended to avoid April 15-June 15)
+* Award: The size and duration of any individual request should be justified by the amount and complexity of the work to be accomplished.  
 
 
 ## Upcoming Proposal Deadlines
@@ -80,6 +84,19 @@ format: html
 * Supports the translation of innovative research CI software, such as system software, libraries, application codes, and software enabling data services. 
 * Deadline: September 6, 2023
 * Award: $10M for durations up to five years with opportunity for renewal
+
+### [Smart Health and Biomedical Research in the Era of Artificial Intelligence and Advanced Data Science (SCH)](https://new.nsf.gov/funding/opportunities/smart-health-biomedical-research-era-artificial){target="_blank"}
+* Supports the development of transformative high-risk, high-reward advances in computer and information science, engineering, mathematics, statistics, behavioral and/or cognitive research to address pressing questions in the biomedical and public health communities. 
+  + Fairness and Trustworthiness
+  + Transformative Analytics in Biomedical and Behavioral Research
+  + Next Generation Multimodal and Reconfigurable Sensing Systems
+  + Cyber-Physical Systems
+  + Robotics
+  + Biomedical Image interpretation
+  + Unpacking Health Disparities and Health Equity
+* Deadline: November 9, 2023; October 3, 2024; October 3, 2025
+* Award: $300K/year (total) for durations up to four years
+* [DELPHI and DHI Townhall on Aug 31 at 10:30 am](https://utah.zoom.us/j/93613638947?pwd=MFB0RHRoemR2UUpUcVRXbGVmajY0dz09){target="_blank"}
 
 ### [Synthesis Center for Understanding Organismal Resilience](https://new.nsf.gov/funding/opportunities/synthesis-center-understanding-organismal){target="_blank"}
 * Supports the establishment of a new Synthesis Center focused on organismal resilience and plasticity as well as training new generations of researchers in data-intensive, open, cross-disciplinary and collaborative science.

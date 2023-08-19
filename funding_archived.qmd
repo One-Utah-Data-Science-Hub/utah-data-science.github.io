@@ -194,8 +194,26 @@ format: html
 * Deadline: June 1, 2023
 * Award: $50K unrestricted funds, $20K AWS promotional credits
 
+# International Funding Opportunities
+### [Generative AI Skills Challenge](https://data.org/initiatives/ai-challenge/){target="_blank"}
+-   A global grant for organizations training and upskilling teams on generative AI to drive social impact. With a particular focus on fair and community-led integration in low- and middle-income countries and contexts (LMICs), the Challenge aims to accelerate digital inclusion, socioeconomic mobility, and skills advancement and acquisition for workers from historically marginalized populations around the world.
+-   Deadline: August 15, 2023
+-   Award: \$250K for durations of 7-8 months
+-   [Q&A Session on August 2, 2023 at 7am MT](https://events.teams.microsoft.com/event/2d44f676-6b1e-49e1-b5d8-e88125e99da1@4ff91a0d-0e02-4e46-8d31-b793d477b044)
+
+### [Japan Science and Technology Agency: Adopting Sustainable Partnerships for Innovative Research Ecosystem (ASPIRE) 2023 Call for Proposals](https://www.jst.go.jp/inter/aspire/en/program_e/announce_e/announce_aspire2023_e.html){target="_blank"}
+-   Proposals are welcomed from Japan-based researchers intending to conduct collaborative research with researchers from other advanced countries and regions in science and technology.
+    -   *AI and information* research for the realization of [Society 5.0](https://www8.cao.go.jp/cstp/english/society5_0/index.html) based on the principles of human understanding and respect, diversity, and sustainability.
+-   Deadline: August 17, 2023 (recommended LOI by July 31)
+-   Award: 30-100M Yen for durations up of three to five years
+
 
 # Governmental Funding Opportunities
+### [US Economic Development Administration: Regional Technology and Innovation Hubs (Tech Hubs) Phase 1](https://www.grants.gov/web/grants/view-opportunity.html?oppId=348101){target="_blank"}
+-   Supports consortia through an economic development initiative designed to drive regional technology- and innovation-centric growth by strengthening a region's capacity to manufacture, commercialize, and deploy critical technologies.
+-   Deadline: August 15, 2023
+-   Award: \$500K, ability to apply for Phase 2
+
 ### [Bureau of Cyberspace and Digital Policy: Responsible State Behavior in Cyberspace Capacity Building](https://www.grants.gov/web/grants/view-opportunity.html?oppId=348759){target="_blank"}
 -   Supports partnership with a capable organization(s) to develop curriculum and provide capacity building for two complementary, yet distinct, focal areas that seek to improve international stability in cyberspace.
 -   Deadline: August 4, 2023
