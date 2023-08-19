@@ -192,7 +192,7 @@ title: "NIH Funding Opportunities"
 ### [Personal Health Informatics for Delivering Actionable Insights to Individuals](https://grants.nih.gov/grants/guide/pa-files/PAR-23-245.html){target="_blank"}
 * Supports development of novel informatics and data science approaches that can help individuals understand and improve their health through actionable insights.
 * Deadline: October 5, 2023, recurring annually in February, June, and October through October 2026
-* Award: R01, $K/year (direct) for durations of up to four years 
+* Award: R01, $250K/year (direct) for durations of up to four years 
 
 ### [Academic-Industrial Partnerships (AIP) to Translate and Validate In Vivo Imaging Systems](https://grants.nih.gov/grants/guide/pa-files/PAR-23-259.html){target="_blank"}
 * Supports translation of scientific discoveries and engineering developments in imaging, data science and/or spectroscopic technologies into methods or tools that address contemporary problems in understanding the fundamental biology, potential risk of development, diagnosis, or treatment of cancer.
