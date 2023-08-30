@@ -13,19 +13,15 @@ Check out our calendar of upcoming events and seminars in our [Google Calendar](
 **Date:** September 12, 2023  
 **Time:** 5pm - 7pm  
 **Location:** Thomas S. Monson Center  
-We invite faculty and staff to present their research highlights, research needs, and burning questions related to data science in a lightning-talk format. 
-
-<object data="pdfs/SaveTheDate_Networking2023_fullpage.pdf" type="application/pdf" width="800" height="1100" style="overflow:hidden" scrolling="no">
-</object>
+This networking event is for all data science faculty, staff, and community partners and will include organized and casual opportunities to meet your future collaborators. The One Utah Data Science Hub will also be introducing our Fall 2023 Seed Grant Program, which will focus on funding projects sprouting from new collaborations. 
+[![Data Science Networking Event Fall 2023](images/SaveTheDate_Networking2023_fullpage.png)](https://forms.gle/YXZC82X7kNpmXoyZ9){target="_blank"}
 
 ## DELPHI Symposium  
 **Date:** October 20, 2023  
 **Time:** 8:30am - 4:15pm  
 **Location:** Cleone Peterson Eccles Alumni House  
 Register and submit your abstract for a poster or lightning talk [here](https://forms.gle/FuUCPC7J8BXetwEeA). 
-
-<object data="pdfs/DELPHISymposium2023.pdf" type="application/pdf" width="800" height="1100" style="overflow:hidden" scrolling="no">
-</object>
+[![First Annual DELPHI Symposium](images/DELPHISymposium2023.png)](https://forms.gle/5EZHCyhJNJNPV71s6){target="_blank"}
 
 ## DATASET Discovery Workshops
 ### Multidisciplinary Data Integration for Climate Resilience in the American West
@@ -55,10 +51,8 @@ If you would like to share your research as a presenter of a 4-minute lightning 
 We also encourage you to help us spread the word by sharing this invitation with your colleagues across campus.
 
 This event is supported by the Data Science and Ethics of Technology (DATASET) Initiative. If you have any questions, please reach out to [Rebecca Barter](mailto:rebecca.barter@hsc.utah.edu).
+[![Bias, Ethics, and Trustworthiness in Data Science and AI](images/bias_event.png)](https://www.eventbrite.com/e/bias-ethics-and-trustworthiness-in-data-science-and-ai-tickets-666914688787){target="_blank"}
 
-
-<object data="pdfs/bias_event.pdf" type="application/pdf" width="800" height="1100" style="overflow:hidden" scrolling="no">
-</object>
   
 ## Other Seminars on Campus
 * [Utah Center for Data Science](https://datascience.utah.edu/seminar.html)  
