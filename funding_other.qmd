@@ -19,40 +19,56 @@ editor: visual
 * Deadline: LOI due September 15, 2023, invited full proposal due December 18, 2023
 * Award: $60K for one year
 
+### [One Utah Data Science Hub Seed Grant Program - FY24](https://utah.infoready4.com/#freeformCompetitionDetail/1913850){target="_blank"}
+* Supports the initiation of new collaborations and innovative research in data science and data-enabled science that will lead to federal extramural grant applications.
+* Deadline: December 15, 2023
+* Award: Up to $50K for one year
+
+
+
 ## Foundation Funding Opportunities
-### [Polycystic Kidney Disease (PKD) Foundation Research Grant](https://pkdcure.org/research-medical-professionals/research-funding/apply-for-funding/pkd-foundation-research-rfa/){target="_blank"}
--   The PKD Foundation's principal mission is to support basic, translational, and clinical research that will benefit patients with autosomal dominant and autosomal recessive polycystic kidney disease (ADPKD and ARPKD).
-    -   Epidemiology/data analysis research --- to conduct secondary data analyses utilizing existing database resources, or to develop new statistical methodologies or test hypotheses using [existing data](https://pkdcure.org/research-medical-professionals/data-resources-in-pkd-research/){target="_blank"}.
--   Deadline: August 14, 2023
--   Award: \$80K per year for durations up to three years
+### [Foresight Institute: AI Safety: Neuro/Security/Cryptography/Multipolar Approaches](https://foresight.org/ai-safety/){target="_blank"}
+* Supports projects working to make progress on three areas we consider underexplored when it comes to AI Safety.
+  + Neurotechnology, Whole Brain Emulation and lo-fi Uploading for AI safety
+  + Security, Cryptography, and Auxiliary Approaches for Infosec and AI Security
+  + Safe and Beneficial Multipolar AI Scenarios
+* Deadline: Rolling for one year until budget of $1M is depleted <!-- August 2024 -->
+* Application should take no more than 3 hours!
 
-### [Health Data for Action (HD4A, Data Access Award)](https://www.rwjf.org/en/grants/active-funding-opportunities/2023/health-data-for-action-data-access-award.html){target="_blank"}
--   Supports free access to selected data sets, while limited funding is available for a small number of projects from First-Time Investigators who will receive both funds and access to conduct studies using selected data sets.
--   Deadline: August 18, 2023 (brief proposal)
--   Award: data access for durations one to two years with up to \$100K for first-time investigators
--   Optional informational webinar on July 18 at 11 am ([registration required](https://academyhealth.org/events/2023-07/webinar-health-data-action-2023-applicant-information-session){target="_blank"})
+### [Ford Foundation: 2023 Digital Infrastructure Insights Fund](https://fordfoundation.forms.fm/2023-digital-infrastructure-insights-fund-rfp/forms/9724){target="_blank"}
+* The D//F (Digital Infrastructure Insights Fund) is a multi-funder initiative by Ford Foundation, Alfred P. Sloan Foundation, Omidyar Network, Schmidt Futures and Open Collective sustaining a platform for researchers and practitioners to better understand how open digital infrastructure is built and deployed.
+* Deadline: September 30, 2023
+* Award: $50-125K for durations of six to twelve months
 
-### [Mozilla Data Futures Lab Infrastructure Fund](https://foundation.mozilla.org/en/data-futures-lab/grantmaking/infrastructure-fund/){target="_blank"}
--   Supports the development of open source software needed to foster a more fair and just data ecosystem.
--   Deadline: *Letter of Intent* August 31, 2023
--   Award: *Idea* phase \$10K; *Development/testing* phase \$25K; *Launched*, in-use project (milestone deliverable) \$50K
+### [Russel Sage Foundation: Future of Work](https://www.russellsage.org/research/funding/future-work){target="_blank"}
+* Supports innovative research on the causes and consequences of changes in the quality of jobs for low- and moderately paid workers and their families in the U.S. 
+* Deadline: November 7, 2023 (Letter of Inquiry), Invited Proposals due February 21, 2024
+* Award: Up to $200K over two years
+
+### [Russel Sage Foundation: Behavioral Science and Decision Making in Context](https://www.russellsage.org/research/funding/behavioral-science-decision-making){target="_blank"}
+* Supports perspectives from multiple disciplines, including economics, psychology, political science, sociology, law, public policy, and other social sciences, to further our understanding of economic, social, and political decision-making processes, attitudes, behaviors, and institutional practices in public and private contexts such as policing/criminal legal systems, employment, housing, politics, racial/ethnic relations, and immigration. 
+* Deadline: November 7, 2023 (Letter of Inquiry), Invited Proposals due February 21, 2024
+* Award: Up to $200K over two years
 
 ### [Simons Foundation: Scientific Software Research Faculty Award](https://www.simonsfoundation.org/grant/scientific-software-research-faculty-award/){target="_blank"}
 -   Supports the development and maintenance of core scientific software infrastructure in academic environments through creating a new, long-term, faculty-level career path.
 -   Deadline: December 8, 2023
 -   Award: 50% salary and \$50K allowable expenses for durations up to five years
 
-<!-- ## Industry Funding Opportunities -->
+
+
+## Industry Funding Opportunities
+### [Microsoft Accelerate Foundation Models Research](https://www.microsoft.com/en-us/research/academic-program/accelerate-foundation-models-research-fall-2023){target="_blank"}
+* Supports leading foundation models hosted by Microsoft Azure more accessible to the academic research community via Microsoft Azure AI services. By driving deeper collaboration across disciplines, institutions, and sectors, we aim to unlock the full potential of AI across greater breadth of research pursuits, application domains, and societal contexts.
+  + Align AI systems with human goals and preferences
+  + Advance beneficial applications of AI
+  + Accelerate scientific discovery in the natural and life sciences
+* Deadline: September 12, 2023
+* Award: Up to $20K Azure Credits, access to Azure OpenAI Service and open-source models
 
 
 
-## International Funding Opportunities
-### [Critical and Emerging Technology: Quantum Technologies and Artificial Intelligence for Transforming Lives](https://cet.usistef.online/login){target="_blank"}
--   India and the United States are building a comprehensive roadmap for partnership in crucial areas of mutual interest while emphasizing the importance of leveraging complementary strengths and addressing critical challenges. In alignment with the recent U.S.-India initiative on Critical and Emerging Technology (CET), to strengthen links and enhance technology cooperation between the innovation ecosystems of both nations, the United States--India Science & Technology Endowment Fund (USISTEF) announces this special call.
-    -   *Quantum Technologies*: The joint proposals focus on innovation pertinent to the scaling-up and application of emerging quantum technologies.
-    -   *Artificial Intelligence*: The joint proposals to support a team deploy and commercialize a laboratory-validated prototype that ensures and demonstrates advanced innovation and societal impact.
--   Deadline: August 31, 2023
--   Award: \$120K (10M INR) for durations of two years
+<!--## International Funding Opportunities-->
 
 
 
@@ -66,11 +82,6 @@ editor: visual
     -   Resilient Systems - Building integrated healthcare systems
 -   Deadline: Rolling, expires March 14, 2024
 -   Award: Unspecified, budget must be align with the project scope
-
-### [DoD: Prostate Cancer, Data Science Award](https://www.grants.gov/web/grants/view-opportunity.html?oppId=347770){target="_blank"}
--   Supports research where quantitative and analytical approaches, processes, and/or systems are developed and/or used to obtain knowledge and insight from large and/or complex sets of prostate cancer data.
--   Deadline: August 24, 2023
--   Award: \$1M direct
 
 ### [ARPA-H: Scaling Health Applications Research for Everyone (SHARE)](https://sam.gov/opp/161668cf86cb4c5da64cbe2e1ce17110/view){target="_blank"}
 -   Supports proven technologies developed for national security and apply them to civilian health systems, clinical care facilities, and personal health devices.
@@ -94,12 +105,31 @@ editor: visual
 -   Award: \$125K (total) for one year
 -   **Informational Webinar**: July 20, 2023 at 1:30pm, register [here](https://www.eventbrite.com/e/aimings-ai-for-precision-nutritions-applicant-informational-webinar-tickets-668966997297?aff=oddtdtcreator).
 
+### [DOT: Advanced Driver Assistance Systems Microsimulation Model Development and Validation](https://sam.gov/opp/1de4f24e721944fabbb58e0e97893382/view){target="_blank"}
+* Supports development of models that describe how Advanced Driver Assistance Systems (ADAS) and Automated Driving Systems (ADS)—with or without connectivity—operate in traffic. The models proposed in response to this proposal request should seek to fill gaps in current traffic operations modeling capabilities.
+* Deadline: October 6, 2023
+* Award: Unspecified.
+
 ### [NEH: Dangers and Opportunities of Technology: Perspectives from the Humanities](https://www.neh.gov/program/dangers-and-opportunities-technology-perspectives-humanities){target="_blank"}
 * Supports research that examines technology and its relationship to society through the lens of the humanities, with a focus on the dangers and/or opportunities presented by technology.
   +  A special encouragement for research projects that seek to understand and address the ethical, legal, and societal implications of artificial intelligence (AI).
 * Deadline: October 11, 2023
 * Award: Up to $150K for durations of two years
 * [Q&A Session on August 15 at 12pm MT](https://events.gcc.teams.microsoft.com/event/9fd1d723-2090-4ebb-982b-f38ad71ce770@93b06459-c77d-44b6-af7f-e813cddcdcc3)
+
+### [DARPA: Adversarial Resilient Cyber Effects for Decision Dominance Collaborative Research Program](https://www.grants.gov/web/grants/view-opportunity.html?oppId=349875){target="_blank"}
+* Supports expansion of theoretical and scientific understanding of cyberspace windows of superiority (CWoS), such that one can rapidly and reliably identify, predict, and create these windows to provide military and civil leadership with multiple courses of action. Including research thrusts:
+  + Explore and define CWoS: Identify and Predict CWoS, Create CWoS
+  + Adversarial Resilient Cyber: Multidomain Cyber Deception in Contested Environments, Machine Learning for Security and Security for Machine Learning
+* Deadline: October 13, 2023
+* Award: Unspecified, budget must be align with the project scope
+
+### [NOAA, DOC: FY2024 Weather Program Office Research Programs](https://www.grants.gov/web/grants/view-opportunity.html?oppId=350001){target="_blank"}
+* Supports new weather, water, and earth system observing and forecasting applications.
+  + *Climate Testbed (CTB)* - for proposals to advance NOAA’s operational subseasonal-to-seasonal (two weeks to two years) prediction capabilities via the NOAA CTB. The portfolio will prioritize capabilities that enhance operational prediction systems, products, or research that aims to transition to operations, with a preference toward activities that enhance or improve precipitation outlooks and service delivery. One to two awards are expected of up to $300,000 per year.
+  + *Fire Weather* - for research and development proposals to improve fire weather forecast information and delivery. This opportunity will support new research into the coupled Unified Forecast System for the short-term fire-atmosphere modeling systems. Two to three awards are expected of up to $350,000.
+* Deadline: November 16, 2023
+* Award: $300K per year
 
 ### [NEH: Humanities Research Centers on Artificial Intelligence](https://www.grants.gov/web/grants/view-opportunity.html?oppId=349711){target="_blank"}
 * Supports humanities research centers on artificial intelligence (AI) focused on better understanding the ethical, legal, or societal implications of AI. 
@@ -109,9 +139,10 @@ editor: visual
 ### [DARPA: Automating Scientific Knowledge Extraction and Modeling (ASKEM)](https://www.darpa.mil/program/automating-scientific-knowledge-extraction-and-modelinga){target="_blank"}
 -   Supports the demands of complex, modern-day systems, computational models and simulators have become the primary artifacts for encoding, propagating, and applying expert knowledge to real-world science and engineering problems.
 
+
+
 ## Challenges, Awards, and Other Opportunities
--   [2023 DataWorks! Prize **Deadline Extended**](https://www.herox.com/dataworks){target="_blank"} will recognize and reward exceptional data practices in biological and biomedical research labs during the active phase of research which enable robust data sharing and reuse, and create a library of best practice methods that can be used by the broader research community. Submit your data sharing/reuse best practice recipes in a form that can be used by an audience of your peers, such as a teaching resource or tool for active data management, by August 15, 2023 for a chance to win up to \$100k.
--   [Health Equity Data Access Program (HEDAP)](https://www.grants.gov/web/grants/view-opportunity.html?oppId=348252){target="_blank"} assists researchers in gaining access to CMS restricted data to conduct health services research focusing on, but not limited to, racial and ethnic minority groups; people with disabilities; members of the lesbian, gay, bisexual, transgender, and queer (LGBTQ+) community; individuals with limited English proficiency; individuals residing in rural areas; and individuals adversely affected by persistent poverty or inequality. Applications due August 15, 2023. Access will be funded for three years.
+* [NIH Build UP Trust Challenge](https://www.builduptrust.org/){target="_blank"} seeks solutions that increase research participation and the adoption of medical care by building trust and improving engagement with historically underserved communities. Register by November 14, 2023, sbumission by December 5, 2023, awards up to $45K. 
 * [ReachU Challenge](https://www.challenge.gov/?challenge=reachu-challenge){target="_blank"} calls on university and college students, researchers, faculty, and staff: where do you find funding or share your ideas for the chance to win cash prizes? Help Challenge.Gov reach YOU! **What are the best digital channels, forums, databases, or platforms to reach academic audiences about federally sponsored prize competitions, challenges, and crowdsourcing campaigns?** Ideas due by September 8, 2023. 
 * [HHS, CDC, and NASA: Unsupervised Wisdom: Explore Medical Narratives on Older Adult Falls](https://www.challenge.gov/?challenge=unsupervised-wisdom-explore-medical-narratives-on-older-adult-falls){target="_blank"}. The goal in this challenge is to identify effective methods of using unsupervised machine learning to extract insights about older adult falls from Emergency Department narratives. Analysis and executive summary due October 6, 2023 for cash prizes up to $20K. 
 
@@ -119,4 +150,4 @@ editor: visual
 
 
 
-Updated August 18, 2023.
+Updated August 30, 2023.

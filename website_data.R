@@ -6,7 +6,7 @@ library(ggplot2)
 
 #read in files
 file_path = "C:/Users/Penny/Documents/DSHub/HubRoster/Data Science Roster_ALL.xlsx"
-data <- read.xlsx(file_path)
+data <- read.xlsx(file_path, sheet = "Responses")
 
 method_experts<-which(data=="Expert", arr.ind=TRUE)
 appli_res<-which(data=="Developer/Researcher", arr.ind=TRUE)

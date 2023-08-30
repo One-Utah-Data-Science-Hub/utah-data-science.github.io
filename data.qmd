@@ -8,6 +8,7 @@ editor: source
 * [Utah Population Database (UPDB)](https://uofuhealth.utah.edu/huntsman/utah-population-database){target="_blank"} at Huntsman Cancer Institute at the University of Utah is one of the world’s richest sources of in-depth information that supports research on genetics, epidemiology, demography, and public health..
 * [MesoWest](https://mesowest.utah.edu/){target="_blank"}  collects weather data from numerous public sources and provides access to current and past.
 * [Sloan Digital Sky Survey](https://www.sdss.org/){target="_blank"} has created the most detailed three-dimensional maps of the universe ever made, with deep multi-color images of one third of the sky, and spectra for more than three million astronomical objects.
+* [Research Data Management](https://campusguides.lib.utah.edu/researchdatamanagement) provides information on some of the most important aspects of data mangement.
 
 
 ## University of Utah Services and Groups
