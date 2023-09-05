@@ -40,6 +40,11 @@ editor: visual
 * Deadline: September 30, 2023
 * Award: $50-125K for durations of six to twelve months
 
+### [The Chan Zuckerberg Initiative (CZI), The Kavli Foundation, and The Wellcome Trust: Essential Open Source Software for Science](https://chanzuckerberg.com/rfa/essential-open-source-software-for-science/){target="_blank"}
+* Supports open source software projects essential for biomedical research. The goal of the program is to support software maintenance, growth, development, and community engagement for these critical tools.
+* Deadline: October 17, 2023 (LOI); December 5, 2023 for invited full proposals
+* Award: $50-200K/year for durations of two years
+
 ### [Russel Sage Foundation: Future of Work](https://www.russellsage.org/research/funding/future-work){target="_blank"}
 * Supports innovative research on the causes and consequences of changes in the quality of jobs for low- and moderately paid workers and their families in the U.S. 
 * Deadline: November 7, 2023 (Letter of Inquiry), Invited Proposals due February 21, 2024
@@ -131,9 +136,14 @@ editor: visual
 * Deadline: November 16, 2023
 * Award: $300K per year
 
+### [NASA ROSES: Heliophysics Artificial Intelligence/Machine Learning-Ready Data](https://nspires.nasaprs.com/external/solicitations/summary.do?solId=%7B8721DD55-91A7-4355-4EFB-9224A6C9462A%7D){target="_blank"}
+* Supports the advancement of the goals and objectives of NASA Heliophysics by developing new tools and methods for the generation of AI/ML-ready datasets from existing research and mission data.
+* Deadline: January 18, 2024 (Step 1, preliminary proposal); April 18, 2024 (Step 2, full proposal); repeated annually
+* Award: Dependent on scope of project 
+
 ### [NEH: Humanities Research Centers on Artificial Intelligence](https://www.grants.gov/web/grants/view-opportunity.html?oppId=349711){target="_blank"}
 * Supports humanities research centers on artificial intelligence (AI) focused on better understanding the ethical, legal, or societal implications of AI. 
-* Deadline: Feb 14, 2024 (forecasted)
+* Deadline: February 14, 2024 (forecasted)
 * Award: $500K
 
 ### [DARPA: Automating Scientific Knowledge Extraction and Modeling (ASKEM)](https://www.darpa.mil/program/automating-scientific-knowledge-extraction-and-modelinga){target="_blank"}
@@ -142,7 +152,7 @@ editor: visual
 
 
 ## Challenges, Awards, and Other Opportunities
-* [NIH Build UP Trust Challenge](https://www.builduptrust.org/){target="_blank"} seeks solutions that increase research participation and the adoption of medical care by building trust and improving engagement with historically underserved communities. Register by November 14, 2023, sbumission by December 5, 2023, awards up to $45K. 
+* [NIH Build UP Trust Challenge](https://www.builduptrust.org/){target="_blank"} seeks solutions that increase research participation and the adoption of medical care by building trust and improving engagement with historically underserved communities. Register by November 14, 2023, submission by December 5, 2023, awards up to $45K. 
 * [ReachU Challenge](https://www.challenge.gov/?challenge=reachu-challenge){target="_blank"} calls on university and college students, researchers, faculty, and staff: where do you find funding or share your ideas for the chance to win cash prizes? Help Challenge.Gov reach YOU! **What are the best digital channels, forums, databases, or platforms to reach academic audiences about federally sponsored prize competitions, challenges, and crowdsourcing campaigns?** Ideas due by September 8, 2023. 
 * [HHS, CDC, and NASA: Unsupervised Wisdom: Explore Medical Narratives on Older Adult Falls](https://www.challenge.gov/?challenge=unsupervised-wisdom-explore-medical-narratives-on-older-adult-falls){target="_blank"}. The goal in this challenge is to identify effective methods of using unsupervised machine learning to extract insights about older adult falls from Emergency Department narratives. Analysis and executive summary due October 6, 2023 for cash prizes up to $20K. 
 
@@ -150,4 +160,4 @@ editor: visual
 
 
 
-Updated August 30, 2023.
+Updated September 5, 2023.
