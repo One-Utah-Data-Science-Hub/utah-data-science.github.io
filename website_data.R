@@ -54,7 +54,7 @@ for (i in 1:nrow(data)){
   methodologies<-c()
   if (length(which(method_experts[,1]==i))>0){
     for (j in 1:length(which(method_experts[,1]==i))){
-      if (j>1){methodologies<-paste(methodologies,"<br>",sep="")}#add spacing preemptively
+      if (j>1){methodologies<-paste(methodologies,", ",sep="")}#add spacing preemptively
       if (all(colnames(data)[method_experts[which(method_experts[,1]==i),2][j]]=="Methodology-.Other") || all(colnames(data)[method_experts[which(method_experts[,1]==i),2][j]]=="Methodology")){
         methodologies<-paste(methodologies,data[i,method_experts[which(method_experts[,1]==i),2][j]+1],sep="")
       }
@@ -64,14 +64,14 @@ for (i in 1:nrow(data)){
       }
       
     }
-    methodologies<-paste(methodologies,"<br>",setp="")
+    # methodologies<-paste(methodologies,"",setp="")
   }
   else{methodologies=""}
 
   applications<-c()
   if (length(which(appli_res[,1]==i))){
     for (j in 1:length(which(appli_res[,1]==i))){
-      if (j>1){applications<-paste(applications,"<br>",sep="")}
+      if ((j>1) || (j==1 && methodologies!="")){applications<-paste(applications,", ",sep="")}
       if (all(colnames(data)[appli_res[which(appli_res[,1]==i),2][j]]=="Applications-.Other") || all(colnames(data)[appli_res[which(appli_res[,1]==i),2][j]]=="Applications")){
         applications<-paste(applications,data[i,appli_res[which(appli_res[,1]==i),2][j]+1],sep="")
       }

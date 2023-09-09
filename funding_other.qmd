@@ -88,17 +88,6 @@ editor: visual
 -   Deadline: Rolling, expires March 14, 2024
 -   Award: Unspecified, budget must be align with the project scope
 
-### [ARPA-H: Scaling Health Applications Research for Everyone (SHARE)](https://sam.gov/opp/161668cf86cb4c5da64cbe2e1ce17110/view){target="_blank"}
--   Supports proven technologies developed for national security and apply them to civilian health systems, clinical care facilities, and personal health devices.
-  + [DIGIHEALS Project](https://arpa-h.gov/news/digiheals/){target="_blank"} to protect the U.S. healthcare system’s electronic infrastructure
--   Deadline: September 7, 2023
--   Award: Unspecified, budget must be align with the project scope
-
-### [NEH: Humanities Connections](https://www.grants.gov/web/grants/view-opportunity.html?oppId=348280){target="_blank"}
--   Supports the planning or implementation of curricular projects connecting the humanities to the physical and natural sciences; pre-service or professional programs, including law and business; computer science, data science, and other technology-driven fields; or other non-humanities departments or schools.
--   Deadline: September 7, 2023 (Optional draft due July 21, 2023)
--   Award: \$50K for planning for 1 year, \$150K for implementation for 1.5 to 3 years
-
 ### [Office of Postsecondary Education (OPE): Higher Education Programs (HEP): Fund for The Improvement of Postsecondary Education (FIPSE): Postsecondary Student Success Grant](https://www.grants.gov/web/grants/view-opportunity.html?oppId=349499){target="_blank"}
 -   Supports equitable improvement for postsecondary student outcomes, including retention, transfer (including successful transfer of completed credits), credit accumulation, and completion, by leveraging data and implementing, scaling, and rigorously evaluating evidence-based activities to support data-driven decisions and actions by institutional leaders committed to inclusive student success.
 -   Deadline: September 25, 2023
@@ -152,6 +141,14 @@ editor: visual
 
 
 ## Challenges, Awards, and Other Opportunities
+* [America's Datahub Consortium Idea Bank](https://www.americasdatahub.org/idea-bank-form/){target="_blank"} invites input from stakeholders to inform future project solicitations on the topics of: 
+  + Privacy Preserving Technologies (PPT) 
+  + Data collection, access, linkage, and standards
+  + Statistical and other quantitative analyses
+  + Legal frameworks
+  + User Tools 
+  + Stakeholder Engagement
+  + Artificial Intelligence
 * [NIH Build UP Trust Challenge](https://www.builduptrust.org/){target="_blank"} seeks solutions that increase research participation and the adoption of medical care by building trust and improving engagement with historically underserved communities. Register by November 14, 2023, submission by December 5, 2023, awards up to $45K. 
 * [ReachU Challenge](https://www.challenge.gov/?challenge=reachu-challenge){target="_blank"} calls on university and college students, researchers, faculty, and staff: where do you find funding or share your ideas for the chance to win cash prizes? Help Challenge.Gov reach YOU! **What are the best digital channels, forums, databases, or platforms to reach academic audiences about federally sponsored prize competitions, challenges, and crowdsourcing campaigns?** Ideas due by September 8, 2023. 
 * [HHS, CDC, and NASA: Unsupervised Wisdom: Explore Medical Narratives on Older Adult Falls](https://www.challenge.gov/?challenge=unsupervised-wisdom-explore-medical-narratives-on-older-adult-falls){target="_blank"}. The goal in this challenge is to identify effective methods of using unsupervised machine learning to extract insights about older adult falls from Emergency Department narratives. Analysis and executive summary due October 6, 2023 for cash prizes up to $20K. 
@@ -160,4 +157,4 @@ editor: visual
 
 
 
-Updated September 5, 2023.
+Updated September 8, 2023.

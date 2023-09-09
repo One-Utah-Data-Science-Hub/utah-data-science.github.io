@@ -119,6 +119,20 @@ format: html
 
 
 # NSF Funding Opportunities
+### [Predictive Intelligence for Pandemic Prevention Phase II (PIPP Phase II Centers Program)](https://new.nsf.gov/funding/opportunities/predictive-intelligence-pandemic-prevention-phase){target="_blank"}
+* Supports interdisciplinary team-based approaches to accelerate research and development activities in emerging infectious diseases and pandemics. The overall goal of the PIPP Phase II Centers program is to support research and development activities needed to transform society’s ability to forecast the likelihood of pandemic-scale events, detect outbreaks early, and respond efficiently.
+  + Theme 1: **Pre-emergence** – Predicting and detecting rare events in complex, dynamical systems 
+  + Theme 2: **Data, AI/ML and Design** - Computing, manufacturing and technology innovation for pandemics 
+  + Theme 3: **The Host as the Universe** - Identifying host-pathogen tipping points that dictate control or spread of an infection
+  + Theme 4: **Human Systems** – The role of human behavior, activities and environments in disease emergence, transmission, and response or mitigation
+* Deadline: December 8, 2023 (LOI due August 25, 2023)
+* Award: $15-18M for durations up to seven years
+
+### [Cyberinfrastructure Technology Acceleration Pathway (CITAP)](https://new.nsf.gov/funding/opportunities/cyberinfrastructure-technology-acceleration){target="_blank"}
+* Supports the translation of innovative research CI software, such as system software, libraries, application codes, and software enabling data services. 
+* Deadline: September 6, 2023
+* Award: $10M for durations up to five years with opportunity for renewal
+
 ### [Centers for Chemical Innovation (CCI)](https://new.nsf.gov/funding/opportunities/centers-chemical-innovation-cci){target="_blank"}
 *   Supports developing centers (Phase I) and large, multi-institutional research centers (Phase II) focused on major, long-term chemical research challenges.
 *   Deadline: August 10, 2023 (Preliminary Proposal)
@@ -257,6 +271,17 @@ format: html
 
 
 # Governmental Funding Opportunities
+### [ARPA-H: Scaling Health Applications Research for Everyone (SHARE)](https://sam.gov/opp/161668cf86cb4c5da64cbe2e1ce17110/view){target="_blank"}
+-   Supports proven technologies developed for national security and apply them to civilian health systems, clinical care facilities, and personal health devices.
+  + [DIGIHEALS Project](https://arpa-h.gov/news/digiheals/){target="_blank"} to protect the U.S. healthcare system’s electronic infrastructure
+-   Deadline: September 7, 2023
+-   Award: Unspecified, budget must be align with the project scope
+
+### [NEH: Humanities Connections](https://www.grants.gov/web/grants/view-opportunity.html?oppId=348280){target="_blank"}
+-   Supports the planning or implementation of curricular projects connecting the humanities to the physical and natural sciences; pre-service or professional programs, including law and business; computer science, data science, and other technology-driven fields; or other non-humanities departments or schools.
+-   Deadline: September 7, 2023 (Optional draft due July 21, 2023)
+-   Award: \$50K for planning for 1 year, \$150K for implementation for 1.5 to 3 years
+
 ### [DoD: Prostate Cancer, Data Science Award](https://www.grants.gov/web/grants/view-opportunity.html?oppId=347770){target="_blank"}
 -   Supports research where quantitative and analytical approaches, processes, and/or systems are developed and/or used to obtain knowledge and insight from large and/or complex sets of prostate cancer data.
 -   Deadline: August 24, 2023

@@ -62,20 +62,6 @@ format: html
 
 
 ## Upcoming Proposal Deadlines
-### [Predictive Intelligence for Pandemic Prevention Phase II (PIPP Phase II Centers Program)](https://new.nsf.gov/funding/opportunities/predictive-intelligence-pandemic-prevention-phase){target="_blank"}
-* Supports interdisciplinary team-based approaches to accelerate research and development activities in emerging infectious diseases and pandemics. The overall goal of the PIPP Phase II Centers program is to support research and development activities needed to transform society’s ability to forecast the likelihood of pandemic-scale events, detect outbreaks early, and respond efficiently.
-  + Theme 1: **Pre-emergence** – Predicting and detecting rare events in complex, dynamical systems 
-  + Theme 2: **Data, AI/ML and Design** - Computing, manufacturing and technology innovation for pandemics 
-  + Theme 3: **The Host as the Universe** - Identifying host-pathogen tipping points that dictate control or spread of an infection
-  + Theme 4: **Human Systems** – The role of human behavior, activities and environments in disease emergence, transmission, and response or mitigation
-* Deadline: December 8, 2023 (LOI due August 25, 2023)
-* Award: $15-18M for durations up to seven years
-
-### [Cyberinfrastructure Technology Acceleration Pathway (CITAP)](https://new.nsf.gov/funding/opportunities/cyberinfrastructure-technology-acceleration){target="_blank"}
-* Supports the translation of innovative research CI software, such as system software, libraries, application codes, and software enabling data services. 
-* Deadline: September 6, 2023
-* Award: $10M for durations up to five years with opportunity for renewal
-
 ### [Smart Health and Biomedical Research in the Era of Artificial Intelligence and Advanced Data Science (SCH)](https://new.nsf.gov/funding/opportunities/smart-health-biomedical-research-era-artificial){target="_blank"}
 * Supports the development of transformative high-risk, high-reward advances in computer and information science, engineering, mathematics, statistics, behavioral and/or cognitive research to address pressing questions in the biomedical and public health communities. 
   + Fairness and Trustworthiness
@@ -87,7 +73,7 @@ format: html
   + Unpacking Health Disparities and Health Equity
 * Deadline: November 9, 2023; October 3, 2024; October 3, 2025
 * Award: $300K/year (total) for durations up to four years
-* [DELPHI and DHI Townhall on Aug 31 at 10:30 am](https://utah.zoom.us/j/93613638947?pwd=MFB0RHRoemR2UUpUcVRXbGVmajY0dz09){target="_blank"}
+* [DELPHI and DHI Townhall on Aug 31 at 10:30 am](https://utah.zoom.us/j/93613638947?pwd=MFB0RHRoemR2UUpUcVRXbGVmajY0dz09){target="_blank"}, [NIH/NSF Webinar on Sept 25 at 1pm](https://nsf.zoomgov.com/webinar/register/WN_ctCzc3alRQyXZAX0rS1Fww){target="_blank"}
 
 ### [Synthesis Center for Understanding Organismal Resilience](https://new.nsf.gov/funding/opportunities/synthesis-center-understanding-organismal){target="_blank"}
 * Supports the establishment of a new Synthesis Center focused on organismal resilience and plasticity as well as training new generations of researchers in data-intensive, open, cross-disciplinary and collaborative science.
