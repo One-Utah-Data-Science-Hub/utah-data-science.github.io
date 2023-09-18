@@ -5,6 +5,26 @@ format: html
 
 # NIH Funding Opportunities
 ## Cooperative Agreement (U) Grants
+### [Broadening Opportunities for Computational Genomics and Data Science Education](https://grants.nih.gov/grants/guide/rfa-files/RFA-HG-23-002.html){target="_blank"}
+* Supports faculty members at institutions with a mission to serve historically underrepresented populations in biomedical research to develop undergraduate and master’s degree-level educational content in computational genomics, data science, or a combination of these topics.
+* Deadline: October 10, 2023 (LOI due 1 month prior), June 10, 2024
+* Award: UE5, $150K/year (direct) for three years
+
+### [Using Secondary Data Analysis to Determine Whether Preventive Interventions Implemented Earlier in Life Reduce Suicide Risk](https://grants.nih.gov/grants/guide/rfa-files/RFA-MH-23-275.html){target="_blank"}
+* Supports research that will integrate and harmonize existing large prevention trial data sets consisting of well-characterized participant-level data for interventions implemented earlier in life to examine whether they reduce risk for later suicide, including suicidal thoughts and behaviors — fatal and nonfatal (STB), and related external injuries (e.g., nonfatal SUD/OUD/accidents, and all-cause mortality (e.g., National Death Index)). 
+* Deadline: October 10, 2023 (LOI due 1 month prior)
+* Award: U01, budget must align with the project scope ($3M/year), for durations up to four years
+
+### [Development of Software for Data Science in Infectious and Immune-Mediated Diseases Research](https://grants.nih.gov/grants/guide/rfa-files/RFA-AI-23-038.html){target="_blank"}
+* Supports the development of software to improve the acquisition, management, analysis, visualization, and dissemination of data and knowledge for data science research on infectious and immune-mediated diseases (IID). 
+* Deadline: October 11, 2023 (LOI due 1 month prior)
+* Award: U01, $300K/year (direct) for durations of three years
+
+### [Precision Mental Health: Develop Tools to Inform Treatment Selection in Depression](https://grants.nih.gov/grants/guide/rfa-files/RFA-MH-24-120.html){target="_blank"}
+* Supports creation of a pipeline to accelerate the development and early validation of predictive tools and/or biomarkers to inform individual-level treatment selection among two or more existing therapeutics for depression. 
+* Deadline: October 18, 2023 (LOI due 1 month prior); October 18, 2024
+* Award: UG3/UH3, $500K/year (direct) for one to two years (UG3), followed by $1.5M/year (direct) for a total duration up to five years
+
 ### [Data Analysis and Coordination Center for the PsychENCODE Consortium](https://grants.nih.gov/grants/guide/pa-files/PAR-23-234.html){target="_blank"}
 * Supports a Data Analysis and Coordination Center for PsychENCODE, a NIMH consortium for the discovery and characterization of human-specific non-coding functional genomic elements across brain regions, cell types, and developmental time periods and their role(s) in the molecular pathophysiology of psychiatric disorders.
 * Deadline: August 24, 2023 (LOI due 1 month prior)
@@ -66,6 +86,16 @@ format: html
 * Award: F99/K00, covers stipends, tuition, fees, and institutional allowance for durations up to six years (F99 for two years, K00 for four years).
 
 ## Research Grants - R01 Activities
+### [Translational Bioinformatics Approaches to Advance Drug Repositioning and Combination Therapy Development for Alzheimer’s Disease](https://grants.nih.gov/grants/guide/pa-files/PAR-20-156.html){target="_blank"}
+* Supports data-driven drug repositioning and combination therapy for Alzheimer's disease and Alzheimer's disease-related dementias (AD/ADRD) by developing computational methods and data resources and/or integrating computational approaches with proof-of-concept efficacy studies in cell-based models, animal models, and/or humans.
+* Deadline: September 8, 2023
+* Award: R01, budget must align with the project scope, for durations of up to five years
+
+### [Enhancing Use of Harmonized Cognitive Assessment Protocol Data](https://grants.nih.gov/grants/guide/rfa-files/RFA-AG-24-032.html){target="_blank"}
+* Supports  analyses of HCAP data from the U.S. or from another country where HCAP data is available, or cross-national analyses of HCAP data. This research will help further our understanding of how different behavioral, social, cultural, environmental, and institutional factors affect the trajectory of cognitive aging and AD/ADRD and the experience of living with or managing AD/ADRD in different national or regional contexts.
+* Deadline: October 2, 2023 (LOI due 1 month prior)
+* Award: R01, $500K/year (direct) for durations up to five years
+
 ### [Leveraging Big Data Science to Elucidate the Mechanisms of HIV Activity and Interaction with Substance Use Disorder](https://grants.nih.gov/grants/guide/rfa-files/RFA-DA-24-008.html){target="_blank"}
 * Supports research using data science and computational approaches to generate new insights into mechanisms and consequences of the interaction of HIV and addictive drugs. 
 * Deadline: August 10, 2023 (LOI due 1 month prior)
@@ -119,6 +149,19 @@ format: html
 
 
 # NSF Funding Opportunities
+
+### [Campus Cyberinfrastructure (CC\*)](https://new.nsf.gov/funding/opportunities/campus-cyberinfrastructure-cc){target="_blank"}
+* Supports coordinated campus-level networking and cyberinfrastructure improvements for science applications and distributed research projects.
+  + Area (1) Data-Driven Networking Infrastructure for the Campus and Researcher;
+  + Area (2) Regional Connectivity for Small Institutions of Higher Education;
+  + Area (3) Network Integration and Applied Innovation;
+  + Area (4) Campus Computing and the Computing Continuum;
+  + Area (5) Regional Computing;
+  + Area (6) Data Storage; and
+  + Area (7) Planning Grants and CI-Research Alignment.
+* Deadline: September 11, 2023
+* Award: \$100K - \$1.2M depending on area for durations up to two years
+
 ### [Predictive Intelligence for Pandemic Prevention Phase II (PIPP Phase II Centers Program)](https://new.nsf.gov/funding/opportunities/predictive-intelligence-pandemic-prevention-phase){target="_blank"}
 * Supports interdisciplinary team-based approaches to accelerate research and development activities in emerging infectious diseases and pandemics. The overall goal of the PIPP Phase II Centers program is to support research and development activities needed to transform society’s ability to forecast the likelihood of pandemic-scale events, detect outbreaks early, and respond efficiently.
   + Theme 1: **Pre-emergence** – Predicting and detecting rare events in complex, dynamical systems 
@@ -180,6 +223,16 @@ format: html
 * [Supporting Cybersecurity & Privacy Education and Workforce Development](https://www.nsf.gov/pubs/2023/nsf23091/nsf23091.jsp) due by May 23, 2023. <!--April 24, 2023 -->
 * [Seeking US Industry and US Federal Agency Partners to Support Research Projects in Advanced Networking Systems](https://www.nsf.gov/pubs/2023/nsf23090/nsf23090.jsp) response due May 15, 2023.<!-- April 18, 2023 -->
 
+# Internal Funding Opportunities
+### [Utah CTSI Community & Academic Partnership Pilot (CAPP) Program](pdfs/CTSI CAPP FOA - final.pdf){target="_blank"}
+* Supports collaborations between community organizations located in Utah and adjacent states, and CTSI-affiliated academic partners that address at least one of the following focal areas:
+  + Address barriers to conducting clinical & translational research
+  + Advance human health
+  + Understand and reduce health disparities
+* Deadline: LOI due September 15, 2023, invited full proposal due December 18, 2023
+* Award: $60K for one year
+
+
 # Foundation Funding Opportunities
 ### [Polycystic Kidney Disease (PKD) Foundation Research Grant](https://pkdcure.org/research-medical-professionals/research-funding/apply-for-funding/pkd-foundation-research-rfa/){target="_blank"}
 -   The PKD Foundation's principal mission is to support basic, translational, and clinical research that will benefit patients with autosomal dominant and autosomal recessive polycystic kidney disease (ADPKD and ARPKD).
@@ -217,6 +270,14 @@ format: html
 
 
 # Industry Funding Opportunities
+### [Microsoft Accelerate Foundation Models Research](https://www.microsoft.com/en-us/research/academic-program/accelerate-foundation-models-research-fall-2023){target="_blank"}
+* Supports leading foundation models hosted by Microsoft Azure more accessible to the academic research community via Microsoft Azure AI services. By driving deeper collaboration across disciplines, institutions, and sectors, we aim to unlock the full potential of AI across greater breadth of research pursuits, application domains, and societal contexts.
+  + Align AI systems with human goals and preferences
+  + Advance beneficial applications of AI
+  + Accelerate scientific discovery in the natural and life sciences
+* Deadline: September 12, 2023
+* Award: Up to $20K Azure Credits, access to Azure OpenAI Service and open-source models
+
 ### [LTC Data Cooperative: Real World Data Scholars Program](https://impactcollaboratory.org/ltc-real-world-data-scholars-program/){target="_blank"}
 -   Supports the development of advanced graduate students, postdoctoral fellows, and early-career faculty who are interested in developing their expertise and experience in working with electronic health record (EHR) data.
 -   Deadline: August 4, 2023

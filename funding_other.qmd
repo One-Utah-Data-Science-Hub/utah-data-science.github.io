@@ -11,14 +11,6 @@ editor: visual
 * Award: $ for durations up to  years -->
 ```
 ## Internal Funding Opportunities
-### [Utah CTSI Community & Academic Partnership Pilot (CAPP) Program](pdfs/CTSI CAPP FOA - final.pdf){target="_blank"}
-* Supports collaborations between community organizations located in Utah and adjacent states, and CTSI-affiliated academic partners that address at least one of the following focal areas:
-  + Address barriers to conducting clinical & translational research
-  + Advance human health
-  + Understand and reduce health disparities
-* Deadline: LOI due September 15, 2023, invited full proposal due December 18, 2023
-* Award: $60K for one year
-
 ### [One Utah Data Science Hub Seed Grant Program - FY24](https://utah.infoready4.com/#freeformCompetitionDetail/1913850){target="_blank"}
 * Supports the initiation of new collaborations and innovative research in data science and data-enabled science that will lead to federal extramural grant applications.
 * Deadline: December 15, 2023
@@ -40,10 +32,20 @@ editor: visual
 * Deadline: September 30, 2023
 * Award: $50-125K for durations of six to twelve months
 
+### [Rose Foundation: Consumer Privacy Rights Fund](https://rosefdn.org/wp-content/uploads/Consumer-Privacy-2023-RFP.pdf){target="_blank"}
+* Supports privacy protection and privacy education efforts, specifically individual consumer’s internet privacy rights.
+* Deadline: October 13, 2023
+* Award: $150K
+
 ### [The Chan Zuckerberg Initiative (CZI), The Kavli Foundation, and The Wellcome Trust: Essential Open Source Software for Science](https://chanzuckerberg.com/rfa/essential-open-source-software-for-science/){target="_blank"}
 * Supports open source software projects essential for biomedical research. The goal of the program is to support software maintenance, growth, development, and community engagement for these critical tools.
 * Deadline: October 17, 2023 (LOI); December 5, 2023 for invited full proposals
 * Award: $50-200K/year for durations of two years
+
+### [CIFAR Azrieli Global Scholars](https://cifar.ca/wp-content/uploads/2023/08/GlobalScholar_ProgramOverview2023.pdf){target="_blank"}
+* CIFAR invites outstanding early-career researchers from across the natural, biomedical, life and social sciences and the humanities to join  one of our interdisciplinary research programs that address some of the most important questions facing science and humanity. 
+* Deadline: October 30, 2023
+* Award: $100K CAD, mentorship, seed funding, and leadership development
 
 ### [Russel Sage Foundation: Future of Work](https://www.russellsage.org/research/funding/future-work){target="_blank"}
 * Supports innovative research on the causes and consequences of changes in the quality of jobs for low- and moderately paid workers and their families in the U.S. 
@@ -62,14 +64,8 @@ editor: visual
 
 
 
-## Industry Funding Opportunities
-### [Microsoft Accelerate Foundation Models Research](https://www.microsoft.com/en-us/research/academic-program/accelerate-foundation-models-research-fall-2023){target="_blank"}
-* Supports leading foundation models hosted by Microsoft Azure more accessible to the academic research community via Microsoft Azure AI services. By driving deeper collaboration across disciplines, institutions, and sectors, we aim to unlock the full potential of AI across greater breadth of research pursuits, application domains, and societal contexts.
-  + Align AI systems with human goals and preferences
-  + Advance beneficial applications of AI
-  + Accelerate scientific discovery in the natural and life sciences
-* Deadline: September 12, 2023
-* Award: Up to $20K Azure Credits, access to Azure OpenAI Service and open-source models
+<!--## Industry Funding Opportunities-->
+
 
 
 
@@ -141,6 +137,8 @@ editor: visual
 
 
 ## Challenges, Awards, and Other Opportunities
+* [Research Rovers: AI Research Assistants for NASA](https://www.drivendata.org/competitions/252/ai-research-assistants/page/780/){target="_blank"} is seeking innovative approaches to help assess emerging capabilities in AI-based research assistants. Solutions are due October 2, 2023.
+
 * [America's Datahub Consortium Idea Bank](https://www.americasdatahub.org/idea-bank-form/){target="_blank"} invites input from stakeholders to inform future project solicitations on the topics of: 
   + Privacy Preserving Technologies (PPT) 
   + Data collection, access, linkage, and standards
@@ -157,4 +155,4 @@ editor: visual
 
 
 
-Updated September 8, 2023.
+Updated September 18, 2023.

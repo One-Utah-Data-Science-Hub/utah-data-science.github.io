@@ -1,0 +1,32 @@
+---
+title: "Previous Events"
+format: html
+---
+
+## Fall 2023 Networking Event
+**Date:** September 12, 2023  
+**Time:** 5pm - 7pm  
+**Location:** Thomas S. Monson Center  
+This networking event is for all data science faculty, staff, and community partners and will include organized and casual opportunities to meet your future collaborators. The One Utah Data Science Hub will also be introducing our Fall 2023 Seed Grant Program, which will focus on funding projects sprouting from new collaborations. 
+[![Data Science Networking Event Fall 2023](images/SaveTheDate_Networking2023_fullpage.png)](https://forms.gle/YXZC82X7kNpmXoyZ9){target="_blank"}
+
+
+
+## DATASET Discovery Workshops
+### Bias, Ethics, and Trustworthiness in Data Science and AI
+This is an in-person, mixer event that explores the challenges and opportunities of data science and AI in the modern world. 
+
+Join us over lunch for a mixer event that will include **lightning talks, poster presentations, and engaging networking opportunities** with researchers across campus who are delving into the ethical considerations of data science and AI. Together, we will highlight the importance of conducting trustworthy research and identify ways to mitigate bias in our data and analyses. We look forward to seeing you!
+
+**Date:** September 15, 2023  
+**Time:** 11AM - 2PM  
+**Location:** Henriksen Conference Room, Cleone Peterson Eccles Alumni House.  
+
+If you are interested in attending the mixer event, please [register here](https://www.eventbrite.com/e/bias-ethics-and-trustworthiness-in-data-science-and-ai-tickets-666914688787).
+
+If you would like to share your research as a presenter of a 4-minute lightning talk speaker or poster at the event, please [submit a brief abstract using this form](https://forms.gle/SgapNEdxRz1cpzJ8A) by July 15. Note that submitting an abstract will automatically register you for the event.
+
+We also encourage you to help us spread the word by sharing this invitation with your colleagues across campus.
+
+This event is supported by the Data Science and Ethics of Technology (DATASET) Initiative. If you have any questions, please reach out to [Rebecca Barter](mailto:rebecca.barter@hsc.utah.edu).
+[![Bias, Ethics, and Trustworthiness in Data Science and AI](images/bias_event.png)](https://www.eventbrite.com/e/bias-ethics-and-trustworthiness-in-data-science-and-ai-tickets-666914688787){target="_blank"}

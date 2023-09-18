@@ -94,47 +94,6 @@ format: html
 
 
 ## Upcoming Recurring Proposal Deadlines
-### [Human Networks and Data Science (HNDS)](https://beta.nsf.gov/funding/opportunities/human-networks-data-science-hnds){target="_blank"}
-*   Supports research that studies the behavior of individuals and groups by leveraging data and network science and the development of data infrastructure that makes such work possible.
-*   Deadline: *Core Research* January 11, 2024, July 11, 2024, annually thereafter in January and July; *Infrastructure* February 1, 2024, annually thereafter in February and August
-*   Awards: *Core Research* \$400K; *Infrastructure* \$800K for durations of one to five years
-
-### [Decision, Risk and Management Sciences (DRMS)](https://new.nsf.gov/funding/opportunities/decision-risk-management-sciences-drms-0){target="_blank"}
-* Supports research that increases understanding of how individuals, organizations and societies make decisions. Areas include judgment, decision analysis and aids, risk analysis and communication, public policy decision making and management science.
-* Deadline: August 18 and January 18; annually
-
-### [Community Infrastructure for Research in Computer and Information Science and Engineering (CIRC)](https://new.nsf.gov/funding/opportunities/cise-community-research-infrastructure-ccri){target="_blank"}
-*   *Planning Community Infrastructure (Planning)* awards support planning efforts to engage research communities to develop new CISE community research infrastructures. Such an infrastructure could be eventually funded through the CIRC program (Planning-C) or the [Mid-scale RI-1](https://new.nsf.gov/funding/opportunities/mid-scale-research-infrastructure-1-mid-scale-ri-1){target="_blank"} or [Mid-scale RI-2](https://new.nsf.gov/funding/opportunities/mid-scale-research-infrastructure-2-mid-scale-ri-2){target="_blank"} programs (Planning-M).
-* *Exploratory Development (Dev)* awards support activities that involve the validation of one or more unproven infrastructure designs and/or technologies, which, if validated, could enable transformative community research infrastructure in the future. Successful projects are expected to provide the technical foundations necessary to pursue subsequent CIRC (**New** or **Grand**), [Mid-scale RI-1](https://new.nsf.gov/funding/opportunities/mid-scale-research-infrastructure-1-mid-scale-ri-1){target="_blank"}, or [Mid-scale RI-2](https://new.nsf.gov/funding/opportunities/mid-scale-research-infrastructure-2-mid-scale-ri-2){target="_blank"} projects.
-*   *Medium Community Infrastructure (Medium)* awards support the creation of new CISE community research infrastructure or the enhancement of existing CISE community research infrastructure with integrated tools, resources, user services, and research community outreach to enable innovative CISE research opportunities to advance the frontiers of the CISE core research areas.
-*   *Grand Community Infrastructure (Grand)* awards support projects involving significant efforts to develop new CISE community research infrastructure or to enhance and sustain an existing CISE community research infrastructure to enable world-class CISE research opportunities for broad-based communities of CISE researchers that extend well beyond the awardee organization(s).
-*   Deadline: September 8, 2023, annually thereafter on the second Friday in September
-*   Award: *Planning* \$50-250K for durations up to two years; *Dev* \$250-750K for durations up to two years; *Medium* \$750K-2M for durations up to three years; *Grand* \$2-5M for durations up to five years
-
-### [Research Security and Integrity Information Sharing Analysis Organization (RSI-ISAO)](https://new.nsf.gov/funding/opportunities/research-security-integrity-information-sharing){target="_blank"}
-* Supports the establishment of an independent Research Security and Integrity Information Sharing Analysis Organization (RSI-ISAO) to empower the U.S. research community (institutions of higher education (IHEs), non-profit research institutions, and small and medium-sized for-profit organizations) to address foreign government interference, support security-informed decision-making, and serve as a conduit that connects research community stakeholders with one another and with U.S. government (USG) agencies via NSF.
-* Deadline: *Letter of Intent* September 8, 2023, *Full Proposal* October 30, 2023
-* Award: $9.5M for FY2024 then at least $10M/year for durations up to five years
-
-### [Campus Cyberinfrastructure (CC\*)](https://new.nsf.gov/funding/opportunities/campus-cyberinfrastructure-cc){target="_blank"}
-* Supports coordinated campus-level networking and cyberinfrastructure improvements for science applications and distributed research projects.
-  + Area (1) Data-Driven Networking Infrastructure for the Campus and Researcher;
-  + Area (2) Regional Connectivity for Small Institutions of Higher Education;
-  + Area (3) Network Integration and Applied Innovation;
-  + Area (4) Campus Computing and the Computing Continuum;
-  + Area (5) Regional Computing;
-  + Area (6) Data Storage; and
-  + Area (7) Planning Grants and CI-Research Alignment.
-* Deadline: September 11, 2023
-* Award: \$100K - \$1.2M depending on area for durations up to two years
-
-### [Experiential Learning for Emerging and Novel Technologies (ExLENT)](https://new.nsf.gov/funding/opportunities/experiential-learning-emerging-novel-technologies){target="_blank"}
-*   Supports inclusive experiential learning opportunities that provide cohorts of diverse learners with the skills needed to succeed in emerging technology fields.
-    *   *Pivots* track aims to attract individuals not currently enrolled in post-secondary educational programs, and have acquired useful skills such as time management, communication, and teamwork in non-emerging technology careers.
-    *   *Beginnings* track aims to provide individuals possessing some existing STEM competencies (e.g., those with stackable certificates in STEM or those enrolled in associate's degree programs, etc.) with experiential learning opportunities that deepen knowledge and skills in emerging technology fields.
-    *   *Explorations* track aims to provide individuals with limited or no specialized STEM education the inspiration and opportunity to explore the potential of a career path in emerging technology fields.
-*   Deadline: September 14, 2023; annually thereafter
-*   Award: \$1M for durations up to three years
 
 ### [National Artificial Intelligence (AI) Research Institutes](https://new.nsf.gov/funding/opportunities/national-artificial-intelligence-research){target="_blank"}
 * Supports the development of new AI Institutes that focus on one of the following themes: astronomical sciences, materials research and new methods for strengthening AI.
@@ -160,12 +119,21 @@ format: html
 * Deadline: December 1 2023 (*Sustained Resources track* requires a Concept Outline to be submitted 3 months prior); *Sustained Resources* will recur on December 6, 2024, *Innovative Resources* will recur on December 5, 2025
 * Award: *Innovative Resources* $200K/year for durations up to three years; *Sustained Resources* budget must align with the project scope, for durations of three to four years.
 
+### [Human Networks and Data Science (HNDS)](https://beta.nsf.gov/funding/opportunities/human-networks-data-science-hnds){target="_blank"}
+*   Supports research that studies the behavior of individuals and groups by leveraging data and network science and the development of data infrastructure that makes such work possible.
+*   Deadline: *Core Research* January 11, 2024, July 11, 2024, annually thereafter in January and July; *Infrastructure* February 1, 2024, annually thereafter in February and August
+*   Awards: *Core Research* \$400K; *Infrastructure* \$800K for durations of one to five years
+
 ### [Safe Learning-Enabled Systems](https://new.nsf.gov/funding/opportunities/safe-learning-enabled-systems){target="_blank"}
 *   Supports foundational research that leads to the design and implementation of learning-enabled systems in which safety is ensured with high levels of confidence.
     *   *Foundation* Projects
     *   *Synergy* Projects
 *   Deadline: January 16, 2024
 *   Award: *Foundation* \$800K for durations up to three years; *Synergy* \$1.5M for durations up to four years
+
+### [Decision, Risk and Management Sciences (DRMS)](https://new.nsf.gov/funding/opportunities/decision-risk-management-sciences-drms-0){target="_blank"}
+* Supports research that increases understanding of how individuals, organizations and societies make decisions. Areas include judgment, decision analysis and aids, risk analysis and communication, public policy decision making and management science.
+* Deadline: August 18 and January 18; annually
 
 ### [Training-based Workforce Development for Advanced Cyberinfrastructure (CyberTraining)](https://new.nsf.gov/funding/opportunities/training-based-workforce-development-advanced){target="_blank"}
 *   *Pilot* projects are exploratory activities that may lead to *Implementation* projects.
@@ -177,6 +145,15 @@ format: html
 *   Supports projects that deepen the integration of cyberinfrastructure professionals' services into research, while fostering education, training and recognition that address CI workforce development needs.
 *   Deadline: January 18, 2024, annually thereafter
 *   Award: Not specified
+
+### [Ethical and Responsible Research (ER2)](https://new.nsf.gov/funding/opportunities/ethical-responsible-research-er2){target="_blank"}
+* Supports research on what constitutes and promotes responsible research conduct and how to instill that knowledge in researchers, practitioners and educators across all career stages.
+* Deadline: January 22, 2024; January 21 annually thereafter
+* Award
+  + Conference Projects: $50K (total) and a maximum duration of 12 months.
+  + Incubation Projects: $90K (total) and a maximum duration of 12 months.
+  + Research Grants: $400K (total) and a maximum duration of 3 years.
+  + Institutional Transformation Research Grants: $700K (total) and a maximum duration of 5 years.
 
 ### [NSF Scholarships in Science, Technology, Engineering, and Mathematics Program (S-STEM)](https://new.nsf.gov/funding/opportunities/nsf-scholarships-science-technology-engineering){target="_blank"}
 *   Supports institutions of higher education to fund scholarships for academically talented low-income students and to study and implement a program of activities that support their recruitment, retention and graduation in STEM.
@@ -207,11 +184,33 @@ format: html
 * Deadline: July 15, 2024; annually thereafter on July 15
 * Award: Full scholarship for undergraduate and graduate students in cybersecurity for durations up to three years
 
+### [Experiential Learning for Emerging and Novel Technologies (ExLENT)](https://new.nsf.gov/funding/opportunities/experiential-learning-emerging-novel-technologies){target="_blank"}
+*   Supports inclusive experiential learning opportunities that provide cohorts of diverse learners with the skills needed to succeed in emerging technology fields.
+    *   *Pivots* track aims to attract individuals not currently enrolled in post-secondary educational programs, and have acquired useful skills such as time management, communication, and teamwork in non-emerging technology careers.
+    *   *Beginnings* track aims to provide individuals possessing some existing STEM competencies (e.g., those with stackable certificates in STEM or those enrolled in associate's degree programs, etc.) with experiential learning opportunities that deepen knowledge and skills in emerging technology fields.
+    *   *Explorations* track aims to provide individuals with limited or no specialized STEM education the inspiration and opportunity to explore the potential of a career path in emerging technology fields.
+*   Deadline: September 14, 2023; annually thereafter
+*   Award: \$1M for durations up to three years
+
 ### [Engineering Research Center (ERC)](https://new.nsf.gov/funding/opportunities/gen-4-engineering-research-centers-erc){target="_blank"}
 *   Convergent Research and Innovation through Inclusive Partnerships and Workforce Development
 *   Supports high-risk, high-payoff research centers focused on advancing engineered systems technology and education through multidisciplinary, cross-sector partnerships.
 *   Deadline: *LOI* September 2024, *Preliminary Proposal* October 2024, *Full Proposal* May 2025 (anticipated, recurring every other year)
 *   Award: \$15M for durations up to seven years
+
+### [Community Infrastructure for Research in Computer and Information Science and Engineering (CIRC)](https://new.nsf.gov/funding/opportunities/cise-community-research-infrastructure-ccri){target="_blank"}
+*   *Planning Community Infrastructure (Planning)* awards support planning efforts to engage research communities to develop new CISE community research infrastructures. Such an infrastructure could be eventually funded through the CIRC program (Planning-C) or the [Mid-scale RI-1](https://new.nsf.gov/funding/opportunities/mid-scale-research-infrastructure-1-mid-scale-ri-1){target="_blank"} or [Mid-scale RI-2](https://new.nsf.gov/funding/opportunities/mid-scale-research-infrastructure-2-mid-scale-ri-2){target="_blank"} programs (Planning-M).
+* *Exploratory Development (Dev)* awards support activities that involve the validation of one or more unproven infrastructure designs and/or technologies, which, if validated, could enable transformative community research infrastructure in the future. Successful projects are expected to provide the technical foundations necessary to pursue subsequent CIRC (**New** or **Grand**), [Mid-scale RI-1](https://new.nsf.gov/funding/opportunities/mid-scale-research-infrastructure-1-mid-scale-ri-1){target="_blank"}, or [Mid-scale RI-2](https://new.nsf.gov/funding/opportunities/mid-scale-research-infrastructure-2-mid-scale-ri-2){target="_blank"} projects.
+*   *Medium Community Infrastructure (Medium)* awards support the creation of new CISE community research infrastructure or the enhancement of existing CISE community research infrastructure with integrated tools, resources, user services, and research community outreach to enable innovative CISE research opportunities to advance the frontiers of the CISE core research areas.
+*   *Grand Community Infrastructure (Grand)* awards support projects involving significant efforts to develop new CISE community research infrastructure or to enhance and sustain an existing CISE community research infrastructure to enable world-class CISE research opportunities for broad-based communities of CISE researchers that extend well beyond the awardee organization(s).
+*   Deadline: September 8, 2023, annually thereafter on the second Friday in September
+*   Award: *Planning* \$50-250K for durations up to two years; *Dev* \$250-750K for durations up to two years; *Medium* \$750K-2M for durations up to three years; *Grand* \$2-5M for durations up to five years
+
+### [Research Security and Integrity Information Sharing Analysis Organization (RSI-ISAO)](https://new.nsf.gov/funding/opportunities/research-security-integrity-information-sharing){target="_blank"}
+* Supports the establishment of an independent Research Security and Integrity Information Sharing Analysis Organization (RSI-ISAO) to empower the U.S. research community (institutions of higher education (IHEs), non-profit research institutions, and small and medium-sized for-profit organizations) to address foreign government interference, support security-informed decision-making, and serve as a conduit that connects research community stakeholders with one another and with U.S. government (USG) agencies via NSF.
+* Deadline: *Letter of Intent* September 8, 2023, *Full Proposal* October 30, 2023
+* Award: $9.5M for FY2024 then at least $10M/year for durations up to five years
+
 
 ### [Mid-scale Research Infrastructure-2 (Mid-scale RI-2)](https://new.nsf.gov/funding/opportunities/mid-scale-research-infrastructure-2-mid-scale-ri-2){target="_blank"}
 *   Supports the implementation of research infrastructure --- including equipment, cyberinfrastructure, large-scale datasets and personnel --- whose total project costs fall between \$20 million and \$100 million.
@@ -245,4 +244,4 @@ format: html
 * [Fairness, Ethics, Accountability, and Transparency: Enabling Breakthrough Research to Expand Inclusivity in Computer and Information Science and Engineering Research](https://www.nsf.gov/pubs/2019/nsf19016/nsf19016.jsp){target="_blank"} <!-- Nov 2, 2018 -->
 
 
-Updated August 30, 2023.
+Updated September 18, 2023.
