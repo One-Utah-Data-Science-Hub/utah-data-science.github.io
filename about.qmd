@@ -11,6 +11,14 @@ On this site you will find regularly updated and dynamic information about Semin
 
 ------------------------------------------------------------------------
 
+### Want to become part of the data science community at the University of Utah?
+* Join us by completing our [roster survey](https://utah.sjc1.qualtrics.com/jfe/form/SV_2irufNe2jfxhO8C)!  
+* To receive the latest information from DELPHI, including announcements, events, and curated funding opportunities, join the [DELPHI listserv](https://www.lists.utah.edu/wws/subscribe/delphi?previous_action=info).  
+* For casual conversation, discussion around research problems, and connecting with other UofU researchers, join the [UofU Data Science Slack](https://join.slack.com/t/utahdatasciencehub/shared_invite/zt-20savka8z-z4HAkdpVLSOqXtapm5ceVA).
+* With any other thoughts, contact [Penny Atkins](mailto:pennyatkins@hsc.utah.edu?subject=One%20Utah%20Data%20Science%20Hub%20Interest) directly to start a conversation.
+
+------------------------------------------------------------------------
+
 ### What is data science?
 Data science can help researchers distill the vast amount of data through the integration of large, complex data sets with innovative computational approaches to generate actionable insights in health care, education, communities, the environment, and beyond. 
 
@@ -24,15 +32,5 @@ Data science can help researchers distill the vast amount of data through the in
   + Strengthen practical education and knowledge transfer
   + Deepen integration with our community and local industry, including through training of a data workforce
   + Expand funding of and resources for data science
-
-------------------------------------------------------------------------
-
-
-**Want to become part of the data science community at the University of Utah?**\
-Join us by completing our [roster survey](https://utah.sjc1.qualtrics.com/jfe/form/SV_2irufNe2jfxhO8C)!  
-  
-* To receive the latest information from DELPHI, including announcements, events, and curated funding opportunities, join the [DELPHI listserv](https://www.lists.utah.edu/wws/subscribe/delphi?previous_action=info).  
-* For casual conversation, discussion around research problems, and connecting with other UofU researchers, join the [UofU Data Science Slack](https://join.slack.com/t/utahdatasciencehub/shared_invite/zt-20savka8z-z4HAkdpVLSOqXtapm5ceVA).
-* With any other thoughts, contact [Penny Atkins](mailto:pennyatkins@hsc.utah.edu?subject=One%20Utah%20Data%20Science%20Hub%20Interest) directly to start a conversation.
 
 ![IMAG Poster](images/OUDSH_Poster_IMAG_MSM.png)

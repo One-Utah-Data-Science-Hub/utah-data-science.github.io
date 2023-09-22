@@ -31,3 +31,4 @@ Additional details forthcoming!
 * [Utah Center for Data Science](https://datascience.utah.edu/seminar.html)  
 * [Scientific Computing and Imaging Institute](https://www.sci.utah.edu/the-institute/events.html)
 * [Human Genetics](https://www.genetics.utah.edu/events)
+* [Digital Matters](https://digitalmatters.utah.edu/events/)
