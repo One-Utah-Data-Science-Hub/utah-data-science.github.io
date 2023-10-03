@@ -27,11 +27,6 @@ editor: visual
 * Deadline: Rolling for one year until budget of $1M is depleted <!-- August 2024 -->
 * Application should take no more than 3 hours!
 
-### [Ford Foundation: 2023 Digital Infrastructure Insights Fund](https://fordfoundation.forms.fm/2023-digital-infrastructure-insights-fund-rfp/forms/9724){target="_blank"}
-* The D//F (Digital Infrastructure Insights Fund) is a multi-funder initiative by Ford Foundation, Alfred P. Sloan Foundation, Omidyar Network, Schmidt Futures and Open Collective sustaining a platform for researchers and practitioners to better understand how open digital infrastructure is built and deployed.
-* Deadline: September 30, 2023
-* Award: $50-125K for durations of six to twelve months
-
 ### [Rose Foundation: Consumer Privacy Rights Fund](https://rosefdn.org/wp-content/uploads/Consumer-Privacy-2023-RFP.pdf){target="_blank"}
 * Supports privacy protection and privacy education efforts, specifically individual consumer’s internet privacy rights.
 * Deadline: October 13, 2023
@@ -64,8 +59,17 @@ editor: visual
 
 
 
-<!--## Industry Funding Opportunities-->
-
+## Industry Funding Opportunities
+### [Amazon Research Awards](https://www.amazon.science/research-awards/call-for-proposals){target="_blank"}
+* Supports research programs in the following themes:
+  + AI for Information Security
+  + Automated Reasoning
+  + AWS AI
+  + AWS Cryptography and Privacy
+  + AWS Database Services
+  + Sustainability
+* Deadline: November 1, 2023
+* Award: Varies; up to $100K unrestricted funds, $50K AWS credits, and training resources 
 
 
 
@@ -83,17 +87,6 @@ editor: visual
     -   Resilient Systems - Building integrated healthcare systems
 -   Deadline: Rolling, expires March 14, 2024
 -   Award: Unspecified, budget must be align with the project scope
-
-### [Office of Postsecondary Education (OPE): Higher Education Programs (HEP): Fund for The Improvement of Postsecondary Education (FIPSE): Postsecondary Student Success Grant](https://www.grants.gov/web/grants/view-opportunity.html?oppId=349499){target="_blank"}
--   Supports equitable improvement for postsecondary student outcomes, including retention, transfer (including successful transfer of completed credits), credit accumulation, and completion, by leveraging data and implementing, scaling, and rigorously evaluating evidence-based activities to support data-driven decisions and actions by institutional leaders committed to inclusive student success.
--   Deadline: September 25, 2023
--   Award: \$1.75M
-
-### [NIH NPH: AIMINGS AI for Precision Nutrition Pilot Program Round Two](https://www.phicor.org/rfa){target="_blank"}
--   Supports research projects that develop and utilize artificial intelligence (AI) and other computer-aided approaches to facilitate precision nutrition.
--   Deadline: October 2, 2023
--   Award: \$125K (total) for one year
--   **Informational Webinar**: July 20, 2023 at 1:30pm, register [here](https://www.eventbrite.com/e/aimings-ai-for-precision-nutritions-applicant-informational-webinar-tickets-668966997297?aff=oddtdtcreator).
 
 ### [DOT: Advanced Driver Assistance Systems Microsimulation Model Development and Validation](https://sam.gov/opp/1de4f24e721944fabbb58e0e97893382/view){target="_blank"}
 * Supports development of models that describe how Advanced Driver Assistance Systems (ADAS) and Automated Driving Systems (ADS)—with or without connectivity—operate in traffic. The models proposed in response to this proposal request should seek to fill gaps in current traffic operations modeling capabilities.
@@ -137,7 +130,8 @@ editor: visual
 
 
 ## Challenges, Awards, and Other Opportunities
-* [Research Rovers: AI Research Assistants for NASA](https://www.drivendata.org/competitions/252/ai-research-assistants/page/780/){target="_blank"} is seeking innovative approaches to help assess emerging capabilities in AI-based research assistants. Solutions are due October 2, 2023.
+* [HHS, CDC, and NASA: Unsupervised Wisdom: Explore Medical Narratives on Older Adult Falls](https://www.challenge.gov/?challenge=unsupervised-wisdom-explore-medical-narratives-on-older-adult-falls){target="_blank"}. The goal in this challenge is to identify effective methods of using unsupervised machine learning to extract insights about older adult falls from Emergency Department narratives. Analysis and executive summary due October 6, 2023 for cash prizes up to $20K. 
+* [Learning Engineering Tools Competition - Preparing for the 21st Century World](https://tools-competition.org/)is a multi-million dollar competition for edtech innovation that leverages digital technology, big data, and learning science to meet the urgent needs of learners worldwide. Abstracts due November 10, 2023
 
 * [America's Datahub Consortium Idea Bank](https://www.americasdatahub.org/idea-bank-form/){target="_blank"} invites input from stakeholders to inform future project solicitations on the topics of: 
   + Privacy Preserving Technologies (PPT) 
@@ -148,11 +142,11 @@ editor: visual
   + Stakeholder Engagement
   + Artificial Intelligence
 * [NIH Build UP Trust Challenge](https://www.builduptrust.org/){target="_blank"} seeks solutions that increase research participation and the adoption of medical care by building trust and improving engagement with historically underserved communities. Register by November 14, 2023, submission by December 5, 2023, awards up to $45K. 
-* [ReachU Challenge](https://www.challenge.gov/?challenge=reachu-challenge){target="_blank"} calls on university and college students, researchers, faculty, and staff: where do you find funding or share your ideas for the chance to win cash prizes? Help Challenge.Gov reach YOU! **What are the best digital channels, forums, databases, or platforms to reach academic audiences about federally sponsored prize competitions, challenges, and crowdsourcing campaigns?** Ideas due by September 8, 2023. 
-* [HHS, CDC, and NASA: Unsupervised Wisdom: Explore Medical Narratives on Older Adult Falls](https://www.challenge.gov/?challenge=unsupervised-wisdom-explore-medical-narratives-on-older-adult-falls){target="_blank"}. The goal in this challenge is to identify effective methods of using unsupervised machine learning to extract insights about older adult falls from Emergency Department narratives. Analysis and executive summary due October 6, 2023 for cash prizes up to $20K. 
+
+
 
 <!--## Policy and Engagement -->
 
 
 
-Updated September 18, 2023.
+Updated October 3, 2023.

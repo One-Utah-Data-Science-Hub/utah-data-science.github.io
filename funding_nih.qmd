@@ -6,54 +6,14 @@ title: "NIH Funding Opportunities"
 * Deadline: 
 * Award: , $ for durations up to  years -->
 ## Cooperative Agreement (U) Grants
-### [Collaborative Opportunities for Multidisciplinary, Bold, and Innovative Neuroscience (COMBINE)](https://grants.nih.gov/grants/guide/rfa-files/RFA-NS-23-027.html){target="_blank"}
-* Supports integrated efforts of three to six PDs/PIs to pursue a bold, impactful, and challenging goal with defined 5-year outcomes within the scope of this program and the NINDS mission. This defined research goal must only be achievable by an interdisciplinary team approach involving innovative combination of distinct disciplines and/or intellectual viewpoints, synergy in expertise and approaches, and well-managed team interactions. 
-* Deadline: October 20, 2023; October 8, 2024 (LOI due 30 days prior)
-* Award: RM1, $500K-$1.5M (direct) for durations up to five years
-
-### [Quantifying the Impact of Environmental Toxicants on Alzheimer's Disease (AD) and AD-Related Dementias (ADRD) Risk in Cohort Studies](https://grants.nih.gov/grants/guide/rfa-files/RFA-AG-24-022.html){target="_blank"}
-* Supports research focused on major toxicants observed to be associated with elevated Alzheimer's Disease (AD) and AD-related dementias (ADRD) risk, and health disparities in AD/ADRD-related pathologic and clinical outcomes.
-* Deadline: October 23, 2023 (LOI due 1 month prior)
-* Award: U01, $1.5M/year (direct) for durations up to five years
-
-### [Integration of Novel Measures for Improved Classification of Type 2 Diabetes](https://grants.nih.gov/grants/guide/rfa-files/rfa-dk-23-019.html){target="_blank"}
-* Supports a consortium to bring together investigative teams for integration of multiple data types, including markers of organ or tissue function, into analysis approaches for stratifying individuals with type 2 diabetes (T2D) and developing more precise definitions of disease. 
-* Deadline: October 26, 2023 (LOI due 1 month prior)
-* Award: U01, $500K/year (direct) for durations up to five years
-
-### [Integration of Novel Measures for Improved Classification of Type 2 Diabetes – Biostatistics Research Center](https://grants.nih.gov/grants/guide/rfa-files/rfa-dk-23-020.html){target="_blank"}
-* Supports a Biostatistics Research Center to participate in a consortium aimed at improving understanding of heterogeneity of type 2 diabetes (T2D).
-* Deadline: October 26, 2023 (LOI due 1 month prior)
-* Award: U01, $1M/year (direct) for durations up to five years
-
-### [Center for ELSI Resources and Analysis](https://grants.nih.gov/grants/guide/rfa-files/RFA-HG-23-027.html){target="_blank"}
-* Supports the renewal of the Center for ELSI Resources and Analysis (CERA), that will: 1) provide ELSI researchers with an online platform to share ELSI research products; 2) curate and synthesize ELSI research; and 3) facilitate new research collaborations and uptake of ELSI research. 
-* Deadline: October 26, 2023 (LOI due 1 month prior)
-* Award: U01, $1.5M/year (direct) for durations up to five years (max $6M)
-
-### [Research Coordinating Center on the Exposome and Alzheimer's Disease (AD) and AD-Related Dementias (ADRD): Elucidating the Role of Social and Behavioral Determinants of Health in AD/ADRD Etiology and Disparities](https://grants.nih.gov/grants/guide/rfa-files/RFA-AG-24-011.html){target="_blank"}
-* Supports the establishment of a national coordinating center that will serve as a centralized hub for accessing, harmonizing, linking, and sharing environmental contextual data and individual exposure data with NIA/NIH-funded projects. 
-* Deadline: October 27, 2023 (LOI due August 27, 2023)
-* Award: U24, $5M/year for durations of five years
-
-### [Informatics Tools for the Pangenome](https://grants.nih.gov/grants/guide/rfa-files/RFA-HG-23-026.html){target="_blank"}
-* Supports the development of informatics tools to facilitate uptake and scientific use of the human pangenome reference being developed and maintained by the NHGRI Human Genome Reference Program (HGRP).
-* Deadline: November 1, 2023 or March 3, 2025 (LOI due 1 month prior)
-* Award: U01, $400L/year (direct) for durations up to three years
-
-### [Notice of Intent to Publish a Funding Opportunity Announcement for Diagnostic Centers of Excellence](https://grants.nih.gov/grants/guide/notice-files/NOT-NS-23-096.html){target="_blank"}
-* Supports clinical sites that will provide expert diagnostic services for undiagnosed diseases across the nation.  
-* Deadline: November 3, 2023
-* Award: U01, $500K (direct) 
-
-### [Network of Genomic-Enabled Learning Health Systems (gLHS) – Coordinating Center](https://grants.nih.gov/grants/guide/notice-files/NOT-HG-23-045.html){target="_blank"}
+### [Network of Genomics-Enabled Learning Health Systems (gLHS) – Coordinating Center](https://grants.nih.gov/grants/guide/rfa-files/RFA-HG-23-042.html){target="_blank"}
 * Supports a network of genomic-enabled learning health systems (gLHS) to identify and improve approaches for clinical integration of genomic information in a virtuous cycle of implementation, assessment, refinement, and reimplementation. Specifically, this initiative would support a coordinating center (CC) for 4-6 established or emerging gLHS clinical sites to share their genomic medicine implementation practices and identify those most suitable for cross-network implementation. 
-* Deadline: November 7, 2023 (Expected)
+* Deadline: November 7, 2023 (LOI due 1 month prior)
 * Award: U01, $1.6M/year for durations of five years
 
-### [Network of Genomic-Enabled Learning Health Systems (gLHS) – Clinical Sites](https://grants.nih.gov/grants/guide/notice-files/NOT-HG-23-044.html){target="_blank"}
+### [Network of Genomic-Enabled Learning Health Systems (gLHS) – Clinical Sites](https://grants.nih.gov/grants/guide/rfa-files/RFA-HG-23-041.html){target="_blank"}
 * Supports a network of genomic-enabled learning health systems (gLHS) to identify and improve approaches for clinical integration of genomic information in a virtuous cycle of implementation, assessment, refinement, and reimplementation. Specifically, this initiative would support  4-6 established or emerging gLHS clinical sites to share their genomic medicine implementation practices and identify those most suitable for cross-network implementation. 
-* Deadline: November 7, 2023 (Expected)
+* Deadline: November 7, 2023 (LOI due 1 month prior)
 * Award: U01, budget must align with the project scope ($750K/year) for durations of five years
 
 ### [Early-Stage Development of Informatics Technologies for Cancer Research and Management](https://grants.nih.gov/grants/guide/rfa-files/RFA-CA-23-015.html){target="_blank"}
@@ -61,10 +21,10 @@ title: "NIH Funding Opportunities"
 * Deadline: November 17, 2023 (LOI due 1 month prior)
 * Award: U01, $300K/year (direct) for durations of three years
 
-### [Consortium Organization and Data Collaboration Center (CODCC) for the Human Virome Project (HVP)](https://grants.nih.gov/grants/guide/notice-files/NOT-RM-23-016.html){target="_blank"}
+### [Consortium Organization and Data Collaboration Center (CODCC) for the Human Virome Project (HVP)](https://grants.nih.gov/grants/guide/rfa-files/RFA-RM-23-016.html){target="_blank"}
 * Supports the HVP CODCC to serve as an organizational hub to provide support for administrative activities, promotion of research protocols and tool development, and assist data and biospecimen collection and harmonization. The CODCC will create and maintain a program data portal that will be an interactive dashboard and repository with visualization and search capabilities. 
-* Deadline: November 29, 2023 (expected)
-* Award: U24, forthcoming
+* Deadline: November 29, 2023 (LOI due 1 month prior)
+* Award: U24, $1.875M/year (direct) for duration up to five years
 
 ### [Partnerships With Common Fund Data Ecosystem Resources](https://grants.nih.gov/grants/guide/rfa-files/RFA-RM-23-013.html){target="_blank"}
 * Supports projects that involve collaboration with multiple CF Data Coordinating Centers (DCCs) to combine discovery and/or translational approaches with work that will enhance reusability of Common Fund data and contribute knowledge to the Common Fund Data Ecosystem.  
@@ -133,11 +93,6 @@ title: "NIH Funding Opportunities"
 * Supports the study of the ethical, legal and social implications (ELSI) of human genome research, using either single or mixed methods.
 * Deadline: October 19, 2023
 * Award: R01, budget must align with the project scope, for durations of three to five years ([R21](https://grants.nih.gov/grants/guide/pa-files/PAR-20-255.html){target="_blank"} also available)
-
-### [Computational Approaches for Validating Dimensional Constructs of Relevance to Psychopathology](https://grants.nih.gov/grants/guide/pa-files/PAR-21-263.html){target="_blank"}
-* Supports research projects that will use computational approaches to test the validity of dimensional constructs in the NIMH [Research Domain Criteria (RDoC) matrix](https://www.nimh.nih.gov/research-priorities/rdoc/index.shtml){target="_blank"} (or similar constructs based on comparable criteria). 
-* Deadline: November 1, 2023 (LOI due 1 month prior)
-* Award: R01, $500K/year (direct) for durations up to five years
 
 ### [Accelerating the Pace of Drug Abuse Research Using Existing Data](https://grants.nih.gov/grants/guide/rfa-files/RFA-DA-22-037.html){target="_blank"}
 * Supports the  analysis of the Adolescent Brain Cognitive Development (ABCD) dataset to increase knowledge of adolescent health and development. 
@@ -217,20 +172,10 @@ title: "NIH Funding Opportunities"
 * Deadline: October 16, 2023, annually in February, June, and October through Feb 2025 <!-- on the 16th -->
 * Award: R21, $275K (direct) for durations up to two years
 
-### [HEAL Initiative: Toward Developing Quantitative Imaging and Other Relevant Biomarkers of Myofascial Tissues for Clinical Pain Management](https://grants.nih.gov/grants/guide/rfa-files/RFA-AT-24-003.html){target="_blank"}
-* Supports the development of innovative methods for quantitative evaluation of  myofascial tissues for pain management involving research participants using a two-phase grant funding mechanism.
-* Deadline: October 18, 2023 (LOI due 1 month prior)
-* Award: R61/R33, $500K/year (direct) for durations up to two years for R61, $700K/year (direct) for durations up to three years for R33
-
 ### [Secondary Analysis of Existing Datasets in Heart, Lung, and Blood Diseases and Sleep Disorders](https://grants.nih.gov/grants/guide/pa-files/PAR-23-036.html){target="_blank"}
 * Supports secondary analyses using existing human datasets in areas relevant to the National Heart, Lung, Blood Diseases and Sleep Disorders Institute (NHLBI) scientific mission.
 * Deadline: October 28, 2023, recurring in February and October through 2025
 * Award: R21, $75K/year (direct) for durations up to two years
-
-### [Leveraging Social Networks to Promote Widespread Individual Behavior Change](https://grants.nih.gov/grants/guide/rfa-files/RFA-AG-24-026.html){target="_blank"}
-* Supports the planning activities necessary to develop social network interventions to promote health across the lifespan, especially in populations in which they are currently largely underdeveloped and untested (such as populations in mid- and late-life). 
-* Deadline: November 3, 2023 (LOI due 1 month prior)
-* Award: R34, $450K (direct) for durations up to three years
 
 ### [Analysis of data in the COVID-19 Neuro Databank-Biobank](https://grants.nih.gov/grants/guide/rfa-files/RFA-NS-24-025.html){target="_blank}
 * Supports applications that aggregate and analyze existing data in the COVID-19 Neuro Databank-Biobank (NeuroCOVID Project).
@@ -252,6 +197,11 @@ title: "NIH Funding Opportunities"
 * Deadline: November 22, 2023 (LOI due 1 month prior)
 * Award: R21/R33, $275K (direct) for durations up to two years for R21, $375K (direct) for durations up to three years for R33
 
+### [NIDA REI: Training a Diverse Data Science Workforce for Addiction Research](https://grants.nih.gov/grants/guide/rfa-files/RFA-DA-24-025.html){target="_blank"}
+* Supports research education activities in the mission areas of the NIH.  The overarching goal of this R25 program is to support educational activities that complement and/or enhance the training of a workforce to meet the nation’s biomedical, behavioral and clinical research needs.
+* Deadline: January 24, 2024 (LOI due 1 month prior)
+* Award: R25, $125K/year (direct) for durations up to five years
+
 ### [Early-stage Biomedical Data Repositories and Knowledgebases](https://grants.nih.gov/grants/guide/pa-files/PAR-23-236.html){target="_blank"}
 * Supports the development of early-stage or new data repositories and knowledgebases that could be valuable for the biomedical research community. 
 * Deadline: January 25 and September 25 annually through January 2026 (LOI due 60 days prior)
@@ -261,6 +211,11 @@ title: "NIH Funding Opportunities"
 * Supports greater integration of bioethics within research and develop a robust bioethics research evidentiary base to inform policy and program decision-making.
 * Deadline: January 26, 2024
 * Award: R21, $275K direct for durations up to two years
+
+### [Developing novel theory and methods for understanding the genetic architecture of complex human traits](https://grants.nih.gov/grants/guide/pa-files/PAR-23-301.html){target="_blank"}
+* Supports applications for novel theory and methods development that enable better understanding of how genetic and non-genetic factors contribute to complex trait variation across individuals, families, and populations.
+* Deadline: February 16, 2024, recurring February, June, and October 16 through October 2026
+* Award: R21, $275K total (direct) for durations up to two years
 
 ### [Data Harmonization, Curation and Secondary Analysis of Existing Clinical Datasets](https://grants.nih.gov/grants/guide/pa-files/PAR-23-089.html){target="_blank"}
 * Supports multidisciplinary teams to perform secondary data analysis, using existing datasets from two or more multi-site clinical research projects, including clinical trials, natural history studies, and/or comparative effectiveness research.
@@ -289,7 +244,6 @@ title: "NIH Funding Opportunities"
 
 ## Notices of Special Interest and Requests for Information
 <!-- * [](){target="_blank"} expires -->
-* [**Request for Information** National Institute of Dental and Craniofacial Research (NIDCR) Strategic Planning of Infrastructure and Resources for Data Science Research and Research Training](https://grants.nih.gov/grants/guide/notice-files/NOT-DE-23-008.html){target="_blank"} due by September 25, 2023.
 * [**Request for Information** Opportunities and Challenges for the Collection, Use, and Sharing of Real-World Data (RWD) including Electronic Health Records, for NIH Supported Biomedical and Behavioral Research](https://grants.nih.gov/grants/guide/notice-files/NOT-OD-23-180.html){target="_blank"} due by December 14, 2023.
 * [**Administrative Supplements** for R25 Data Science Training for Infectious and Immune-mediated Disease Research](https://grants.nih.gov/grants/guide/notice-files/NOT-AI-23-010.html) expires February 14, 2024.
 * [**Administrative Supplements** to Enhance Institutional Data Science Capacity](https://grants.nih.gov/grants/guide/notice-files/NOT-OD-23-123.html){target="_blank"} in institutions serving medically underserved communities and underrepresented students due June 19, 2023 or April 1, 2024; expires April 2, 2024.
@@ -311,4 +265,4 @@ title: "NIH Funding Opportunities"
 
 * [NIH Office for Data Science Strategy](https://datascience.nih.gov/research-and-training-funding){target="_blank"} list of funding opportunities.
 
-Updated September 18, 2023.
+Updated October 3, 2023.

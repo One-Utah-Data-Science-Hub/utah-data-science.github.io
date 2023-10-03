@@ -5,6 +5,46 @@ format: html
 
 # NIH Funding Opportunities
 ## Cooperative Agreement (U) Grants
+### [Diagnostic Centers of Excellence for the Undiagnosed Diseases Network](https://grants.nih.gov/grants/guide/pa-files/PAR-23-289.html){target="_blank"}
+* Supports clinical sites that will provide expert diagnostic services for undiagnosed diseases across the nation.  
+* Deadline: November 3, 2023 (LOI due 1 month prior)
+* Award: U01, $500K (direct) 
+
+### [Collaborative Opportunities for Multidisciplinary, Bold, and Innovative Neuroscience (COMBINE)](https://grants.nih.gov/grants/guide/rfa-files/RFA-NS-23-027.html){target="_blank"}
+* Supports integrated efforts of three to six PDs/PIs to pursue a bold, impactful, and challenging goal with defined 5-year outcomes within the scope of this program and the NINDS mission. This defined research goal must only be achievable by an interdisciplinary team approach involving innovative combination of distinct disciplines and/or intellectual viewpoints, synergy in expertise and approaches, and well-managed team interactions. 
+* Deadline: October 20, 2023; October 8, 2024 (LOI due 30 days prior)
+* Award: RM1, $500K-$1.5M (direct) for durations up to five years
+
+### [Quantifying the Impact of Environmental Toxicants on Alzheimer's Disease (AD) and AD-Related Dementias (ADRD) Risk in Cohort Studies](https://grants.nih.gov/grants/guide/rfa-files/RFA-AG-24-022.html){target="_blank"}
+* Supports research focused on major toxicants observed to be associated with elevated Alzheimer's Disease (AD) and AD-related dementias (ADRD) risk, and health disparities in AD/ADRD-related pathologic and clinical outcomes.
+* Deadline: October 23, 2023 (LOI due 1 month prior)
+* Award: U01, $1.5M/year (direct) for durations up to five years
+
+### [Integration of Novel Measures for Improved Classification of Type 2 Diabetes](https://grants.nih.gov/grants/guide/rfa-files/rfa-dk-23-019.html){target="_blank"}
+* Supports a consortium to bring together investigative teams for integration of multiple data types, including markers of organ or tissue function, into analysis approaches for stratifying individuals with type 2 diabetes (T2D) and developing more precise definitions of disease. 
+* Deadline: October 26, 2023 (LOI due 1 month prior)
+* Award: U01, $500K/year (direct) for durations up to five years
+
+### [Integration of Novel Measures for Improved Classification of Type 2 Diabetes – Biostatistics Research Center](https://grants.nih.gov/grants/guide/rfa-files/rfa-dk-23-020.html){target="_blank"}
+* Supports a Biostatistics Research Center to participate in a consortium aimed at improving understanding of heterogeneity of type 2 diabetes (T2D).
+* Deadline: October 26, 2023 (LOI due 1 month prior)
+* Award: U01, $1M/year (direct) for durations up to five years
+
+### [Center for ELSI Resources and Analysis](https://grants.nih.gov/grants/guide/rfa-files/RFA-HG-23-027.html){target="_blank"}
+* Supports the renewal of the Center for ELSI Resources and Analysis (CERA), that will: 1) provide ELSI researchers with an online platform to share ELSI research products; 2) curate and synthesize ELSI research; and 3) facilitate new research collaborations and uptake of ELSI research. 
+* Deadline: October 26, 2023 (LOI due 1 month prior)
+* Award: U01, $1.5M/year (direct) for durations up to five years (max $6M)
+
+### [Research Coordinating Center on the Exposome and Alzheimer's Disease (AD) and AD-Related Dementias (ADRD): Elucidating the Role of Social and Behavioral Determinants of Health in AD/ADRD Etiology and Disparities](https://grants.nih.gov/grants/guide/rfa-files/RFA-AG-24-011.html){target="_blank"}
+* Supports the establishment of a national coordinating center that will serve as a centralized hub for accessing, harmonizing, linking, and sharing environmental contextual data and individual exposure data with NIA/NIH-funded projects. 
+* Deadline: October 27, 2023 (LOI due August 27, 2023)
+* Award: U24, $5M/year for durations of five years
+
+### [Informatics Tools for the Pangenome](https://grants.nih.gov/grants/guide/rfa-files/RFA-HG-23-026.html){target="_blank"}
+* Supports the development of informatics tools to facilitate uptake and scientific use of the human pangenome reference being developed and maintained by the NHGRI Human Genome Reference Program (HGRP).
+* Deadline: November 1, 2023 or March 3, 2025 (LOI due 1 month prior)
+* Award: U01, $400L/year (direct) for durations up to three years
+
 ### [Broadening Opportunities for Computational Genomics and Data Science Education](https://grants.nih.gov/grants/guide/rfa-files/RFA-HG-23-002.html){target="_blank"}
 * Supports faculty members at institutions with a mission to serve historically underrepresented populations in biomedical research to develop undergraduate and master’s degree-level educational content in computational genomics, data science, or a combination of these topics.
 * Deadline: October 10, 2023 (LOI due 1 month prior), June 10, 2024
@@ -86,6 +126,11 @@ format: html
 * Award: F99/K00, covers stipends, tuition, fees, and institutional allowance for durations up to six years (F99 for two years, K00 for four years).
 
 ## Research Grants - R01 Activities
+### [Computational Approaches for Validating Dimensional Constructs of Relevance to Psychopathology](https://grants.nih.gov/grants/guide/pa-files/PAR-21-263.html){target="_blank"}
+* Supports research projects that will use computational approaches to test the validity of dimensional constructs in the NIMH [Research Domain Criteria (RDoC) matrix](https://www.nimh.nih.gov/research-priorities/rdoc/index.shtml){target="_blank"} (or similar constructs based on comparable criteria). 
+* Deadline: November 1, 2023 (LOI due 1 month prior)
+* Award: R01, $500K/year (direct) for durations up to five years
+
 ### [Translational Bioinformatics Approaches to Advance Drug Repositioning and Combination Therapy Development for Alzheimer’s Disease](https://grants.nih.gov/grants/guide/pa-files/PAR-20-156.html){target="_blank"}
 * Supports data-driven drug repositioning and combination therapy for Alzheimer's disease and Alzheimer's disease-related dementias (AD/ADRD) by developing computational methods and data resources and/or integrating computational approaches with proof-of-concept efficacy studies in cell-based models, animal models, and/or humans.
 * Deadline: September 8, 2023
@@ -107,6 +152,16 @@ format: html
 * Award: R01, $250K/year for durations up to four years
 
 ## Research Grants - Other Activities
+### [Leveraging Social Networks to Promote Widespread Individual Behavior Change](https://grants.nih.gov/grants/guide/rfa-files/RFA-AG-24-026.html){target="_blank"}
+* Supports the planning activities necessary to develop social network interventions to promote health across the lifespan, especially in populations in which they are currently largely underdeveloped and untested (such as populations in mid- and late-life). 
+* Deadline: November 3, 2023 (LOI due 1 month prior)
+* Award: R34, $450K (direct) for durations up to three years
+
+### [HEAL Initiative: Toward Developing Quantitative Imaging and Other Relevant Biomarkers of Myofascial Tissues for Clinical Pain Management](https://grants.nih.gov/grants/guide/rfa-files/RFA-AT-24-003.html){target="_blank"}
+* Supports the development of innovative methods for quantitative evaluation of  myofascial tissues for pain management involving research participants using a two-phase grant funding mechanism.
+* Deadline: October 18, 2023 (LOI due 1 month prior)
+* Award: R61/R33, $500K/year (direct) for durations up to two years for R61, $700K/year (direct) for durations up to three years for R33
+
 ### [Research Resource for Systematic Reviews of Complementary and Integrative Health](https://grants.nih.gov/grants/guide/rfa-files/RFA-AT-24-005.html){target="_blank"}
 * Supports a research resource that will continue to build, grow and maintain a database of clinical trials of complementary and integrative health interventions, that can be used to conduct systematic reviews to inform the public, practitioners, and policy makers. The research team will need to describe the features of the database, and whether it is building upon or converting an existing database, and how it will be maintained and kept current during the award period.
 * Deadline: August 31, 2023
@@ -140,6 +195,7 @@ format: html
 	+ Award: $500K-1M for durations up to two years
 
 ## Notices of Special Interest and Requests for Information
+* [**Request for Information** National Institute of Dental and Craniofacial Research (NIDCR) Strategic Planning of Infrastructure and Resources for Data Science Research and Research Training](https://grants.nih.gov/grants/guide/notice-files/NOT-DE-23-008.html){target="_blank"} due by September 25, 2023.
 * [NIDCR: Supporting Dental, Oral, and Craniofacial Research Using Bioinformatic, Computational, and Data Science Approaches](https://grants.nih.gov/grants/guide/notice-files/NOT-DE-20-006.html){target="_blank"} expires August 08, 2023.
 * [**Request for Information** NIH Common Fund is Soliciting Ideas for NIH-wide Challenges and Opportunities](https://grants.nih.gov/grants/guide/notice-files/NOT-RM-23-013.html){target="_blank"} due by August 11, 2023.
 * [**Request for Information** Catalyzing the Development and Use of Novel Alternative Methods to Advance Biomedical Research](https://osp.od.nih.gov/request-for-information-rfi-catalyzing-the-development-and-use-of-novel-alternative-methods-to-advance-biomedical-research/){target="_blank"} due by August 16, 2023.
@@ -216,6 +272,7 @@ format: html
 * Award: \$750K for durations up to three years
 
 ## Dear Colleague Letters
+* [Workshop to Inform Development of the NSF Research on Research Security Program (RRSP)](https://www.nsf.gov/pubs/2023/nsf23126/nsf23126.jsp){target="_blank"} proposals due by September 25, 2023. Webinars on creating a Research on Research Security Program will be held July 13 and July 26. [Register now!](https://nsf.zoomgov.com/webinar/register/WN_Q538jXFsRiOmHfyI-89n8A?utm_medium=email&utm_source=govdelivery){target="_blank"}
 * [Joint NSF-JST Proposals to Advance Human-Centered Data for Disaster Resilience Research (HCDDRR)](https://new.nsf.gov/funding/opportunities/joint-nsf-jst-proposals-advance-human-centered){target="_blank"} due August 18, 2023 to programs: Smart and Connected Communities (CISE), CPS-CISE, HDBE-ENG, or DRMS-SBE. <--! April 14, 2023 -->
 * [**Request for Information** on the Capacity of Institutions of Higher Education to Produce Graduates with Degrees, Certifications, and Relevant Skills Related to Artificial Intelligence](https://www.nsf.gov/pubs/2023/nsf23099/nsf23099.jsp){target="_blank"} response due June 21, 2023.<!-- May 8, 2023 -->
 * [**Request for Information** on Future Topics for Workforce Development in Emerging Technology Career Pathways](https://www.nsf.gov/pubs/2023/nsf23100/nsf23100.jsp){target="_blank"} response due June 21, 2023.<!-- May 8, 2023 -->
@@ -234,6 +291,12 @@ format: html
 
 
 # Foundation Funding Opportunities
+
+### [Ford Foundation: 2023 Digital Infrastructure Insights Fund](https://fordfoundation.forms.fm/2023-digital-infrastructure-insights-fund-rfp/forms/9724){target="_blank"}
+* The D//F (Digital Infrastructure Insights Fund) is a multi-funder initiative by Ford Foundation, Alfred P. Sloan Foundation, Omidyar Network, Schmidt Futures and Open Collective sustaining a platform for researchers and practitioners to better understand how open digital infrastructure is built and deployed.
+* Deadline: September 30, 2023
+* Award: $50-125K for durations of six to twelve months
+
 ### [Polycystic Kidney Disease (PKD) Foundation Research Grant](https://pkdcure.org/research-medical-professionals/research-funding/apply-for-funding/pkd-foundation-research-rfa/){target="_blank"}
 -   The PKD Foundation's principal mission is to support basic, translational, and clinical research that will benefit patients with autosomal dominant and autosomal recessive polycystic kidney disease (ADPKD and ARPKD).
     -   Epidemiology/data analysis research --- to conduct secondary data analyses utilizing existing database resources, or to develop new statistical methodologies or test hypotheses using [existing data](https://pkdcure.org/research-medical-professionals/data-resources-in-pkd-research/){target="_blank"}.
@@ -332,6 +395,18 @@ format: html
 
 
 # Governmental Funding Opportunities
+
+### [Office of Postsecondary Education (OPE): Higher Education Programs (HEP): Fund for The Improvement of Postsecondary Education (FIPSE): Postsecondary Student Success Grant](https://www.grants.gov/web/grants/view-opportunity.html?oppId=349499){target="_blank"}
+-   Supports equitable improvement for postsecondary student outcomes, including retention, transfer (including successful transfer of completed credits), credit accumulation, and completion, by leveraging data and implementing, scaling, and rigorously evaluating evidence-based activities to support data-driven decisions and actions by institutional leaders committed to inclusive student success.
+-   Deadline: September 25, 2023
+-   Award: \$1.75M
+
+### [NIH NPH: AIMINGS AI for Precision Nutrition Pilot Program Round Two](https://www.phicor.org/rfa){target="_blank"}
+-   Supports research projects that develop and utilize artificial intelligence (AI) and other computer-aided approaches to facilitate precision nutrition.
+-   Deadline: October 2, 2023
+-   Award: \$125K (total) for one year
+-   **Informational Webinar**: July 20, 2023 at 1:30pm, register [here](https://www.eventbrite.com/e/aimings-ai-for-precision-nutritions-applicant-informational-webinar-tickets-668966997297?aff=oddtdtcreator).
+
 ### [ARPA-H: Scaling Health Applications Research for Everyone (SHARE)](https://sam.gov/opp/161668cf86cb4c5da64cbe2e1ce17110/view){target="_blank"}
 -   Supports proven technologies developed for national security and apply them to civilian health systems, clinical care facilities, and personal health devices.
   + [DIGIHEALS Project](https://arpa-h.gov/news/digiheals/){target="_blank"} to protect the U.S. healthcare system’s electronic infrastructure
@@ -431,6 +506,8 @@ format: html
 * Deadline: May 8, 2023
 
 ## Challenges, Awards, and Other Opportunities
+* [Research Rovers: AI Research Assistants for NASA](https://www.drivendata.org/competitions/252/ai-research-assistants/page/780/){target="_blank"} is seeking innovative approaches to help assess emerging capabilities in AI-based research assistants. Solutions are due October 2, 2023.
+* [ReachU Challenge](https://www.challenge.gov/?challenge=reachu-challenge){target="_blank"} calls on university and college students, researchers, faculty, and staff: where do you find funding or share your ideas for the chance to win cash prizes? Help Challenge.Gov reach YOU! **What are the best digital channels, forums, databases, or platforms to reach academic audiences about federally sponsored prize competitions, challenges, and crowdsourcing campaigns?** Ideas due by September 8, 2023. 
 -   [2023 DataWorks! Prize **Deadline Extended**](https://www.herox.com/dataworks){target="_blank"} will recognize and reward exceptional data practices in biological and biomedical research labs during the active phase of research which enable robust data sharing and reuse, and create a library of best practice methods that can be used by the broader research community. Submit your data sharing/reuse best practice recipes in a form that can be used by an audience of your peers, such as a teaching resource or tool for active data management, by August 15, 2023 for a chance to win up to \$100k.
 -   [Health Equity Data Access Program (HEDAP)](https://www.grants.gov/web/grants/view-opportunity.html?oppId=348252){target="_blank"} assists researchers in gaining access to CMS restricted data to conduct health services research focusing on, but not limited to, racial and ethnic minority groups; people with disabilities; members of the lesbian, gay, bisexual, transgender, and queer (LGBTQ+) community; individuals with limited English proficiency; individuals residing in rural areas; and individuals adversely affected by persistent poverty or inequality. Applications due August 15, 2023. Access will be funded for three years.
 -   [Samsung AI Researcher of 2023](https://www.sait.samsung.co.kr/saithome/event/aiResearcher.do){target="_blank"} recognizes promising researchers who have made outstanding research or contributions to the field of AI. Applications are due by July 29, 2023 and the awardee will receive \$30K and plaque.

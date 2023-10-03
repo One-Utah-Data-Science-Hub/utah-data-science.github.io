@@ -75,6 +75,11 @@ format: html
 * Award: $300K/year (total) for durations up to four years
 * [DELPHI and DHI Townhall on Aug 31 at 10:30 am](https://utah.zoom.us/j/93613638947?pwd=MFB0RHRoemR2UUpUcVRXbGVmajY0dz09){target="_blank"}, [NIH/NSF Webinar on Sept 25 at 1pm](https://nsf.zoomgov.com/webinar/register/WN_ctCzc3alRQyXZAX0rS1Fww){target="_blank"}
 
+### [Ideas Lab: Personalized Engineering Learning (PEL)](https://new.nsf.gov/funding/opportunities/ideas-lab-personalized-engineering-learning-pel){target="_blank"}
+* The goal of the Personalized Engineering Learning Ideas Lab is to extend engineering education research to enable advanced personalization in pedagogy and assessment in a K-12 or higher education context. The following broad areas have been identified as possible avenues to advance knowledge: personalized engineering education, multimodal sensing for personalized learning systems and team-based personalized learning.
+* Deadline: November 29, 2023 (Preliminary Proposal); May 8, 2024 (Full Proposal)
+* Award: Selected individuals will participate in an Ideas Lab and may be selected to submit a full proposal
+
 ### [Synthesis Center for Understanding Organismal Resilience](https://new.nsf.gov/funding/opportunities/synthesis-center-understanding-organismal){target="_blank"}
 * Supports the establishment of a new Synthesis Center focused on organismal resilience and plasticity as well as training new generations of researchers in data-intensive, open, cross-disciplinary and collaborative science.
 * Deadline: January 12, 2024 (Preliminary)
@@ -94,7 +99,6 @@ format: html
 
 
 ## Upcoming Recurring Proposal Deadlines
-
 ### [National Artificial Intelligence (AI) Research Institutes](https://new.nsf.gov/funding/opportunities/national-artificial-intelligence-research){target="_blank"}
 * Supports the development of new AI Institutes that focus on one of the following themes: astronomical sciences, materials research and new methods for strengthening AI.
   + Theme 1: AI for Astronomical Sciences
@@ -104,7 +108,6 @@ format: html
 * Award: $16-20M for durations of four or five years
 <!-- * DATASET will be supporting concepts via an Ideas Lab - submit your concept to [Penny Atkins](mailto:data-science-hub@utah.edu?subject=Ideas%20Lab%20Concept%20Proposal) by August 20, 2023; [additional details here](pdfs/DATASET_IdeasLab_CallForConcepts.pdf){target="_blank"}.-->
 * [Internal Limited Submission Opportunity (LSO)](https://utah.infoready4.com/#freeformCompetitionDetail/1912202){target="_blank"} due October 10!
-
 
 ### [NSF National Quantum Virtual Laboratory (NQVL) Quantum Science and Technology Demonstrations (QSTD): I. **Pilot Phase**](https://www.nsf.gov/pubs/2023/nsf23604/nsf23604.htm){target="_blank"}
 * Supports the demonstration of practical quantum advantage, the actual application of the tools of Quantum Information Science and Engineering (QISE) to problems that will enable solutions that classical approaches can only solve much less efficiently or not at all.
@@ -148,12 +151,17 @@ format: html
 
 ### [Ethical and Responsible Research (ER2)](https://new.nsf.gov/funding/opportunities/ethical-responsible-research-er2){target="_blank"}
 * Supports research on what constitutes and promotes responsible research conduct and how to instill that knowledge in researchers, practitioners and educators across all career stages.
-* Deadline: January 22, 2024; January 21 annually thereafter
+* Deadline: January 25, 2024; fourth Thursday annually thereafter
 * Award
-  + Conference Projects: $50K (total) and a maximum duration of 12 months.
-  + Incubation Projects: $90K (total) and a maximum duration of 12 months.
-  + Research Grants: $400K (total) and a maximum duration of 3 years.
-  + Institutional Transformation Research Grants: $700K (total) and a maximum duration of 5 years.
+  + Conference Projects: $50K and a maximum duration of 12 months.
+  + Incubation Projects: $90K and a maximum duration of 12 months.
+  + Research Grants: $400K and a maximum duration of 3 years.
+  + Institutional Transformation Research Grants: $700K and a maximum duration of 5 years.
+
+### [Research on Innovative Technologies for Enhanced Learning (RITEL)](https://new.nsf.gov/funding/opportunities/research-innovative-technologies-enhanced-learning){target="_blank"}
+* Supports early-stage research in emerging technologies such as AI, robotics and immersive or augmenting technologies for teaching and learning that respond to pressing needs in real-world educational environments.
+* Deadline: January 24, 2024; November 5, 2024; November 4, 2025
+* Award: $900K for durations up to three years
 
 ### [NSF Scholarships in Science, Technology, Engineering, and Mathematics Program (S-STEM)](https://new.nsf.gov/funding/opportunities/nsf-scholarships-science-technology-engineering){target="_blank"}
 *   Supports institutions of higher education to fund scholarships for academically talented low-income students and to study and implement a program of activities that support their recruitment, retention and graduation in STEM.
@@ -163,6 +171,11 @@ format: html
     *   Collaborative Planning Grants to Develop an Inter-institutional Consortium
 *   Deadline: *Tracks 2, 3, and 4, Collaborative Planning* February 20, 2024, annually thereafter; *Track 1* March 28, 2024, annually thereafter
 *   Award: *Track 1 (Institutional Capacity Building)* \$1M for a duration of up to six years; *Track 2 (Implementation: Single Institution)* \$2.5M for a duration of up to six years; *Track 3 (Inter-institutional Consortia)* \$5M for a duration of up to six years; *Collaborative Planning* \$100K for a duration of one year.
+
+### [Algorithms for Threat Detection (ATD)](https://new.nsf.gov/funding/opportunities/algorithms-threat-detection-atd){target="_blank"}
+* Supports research on new ways to use spatiotemporal data to model human dynamics, with an emphasis on identifying and forecasting unusual events and future threats.
+* Deadline: February 21, 2024; recurring annually on the third Wednesday in February
+* Award: Unspecified
 
 ### [Emerging Mathematics in Biology (eMB)](https://new.nsf.gov/funding/opportunities/emerging-mathematics-biology-emb){target="_blank"}
 *   Supports research in mathematical biology that addresses significant biological questions by applying nontrivial mathematics or developing new theories --- particularly from foundational mathematics, including artificial intelligence or machine learning.
@@ -217,16 +230,9 @@ format: html
 *   Deadline: *LOI* May 2025, *Preliminary Proposal* June 2025 (anticipated, recurring every other year)
 *   Award: \$20-100M for durations up to five years
 
-### [Smart Health and Biomedical Research in the Era of Artificial Intelligence and Advanced Data Science (SCH)](https://new.nsf.gov/funding/opportunities/smart-health-biomedical-research-era-artificial){target="_blank"}
-* Supports the development of transformative high-risk, high-reward advances in computer and information science, engineering, mathematics, statistics, behavioral and/or cognitive research to address pressing questions in the biomedical and public health communities.
-* Deadline: November/December 2023 (anticipated)
-* Award: $300K/year for durations up to four years
-
 
 
 ### Dear Colleague Letters
-* [Workshop to Inform Development of the NSF Research on Research Security Program (RRSP)](https://www.nsf.gov/pubs/2023/nsf23126/nsf23126.jsp){target="_blank"} proposals due by September 25, 2023. Webinars on creating a Research on Research Security Program will be held July 13 and July 26. [Register now!](https://nsf.zoomgov.com/webinar/register/WN_Q538jXFsRiOmHfyI-89n8A?utm_medium=email&utm_source=govdelivery){target="_blank"}
-
 * [Workshops to Identify Educational Requirements of the Future Ocean Technical Workforce](https://www.nsf.gov/pubs/2023/nsf23134/nsf23134.jsp){target="_blank"} <!-- July 21, 2023 -->
 
 * [Stimulating Diversification in Language Science Research (LangDiv)](https://www.nsf.gov/pubs/2023/nsf23103/nsf23103.pdf){target="_blank"} <!-- May 10, 2023 -->
@@ -244,4 +250,4 @@ format: html
 * [Fairness, Ethics, Accountability, and Transparency: Enabling Breakthrough Research to Expand Inclusivity in Computer and Information Science and Engineering Research](https://www.nsf.gov/pubs/2019/nsf19016/nsf19016.jsp){target="_blank"} <!-- Nov 2, 2018 -->
 
 
-Updated September 18, 2023.
+Updated October 3, 2023.
