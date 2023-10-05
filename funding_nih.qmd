@@ -244,6 +244,7 @@ title: "NIH Funding Opportunities"
 
 ## Notices of Special Interest and Requests for Information
 <!-- * [](){target="_blank"} expires -->
+* [**Request for Information** Exploring the role of Generative AI in enhancing the use of Big Data in Heart, Lung, Blood, and Sleep (HLBS) research](https://grants.nih.gov/grants/guide/notice-files/NOT-HL-23-097.html){target="_blank"} due by December 5, 2023.
 * [**Request for Information** Opportunities and Challenges for the Collection, Use, and Sharing of Real-World Data (RWD) including Electronic Health Records, for NIH Supported Biomedical and Behavioral Research](https://grants.nih.gov/grants/guide/notice-files/NOT-OD-23-180.html){target="_blank"} due by December 14, 2023.
 * [**Administrative Supplements** for R25 Data Science Training for Infectious and Immune-mediated Disease Research](https://grants.nih.gov/grants/guide/notice-files/NOT-AI-23-010.html) expires February 14, 2024.
 * [**Administrative Supplements** to Enhance Institutional Data Science Capacity](https://grants.nih.gov/grants/guide/notice-files/NOT-OD-23-123.html){target="_blank"} in institutions serving medically underserved communities and underrepresented students due June 19, 2023 or April 1, 2024; expires April 2, 2024.
