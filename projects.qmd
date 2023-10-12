@@ -2,8 +2,23 @@
 title: "Positions and Projects"
 format: html
 ---
-If you are looking for a position or have a project, contact [Penny Atkins](mailto:pennyatkins@hsc.utah.edu?subject=Positions%20or%20Projects%20Post) with a brief statement of either your open position or project or your strengths and interests if seeking a position or project. 
 
-## Open Positions and Projects
+## University of Utah Positions
+Find a full list of active employment opportunities [here](https://utah.peopleadmin.com/){target="_blank"}!
 
-## Seeking a Position or Project
+### [Assistant or Associate Professor, Biostatistics](https://utah.peopleadmin.com/postings/153341){target="_blank"}
+The [Division of Biostatistics](https://medicine.utah.edu/population-health-sciences/divisions/biostatistics){target="_blank"} in the [Department of Population Health Sciences](https://medicine.utah.edu/population-health-sciences){target="_blank"} (PHS) at the [University of Utah School of Medicine](https://medicine.utah.edu/){target="_blank"} has openings for Assistant or Associate Professor-level faculty. We are looking for candidates who will collaborate with biomedical researchers, support and develop grant proposals, teach in the Ph.D. Biostatistics program, advise graduate students, and perform methodological research. We are particularly interested in candidates who possess the research skills and experience required to successfully become leaders in multi-disciplinary research teams within the institution and in national and international research networks as well as pursue independent and collaborative methodological research in Biostatistics.
+
+### [Assistant/Associate/Full Professor of Digital Health Applications in areas related to Diabetes, Obesity, and Metabolic Health](https://utah.peopleadmin.com/postings/153305){target="_blank"}
+The University of Utah is recruiting multiple faculty members to expand its research strength in digital health applications specifically related to physical activity, nutrition, diabetes, obesity, and metabolic health. Successful candidates will be embedded in a highly collaborative environment and thriving research area at the nexus of two interdisciplinary research initiatives, the [Digital Health Initiative](https://uofuhealth.utah.edu/digital-health-initiative){target="_blank"} (DHI) and the [Diabetes and Metabolism Research Center](https://uofuhealth.utah.edu/diabetes-metabolism-research-center){target="_blank"} (DMRC). Departments/Units recruiting for these positions include Biomedical Informatics; Family and Preventive Medicine; Health & Kinesiology; Internal Medicine (Divisions of Endocrinology; Epidemiology; and General Internal Medicine); Nutrition and Integrative Physiology; Population Health Sciences; and the College of Nursing.
+
+## Student and Post-doctoral Opportunities
+### [S. Scott Collis Fellowship in Data Science](https://www.sandia.gov/careers/career-possibilities/students-and-postdocs/fellowships/data-science-fellowship/){target="_blank"}
+The S. Scott Collis Fellowship in Data Science seeks applicants with a demonstrated background and interest in the interdisciplinary domain of data science to include mathematics, computer science, artificial intelligence, statistics, computer engineering, and related areas. Collis Data Science Fellows work at the junction of cutting-edge data science techniques and Sandia’s national security mission and application space. 
+
+## Seeking a Position, Collaboration, or Project
+No active posts.
+
+***
+
+If you are looking to fill a position or seeking a specific collaborator, contact [Penny Atkins](mailto:pennyatkins@hsc.utah.edu?subject=Positions%20and%20Projects%20Post) with a brief statement of either your open position or project or your strengths and interests if seeking a position or project. 

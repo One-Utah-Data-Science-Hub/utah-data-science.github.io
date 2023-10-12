@@ -5,6 +5,16 @@ format: html
 
 # NIH Funding Opportunities
 ## Cooperative Agreement (U) Grants
+### [Network of Genomics-Enabled Learning Health Systems (gLHS) – Coordinating Center](https://grants.nih.gov/grants/guide/rfa-files/RFA-HG-23-042.html){target="_blank"}
+* Supports a network of genomic-enabled learning health systems (gLHS) to identify and improve approaches for clinical integration of genomic information in a virtuous cycle of implementation, assessment, refinement, and reimplementation. Specifically, this initiative would support a coordinating center (CC) for 4-6 established or emerging gLHS clinical sites to share their genomic medicine implementation practices and identify those most suitable for cross-network implementation. 
+* Deadline: November 7, 2023 (LOI due 1 month prior)
+* Award: U01, $1.6M/year for durations of five years
+
+### [Network of Genomic-Enabled Learning Health Systems (gLHS) – Clinical Sites](https://grants.nih.gov/grants/guide/rfa-files/RFA-HG-23-041.html){target="_blank"}
+* Supports a network of genomic-enabled learning health systems (gLHS) to identify and improve approaches for clinical integration of genomic information in a virtuous cycle of implementation, assessment, refinement, and reimplementation. Specifically, this initiative would support  4-6 established or emerging gLHS clinical sites to share their genomic medicine implementation practices and identify those most suitable for cross-network implementation. 
+* Deadline: November 7, 2023 (LOI due 1 month prior)
+* Award: U01, budget must align with the project scope ($750K/year) for durations of five years
+
 ### [Diagnostic Centers of Excellence for the Undiagnosed Diseases Network](https://grants.nih.gov/grants/guide/pa-files/PAR-23-289.html){target="_blank"}
 * Supports clinical sites that will provide expert diagnostic services for undiagnosed diseases across the nation.  
 * Deadline: November 3, 2023 (LOI due 1 month prior)
@@ -101,6 +111,12 @@ format: html
 * Award: U24, $1M/year (direct) for durations up to five years
 
 ## Program and Center (P) Grants
+### [Exploratory Grants for Climate Change and Health Research Center Development](https://grants.nih.gov/grants/guide/rfa-files/RFA-ES-23-007.html){target="_blank"}
+* Supports the development of a transdisciplinary research environment to sustain a program of fundamental and applied research to examine the impacts of climate change on health and to develop action-oriented solutions to protect the health of individuals, communities, and nations from the hazards posed by climate change.
+* Deadline: November 7, 2023 (LOI due 1 month prior)
+* Award: P20, $850K/year (direct) for durations up to three years
+* [Webinar on August 17 at 11:00 am MT](https://nih.zoomgov.com/webinar/register/WN_PYfwfWOnT_iGcywfUWTO7Q)
+
 ### [Developmental AIDS Research Centers on Mental Health and HIV/AIDS](https://grants.nih.gov/grants/guide/pa-files/PAR-20-307.html){target="_blank"}
 * Supports Developmental HIV/AIDS Research Centers (D-ARC) intended to provide infrastructure support that facilitates the development of high impact science in HIV/AIDS and mental health that is relevant to the NIMH mission. 
 * Pursuit of innovative data science approaches to promote HIV treatment and prevention delivery advances. This may include methods such as artificial intelligence and predictive analytics applied to large data sets that include electronic medical records, pharmacy claims data, and medical insurance data, as well as the integration of digital technology data (e.g., cellphones or other sensors) with other datasets to improve service delivery and impact.

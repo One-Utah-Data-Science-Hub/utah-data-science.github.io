@@ -6,16 +6,6 @@ title: "NIH Funding Opportunities"
 * Deadline: 
 * Award: , $ for durations up to  years -->
 ## Cooperative Agreement (U) Grants
-### [Network of Genomics-Enabled Learning Health Systems (gLHS) – Coordinating Center](https://grants.nih.gov/grants/guide/rfa-files/RFA-HG-23-042.html){target="_blank"}
-* Supports a network of genomic-enabled learning health systems (gLHS) to identify and improve approaches for clinical integration of genomic information in a virtuous cycle of implementation, assessment, refinement, and reimplementation. Specifically, this initiative would support a coordinating center (CC) for 4-6 established or emerging gLHS clinical sites to share their genomic medicine implementation practices and identify those most suitable for cross-network implementation. 
-* Deadline: November 7, 2023 (LOI due 1 month prior)
-* Award: U01, $1.6M/year for durations of five years
-
-### [Network of Genomic-Enabled Learning Health Systems (gLHS) – Clinical Sites](https://grants.nih.gov/grants/guide/rfa-files/RFA-HG-23-041.html){target="_blank"}
-* Supports a network of genomic-enabled learning health systems (gLHS) to identify and improve approaches for clinical integration of genomic information in a virtuous cycle of implementation, assessment, refinement, and reimplementation. Specifically, this initiative would support  4-6 established or emerging gLHS clinical sites to share their genomic medicine implementation practices and identify those most suitable for cross-network implementation. 
-* Deadline: November 7, 2023 (LOI due 1 month prior)
-* Award: U01, budget must align with the project scope ($750K/year) for durations of five years
-
 ### [Early-Stage Development of Informatics Technologies for Cancer Research and Management](https://grants.nih.gov/grants/guide/rfa-files/RFA-CA-23-015.html){target="_blank"}
 * Supports the development of enabling informatics technologies to improve the acquisition, management, analysis, and dissemination of data and knowledge across the cancer research continuum including cancer biology, cancer treatment and diagnosis, early cancer detection, risk assessment and prevention, cancer control and epidemiology, and/or cancer health disparities. 
 * Deadline: November 17, 2023 (LOI due 1 month prior)
@@ -41,6 +31,11 @@ title: "NIH Funding Opportunities"
 * Deadline: January 30, 2024 (LOI due 1 month prior)
 * Award: UH3/UG3, UG3 - $500K/year (direct) for durations up to two years, UH3 - $1.5M/year (direct) for durations up to three years
 
+### [Clinical and Translational Science Award (CTSA) Program: Collaborative and Innovative Acceleration Award (UG3/UH3 Clinical Trial Optional)](https://grants.nih.gov/grants/guide/pa-files/PAR-22-167.html){target="_blank"}
+* Supports design, development, demonstration, implemention, and evaluation of innovative tools and resources that will (1) transform, increase, and improve the recruitment of participants in clinical trials and (2) improve the use of participant-based information that will inform safety and efficacy for improving participants recruitment in clinical trials.
+* Deadline: February 15, 2024, recurring on June 18, 2024 and October 17, 2024
+* Award: UG3/UH3, UG3 - $650K/year (direct) for durations of 1-3 years, UH3 - $650K/year (direct) for durations of 2-4 years (maximum 5 years total)
+
 ### [ClinGen Genomic Curation Expert Panels](https://grants.nih.gov/grants/guide/pa-files/PAR-23-199.html){target="_blank"}
 * Supports the establishment of Expert Panels that will select genes and genomic variants associated with diseases or conditions of high priority to participating NIH Institutes and Centers (ICs) and systematically determine their clinical significance for diagnosis and treatment of these diseases or conditions. 
 * Deadline: May 25, 2024 (LOI due 1 month prior), recurring on May 25, 2025
@@ -64,12 +59,6 @@ title: "NIH Funding Opportunities"
 
 
 ## Program and Center (P) Grants
-### [Exploratory Grants for Climate Change and Health Research Center Development](https://grants.nih.gov/grants/guide/rfa-files/RFA-ES-23-007.html){target="_blank"}
-* Supports the development of a transdisciplinary research environment to sustain a program of fundamental and applied research to examine the impacts of climate change on health and to develop action-oriented solutions to protect the health of individuals, communities, and nations from the hazards posed by climate change.
-* Deadline: November 7, 2023 (LOI due 1 month prior)
-* Award: P20, $850K/year (direct) for durations up to three years
-* [Webinar on August 17 at 11:00 am MT](https://nih.zoomgov.com/webinar/register/WN_PYfwfWOnT_iGcywfUWTO7Q)
-
 ### [Silvio O. Conte Centers for Basic Neuroscience or Translational Mental Health Research](https://grants.nih.gov/grants/guide/pa-files/PAR-22-155.html){target="_blank"}
 * Supports teams of researchers working at different levels of analysis and employing integrative, novel, and creative experimental approaches to address high-risk, high-impact questions with the primary objectives of: (a) advancing the state of the science in basic brain and behavior research that will uncover and dissect the underlying mechanisms that will ultimately provide the foundation for understanding mental disorders; (b) supporting the integration and translation of basic and clinical neuroscience research on severe mental illnesses; and/or (c) advancing our understanding of the neurobehavioral developmental mechanisms and trajectories of psychopathology that begin in childhood and adolescence.
 * Deadline: June 7, 2024 and June 9, 2025
@@ -250,6 +239,7 @@ title: "NIH Funding Opportunities"
 * [**Administrative Supplements** to Enhance Institutional Data Science Capacity](https://grants.nih.gov/grants/guide/notice-files/NOT-OD-23-123.html){target="_blank"} in institutions serving medically underserved communities and underrepresented students due June 19, 2023 or April 1, 2024; expires April 2, 2024.
 * [Harnessing Big Data to Halt HIV](https://grants.nih.gov/grants/guide/notice-files/NOT-AI-21-054.html){target="_blank"} expires May 8, 2024.
 * [Maximizing the Scientific Value of Secondary Analyses of Existing Cohorts and Datasets in Order to Address Research Gaps and Foster Additional Opportunities in Aging Research](https://grants.nih.gov/grants/guide/notice-files/NOT-AG-23-020.html){target="_blank"} expires May 8, 2024.
+* [Clinical and Translational Science Award (CTSA) Program: Collaborative and Innovative Acceleration Award (UG3/UH3) (Clinical Trial Optional) for Advancing Recruitment through Trial Innovation Network (AR-TIN)](https://grants.nih.gov/grants/guide/notice-files/NOT-TR-23-026.html){target="_blank"} expires October 18, 2024.  
 * [High-Priority Interest to Enhance Data Science Research Training in Addiction Research](https://grants.nih.gov/grants/guide/notice-files/NOT-DA-21-013.html){target="_blank"} expires December 9, 2024.
 * [Advance Data Science Approaches Through Secondary Data Analysis to Reveal Scientific Insights of COVID-19 Testing Technologies (R21)](https://grants.nih.gov/grants/guide/notice-files/NOT-OD-23-040.html){target="_blank"} expires January 5, 2024.
 * [IDEA2Health: Innovative Data Evaluation and Analysis to Health](https://grants.nih.gov/grants/guide/notice-files/NOT-HL-22-001.html){target="_blank"} expires January 8, 2025.
@@ -266,4 +256,4 @@ title: "NIH Funding Opportunities"
 
 * [NIH Office for Data Science Strategy](https://datascience.nih.gov/research-and-training-funding){target="_blank"} list of funding opportunities.
 
-Updated October 3, 2023.
+Updated October 12, 2023.

@@ -13,6 +13,9 @@ format: html
   + *S&CC Integrative Research Grants (SCC-IRG) Track 1* $2.5M for durations up to four years
   + *S&CC Integrative Research Grants (SCC-IRG) Track 2* $1.5M for durations up to three years
 
+### [Research Infrastructure in the Social and Behavioral Sciences (RISBS)](https://new.nsf.gov/funding/opportunities/research-infrastructure-social-behavioral-sciences){target="_blank"}
+* Supports projects that create computational tools and data to facilitate basic research in the social and behavioral sciences that can lead to improved health, prosperity and security. The RISBS program administers separate solicitations for the American National Election Study (ANES), the General Social Survey (GSS) and the Panel Study of Income Dynamics (PSID).
+
 ### [Cyber-Physical Systems (CPS)](https://new.nsf.gov/funding/opportunities/cyber-physical-systems-cps){target="_blank"}
 * Supports research on engineered systems with a seamless integration of cyber and physical components, such as computation, control, networking, learning, autonomy, security, privacy and verification, for a range of application domains.
   + *Small Projects* $500K for durations up to three years; rolling deadline
@@ -94,6 +97,11 @@ format: html
 *   Deadline: February 1, 2024
 *   Award: \$600K *(UCSS and RSSD)* - \$1.2M *(TCR)* for durations up to three years
 
+### [Trailblazer Engineering Impact Award](https://new.nsf.gov/funding/opportunities/nsf-trailblazer-engineering-impact-award){target="_blank"}
+* Supports individual engineers and scientists who propose novel research projects with the potential to innovatively and creatively address major societal challenges, advance US leadership, and catalyze the convergence of engineering and science domains.
+* Deadline: February 15, 2024
+* Award: $3M for durations up to three years
+
 
 
 
@@ -107,13 +115,8 @@ format: html
 * Deadline: *Preliminary Proposal* October 31, 2023 (Theme 1), January 12, 2024 (Themes 2 & 3), *Full Proposal* February 16, 2024 (Theme 1), May 17, 2024 (Themes 2 & 3); recurring every other year
 * Award: $16-20M for durations of four or five years
 <!-- * DATASET will be supporting concepts via an Ideas Lab - submit your concept to [Penny Atkins](mailto:data-science-hub@utah.edu?subject=Ideas%20Lab%20Concept%20Proposal) by August 20, 2023; [additional details here](pdfs/DATASET_IdeasLab_CallForConcepts.pdf){target="_blank"}.-->
-* [Internal Limited Submission Opportunity (LSO)](https://utah.infoready4.com/#freeformCompetitionDetail/1912202){target="_blank"} due October 10!
+* [Internal Limited Submission Opportunity (LSO)](https://utah.infoready4.com/#freeformCompetitionDetail/1912202){target="_blank"} has ended.
 
-### [NSF National Quantum Virtual Laboratory (NQVL) Quantum Science and Technology Demonstrations (QSTD): I. **Pilot Phase**](https://www.nsf.gov/pubs/2023/nsf23604/nsf23604.htm){target="_blank"}
-* Supports the demonstration of practical quantum advantage, the actual application of the tools of Quantum Information Science and Engineering (QISE) to problems that will enable solutions that classical approaches can only solve much less efficiently or not at all.
-* Deadline: November 30, 2023 (LOI due October 6, 2023) or June 11, 2024 (LOI due April 9, 2024)
-* Award: $1M for durations of one year
-* [NSF NQVL Webinar on August 4, 2023](https://new.nsf.gov/events/nqvl-webinar/2023-08-04) at 11am MT. 
 
 ### [Geoinformatics (GI)](https://new.nsf.gov/funding/opportunities/geoinformatics-gi){target="_blank"}
 * Supports the deployment, operation, and sustainment of cyberinfrastructure (CI) resources to serve and support Earth Sciences research and education.
@@ -136,7 +139,7 @@ format: html
 
 ### [Decision, Risk and Management Sciences (DRMS)](https://new.nsf.gov/funding/opportunities/decision-risk-management-sciences-drms-0){target="_blank"}
 * Supports research that increases understanding of how individuals, organizations and societies make decisions. Areas include judgment, decision analysis and aids, risk analysis and communication, public policy decision making and management science.
-* Deadline: August 18 and January 18; annually
+* Deadline: January 18 and August 18; annually
 
 ### [Training-based Workforce Development for Advanced Cyberinfrastructure (CyberTraining)](https://new.nsf.gov/funding/opportunities/training-based-workforce-development-advanced){target="_blank"}
 *   *Pilot* projects are exploratory activities that may lead to *Implementation* projects.
@@ -186,6 +189,12 @@ format: html
 * Supports the design and implementation of research infrastructure — including equipment, cyberinfrastructure, large-scale datasets and personnel — whose total project costs exceed NSF's Major Research Instrumentation program but are under $20 million.
 * Deadline: January 2025 (anticipated, recurring every other year)
 * Award: $4-20M for durations up to five years
+
+### [NSF National Quantum Virtual Laboratory (NQVL) Quantum Science and Technology Demonstrations (QSTD): I. **Pilot Phase**](https://www.nsf.gov/pubs/2023/nsf23604/nsf23604.htm){target="_blank"}
+* Supports the demonstration of practical quantum advantage, the actual application of the tools of Quantum Information Science and Engineering (QISE) to problems that will enable solutions that classical approaches can only solve much less efficiently or not at all.
+* Deadline: LOI due April 9, 2024, Proposal due June 11, 2024
+* Award: $1M for durations of one year
+<!--* [NSF NQVL Webinar on August 4, 2023](https://new.nsf.gov/events/nqvl-webinar/2023-08-04) at 11am MT.--> 
 
 ### [Expeditions in Computing (Expeditions)](https://new.nsf.gov/funding/opportunities/expeditions-computing-expeditions){target="_blank"}
 *   Supports long-term, multi-institutional research with the potential to transform computer and information science and engineering.
@@ -250,4 +259,4 @@ format: html
 * [Fairness, Ethics, Accountability, and Transparency: Enabling Breakthrough Research to Expand Inclusivity in Computer and Information Science and Engineering Research](https://www.nsf.gov/pubs/2019/nsf19016/nsf19016.jsp){target="_blank"} <!-- Nov 2, 2018 -->
 
 
-Updated October 3, 2023.
+Updated October 12, 2023.
