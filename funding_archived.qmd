@@ -5,6 +5,11 @@ format: html
 
 # NIH Funding Opportunities
 ## Cooperative Agreement (U) Grants
+### [Early-Stage Development of Informatics Technologies for Cancer Research and Management](https://grants.nih.gov/grants/guide/rfa-files/RFA-CA-23-015.html){target="_blank"}
+* Supports the development of enabling informatics technologies to improve the acquisition, management, analysis, and dissemination of data and knowledge across the cancer research continuum including cancer biology, cancer treatment and diagnosis, early cancer detection, risk assessment and prevention, cancer control and epidemiology, and/or cancer health disparities. 
+* Deadline: November 17, 2023 (LOI due 1 month prior)
+* Award: U01, $300K/year (direct) for durations of three years
+
 ### [Network of Genomics-Enabled Learning Health Systems (gLHS) – Coordinating Center](https://grants.nih.gov/grants/guide/rfa-files/RFA-HG-23-042.html){target="_blank"}
 * Supports a network of genomic-enabled learning health systems (gLHS) to identify and improve approaches for clinical integration of genomic information in a virtuous cycle of implementation, assessment, refinement, and reimplementation. Specifically, this initiative would support a coordinating center (CC) for 4-6 established or emerging gLHS clinical sites to share their genomic medicine implementation practices and identify those most suitable for cross-network implementation. 
 * Deadline: November 7, 2023 (LOI due 1 month prior)
@@ -142,6 +147,11 @@ format: html
 * Award: F99/K00, covers stipends, tuition, fees, and institutional allowance for durations up to six years (F99 for two years, K00 for four years).
 
 ## Research Grants - R01 Activities
+### [Ethical, Legal and Social Implications (ELSI) Research](https://grants.nih.gov/grants/guide/pa-files/PAR-20-254.html){target="_blank"}
+* Supports the study of the ethical, legal and social implications (ELSI) of human genome research, using either single or mixed methods.
+* Deadline: October 19, 2023
+* Award: R01, budget must align with the project scope, for durations of three to five years ([R21](https://grants.nih.gov/grants/guide/pa-files/PAR-20-255.html){target="_blank"} also available)
+
 ### [Computational Approaches for Validating Dimensional Constructs of Relevance to Psychopathology](https://grants.nih.gov/grants/guide/pa-files/PAR-21-263.html){target="_blank"}
 * Supports research projects that will use computational approaches to test the validity of dimensional constructs in the NIMH [Research Domain Criteria (RDoC) matrix](https://www.nimh.nih.gov/research-priorities/rdoc/index.shtml){target="_blank"} (or similar constructs based on comparable criteria). 
 * Deadline: November 1, 2023 (LOI due 1 month prior)
@@ -308,6 +318,16 @@ format: html
 
 # Foundation Funding Opportunities
 
+### [Rose Foundation: Consumer Privacy Rights Fund](https://rosefdn.org/wp-content/uploads/Consumer-Privacy-2023-RFP.pdf){target="_blank"}
+* Supports privacy protection and privacy education efforts, specifically individual consumer’s internet privacy rights.
+* Deadline: October 13, 2023
+* Award: $150K
+
+### [The Chan Zuckerberg Initiative (CZI), The Kavli Foundation, and The Wellcome Trust: Essential Open Source Software for Science](https://chanzuckerberg.com/rfa/essential-open-source-software-for-science/){target="_blank"}
+* Supports open source software projects essential for biomedical research. The goal of the program is to support software maintenance, growth, development, and community engagement for these critical tools.
+* Deadline: October 17, 2023 (LOI); December 5, 2023 for invited full proposals
+* Award: $50-200K/year for durations of two years
+
 ### [Ford Foundation: 2023 Digital Infrastructure Insights Fund](https://fordfoundation.forms.fm/2023-digital-infrastructure-insights-fund-rfp/forms/9724){target="_blank"}
 * The D//F (Digital Infrastructure Insights Fund) is a multi-funder initiative by Ford Foundation, Alfred P. Sloan Foundation, Omidyar Network, Schmidt Futures and Open Collective sustaining a platform for researchers and practitioners to better understand how open digital infrastructure is built and deployed.
 * Deadline: September 30, 2023
@@ -411,6 +431,25 @@ format: html
 
 
 # Governmental Funding Opportunities
+
+### [DOT: Advanced Driver Assistance Systems Microsimulation Model Development and Validation](https://sam.gov/opp/1de4f24e721944fabbb58e0e97893382/view){target="_blank"}
+* Supports development of models that describe how Advanced Driver Assistance Systems (ADAS) and Automated Driving Systems (ADS)—with or without connectivity—operate in traffic. The models proposed in response to this proposal request should seek to fill gaps in current traffic operations modeling capabilities.
+* Deadline: October 6, 2023
+* Award: Unspecified.
+
+### [NEH: Dangers and Opportunities of Technology: Perspectives from the Humanities](https://www.neh.gov/program/dangers-and-opportunities-technology-perspectives-humanities){target="_blank"}
+* Supports research that examines technology and its relationship to society through the lens of the humanities, with a focus on the dangers and/or opportunities presented by technology.
+  +  A special encouragement for research projects that seek to understand and address the ethical, legal, and societal implications of artificial intelligence (AI).
+* Deadline: October 11, 2023
+* Award: Up to $150K for durations of two years
+* [Q&A Session on August 15 at 12pm MT](https://events.gcc.teams.microsoft.com/event/9fd1d723-2090-4ebb-982b-f38ad71ce770@93b06459-c77d-44b6-af7f-e813cddcdcc3)
+
+### [DARPA: Adversarial Resilient Cyber Effects for Decision Dominance Collaborative Research Program](https://www.grants.gov/web/grants/view-opportunity.html?oppId=349875){target="_blank"}
+* Supports expansion of theoretical and scientific understanding of cyberspace windows of superiority (CWoS), such that one can rapidly and reliably identify, predict, and create these windows to provide military and civil leadership with multiple courses of action. Including research thrusts:
+  + Explore and define CWoS: Identify and Predict CWoS, Create CWoS
+  + Adversarial Resilient Cyber: Multidomain Cyber Deception in Contested Environments, Machine Learning for Security and Security for Machine Learning
+* Deadline: October 13, 2023
+* Award: Unspecified, budget must be align with the project scope
 
 ### [Office of Postsecondary Education (OPE): Higher Education Programs (HEP): Fund for The Improvement of Postsecondary Education (FIPSE): Postsecondary Student Success Grant](https://www.grants.gov/web/grants/view-opportunity.html?oppId=349499){target="_blank"}
 -   Supports equitable improvement for postsecondary student outcomes, including retention, transfer (including successful transfer of completed credits), credit accumulation, and completion, by leveraging data and implementing, scaling, and rigorously evaluating evidence-based activities to support data-driven decisions and actions by institutional leaders committed to inclusive student success.
@@ -522,6 +561,7 @@ format: html
 * Deadline: May 8, 2023
 
 ## Challenges, Awards, and Other Opportunities
+* [HHS, CDC, and NASA: Unsupervised Wisdom: Explore Medical Narratives on Older Adult Falls](https://www.challenge.gov/?challenge=unsupervised-wisdom-explore-medical-narratives-on-older-adult-falls){target="_blank"}. The goal in this challenge is to identify effective methods of using unsupervised machine learning to extract insights about older adult falls from Emergency Department narratives. Analysis and executive summary due October 6, 2023 for cash prizes up to $20K.
 * [Research Rovers: AI Research Assistants for NASA](https://www.drivendata.org/competitions/252/ai-research-assistants/page/780/){target="_blank"} is seeking innovative approaches to help assess emerging capabilities in AI-based research assistants. Solutions are due October 2, 2023.
 * [ReachU Challenge](https://www.challenge.gov/?challenge=reachu-challenge){target="_blank"} calls on university and college students, researchers, faculty, and staff: where do you find funding or share your ideas for the chance to win cash prizes? Help Challenge.Gov reach YOU! **What are the best digital channels, forums, databases, or platforms to reach academic audiences about federally sponsored prize competitions, challenges, and crowdsourcing campaigns?** Ideas due by September 8, 2023. 
 -   [2023 DataWorks! Prize **Deadline Extended**](https://www.herox.com/dataworks){target="_blank"} will recognize and reward exceptional data practices in biological and biomedical research labs during the active phase of research which enable robust data sharing and reuse, and create a library of best practice methods that can be used by the broader research community. Submit your data sharing/reuse best practice recipes in a form that can be used by an audience of your peers, such as a teaching resource or tool for active data management, by August 15, 2023 for a chance to win up to \$100k.

@@ -8,7 +8,7 @@ format: html
 
 # [Degree and Certificate Programs](https://utah-data-science-hub.github.io/education_degrees.html)
 
-### Resources
+### Resourcess
 * [Introduction to Data Science Course](https://datasciencecourse.net/2023/index.html){target="_blank"}
 * [School of Computing Data Science YouTube Channel](https://www.youtube.com/@UofUDataScience/videos){target="_blank"}
 * [Utah Data Science Club YouTube Channel](https://www.youtube.com/@utahdatascience6178/videos){target="_blank"}
@@ -20,6 +20,7 @@ format: html
 * [Mathematical Foundations for Data Analysis](https://mathfordata.github.io/){target="_blank"} by Jeff Phillips
 * [R for Data Science](https://r4ds.had.co.nz/){target="_blank"}
 * [NIH STRIDES Cloud Training](https://cloud.nih.gov/training/){target="_blank"}
+* [Understanding Deep Learning](https://udlbook.github.io/udlbook/){target="_blank"}
 
 ### Guidelines, Principles, and Other Materials
 * [Principles of Artifical Intelligence Ethics for the Intelligence Community](https://www.intelligence.gov/principles-of-artificial-intelligence-ethics-for-the-intelligence-community){target="_blank"} by the Office of the Director of National Intelligence

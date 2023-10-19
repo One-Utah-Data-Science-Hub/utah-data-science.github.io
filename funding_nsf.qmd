@@ -78,6 +78,11 @@ format: html
 * Award: $300K/year (total) for durations up to four years
 * [DELPHI and DHI Townhall on Aug 31 at 10:30 am](https://utah.zoom.us/j/93613638947?pwd=MFB0RHRoemR2UUpUcVRXbGVmajY0dz09){target="_blank"}, [NIH/NSF Webinar on Sept 25 at 1pm](https://nsf.zoomgov.com/webinar/register/WN_ctCzc3alRQyXZAX0rS1Fww){target="_blank"}
 
+### [Trailblazer Engineering Impact Award](https://new.nsf.gov/funding/opportunities/nsf-trailblazer-engineering-impact-award){target="_blank"}
+* Supports individual engineers and scientists who propose novel research projects with the potential to innovatively and creatively address major societal challenges, advance US leadership, and catalyze the convergence of engineering and science domains.
+* Deadline: Concept Outline due November 9, 2023; Full Proposal due February 15, 2024
+* Award: $3M for durations up to three years
+
 ### [Ideas Lab: Personalized Engineering Learning (PEL)](https://new.nsf.gov/funding/opportunities/ideas-lab-personalized-engineering-learning-pel){target="_blank"}
 * The goal of the Personalized Engineering Learning Ideas Lab is to extend engineering education research to enable advanced personalization in pedagogy and assessment in a K-12 or higher education context. The following broad areas have been identified as possible avenues to advance knowledge: personalized engineering education, multimodal sensing for personalized learning systems and team-based personalized learning.
 * Deadline: November 29, 2023 (Preliminary Proposal); May 8, 2024 (Full Proposal)
@@ -97,10 +102,7 @@ format: html
 *   Deadline: February 1, 2024
 *   Award: \$600K *(UCSS and RSSD)* - \$1.2M *(TCR)* for durations up to three years
 
-### [Trailblazer Engineering Impact Award](https://new.nsf.gov/funding/opportunities/nsf-trailblazer-engineering-impact-award){target="_blank"}
-* Supports individual engineers and scientists who propose novel research projects with the potential to innovatively and creatively address major societal challenges, advance US leadership, and catalyze the convergence of engineering and science domains.
-* Deadline: February 15, 2024
-* Award: $3M for durations up to three years
+
 
 
 
@@ -117,7 +119,6 @@ format: html
 <!-- * DATASET will be supporting concepts via an Ideas Lab - submit your concept to [Penny Atkins](mailto:data-science-hub@utah.edu?subject=Ideas%20Lab%20Concept%20Proposal) by August 20, 2023; [additional details here](pdfs/DATASET_IdeasLab_CallForConcepts.pdf){target="_blank"}.-->
 * [Internal Limited Submission Opportunity (LSO)](https://utah.infoready4.com/#freeformCompetitionDetail/1912202){target="_blank"} has ended.
 
-
 ### [Geoinformatics (GI)](https://new.nsf.gov/funding/opportunities/geoinformatics-gi){target="_blank"}
 * Supports the deployment, operation, and sustainment of cyberinfrastructure (CI) resources to serve and support Earth Sciences research and education.
   + The *Innovative Resources track* supports the early-stage development, deployment, and community-building for CI resources that serve Earth Sciences research and education.
@@ -129,6 +130,10 @@ format: html
 *   Supports research that studies the behavior of individuals and groups by leveraging data and network science and the development of data infrastructure that makes such work possible.
 *   Deadline: *Core Research* January 11, 2024, July 11, 2024, annually thereafter in January and July; *Infrastructure* February 1, 2024, annually thereafter in February and August
 *   Awards: *Core Research* \$400K; *Infrastructure* \$800K for durations of one to five years
+
+### [Cognitive Neuroscience (CogNeuro)](https://new.nsf.gov/funding/opportunities/cognitive-neuroscience-cogneuro-0){target="_blank"}
+* Supports advancement of our understanding of the neural mechanisms underlying human cognition and behavior. Funded proposals typically advance theories in cognitive neuroscience by relating precise and rich quantifications of physiology, cognition and behavior with each other (Intellectual Merit) and strengthen the field through, for example, outreach, mentoring the next generation of diverse cognitive neuroscientists and/or increasing awareness and utilization of the research the field produces (Broader Impacts).
+* Deadline: February 1, 2024 or August 15, 2024
 
 ### [Safe Learning-Enabled Systems](https://new.nsf.gov/funding/opportunities/safe-learning-enabled-systems){target="_blank"}
 *   Supports foundational research that leads to the design and implementation of learning-enabled systems in which safety is ensured with high levels of confidence.
@@ -259,4 +264,4 @@ format: html
 * [Fairness, Ethics, Accountability, and Transparency: Enabling Breakthrough Research to Expand Inclusivity in Computer and Information Science and Engineering Research](https://www.nsf.gov/pubs/2019/nsf19016/nsf19016.jsp){target="_blank"} <!-- Nov 2, 2018 -->
 
 
-Updated October 12, 2023.
+Updated October 19, 2023.
