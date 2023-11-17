@@ -3,67 +3,77 @@ title: "Strengths and Aspirations"
 format: html
 editor: source
 ---
+
 ## Existing Strengths
+
 ### The University of Utah is a regional leader in education
-The University of Utah launched the undergraduate Data Science program in 2019. As of Fall 2022, the program has 76 students and has served as a model for more recently launched programs in the region.  
+
+The University of Utah launched the undergraduate Data Science program in 2019. As of Fall 2022, the program has 76 students and has served as a model for more recently launched programs in the region.
 
 ### Our faculty are doing innovative data science
-* [*How People Actually Lie With Charts*](https://vdl.sci.utah.edu/blog/2023/04/17/misleading/), Alex Lex and Marina Kogan
-* [*Mapper Interactive: A Scalable, Extendable, and Interactive Toolbox for the Visual Exploration of High-Dimensional Data*](https://users.cs.utah.edu/~zhouyj/publications/2conferences/Mapper_Interactive/MapperInteractive_YoujiaZhou_2021.pdf), Youjia Zhou, Nithin Chalapathi, Archit Rathore, Yaodong Zhao,  Bei Wang
-  + [*Protein-metabolite interactomics of carbohydrate metabolism reveal regulation of lactate dehydrogenase*](https://www.science.org/doi/10.1126/science.abm3452), Science
-  + [*Metaboverse enables automated discovery and visualization of diverse metabolic regulatory patterns*](https://www.nature.com/articles/s41556-023-01117-9), Nature Cell Bio
-* [*Scientific Machine Learning: using machine learning to automatically from data uncover models of physical systems*](), Shandian Zhe et al.
 
+-   [*How People Actually Lie With Charts*](https://vdl.sci.utah.edu/blog/2023/04/17/misleading/), Alex Lex and Marina Kogan
+-   [*Mapper Interactive: A Scalable, Extendable, and Interactive Toolbox for the Visual Exploration of High-Dimensional Data*](https://users.cs.utah.edu/~zhouyj/publications/2conferences/Mapper_Interactive/MapperInteractive_YoujiaZhou_2021.pdf), Youjia Zhou, Nithin Chalapathi, Archit Rathore, Yaodong Zhao, Bei Wang
+    -   [*Protein-metabolite interactomics of carbohydrate metabolism reveal regulation of lactate dehydrogenase*](https://www.science.org/doi/10.1126/science.abm3452), Science
+    -   [*Metaboverse enables automated discovery and visualization of diverse metabolic regulatory patterns*](https://www.nature.com/articles/s41556-023-01117-9), Nature Cell Bio
+-   [*Scientific Machine Learning: using machine learning to automatically from data uncover models of physical systems*](), Shandian Zhe et al.
+
+```{=html}
 <!-- Joamy Ramsey (Hotaling and Quinlan)
 DATASET Advisory Board members
 Bayesian data science methods in Economics, WIP by Ellis Scharfenanker 
 https://ucgd.genetics.utah.edu/research/ -->
-
-
+```
 ### We are a leader in population data curation and host unique data sets
+
 See our growing list of these [resources](https://utah-data-science-hub.github.io/data.html)!
 
 ### Utah hosts a fast growing digital technology and data science economy
-* Genomic data science for diagnostics and gene discovery, supported by the UCGD and CGM on the Health Sciences campus and in the Department of Biology.
-* BioHive
-* SiliconSlopes
-* The Point
+
+-   Genomic data science for diagnostics and gene discovery, supported by the UCGD and CGM on the Health Sciences campus and in the Department of Biology.
+-   BioHive
+-   SiliconSlopes
+-   The Point
 
 ### The University of Utah is known for multidisciplinary centers of innovation
-* [Scientific Computing and Imaging Institute](https://www.sci.utah.edu/)    
-  + History of [the SCI Institute](http://www.sci.utah.edu/images/Research/SCI_History_Cooley_sm.pdf) and [Computing](https://www.cs.utah.edu/50th-anniversary-of-computing-at-the-university-of-utah-and-ieee-milestone-event-march-23-24-2023/) at the University of Utah
-* [Cardiovascular Research and Training Institute](https://cvrti.utah.edu/)
-* [Clinical & Translational Science Institute](https://ctsi.utah.edu/)
-* [Utah Center for Genetic Discovery](https://ucgd.genetics.utah.edu/)
-* [Center for Genomic Medicine](https://uofuhealth.utah.edu/center-genomic-medicine)
 
-
+-   [Scientific Computing and Imaging Institute](https://www.sci.utah.edu/)
+    -   History of [the SCI Institute](http://www.sci.utah.edu/images/Research/SCI_History_Cooley_sm.pdf) and [Computing](https://www.cs.utah.edu/50th-anniversary-of-computing-at-the-university-of-utah-and-ieee-milestone-event-march-23-24-2023/) at the University of Utah
+-   [Cardiovascular Research and Training Institute](https://cvrti.utah.edu/)
+-   [Clinical & Translational Science Institute](https://ctsi.utah.edu/)
+-   [Utah Center for Genetic Discovery](https://ucgd.genetics.utah.edu/)
+-   [Center for Genomic Medicine](https://uofuhealth.utah.edu/center-genomic-medicine)
 
 ### The University of Utah has a rich history of translational impact
 
 ### We are aimed to accel in the future
-* We are fostering a data science community through activities such as [Annual Data Science Day](https://datascience.utah.edu/events/2023/data-science-day), the [UCDS Seminar Series](https://datascience.utah.edu/seminar.html), the DATASET Discovery Workshops, the [DELPHI Data Science Education Workshops](https://utah-data-science-hub.github.io/education_courses.html), and many more.
-* We are integrated with local technology companies and are supporting an upcoming event with BioHive. 
 
-
+-   We are fostering a data science community through activities such as [Annual Data Science Day](https://datascience.utah.edu/events/2023/data-science-day), the [UCDS Seminar Series](https://datascience.utah.edu/seminar.html), the DATASET Discovery Workshops, the [DELPHI Data Science Education Workshops](https://utah-data-science-hub.github.io/education_courses.html), and many more.
+-   We are integrated with local technology companies and are supporting an upcoming event with BioHive.
 
 ## Future Aspirations
+
 ### Advance infrastructure for innovation
-* Data: The actual data has been collected
-* Storage and Computing: To do things with the data
-* Interfaces: To enable research on the data (largely missing)
-* Responsible: Guidance for how to use infrastructure and models responsibly
+
+-   Data: The actual data has been collected
+-   Storage and Computing: To do things with the data
+-   Interfaces: To enable research on the data (largely missing)
+-   Responsible: Guidance for how to use infrastructure and models responsibly
 
 ### Be the next national hub for data science and attract global talent
-### Supply local talent and transfer innovation to local industry
-### Data science education is pervasive and available to everyone one campus
-### Lead in development of data science as a new paradigm for science
-### Create a frictionless data science community 
-* We are aware of local expertise, ongoing projects, and are initializing
-* We are proud to host an environment of cross-collaboration, where research is truly larger than the sum of the parts
-  + We are in the process of developing a network of collaborations to showcase this environment
-  
-### Serve our community based on identified needs
-From our initial survey our community of data scientists is looking for collaboration, funding opportunities, education, and connection to students and industry. 
-![Services](images/servicesPlot.png){}
 
+### Supply local talent and transfer innovation to local industry
+
+### Data science education is pervasive and available to everyone one campus
+
+### Lead in development of data science as a new paradigm for science
+
+### Create a frictionless data science community
+
+-   We are aware of local expertise, ongoing projects, and are initializing
+-   We are proud to host an environment of cross-collaboration, where research is truly larger than the sum of the parts
+    -   We are in the process of developing a network of collaborations to showcase this environment
+
+### Serve our community based on identified needs
+
+From our initial survey our community of data scientists is looking for collaboration, funding opportunities, education, and connection to students and industry. ![Services](images/servicesPlot.png)
