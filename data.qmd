@@ -18,6 +18,7 @@ editor: source
 * [Interdisciplinary Exchange for Utah Science (NEXUS)](https://nexus.utah.edu/) is a research center that serves the University of Utah’s strategic research priorities. The mission of NEXUS is to address society's grand social challenges by promoting interdisciplinary research and team science.
 * [Scientific Computing and Imaging (SCI) Institute](https://www.sci.utah.edu/){target="_blank"} has established itself as an internationally recognized leader in visualization, scientific computing, and image analysis research applied to a broad range of domains.
 * [Surgical Population Analysis Research Core (SPARC)](https://medicine.utah.edu/surgery/research/cores/sparc){target="_blank"} strives to improve surgical care by supporting a core group of faculty, connecting them to a diverse set of big datasets, providing analytic and visualization services, and obtaining extramural funding.
+* [Technology Licensing Office](https://technologylicensing.utah.edu/){target="_blank"} aims to be a leader in innovation management that creates value for the University of Utah, its stakeholders, and society.
 
 ## National and International Resources
 * [*All of Us* Research Hub](https://www.researchallofus.org/){target="_blank"} is one of the largest biomedical data resources of its kind with health data from a diverse group of participants from across the United States.

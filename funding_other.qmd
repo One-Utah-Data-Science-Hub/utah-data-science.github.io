@@ -11,15 +11,15 @@ editor: visual
 * Award: $ for durations up to  years -->
 ```
 ## Internal Funding Opportunities
-### [One Utah Data Science Hub Seed Grant Program - FY24](https://utah.infoready4.com/#freeformCompetitionDetail/1913850){target="_blank"}
-* Supports the initiation of new collaborations and innovative research in data science and data-enabled science that will lead to federal extramural grant applications.
-* Deadline: December 15, 2023
-* Award: Up to $50K for one year
-
 ### [FY24 Distinguished Research Awards](https://utah.infoready4.com/#freeformCompetitionDetail/1912040){target="_blank"}
 * The Distinguished Research Award (DRA) is a prestigious faculty award designed to recognize outstanding achievements in research by three University of Utah faculty each year. 
 * Deadline: December 13, 2023
 * Award: $10,000 grant to pursue research and/or creative pursuits and recognition at the UofU Commencement. 
+
+### [One Utah Data Science Hub Seed Grant Program - FY24](https://utah.infoready4.com/#freeformCompetitionDetail/1913850){target="_blank"}
+* Supports the initiation of new collaborations and innovative research in data science and data-enabled science that will lead to federal extramural grant applications.
+* Deadline: December 15, 2023
+* Award: Up to $50K for one year
 
 
 ## Foundation Funding Opportunities
@@ -93,7 +93,6 @@ editor: visual
 * Supports novel technologies to assist forensic experts in making determinations of the most likely attackers, based on coding styles. The program will explore full feature spaces in binary code and source code files to measure the similarity between files and provide information to forensic experts to the likely origins (country, groups, individuals, etc.). 
 * Deadline: January 22, 2024
 
-
 ### [NEH: Humanities Research Centers on Artificial Intelligence](https://www.grants.gov/web/grants/view-opportunity.html?oppId=349711){target="_blank"}
 * Supports humanities research centers on artificial intelligence (AI) focused on better understanding the ethical, legal, or societal implications of AI. 
 * Deadline: February 14, 2024 (forecasted)
@@ -140,4 +139,4 @@ editor: visual
 
 
 
-Updated October 19, 2023.
+Updated November 22, 2023.

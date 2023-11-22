@@ -3,6 +3,14 @@ title: "Previous Events"
 format: html
 ---
 
+
+## DELPHI Symposium  
+**Date:** Friday, October 20, 2023  
+**Time:** 8:30am - 4:15pm  
+**Location:** Cleone Peterson Eccles Alumni House  
+Register and submit your abstract for a poster or lightning talk [here](https://forms.gle/FuUCPC7J8BXetwEeA). 
+[![First Annual DELPHI Symposium](images/DELPHISymposium2023.png)](https://forms.gle/5EZHCyhJNJNPV71s6){target="_blank"}
+
 ## Fall 2023 Networking Event
 **Date:** September 12, 2023  
 **Time:** 5pm - 7pm  

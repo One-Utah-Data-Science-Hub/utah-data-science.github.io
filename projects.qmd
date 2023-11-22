@@ -17,8 +17,8 @@ The University of Utah is recruiting multiple faculty members to expand its rese
 UIUC is hiring 4 tenure-track faculty at all levels in the area of “AI for Community Health” which includes mHealth, Health AI, Public Health, and related topics. This is the first of several investments UIUC will be making to grow computational health research with a focus on the individual and community aspects, and our interests are broad. Interested candidates can reach out to Jim Rehg at [jrehg@illinois.edu](mailto:jrehg@illinois.edu) for further information.
 
 ## Student and Post-doctoral Opportunities
-### [Eric and Wendy Schmidt AI in Science Postdoctoral Fellows at The University of Chicago](https://apply.interfolio.com/131477){target="_blank"}
-The AI in Science Postdoctoral Fellow Program at the University of Chicago is seeking scholars who seek to advance and accelerate the adoption of artificial intelligence (AI) in the natural sciences. Applications reviewed starting November 1, 2023.
+<!-- ### [Eric and Wendy Schmidt AI in Science Postdoctoral Fellows at The University of Chicago](https://apply.interfolio.com/131477){target="_blank"}
+The AI in Science Postdoctoral Fellow Program at the University of Chicago is seeking scholars who seek to advance and accelerate the adoption of artificial intelligence (AI) in the natural sciences. Applications reviewed starting November 1, 2023. -->
 
 ### [Data Science Institute Postdoctoral Scholars Program AY2024-25](https://uchicago.infoready4.com/#competitionDetail/1911556){target="_blank"}
 The Data Science Institute (DSI) at the University of Chicago invites applications for Postdoctoral Scholars who wish to advance cutting-edge data science approaches, methods, and applications in research. Applications are due by January 9, 2024.

@@ -4,6 +4,13 @@ format: html
 ---
 
 ## Software Carpentries
+### Introduction to Data Analysis with Python
+**When:** Tuesdays and Thursdays 9-10am from October 24-November 16  
+**Where:** Virtual  
+**Instructors:** Rebecca Barter  
+[Register to save your spot!](https://forms.gle/3wpYrWQGy7EMrXmK6){target="_blank"} 
+Additional information will be shared with registered participants prior to the course.
+
 ### Introduction to R
 **When:** August 21-22 2023\
 **Where:** HSEB, Salt Lake City, UT 84113\

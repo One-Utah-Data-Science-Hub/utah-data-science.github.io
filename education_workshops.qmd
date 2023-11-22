@@ -6,13 +6,6 @@ format: html
 ## Software Carpentries
 Software Carpentries workshops are offered in person over two-days, including breakfast, lunch, and snacks. Topics covered will depend on the specific workshop, but could include R, python, SQL, Unix, and more.  
 
-### Introduction to Data Analysis with Python
-**When:** Tuesdays and Thursdays 9-10am from October 24-November 16  
-**Where:** Virtual  
-**Instructors:** Rebecca Barter  
-[Register to save your spot!](https://forms.gle/3wpYrWQGy7EMrXmK6){target="_blank"} 
-Additional information will be shared with registered participants prior to the course.
-
 ### Version Control and Collaboration with Git and GitHub
 **When:** November 30, 2023\
 **Where:** HSEB 1730, Salt Lake City, UT 84113\

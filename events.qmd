@@ -8,13 +8,6 @@ Check out our calendar of upcoming events and seminars in our [Google Calendar](
 <iframe src="https://calendar.google.com/calendar/embed?src=cf4d0898a22b2d1969755d4bbe77063e80ea4810a24a2a24ed84003b22544f54%40group.calendar.google.com&amp;ctz=America%2FDenver" style="border: 0" width="800" height="600" frameborder="0" scrolling="no">
 </iframe>
 
-## DELPHI Symposium  
-**Date:** Friday, October 20, 2023  
-**Time:** 8:30am - 4:15pm  
-**Location:** Cleone Peterson Eccles Alumni House  
-Register and submit your abstract for a poster or lightning talk [here](https://forms.gle/FuUCPC7J8BXetwEeA). 
-[![First Annual DELPHI Symposium](images/DELPHISymposium2023.png)](https://forms.gle/5EZHCyhJNJNPV71s6){target="_blank"}
-
 ## Utah Data Science Day
 **Date:** Friday, January 12, 2024  
 **Time:** 9:30am - 3:30pm  
