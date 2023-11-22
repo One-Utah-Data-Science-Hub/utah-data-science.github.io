@@ -65,23 +65,6 @@ format: html
 
 
 ## Upcoming Proposal Deadlines
-### [Smart Health and Biomedical Research in the Era of Artificial Intelligence and Advanced Data Science (SCH)](https://new.nsf.gov/funding/opportunities/smart-health-biomedical-research-era-artificial){target="_blank"}
-* Supports the development of transformative high-risk, high-reward advances in computer and information science, engineering, mathematics, statistics, behavioral and/or cognitive research to address pressing questions in the biomedical and public health communities. 
-  + Fairness and Trustworthiness
-  + Transformative Analytics in Biomedical and Behavioral Research
-  + Next Generation Multimodal and Reconfigurable Sensing Systems
-  + Cyber-Physical Systems
-  + Robotics
-  + Biomedical Image interpretation
-  + Unpacking Health Disparities and Health Equity
-* Deadline: November 9, 2023; October 3, 2024; October 3, 2025
-* Award: $300K/year (total) for durations up to four years
-* [DELPHI and DHI Townhall on Aug 31 at 10:30 am](https://utah.zoom.us/j/93613638947?pwd=MFB0RHRoemR2UUpUcVRXbGVmajY0dz09){target="_blank"}, [NIH/NSF Webinar on Sept 25 at 1pm](https://nsf.zoomgov.com/webinar/register/WN_ctCzc3alRQyXZAX0rS1Fww){target="_blank"}
-
-### [Trailblazer Engineering Impact Award](https://new.nsf.gov/funding/opportunities/nsf-trailblazer-engineering-impact-award){target="_blank"}
-* Supports individual engineers and scientists who propose novel research projects with the potential to innovatively and creatively address major societal challenges, advance US leadership, and catalyze the convergence of engineering and science domains.
-* Deadline: Concept Outline due November 9, 2023; Full Proposal due February 15, 2024
-* Award: $3M for durations up to three years
 
 ### [Ideas Lab: Personalized Engineering Learning (PEL)](https://new.nsf.gov/funding/opportunities/ideas-lab-personalized-engineering-learning-pel){target="_blank"}
 * The goal of the Personalized Engineering Learning Ideas Lab is to extend engineering education research to enable advanced personalization in pedagogy and assessment in a K-12 or higher education context. The following broad areas have been identified as possible avenues to advance knowledge: personalized engineering education, multimodal sensing for personalized learning systems and team-based personalized learning.
@@ -93,6 +76,14 @@ format: html
 * Deadline: January 12, 2024 (Preliminary)
 * Award: $20M over five years
 <!-- * [UofU Townhall on May 24 at 4pm](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NXFrMzhpOWl2bHU5cnU5ajVxdDI0dWswcGMgY2Y0ZDA4OThhMjJiMmQxOTY5NzU1ZDRiYmU3NzA2M2U4MGVhNDgxMGEyNGEyYTI0ZWQ4NDAwM2IyMjU0NGY1NEBn&tmsrc=cf4d0898a22b2d1969755d4bbe77063e80ea4810a24a2a24ed84003b22544f54%40group.calendar.google.com){target="_blank"} -->
+
+### [Emerging Frontiers in Research and Innovation (EFRI-2024/25): Biocomputing through EnGINeering Organoid Intelligence (BEGIN OI)](https://new.nsf.gov/funding/opportunities/emerging-frontiers-research-innovation-efri){target="_blank"}
+* Supports foundational and transformative research to advance the design, engineering, and fabrication of organoid systems that are capable of processing information dynamically while interfacing with non-living systems.
+  + Research Thread 1: Biocomputing Theory and Modelling
+  + Research Thread 2: Biology-Integrated Culture Maintenance and Hardware Systems
+  + Research Thread 3: Ethical, Legal, and Social Implications (ELSI)
+* Deadline: Letter of intent due January 17, 2024, full proposal due February 22, 2024; repeats with LOI due September 12, 2024
+* Award: $2M for durations up to four years
 
 ### [Cybersecurity Innovation for Cyberinfrastructure (CICI)](https://new.nsf.gov/funding/opportunities/cybersecurity-innovation-cyberinfrastructure-cici){target="_blank"}
 *   Supports work that enables scientists and scientific discovery by improving the security, robustness, and trustworthiness of cyberinfrastructure.
@@ -154,7 +145,7 @@ format: html
 
 ### [Strengthening the Cyberinfrastructure Professionals Ecosystem (SCIPE)](https://new.nsf.gov/funding/opportunities/strengthening-cyberinfrastructure-professionals){target="_blank"}
 *   Supports projects that deepen the integration of cyberinfrastructure professionals' services into research, while fostering education, training and recognition that address CI workforce development needs.
-*   Deadline: January 18, 2024, annually thereafter
+*   Deadline: January 18, 2024 ([Internal LSO application](https://utah.infoready4.com/#freeformCompetitionDetail/1921706){target="_blank"} due December 6, 2023), annually thereafter
 *   Award: Not specified
 
 ### [Ethical and Responsible Research (ER2)](https://new.nsf.gov/funding/opportunities/ethical-responsible-research-er2){target="_blank"}
@@ -180,6 +171,11 @@ format: html
 *   Deadline: *Tracks 2, 3, and 4, Collaborative Planning* February 20, 2024, annually thereafter; *Track 1* March 28, 2024, annually thereafter
 *   Award: *Track 1 (Institutional Capacity Building)* \$1M for a duration of up to six years; *Track 2 (Implementation: Single Institution)* \$2.5M for a duration of up to six years; *Track 3 (Inter-institutional Consortia)* \$5M for a duration of up to six years; *Collaborative Planning* \$100K for a duration of one year.
 
+### [Incorporating Human Behavior in Epidemiological Models (IHBEM)](https://new.nsf.gov/funding/opportunities/incorporating-human-behavior-epidemiological-0){target="_blank"}
+* Supports research that incorporates research on social and behavioral processes in mathematical epidemiological models. The program provides support for projects that involve balanced participation from the mathematical sciences and from the social, behavioral, and economic sciences.
+* Deadline: February 14, 2024; recurring annually
+* Award: $1M for durations of 3-4 years
+
 ### [Algorithms for Threat Detection (ATD)](https://new.nsf.gov/funding/opportunities/algorithms-threat-detection-atd){target="_blank"}
 * Supports research on new ways to use spatiotemporal data to model human dynamics, with an emphasis on identifying and forecasting unusual events and future threats.
 * Deadline: February 21, 2024; recurring annually on the third Wednesday in February
@@ -189,6 +185,19 @@ format: html
 *   Supports research in mathematical biology that addresses significant biological questions by applying nontrivial mathematics or developing new theories --- particularly from foundational mathematics, including artificial intelligence or machine learning.
 *   Deadline: March 1, 2024, annually thereafter
 *   Award: \$500-750K for durations up to three years
+
+### [Smart Health and Biomedical Research in the Era of Artificial Intelligence and Advanced Data Science (SCH)](https://new.nsf.gov/funding/opportunities/smart-health-biomedical-research-era-artificial){target="_blank"}
+* Supports the development of transformative high-risk, high-reward advances in computer and information science, engineering, mathematics, statistics, behavioral and/or cognitive research to address pressing questions in the biomedical and public health communities. 
+  + Fairness and Trustworthiness
+  + Transformative Analytics in Biomedical and Behavioral Research
+  + Next Generation Multimodal and Reconfigurable Sensing Systems
+  + Cyber-Physical Systems
+  + Robotics
+  + Biomedical Image interpretation
+  + Unpacking Health Disparities and Health Equity
+* Deadline: October 3, 2025
+* Award: $300K/year (total) for durations up to four years
+<!--* [DELPHI and DHI Townhall on Aug 31 at 10:30 am](https://utah.zoom.us/j/93613638947?pwd=MFB0RHRoemR2UUpUcVRXbGVmajY0dz09){target="_blank"}, [NIH/NSF Webinar on Sept 25 at 1pm](https://nsf.zoomgov.com/webinar/register/WN_ctCzc3alRQyXZAX0rS1Fww){target="_blank"}-->
 
 ### [Mid-scale Research Infrastructure-1 (Mid-scale RI-1)](https://new.nsf.gov/funding/opportunities/mid-scale-research-infrastructure-1-mid-scale-ri-1){target="_blank"}
 * Supports the design and implementation of research infrastructure — including equipment, cyberinfrastructure, large-scale datasets and personnel — whose total project costs exceed NSF's Major Research Instrumentation program but are under $20 million.
@@ -247,6 +256,8 @@ format: html
 
 
 ### Dear Colleague Letters
+* [Medical / Health Cyber Physical Systems Proposals](https://www.nsf.gov/pubs/2024/nsf24017/nsf24017.jsp){target="_blank"}<!-- November 8, 2023 -->
+
 * [Workshops to Identify Educational Requirements of the Future Ocean Technical Workforce](https://www.nsf.gov/pubs/2023/nsf23134/nsf23134.jsp){target="_blank"} <!-- July 21, 2023 -->
 
 * [Stimulating Diversification in Language Science Research (LangDiv)](https://www.nsf.gov/pubs/2023/nsf23103/nsf23103.pdf){target="_blank"} <!-- May 10, 2023 -->

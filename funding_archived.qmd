@@ -147,10 +147,10 @@ format: html
 * Award: F99/K00, covers stipends, tuition, fees, and institutional allowance for durations up to six years (F99 for two years, K00 for four years).
 
 ## Research Grants - R01 Activities
-### [Ethical, Legal and Social Implications (ELSI) Research](https://grants.nih.gov/grants/guide/pa-files/PAR-20-254.html){target="_blank"}
-* Supports the study of the ethical, legal and social implications (ELSI) of human genome research, using either single or mixed methods.
-* Deadline: October 19, 2023
-* Award: R01, budget must align with the project scope, for durations of three to five years ([R21](https://grants.nih.gov/grants/guide/pa-files/PAR-20-255.html){target="_blank"} also available)
+### [Accelerating the Pace of Drug Abuse Research Using Existing Data](https://grants.nih.gov/grants/guide/rfa-files/RFA-DA-22-037.html){target="_blank"}
+* Supports the  analysis of the Adolescent Brain Cognitive Development (ABCD) dataset to increase knowledge of adolescent health and development. 
+* Deadline: November 15, 2023 (LOI due 1 month prior), annually in March, August, November through 2024
+* Award: R01, approximately $400-650K/year for durations up to five years ([R21](https://grants.nih.gov/grants/guide/rfa-files/RFA-DA-22-038.html){target="_blank"} also available)
 
 ### [Computational Approaches for Validating Dimensional Constructs of Relevance to Psychopathology](https://grants.nih.gov/grants/guide/pa-files/PAR-21-263.html){target="_blank"}
 * Supports research projects that will use computational approaches to test the validity of dimensional constructs in the NIMH [Research Domain Criteria (RDoC) matrix](https://www.nimh.nih.gov/research-priorities/rdoc/index.shtml){target="_blank"} (or similar constructs based on comparable criteria). 
@@ -231,6 +231,11 @@ format: html
 
 
 # NSF Funding Opportunities
+
+### [Trailblazer Engineering Impact Award](https://new.nsf.gov/funding/opportunities/nsf-trailblazer-engineering-impact-award){target="_blank"}
+* Supports individual engineers and scientists who propose novel research projects with the potential to innovatively and creatively address major societal challenges, advance US leadership, and catalyze the convergence of engineering and science domains.
+* Deadline: Concept Outline due November 9, 2023; Full Proposal due February 15, 2024
+* Award: $3M for durations up to three years
 
 ### [Campus Cyberinfrastructure (CC\*)](https://new.nsf.gov/funding/opportunities/campus-cyberinfrastructure-cc){target="_blank"}
 * Supports coordinated campus-level networking and cyberinfrastructure improvements for science applications and distributed research projects.
@@ -318,6 +323,21 @@ format: html
 
 # Foundation Funding Opportunities
 
+### [Russel Sage Foundation: Future of Work](https://www.russellsage.org/research/funding/future-work){target="_blank"}
+* Supports innovative research on the causes and consequences of changes in the quality of jobs for low- and moderately paid workers and their families in the U.S. 
+* Deadline: November 7, 2023 (Letter of Inquiry), Invited Proposals due February 21, 2024
+* Award: Up to $200K over two years
+
+### [Russel Sage Foundation: Behavioral Science and Decision Making in Context](https://www.russellsage.org/research/funding/behavioral-science-decision-making){target="_blank"}
+* Supports perspectives from multiple disciplines, including economics, psychology, political science, sociology, law, public policy, and other social sciences, to further our understanding of economic, social, and political decision-making processes, attitudes, behaviors, and institutional practices in public and private contexts such as policing/criminal legal systems, employment, housing, politics, racial/ethnic relations, and immigration. 
+* Deadline: November 7, 2023 (Letter of Inquiry), Invited Proposals due February 21, 2024
+* Award: Up to $200K over two years
+
+### [CIFAR Azrieli Global Scholars](https://cifar.ca/wp-content/uploads/2023/08/GlobalScholar_ProgramOverview2023.pdf){target="_blank"}
+* CIFAR invites outstanding early-career researchers from across the natural, biomedical, life and social sciences and the humanities to join  one of our interdisciplinary research programs that address some of the most important questions facing science and humanity. 
+* Deadline: October 30, 2023
+* Award: $100K CAD, mentorship, seed funding, and leadership development
+
 ### [Rose Foundation: Consumer Privacy Rights Fund](https://rosefdn.org/wp-content/uploads/Consumer-Privacy-2023-RFP.pdf){target="_blank"}
 * Supports privacy protection and privacy education efforts, specifically individual consumer’s internet privacy rights.
 * Deadline: October 13, 2023
@@ -369,6 +389,17 @@ format: html
 
 
 # Industry Funding Opportunities
+### [Amazon Research Awards](https://www.amazon.science/research-awards/call-for-proposals){target="_blank"}
+* Supports research programs in the following themes:
+  + AI for Information Security
+  + Automated Reasoning
+  + AWS AI
+  + AWS Cryptography and Privacy
+  + AWS Database Services
+  + Sustainability
+* Deadline: November 1, 2023
+* Award: Varies; up to $100K unrestricted funds, $50K AWS credits, and training resources 
+
 ### [Microsoft Accelerate Foundation Models Research](https://www.microsoft.com/en-us/research/academic-program/accelerate-foundation-models-research-fall-2023){target="_blank"}
 * Supports leading foundation models hosted by Microsoft Azure more accessible to the academic research community via Microsoft Azure AI services. By driving deeper collaboration across disciplines, institutions, and sectors, we aim to unlock the full potential of AI across greater breadth of research pursuits, application domains, and societal contexts.
   + Align AI systems with human goals and preferences
@@ -431,6 +462,13 @@ format: html
 
 
 # Governmental Funding Opportunities
+
+### [NOAA, DOC: FY2024 Weather Program Office Research Programs](https://www.grants.gov/web/grants/view-opportunity.html?oppId=350001){target="_blank"}
+* Supports new weather, water, and earth system observing and forecasting applications.
+  + *Climate Testbed (CTB)* - for proposals to advance NOAA’s operational subseasonal-to-seasonal (two weeks to two years) prediction capabilities via the NOAA CTB. The portfolio will prioritize capabilities that enhance operational prediction systems, products, or research that aims to transition to operations, with a preference toward activities that enhance or improve precipitation outlooks and service delivery. One to two awards are expected of up to $300,000 per year.
+  + *Fire Weather* - for research and development proposals to improve fire weather forecast information and delivery. This opportunity will support new research into the coupled Unified Forecast System for the short-term fire-atmosphere modeling systems. Two to three awards are expected of up to $350,000.
+* Deadline: November 16, 2023
+* Award: $300K per year
 
 ### [DOT: Advanced Driver Assistance Systems Microsimulation Model Development and Validation](https://sam.gov/opp/1de4f24e721944fabbb58e0e97893382/view){target="_blank"}
 * Supports development of models that describe how Advanced Driver Assistance Systems (ADAS) and Automated Driving Systems (ADS)—with or without connectivity—operate in traffic. The models proposed in response to this proposal request should seek to fill gaps in current traffic operations modeling capabilities.
@@ -561,6 +599,12 @@ format: html
 * Deadline: May 8, 2023
 
 ## Challenges, Awards, and Other Opportunities
+* [The White House Office of Science & Technology Policy Open Science Recognition Challenge](https://portal.challenge.gov/public/previews/challenges?challenge=0a53c056-675b-44a4-860e-a56ce3f4aaad){target="_blank"} invites researchers, community scientists, educators, innovators, and members of the broader public to share stories of how they’ve advanced equitable open science. Submissions due November 22, 2023. 
+* [NIH Build UP Trust Challenge](https://www.builduptrust.org/){target="_blank"} seeks solutions that increase research participation and the adoption of medical care by building trust and improving engagement with historically underserved communities. Register by November 14, 2023, submission by December 5, 2023, awards up to $45K. 
+* [Instructional System Design (ISD) Analysis Using AI Large Language Models Automate ISD Analysis and Requirements Development for Ready Relevant Learning (RRL)](https://www.challenge.gov/?challenge=instructional-system-design-isd-analysis-using-ai-large-language-models){target="_blank"} hopes to identify solutions that address a critical barrier in effectively implementing Instructional Systems Design (ISD) Analysis for training for military readiness and human performance. Registration required by October 30 with applications due November 13, 2023. 
+* [BII & Science Prize for Innovation](https://bii.dk/community/scienceprize/){target="_blank"} encourages more scientists to translate their research and recognizes bold researchers who are asking fundamental questions at the intersection of the life sciences and entrepreneurship. 1000-word essay applications due November 1, 2023.
+* [Learning Engineering Tools Competition - Preparing for the 21st Century World](https://tools-competition.org/)is a multi-million dollar competition for edtech innovation that leverages digital technology, big data, and learning science to meet the urgent needs of learners worldwide. Abstracts due November 10, 2023
+* [NIDDK Central Repository Data-Centric Challenge - Enhancing NIDDK datasets for future Artificial Intelligence (AI) applications](https://www.challenge.gov/?challenge=niddk-central-repository-data-centric-challenge&tab=overview){target="_blank"}is aimed at augmenting existing Repository data for future secondary research including data-driven discovery by artificial intelligence (AI) researchers. Registration due October 20, 2023. 
 * [HHS, CDC, and NASA: Unsupervised Wisdom: Explore Medical Narratives on Older Adult Falls](https://www.challenge.gov/?challenge=unsupervised-wisdom-explore-medical-narratives-on-older-adult-falls){target="_blank"}. The goal in this challenge is to identify effective methods of using unsupervised machine learning to extract insights about older adult falls from Emergency Department narratives. Analysis and executive summary due October 6, 2023 for cash prizes up to $20K.
 * [Research Rovers: AI Research Assistants for NASA](https://www.drivendata.org/competitions/252/ai-research-assistants/page/780/){target="_blank"} is seeking innovative approaches to help assess emerging capabilities in AI-based research assistants. Solutions are due October 2, 2023.
 * [ReachU Challenge](https://www.challenge.gov/?challenge=reachu-challenge){target="_blank"} calls on university and college students, researchers, faculty, and staff: where do you find funding or share your ideas for the chance to win cash prizes? Help Challenge.Gov reach YOU! **What are the best digital channels, forums, databases, or platforms to reach academic audiences about federally sponsored prize competitions, challenges, and crowdsourcing campaigns?** Ideas due by September 8, 2023. 

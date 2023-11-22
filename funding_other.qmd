@@ -16,6 +16,10 @@ editor: visual
 * Deadline: December 15, 2023
 * Award: Up to $50K for one year
 
+### [FY24 Distinguished Research Awards](https://utah.infoready4.com/#freeformCompetitionDetail/1912040){target="_blank"}
+* The Distinguished Research Award (DRA) is a prestigious faculty award designed to recognize outstanding achievements in research by three University of Utah faculty each year. 
+* Deadline: December 13, 2023
+* Award: $10,000 grant to pursue research and/or creative pursuits and recognition at the UofU Commencement. 
 
 
 ## Foundation Funding Opportunities
@@ -26,21 +30,6 @@ editor: visual
   + Safe and Beneficial Multipolar AI Scenarios
 * Deadline: Rolling for one year until budget of $1M is depleted <!-- August 2024 -->
 * Application should take no more than 3 hours!
-
-### [CIFAR Azrieli Global Scholars](https://cifar.ca/wp-content/uploads/2023/08/GlobalScholar_ProgramOverview2023.pdf){target="_blank"}
-* CIFAR invites outstanding early-career researchers from across the natural, biomedical, life and social sciences and the humanities to join  one of our interdisciplinary research programs that address some of the most important questions facing science and humanity. 
-* Deadline: October 30, 2023
-* Award: $100K CAD, mentorship, seed funding, and leadership development
-
-### [Russel Sage Foundation: Future of Work](https://www.russellsage.org/research/funding/future-work){target="_blank"}
-* Supports innovative research on the causes and consequences of changes in the quality of jobs for low- and moderately paid workers and their families in the U.S. 
-* Deadline: November 7, 2023 (Letter of Inquiry), Invited Proposals due February 21, 2024
-* Award: Up to $200K over two years
-
-### [Russel Sage Foundation: Behavioral Science and Decision Making in Context](https://www.russellsage.org/research/funding/behavioral-science-decision-making){target="_blank"}
-* Supports perspectives from multiple disciplines, including economics, psychology, political science, sociology, law, public policy, and other social sciences, to further our understanding of economic, social, and political decision-making processes, attitudes, behaviors, and institutional practices in public and private contexts such as policing/criminal legal systems, employment, housing, politics, racial/ethnic relations, and immigration. 
-* Deadline: November 7, 2023 (Letter of Inquiry), Invited Proposals due February 21, 2024
-* Award: Up to $200K over two years
 
 ### [W. M. Keck Foundation](https://utah.infoready4.com/#competitionDetail/1919629){target="_blank"}
 * Supports interdisciplinary and transformative project concepts for the W. M. Keck Foundation. Keck seeks to benefit humanity by supporting projects in two specific areas (1) medical research and (2) science and engineering.
@@ -57,19 +46,17 @@ editor: visual
 -   Deadline: December 8, 2023 (LOI), February 28, 2024 (Full Proposal)
 -   Award: 50% salary and \$50K allowable expenses for durations up to five years
 
+### [AVDF/ACLS Fellowships for Research on the Liberal Arts](https://www.acls.org/programs/avdf-acls-fellowships-for-research-on-the-liberal-arts/){target="_blank"}
+* Supports scholarly projects that draw upon the newly available College and Beyond II (CBII) database.
+* Deadline: December 15, 2023
+* Award: $45K, participation in a 2-day data training, and subsequent symposium
 
 
 ## Industry Funding Opportunities
-### [Amazon Research Awards](https://www.amazon.science/research-awards/call-for-proposals){target="_blank"}
-* Supports research programs in the following themes:
-  + AI for Information Security
-  + Automated Reasoning
-  + AWS AI
-  + AWS Cryptography and Privacy
-  + AWS Database Services
-  + Sustainability
-* Deadline: November 1, 2023
-* Award: Varies; up to $100K unrestricted funds, $50K AWS credits, and training resources 
+### [Google Research Scholar Program](https://research.google/outreach/research-scholar-program/){target="_blank"}
+* Supports professors globally who are teaching at universities and meet the eligibility requirements. It is our hope that this program will help develop collaborations with new professors and encourage the formation of long-term relationships. Supports cutting-edge research in the fields of algorithms and optimization, health research, machine learning and data mining, natural language processing, quamtum computing, software engineering and programming languages, fundamental and applied science, human-computer interaction, machine perception, privacy, security, and systems and networking systems. 
+* Deadline: November 30, 2023
+* Award: $60K
 
 
 
@@ -88,17 +75,24 @@ editor: visual
 -   Deadline: Rolling, expires March 14, 2024
 -   Award: Unspecified, budget must be align with the project scope
 
-### [NOAA, DOC: FY2024 Weather Program Office Research Programs](https://www.grants.gov/web/grants/view-opportunity.html?oppId=350001){target="_blank"}
-* Supports new weather, water, and earth system observing and forecasting applications.
-  + *Climate Testbed (CTB)* - for proposals to advance NOAA’s operational subseasonal-to-seasonal (two weeks to two years) prediction capabilities via the NOAA CTB. The portfolio will prioritize capabilities that enhance operational prediction systems, products, or research that aims to transition to operations, with a preference toward activities that enhance or improve precipitation outlooks and service delivery. One to two awards are expected of up to $300,000 per year.
-  + *Fire Weather* - for research and development proposals to improve fire weather forecast information and delivery. This opportunity will support new research into the coupled Unified Forecast System for the short-term fire-atmosphere modeling systems. Two to three awards are expected of up to $350,000.
-* Deadline: November 16, 2023
-* Award: $300K per year
+### [ARPA-H: Biomedical Data Fabric Toolbox](https://sam.gov/opp/d4d90aff105c4ffebe264a47642deef3/view){target="_blank"}
+-   Supports innovative proposals for research and development (R&D) in data integration and usability technologies. Proposed R&D should investigate innovative software approaches that enable revolutionary advances in the collection and usability of biomedical datasets that originate from thousands of different research labs, clinical care centers, and other sources of data in order to accelerate technical innovation across the health ecosystem. 
+-   Deadline: November 28, 2023
+-   Award: Varies based on the project scope (BIT, BYTE and KILO scales solicited)
 
 ### [NASA ROSES: Heliophysics Artificial Intelligence/Machine Learning-Ready Data](https://nspires.nasaprs.com/external/solicitations/summary.do?solId=%7B8721DD55-91A7-4355-4EFB-9224A6C9462A%7D){target="_blank"}
 * Supports the advancement of the goals and objectives of NASA Heliophysics by developing new tools and methods for the generation of AI/ML-ready datasets from existing research and mission data.
 * Deadline: January 18, 2024 (Step 1, preliminary proposal); April 18, 2024 (Step 2, full proposal); repeated annually
 * Award: Dependent on scope of project 
+
+### [I-ARPA Bias Effects and Notable Generative AI Limitations (BENGAL) Targeted Super Seedling Research Topics](https://sam.gov/opp/affad5d251934a2a8c4c8e4c9f33433d/view){target="_blank"}
+* Supports new capabilities to enable the safe adoption and use of generative AI technologies to greatly enhance the effectiveness and efficiency of the Intelligence Community (IC). The goal of the BENGAL targeted super seedling is to understand LLM threat modes, quantify them and to find novel methods to correct threats and vulnerabilities or to work resiliently with imperfect models.
+* Deadline: January 19, 2024 (ENCOURAGED: white papers due December 5, 2023)
+
+### [I-ARPA Securing Our Underlying Resources in Cyber Environments (SoURCE CODE) Program](https://sam.gov/opp/fba8e8b62bbf437da4ca1db186b0a7dd/view){target="_blank"}
+* Supports novel technologies to assist forensic experts in making determinations of the most likely attackers, based on coding styles. The program will explore full feature spaces in binary code and source code files to measure the similarity between files and provide information to forensic experts to the likely origins (country, groups, individuals, etc.). 
+* Deadline: January 22, 2024
+
 
 ### [NEH: Humanities Research Centers on Artificial Intelligence](https://www.grants.gov/web/grants/view-opportunity.html?oppId=349711){target="_blank"}
 * Supports humanities research centers on artificial intelligence (AI) focused on better understanding the ethical, legal, or societal implications of AI. 
@@ -111,12 +105,24 @@ editor: visual
 
 
 ## Challenges, Awards, and Other Opportunities
-
-* [NIDDK Central Repository Data-Centric Challenge - Enhancing NIDDK datasets for future Artificial Intelligence (AI) applications](https://www.challenge.gov/?challenge=niddk-central-repository-data-centric-challenge&tab=overview){target="_blank"}is aimed at augmenting existing Repository data for future secondary research including data-driven discovery by artificial intelligence (AI) researchers. Registration due October 20, 2023. 
-* [Instructional System Design (ISD) Analysis Using AI Large Language Models Automate ISD Analysis and Requirements Development for Ready Relevant Learning (RRL)](https://www.challenge.gov/?challenge=instructional-system-design-isd-analysis-using-ai-large-language-models){target="_blank"} hopes to identify solutions that address a critical barrier in effectively implementing Instructional Systems Design (ISD) Analysis for training for military readiness and human performance. Registration required by October 30 with applications due November 13, 2023. 
-* [BII & Science Prize for Innovation](https://bii.dk/community/scienceprize/){target="_blank"} encourages more scientists to translate their research and recognizes bold researchers who are asking fundamental questions at the intersection of the life sciences and entrepreneurship. 1000-word essay applications due November 1, 2023.
-* [Learning Engineering Tools Competition - Preparing for the 21st Century World](https://tools-competition.org/)is a multi-million dollar competition for edtech innovation that leverages digital technology, big data, and learning science to meet the urgent needs of learners worldwide. Abstracts due November 10, 2023
-* [The White House Office of Science & Technology Policy Open Science Recognition Challenge](https://portal.challenge.gov/public/previews/challenges?challenge=0a53c056-675b-44a4-860e-a56ce3f4aaad){target="_blank"} invites researchers, community scientists, educators, innovators, and members of the broader public to share stories of how they’ve advanced equitable open science. Submissions due November 22, 2023. 
+* [Microsoft Research AI & Society Fellows](https://www.microsoft.com/en-us/research/academic-program/ai-society-fellows/overview/){target="_blank"} supports research collaboration between Microsoft Research and eminent scholars and experts across a range of disciplines core to discussions at the intersection of AI and its impact on society. Applications due November 29, 2023.
+  + AI in Organizational Settings
+  + AI in the Production of Culture, Media, and the Arts
+  + AI Powered Community Micro-Grid for Resiliency and Equitability
+  + Copyright Protection for User Data in the Era of LLMs
+  + Generative AI and Plural Governance: Mitigating Challenges and Surfacing Opportunities
+  + Multimodal Knowledge Understanding and Representation for Population-scale Copilots
+  + Reducing the Digital Divide of Generative AI in the Global South
+  + Regulating AI in Light of the Challenges of Doing Responsible AI in Practice
+  + Regulatory Innovation to Enable Use of Generative AI in Drug Development
+  + Sociotechnical Approaches to Measuring Harms Caused by AI Systems
+  + Storytelling and Futurism
+  + Supporting the Responsible AI Red-Teaming Human Infrastructure
+  + Towards Creative-Centered AI: Opportunities and Challenges at the Intersection of Creatives, AI, and Society
+* [Berkeley Computing, Data Science, & Society Spring 2024 Discovert Project Program](https://docs.google.com/forms/d/e/1FAIpQLSffZOJmUsObubwcR0f04_sYYtZgffUODsfMlynNRbqJvJ2bsw/viewform?pli=1){target="_blank"} is seeking Partners to design projects so that a team of students can be engaged over the course of a single or multiple semesters (a semester is about 12 weeks of work). Application deadline in November 30, 2023.
+* Two Traineeship Opportunities with AIM-AHEAD, applications due November 30, 2023. 
+	+ [Traineeship in Advanced Data Analysis using the All of Us Clinical Database](https://www.aim-ahead.net/data-science-training-core/aim-ahead-all-of-us-training-program/){target="_blank"}
+  + [Traineeship in Advanced Data Analysis using the NCATS data and the N3C enclave](https://www.aim-ahead.net/data-science-training-core/aim-ahead-and-ncats-training-program/){target="_blank"}
 * [America's Datahub Consortium Idea Bank](https://www.americasdatahub.org/idea-bank-form/){target="_blank"} invites input from stakeholders to inform future project solicitations on the topics of: 
   + Privacy Preserving Technologies (PPT) 
   + Data collection, access, linkage, and standards
@@ -125,10 +131,10 @@ editor: visual
   + User Tools 
   + Stakeholder Engagement
   + Artificial Intelligence
+* [Open AI Preparedness Challenge](https://openai.com/form/preparedness-challenge){target="_blank"} responses will be accepted on a rolling basis through December 31, 2023. We will offer $25,000 each in API credits to up to 10 top submissions, publish novel ideas and entries, and look for candidates for Preparedness from among the top contenders in this challenge.
+  
 * [**Request for Information** Consultations on Sustaining Biodata Infrastructure and on Open Data Strategies](https://globalbiodata.org/your-views-sought-consultations-on-sustaining-biodata-infrastructure-and-on-open-data-strategies/){target="_blank"} from the Global Biodata Coalition is seeking feedback and inputs from our communities on how research funders could extend partnerships and work together in new ways to secure and sustain the global biodata resource infrastructure and maximize the long-term value of open research data in the life and biomedical sciences. Responses due December 4, 2023.
-* [NIH Build UP Trust Challenge](https://www.builduptrust.org/){target="_blank"} seeks solutions that increase research participation and the adoption of medical care by building trust and improving engagement with historically underserved communities. Register by November 14, 2023, submission by December 5, 2023, awards up to $45K. 
-
-
+* [The FTC Voice Cloning Challenge](https://www.ftc.gov/news-events/contests/ftc-voice-cloning-challenge){target="_blank"} supports the development of multidisciplinary approaches—from products to policies to procedures—aimed at protecting consumers from AI-enabled voice cloning harms, such as fraud and the broader misuse of biometric data and creative content. The goal of the Challenge is to foster breakthrough ideas on preventing, monitoring, and evaluating malicious voice cloning. Abstracts and detailed explanations due January 12, 2024. 
 
 <!--## Policy and Engagement -->
 
