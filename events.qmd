@@ -13,20 +13,20 @@ Check out our calendar of upcoming events and seminars in our [Google Calendar](
 **Time:** 9:30am - 3:30pm  
 **Location:** A. Ray Olpin Union Ballroom
 Register and submit to share something during the afternoon research expo [here](http://bit.ly/udsd-2024){target="_blank"}. For sponsorship opportunities and participation in the career fair contact [Sheri Carp](mailto:datascienceday@cs.utah.edu) directly.
-[![Utah Data Science Day 2024](images/DSD2024-General.png)](http://bit.ly/udsd-2024){target="_blank"}
+[![Utah Data Science Day 2024](images/DSD2024-AgendaTentative.png)](http://bit.ly/udsd-2024){target="_blank"}
 
-## DATASET Discovery Workshops
-### Multidisciplinary Data Integration for Climate Resilience in the American West
-**Hosted by:** PI: Tabitha Benney; Co-PIs: Divya Chandrasekhar, Masood Parvania, John Horel, Manish Parashar  
-<!-- **Date:** October 19-20, 2023  
-**Location:** West Ballroom of the Union  -->
-Additional details forthcoming!
-<!--  + Keynote: What is the current and future role of data science in building climate change resilience and advancing adaptative capacity in the western U.S.?
-  + Track 1: Critical Infrastructure Systems Data, Masood Parvania and Heather Holmes
-  + Track 2: Utilizing Environmental Data, John Horel
-  + Track 3: Social and Health Equity and Data Science, Tabitha Benney and Cheryl Pirozzi
-  + Track 4: Data Diversity and Challenges of Integration, Manish Parashar and Divya Chandrasekhar -->
-  
+## Digital Humanities Utah 2024 (DHU8)
+**Dates:** February 23-24, 2024  
+<!--**Time:** 9:30am - 3:30pm  -->
+**Location:** University of Utah  
+Additional information about Digital Humanities Utah can be found on the [dhutah.org](https://dhutah.org/){target="_blank"} webpage. [Register for DHU8 today!](https://umarket.utah.edu/um2/marriottlib/productlist.php?category=2){target="_blank"}
+
+## 22nd International Conference on Artificial Intelligencein Medicine (AIME2024)
+**Dates:** July 9-12, 2024  
+<!--**Time:** 9:30am - 3:30pm  -->
+**Location:** Hilton Salt Lake City Center  
+Additional information about AIME2024 can be found on the [conference webpage](https://aime24.aimedicine.info/){target="_blank"}. If you are interested in supporting the conference in any way, please contact Joseph Finkelstein.
+
 ## Other Seminars on Campus
 * [Utah Center for Data Science](https://datascience.utah.edu/seminar.html)  
 * [Scientific Computing and Imaging Institute](https://www.sci.utah.edu/the-institute/events.html)

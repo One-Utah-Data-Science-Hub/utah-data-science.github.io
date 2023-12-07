@@ -59,11 +59,6 @@ format: html
 
 
 ## Upcoming Proposal Deadlines
-### [Ideas Lab: Personalized Engineering Learning (PEL)](https://new.nsf.gov/funding/opportunities/ideas-lab-personalized-engineering-learning-pel){target="_blank"}
-* The goal of the Personalized Engineering Learning Ideas Lab is to extend engineering education research to enable advanced personalization in pedagogy and assessment in a K-12 or higher education context. The following broad areas have been identified as possible avenues to advance knowledge: personalized engineering education, multimodal sensing for personalized learning systems and team-based personalized learning.
-* Deadline: November 29, 2023 (Preliminary Proposal); May 8, 2024 (Full Proposal)
-* Award: Selected individuals will participate in an Ideas Lab and may be selected to submit a full proposal
-
 ### [Synthesis Center for Understanding Organismal Resilience](https://new.nsf.gov/funding/opportunities/synthesis-center-understanding-organismal){target="_blank"}
 * Supports the establishment of a new Synthesis Center focused on organismal resilience and plasticity as well as training new generations of researchers in data-intensive, open, cross-disciplinary and collaborative science.
 * Deadline: January 12, 2024 (Preliminary); July 15, 2024 (Full Proposal)
@@ -164,6 +159,11 @@ format: html
 * Supports research that incorporates research on social and behavioral processes in mathematical epidemiological models. The program provides support for projects that involve balanced participation from the mathematical sciences and from the social, behavioral, and economic sciences.
 * Deadline: February 14, 2024; recurring annually
 * Award: $1M for durations of 3-4 years
+
+### [Enabling Discovery through GEnomics (EDGE)](https://new.nsf.gov/funding/opportunities/enabling-discovery-through-genomics-edge){target="_blank"}
+* Supports research to advance understanding of comparative and functional genomics and the development of innovative tools, technologies, resources, and infrastructure that advance biological research focused on the identification of the causal mechanisms connecting genes and phenotypes.
+* Deadline: February 15, 2024; recurring annually on the third Thursday in February
+* Award: $2M for durations up to four years
 
 ### [NSF Scholarships in Science, Technology, Engineering, and Mathematics Program (S-STEM)](https://new.nsf.gov/funding/opportunities/nsf-scholarships-science-technology-engineering){target="_blank"}
 *   Supports institutions of higher education to fund scholarships for academically talented low-income students and to study and implement a program of activities that support their recruitment, retention and graduation in STEM.
@@ -271,4 +271,4 @@ format: html
 * [Fairness, Ethics, Accountability, and Transparency: Enabling Breakthrough Research to Expand Inclusivity in Computer and Information Science and Engineering Research](https://www.nsf.gov/pubs/2019/nsf19016/nsf19016.jsp){target="_blank"} <!-- Nov 2, 2018 -->
 
 
-Updated November 22, 2023.
+Updated December 5, 2023.

@@ -31,7 +31,7 @@ format: html
     -   [MS in Business Analytics](https://eccles.utah.edu/programs/master-of-science-in-business-analytics/){target="_blank"}
     -   [MS in Cybersecurity Management](https://eccles.utah.edu/programs/master-of-science-in-cybersecurity-management/){target="_blank"}
     -   [MS in Information Systems](https://eccles.utah.edu/programs/master-of-science-in-information-systems/){target="_blank"}
-    -   [MS in Information Systems, Online](https://eccles.utah.edu/programs/master-of-science-in-information-systems-online/)v{target="\_blank"}
+    -   [MS in Information Systems, Online](https://eccles.utah.edu/programs/master-of-science-in-information-systems-online/){target="\_blank"}
     -   [PhD in Business Administration](https://eccles.utah.edu/programs/phd-in-business-administration/), [Information Systems Track](https://eccles.utah.edu/programs/phd-in-business-administration/academic-tracks/information-systems/){target="_blank"}
 -   The Graduate School
     -   [Masters of Statistics](https://mstat.utah.edu/){target="_blank"}, [Mathematics Track](https://mstat.utah.edu/degree-options/mathematics.php){target="_blank"}

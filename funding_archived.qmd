@@ -5,6 +5,16 @@ format: html
 
 # NIH Funding Opportunities
 ## Cooperative Agreement (U) Grants
+### [Partnerships With Common Fund Data Ecosystem Resources](https://grants.nih.gov/grants/guide/rfa-files/RFA-RM-23-013.html){target="_blank"}
+* Supports projects that involve collaboration with multiple CF Data Coordinating Centers (DCCs) to combine discovery and/or translational approaches with work that will enhance reusability of Common Fund data and contribute knowledge to the Common Fund Data Ecosystem.  
+* Deadline: December 4, 2023 (LOI due 1 month prior if budget is >$500K/year, direct)
+* Award: U24, budget must align with the project scope for durations up to three years
+
+### [Consortium Organization and Data Collaboration Center (CODCC) for the Human Virome Project (HVP)](https://grants.nih.gov/grants/guide/rfa-files/RFA-RM-23-016.html){target="_blank"}
+* Supports the HVP CODCC to serve as an organizational hub to provide support for administrative activities, promotion of research protocols and tool development, and assist data and biospecimen collection and harmonization. The CODCC will create and maintain a program data portal that will be an interactive dashboard and repository with visualization and search capabilities. 
+* Deadline: November 29, 2023 (LOI due 1 month prior)
+* Award: U24, $1.875M/year (direct) for duration up to five years
+
 ### [Early-Stage Development of Informatics Technologies for Cancer Research and Management](https://grants.nih.gov/grants/guide/rfa-files/RFA-CA-23-015.html){target="_blank"}
 * Supports the development of enabling informatics technologies to improve the acquisition, management, analysis, and dissemination of data and knowledge across the cancer research continuum including cancer biology, cancer treatment and diagnosis, early cancer detection, risk assessment and prevention, cancer control and epidemiology, and/or cancer health disparities. 
 * Deadline: November 17, 2023 (LOI due 1 month prior)
@@ -223,10 +233,6 @@ format: html
 * Deadline: July 3, 2023 (LOI due one month prior)
 * Award: R21, $275K/year (direct) for durations of two years.
 
-### [Research Experience in Genomic Research for Data Scientists](https://grants.nih.gov/grants/guide/pa-files/PAR-21-075.html){target="_blank"}
-* Supports educational activities that encourage individuals from diverse backgrounds, including those from groups underrepresented in the biomedical and behavioral sciences, to pursue further studies or careers in research.
-* Deadline: May 25, 2023 (LOI due 1 month prior)
-* Award: R25, $250K/year (direct) for durations up to five years
 
 ## Other Activities
 ### [Data and Technology Advancement (DATA) National Service Scholar Program: Data Scientists Advancing Biomedical Research](https://datascience.nih.gov/data-scholars-2023){target="_blank"}
@@ -241,6 +247,8 @@ format: html
 	+ Award: $500K-1M for durations up to two years
 
 ## Notices of Special Interest and Requests for Information
+* [**Request for Information** Exploring the role of Generative AI in enhancing the use of Big Data in Heart, Lung, Blood, and Sleep (HLBS) research](https://grants.nih.gov/grants/guide/notice-files/NOT-HL-23-097.html){target="_blank"} due by December 5, 2023.
+* [**Request for Information** NCI Cancer Research Data Commons (CRDC) Artificial Intelligence (AI) use cases to inform an assessment of data readiness](https://grants.nih.gov/grants/guide/notice-files/NOT-CA-24-002.html){target="_blank"} expires November 30, 2023. 
 * [**Request for Information** National Institute of Dental and Craniofacial Research (NIDCR) Strategic Planning of Infrastructure and Resources for Data Science Research and Research Training](https://grants.nih.gov/grants/guide/notice-files/NOT-DE-23-008.html){target="_blank"} due by September 25, 2023.
 * [NIDCR: Supporting Dental, Oral, and Craniofacial Research Using Bioinformatic, Computational, and Data Science Approaches](https://grants.nih.gov/grants/guide/notice-files/NOT-DE-20-006.html){target="_blank"} expires August 08, 2023.
 * [**Request for Information** NIH Common Fund is Soliciting Ideas for NIH-wide Challenges and Opportunities](https://grants.nih.gov/grants/guide/notice-files/NOT-RM-23-013.html){target="_blank"} due by August 11, 2023.
@@ -251,6 +259,10 @@ format: html
 
 
 # NSF Funding Opportunities
+### [Ideas Lab: Personalized Engineering Learning (PEL)](https://new.nsf.gov/funding/opportunities/ideas-lab-personalized-engineering-learning-pel){target="_blank"}
+* The goal of the Personalized Engineering Learning Ideas Lab is to extend engineering education research to enable advanced personalization in pedagogy and assessment in a K-12 or higher education context. The following broad areas have been identified as possible avenues to advance knowledge: personalized engineering education, multimodal sensing for personalized learning systems and team-based personalized learning.
+* Deadline: November 29, 2023 (Preliminary Proposal); May 8, 2024 (Full Proposal)
+* Award: Selected individuals will participate in an Ideas Lab and may be selected to submit a full proposal
 
 ### [Trailblazer Engineering Impact Award](https://new.nsf.gov/funding/opportunities/nsf-trailblazer-engineering-impact-award){target="_blank"}
 * Supports individual engineers and scientists who propose novel research projects with the potential to innovatively and creatively address major societal challenges, advance US leadership, and catalyze the convergence of engineering and science domains.
@@ -342,6 +354,15 @@ format: html
 
 
 # Foundation Funding Opportunities
+### [Chan Zuckerberg Initiative Data Insights (Cycle 3)](https://chanzuckerberg.com/rfa/single-cell-data-insights/){target="_blank"}
+-   Supports the advancement of tools and resources that make it possible to gain greater insights into health and disease from single-cell biology datasets.
+-   Deadline: December 5, 2023
+-   Award: \$400,000 total costs for Expanded Projects and \$200,000 total costs for Focused Projects for durations of 18-months
+
+### [W. M. Keck Foundation](https://utah.infoready4.com/#competitionDetail/1919629){target="_blank"}
+-   Supports interdisciplinary and transformative project concepts for the W. M. Keck Foundation. Keck seeks to benefit humanity by supporting projects in two specific areas (1) medical research and (2) science and engineering.
+-   Deadline: December 4, 2023 ([Internal LSO](https://utah.infoready4.com/#competitionDetail/1919629){target="_blank"})
+-   Award: up to \$1.4M over three years
 
 ### [Russel Sage Foundation: Future of Work](https://www.russellsage.org/research/funding/future-work){target="_blank"}
 * Supports innovative research on the causes and consequences of changes in the quality of jobs for low- and moderately paid workers and their families in the U.S. 
@@ -409,6 +430,11 @@ format: html
 
 
 # Industry Funding Opportunities
+### [Google Research Scholar Program](https://research.google/outreach/research-scholar-program/){target="_blank"}
+-   Supports professors globally who are teaching at universities and meet the eligibility requirements. It is our hope that this program will help develop collaborations with new professors and encourage the formation of long-term relationships. Supports cutting-edge research in the fields of algorithms and optimization, health research, machine learning and data mining, natural language processing, quamtum computing, software engineering and programming languages, fundamental and applied science, human-computer interaction, machine perception, privacy, security, and systems and networking systems.
+-   Deadline: November 30, 2023
+-   Award: \$60K
+
 ### [Amazon Research Awards](https://www.amazon.science/research-awards/call-for-proposals){target="_blank"}
 * Supports research programs in the following themes:
   + AI for Information Security
@@ -482,6 +508,10 @@ format: html
 
 
 # Governmental Funding Opportunities
+### [ARPA-H: Biomedical Data Fabric Toolbox](https://sam.gov/opp/d4d90aff105c4ffebe264a47642deef3/view){target="_blank"}
+-   Supports innovative proposals for research and development (R&D) in data integration and usability technologies. Proposed R&D should investigate innovative software approaches that enable revolutionary advances in the collection and usability of biomedical datasets that originate from thousands of different research labs, clinical care centers, and other sources of data in order to accelerate technical innovation across the health ecosystem.
+-   Deadline: November 28, 2023
+-   Award: Varies based on the project scope (BIT, BYTE and KILO scales solicited)
 
 ### [NOAA, DOC: FY2024 Weather Program Office Research Programs](https://www.grants.gov/web/grants/view-opportunity.html?oppId=350001){target="_blank"}
 * Supports new weather, water, and earth system observing and forecasting applications.
@@ -619,6 +649,22 @@ format: html
 * Deadline: May 8, 2023
 
 ## Challenges, Awards, and Other Opportunities
+-   [**Request for Information** Consultations on Sustaining Biodata Infrastructure and on Open Data Strategies](https://globalbiodata.org/your-views-sought-consultations-on-sustaining-biodata-infrastructure-and-on-open-data-strategies/){target="_blank"} from the Global Biodata Coalition is seeking feedback and inputs from our communities on how research funders could extend partnerships and work together in new ways to secure and sustain the global biodata resource infrastructure and maximize the long-term value of open research data in the life and biomedical sciences. Responses due December 4, 2023.
+-   [Berkeley Computing, Data Science, & Society Spring 2024 Discovert Project Program](https://docs.google.com/forms/d/e/1FAIpQLSffZOJmUsObubwcR0f04_sYYtZgffUODsfMlynNRbqJvJ2bsw/viewform?pli=1){target="_blank"} is seeking Partners to design projects so that a team of students can be engaged over the course of a single or multiple semesters (a semester is about 12 weeks of work). Application deadline in November 30, 2023.
+-   [Microsoft Research AI & Society Fellows](https://www.microsoft.com/en-us/research/academic-program/ai-society-fellows/overview/){target="_blank"} supports research collaboration between Microsoft Research and eminent scholars and experts across a range of disciplines core to discussions at the intersection of AI and its impact on society. Applications due November 29, 2023.
+    -   AI in Organizational Settings
+    -   AI in the Production of Culture, Media, and the Arts
+    -   AI Powered Community Micro-Grid for Resiliency and Equitability
+    -   Copyright Protection for User Data in the Era of LLMs
+    -   Generative AI and Plural Governance: Mitigating Challenges and Surfacing Opportunities
+    -   Multimodal Knowledge Understanding and Representation for Population-scale Copilots
+    -   Reducing the Digital Divide of Generative AI in the Global South
+    -   Regulating AI in Light of the Challenges of Doing Responsible AI in Practice
+    -   Regulatory Innovation to Enable Use of Generative AI in Drug Development
+    -   Sociotechnical Approaches to Measuring Harms Caused by AI Systems
+    -   Storytelling and Futurism
+    -   Supporting the Responsible AI Red-Teaming Human Infrastructure
+    -   Towards Creative-Centered AI: Opportunities and Challenges at the Intersection of Creatives, AI, and Society
 * [The White House Office of Science & Technology Policy Open Science Recognition Challenge](https://portal.challenge.gov/public/previews/challenges?challenge=0a53c056-675b-44a4-860e-a56ce3f4aaad){target="_blank"} invites researchers, community scientists, educators, innovators, and members of the broader public to share stories of how they’ve advanced equitable open science. Submissions due November 22, 2023. 
 * [NIH Build UP Trust Challenge](https://www.builduptrust.org/){target="_blank"} seeks solutions that increase research participation and the adoption of medical care by building trust and improving engagement with historically underserved communities. Register by November 14, 2023, submission by December 5, 2023, awards up to $45K. 
 * [Instructional System Design (ISD) Analysis Using AI Large Language Models Automate ISD Analysis and Requirements Development for Ready Relevant Learning (RRL)](https://www.challenge.gov/?challenge=instructional-system-design-isd-analysis-using-ai-large-language-models){target="_blank"} hopes to identify solutions that address a critical barrier in effectively implementing Instructional Systems Design (ISD) Analysis for training for military readiness and human performance. Registration required by October 30 with applications due November 13, 2023. 

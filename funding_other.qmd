@@ -11,35 +11,26 @@ editor: visual
 * Award: $ for durations up to  years -->
 ```
 ## Internal Funding Opportunities
+
 ### [FY24 Distinguished Research Awards](https://utah.infoready4.com/#freeformCompetitionDetail/1912040){target="_blank"}
-* The Distinguished Research Award (DRA) is a prestigious faculty award designed to recognize outstanding achievements in research by three University of Utah faculty each year. 
-* Deadline: December 13, 2023
-* Award: $10,000 grant to pursue research and/or creative pursuits and recognition at the UofU Commencement. 
+-   The Distinguished Research Award (DRA) is a prestigious faculty award designed to recognize outstanding achievements in research by three University of Utah faculty each year.
+-   Deadline: December 13, 2023
+-   Award: \$10,000 grant to pursue research and/or creative pursuits and recognition at the UofU Commencement.
 
 ### [One Utah Data Science Hub Seed Grant Program - FY24](https://utah.infoready4.com/#freeformCompetitionDetail/1913850){target="_blank"}
-* Supports the initiation of new collaborations and innovative research in data science and data-enabled science that will lead to federal extramural grant applications.
-* Deadline: December 15, 2023
-* Award: Up to $50K for one year
-
+-   Supports the initiation of new collaborations and innovative research in data science and data-enabled science that will lead to federal extramural grant applications.
+-   Deadline: December 15, 2023
+-   Award: Up to \$50K for one year
 
 ## Foundation Funding Opportunities
+
 ### [Foresight Institute: AI Safety: Neuro/Security/Cryptography/Multipolar Approaches](https://foresight.org/ai-safety/){target="_blank"}
-* Supports projects working to make progress on three areas we consider underexplored when it comes to AI Safety.
-  + Neurotechnology, Whole Brain Emulation and lo-fi Uploading for AI safety
-  + Security, Cryptography, and Auxiliary Approaches for Infosec and AI Security
-  + Safe and Beneficial Multipolar AI Scenarios
-* Deadline: Rolling for one year until budget of $1M is depleted <!-- August 2024 -->
-* Application should take no more than 3 hours!
-
-### [W. M. Keck Foundation](https://utah.infoready4.com/#competitionDetail/1919629){target="_blank"}
-* Supports interdisciplinary and transformative project concepts for the W. M. Keck Foundation. Keck seeks to benefit humanity by supporting projects in two specific areas (1) medical research and (2) science and engineering.
-* Deadline: December 4, 2023 ([Internal LSO](https://utah.infoready4.com/#competitionDetail/1919629){target="_blank"})
-* Award: up to $1.4M over three years
-
-### [Chan Zuckerberg Initiative Data Insights (Cycle 3)](https://chanzuckerberg.com/rfa/single-cell-data-insights/){target="_blank"}
-* Supports the advancement of tools and resources that make it possible to gain greater insights into health and disease from single-cell biology datasets.
-* Deadline: December 5, 2023
-* Award: $400,000 total costs for Expanded Projects and $200,000 total costs for Focused Projects for durations of 18-months
+-   Supports projects working to make progress on three areas we consider underexplored when it comes to AI Safety.
+    -   Neurotechnology, Whole Brain Emulation and lo-fi Uploading for AI safety
+    -   Security, Cryptography, and Auxiliary Approaches for Infosec and AI Security
+    -   Safe and Beneficial Multipolar AI Scenarios
+-   Deadline: Rolling for one year until budget of \$1M is depleted <!-- August 2024 -->
+-   Application should take no more than 3 hours!
 
 ### [Simons Foundation: Scientific Software Research Faculty Award](https://www.simonsfoundation.org/grant/scientific-software-research-faculty-award/){target="_blank"}
 -   Supports new research professor positions in existing academic departments to be filled by scientific software-focused researchers with an overall aim to stimulate the development and maintenance of core scientific software infrastructure in academic environments through creating a new, long-term, faculty-level career path.
@@ -47,23 +38,15 @@ editor: visual
 -   Award: 50% salary and \$50K allowable expenses for durations up to five years
 
 ### [AVDF/ACLS Fellowships for Research on the Liberal Arts](https://www.acls.org/programs/avdf-acls-fellowships-for-research-on-the-liberal-arts/){target="_blank"}
-* Supports scholarly projects that draw upon the newly available College and Beyond II (CBII) database.
-* Deadline: December 15, 2023
-* Award: $45K, participation in a 2-day data training, and subsequent symposium
+-   Supports scholarly projects that draw upon the newly available College and Beyond II (CBII) database.
+-   Deadline: December 15, 2023
+-   Award: \$45K, participation in a 2-day data training, and subsequent symposium
 
-
-## Industry Funding Opportunities
-### [Google Research Scholar Program](https://research.google/outreach/research-scholar-program/){target="_blank"}
-* Supports professors globally who are teaching at universities and meet the eligibility requirements. It is our hope that this program will help develop collaborations with new professors and encourage the formation of long-term relationships. Supports cutting-edge research in the fields of algorithms and optimization, health research, machine learning and data mining, natural language processing, quamtum computing, software engineering and programming languages, fundamental and applied science, human-computer interaction, machine perception, privacy, security, and systems and networking systems. 
-* Deadline: November 30, 2023
-* Award: $60K
+<!--## Industry Funding Opportunities-->
 
 
 
 <!--## International Funding Opportunities-->
-
-
-
 
 ## Governmental Funding Opportunities
 ### [ARPA-H: Open-Office Broad Agency Announcement](https://arpa-h.gov/engage/baa/){target="_blank"}
@@ -75,68 +58,46 @@ editor: visual
 -   Deadline: Rolling, expires March 14, 2024
 -   Award: Unspecified, budget must be align with the project scope
 
-### [ARPA-H: Biomedical Data Fabric Toolbox](https://sam.gov/opp/d4d90aff105c4ffebe264a47642deef3/view){target="_blank"}
--   Supports innovative proposals for research and development (R&D) in data integration and usability technologies. Proposed R&D should investigate innovative software approaches that enable revolutionary advances in the collection and usability of biomedical datasets that originate from thousands of different research labs, clinical care centers, and other sources of data in order to accelerate technical innovation across the health ecosystem. 
--   Deadline: November 28, 2023
--   Award: Varies based on the project scope (BIT, BYTE and KILO scales solicited)
-
 ### [NASA ROSES: Heliophysics Artificial Intelligence/Machine Learning-Ready Data](https://nspires.nasaprs.com/external/solicitations/summary.do?solId=%7B8721DD55-91A7-4355-4EFB-9224A6C9462A%7D){target="_blank"}
-* Supports the advancement of the goals and objectives of NASA Heliophysics by developing new tools and methods for the generation of AI/ML-ready datasets from existing research and mission data.
-* Deadline: January 18, 2024 (Step 1, preliminary proposal); April 18, 2024 (Step 2, full proposal); repeated annually
-* Award: Dependent on scope of project 
+-   Supports the advancement of the goals and objectives of NASA Heliophysics by developing new tools and methods for the generation of AI/ML-ready datasets from existing research and mission data.
+-   Deadline: January 18, 2024 (Step 1, preliminary proposal); April 18, 2024 (Step 2, full proposal); repeated annually
+-   Award: Dependent on scope of project
 
 ### [I-ARPA Bias Effects and Notable Generative AI Limitations (BENGAL) Targeted Super Seedling Research Topics](https://sam.gov/opp/affad5d251934a2a8c4c8e4c9f33433d/view){target="_blank"}
-* Supports new capabilities to enable the safe adoption and use of generative AI technologies to greatly enhance the effectiveness and efficiency of the Intelligence Community (IC). The goal of the BENGAL targeted super seedling is to understand LLM threat modes, quantify them and to find novel methods to correct threats and vulnerabilities or to work resiliently with imperfect models.
-* Deadline: January 19, 2024 (ENCOURAGED: white papers due December 5, 2023)
+-   Supports new capabilities to enable the safe adoption and use of generative AI technologies to greatly enhance the effectiveness and efficiency of the Intelligence Community (IC). The goal of the BENGAL targeted super seedling is to understand LLM threat modes, quantify them and to find novel methods to correct threats and vulnerabilities or to work resiliently with imperfect models.
+-   Deadline: January 19, 2024 (ENCOURAGED: white papers due December 5, 2023)
 
 ### [I-ARPA Securing Our Underlying Resources in Cyber Environments (SoURCE CODE) Program](https://sam.gov/opp/fba8e8b62bbf437da4ca1db186b0a7dd/view){target="_blank"}
-* Supports novel technologies to assist forensic experts in making determinations of the most likely attackers, based on coding styles. The program will explore full feature spaces in binary code and source code files to measure the similarity between files and provide information to forensic experts to the likely origins (country, groups, individuals, etc.). 
-* Deadline: January 22, 2024
+-   Supports novel technologies to assist forensic experts in making determinations of the most likely attackers, based on coding styles. The program will explore full feature spaces in binary code and source code files to measure the similarity between files and provide information to forensic experts to the likely origins (country, groups, individuals, etc.).
+-   Deadline: January 22, 2024
 
 ### [NEH: Humanities Research Centers on Artificial Intelligence](https://www.grants.gov/web/grants/view-opportunity.html?oppId=349711){target="_blank"}
-* Supports humanities research centers on artificial intelligence (AI) focused on better understanding the ethical, legal, or societal implications of AI. 
-* Deadline: February 14, 2024 (forecasted)
-* Award: $500K
+-   Supports humanities research centers on artificial intelligence (AI) focused on better understanding the ethical, legal, or societal implications of AI.
+-   Deadline: February 14, 2024 (forecasted)
+-   Award: \$500K
 
 ### [DARPA: Automating Scientific Knowledge Extraction and Modeling (ASKEM)](https://www.darpa.mil/program/automating-scientific-knowledge-extraction-and-modelinga){target="_blank"}
 -   Supports the demands of complex, modern-day systems, computational models and simulators have become the primary artifacts for encoding, propagating, and applying expert knowledge to real-world science and engineering problems.
 
-
-
 ## Challenges, Awards, and Other Opportunities
-* [Microsoft Research AI & Society Fellows](https://www.microsoft.com/en-us/research/academic-program/ai-society-fellows/overview/){target="_blank"} supports research collaboration between Microsoft Research and eminent scholars and experts across a range of disciplines core to discussions at the intersection of AI and its impact on society. Applications due November 29, 2023.
-  + AI in Organizational Settings
-  + AI in the Production of Culture, Media, and the Arts
-  + AI Powered Community Micro-Grid for Resiliency and Equitability
-  + Copyright Protection for User Data in the Era of LLMs
-  + Generative AI and Plural Governance: Mitigating Challenges and Surfacing Opportunities
-  + Multimodal Knowledge Understanding and Representation for Population-scale Copilots
-  + Reducing the Digital Divide of Generative AI in the Global South
-  + Regulating AI in Light of the Challenges of Doing Responsible AI in Practice
-  + Regulatory Innovation to Enable Use of Generative AI in Drug Development
-  + Sociotechnical Approaches to Measuring Harms Caused by AI Systems
-  + Storytelling and Futurism
-  + Supporting the Responsible AI Red-Teaming Human Infrastructure
-  + Towards Creative-Centered AI: Opportunities and Challenges at the Intersection of Creatives, AI, and Society
-* [Berkeley Computing, Data Science, & Society Spring 2024 Discovert Project Program](https://docs.google.com/forms/d/e/1FAIpQLSffZOJmUsObubwcR0f04_sYYtZgffUODsfMlynNRbqJvJ2bsw/viewform?pli=1){target="_blank"} is seeking Partners to design projects so that a team of students can be engaged over the course of a single or multiple semesters (a semester is about 12 weeks of work). Application deadline in November 30, 2023.
-* Two Traineeship Opportunities with AIM-AHEAD, applications due November 30, 2023. 
-	+ [Traineeship in Advanced Data Analysis using the All of Us Clinical Database](https://www.aim-ahead.net/data-science-training-core/aim-ahead-all-of-us-training-program/){target="_blank"}
-  + [Traineeship in Advanced Data Analysis using the NCATS data and the N3C enclave](https://www.aim-ahead.net/data-science-training-core/aim-ahead-and-ncats-training-program/){target="_blank"}
-* [America's Datahub Consortium Idea Bank](https://www.americasdatahub.org/idea-bank-form/){target="_blank"} invites input from stakeholders to inform future project solicitations on the topics of: 
-  + Privacy Preserving Technologies (PPT) 
-  + Data collection, access, linkage, and standards
-  + Statistical and other quantitative analyses
-  + Legal frameworks
-  + User Tools 
-  + Stakeholder Engagement
-  + Artificial Intelligence
-* [Open AI Preparedness Challenge](https://openai.com/form/preparedness-challenge){target="_blank"} responses will be accepted on a rolling basis through December 31, 2023. We will offer $25,000 each in API credits to up to 10 top submissions, publish novel ideas and entries, and look for candidates for Preparedness from among the top contenders in this challenge.
-  
-* [**Request for Information** Consultations on Sustaining Biodata Infrastructure and on Open Data Strategies](https://globalbiodata.org/your-views-sought-consultations-on-sustaining-biodata-infrastructure-and-on-open-data-strategies/){target="_blank"} from the Global Biodata Coalition is seeking feedback and inputs from our communities on how research funders could extend partnerships and work together in new ways to secure and sustain the global biodata resource infrastructure and maximize the long-term value of open research data in the life and biomedical sciences. Responses due December 4, 2023.
-* [The FTC Voice Cloning Challenge](https://www.ftc.gov/news-events/contests/ftc-voice-cloning-challenge){target="_blank"} supports the development of multidisciplinary approaches—from products to policies to procedures—aimed at protecting consumers from AI-enabled voice cloning harms, such as fraud and the broader misuse of biometric data and creative content. The goal of the Challenge is to foster breakthrough ideas on preventing, monitoring, and evaluating malicious voice cloning. Abstracts and detailed explanations due January 12, 2024. 
+-   Two Traineeship Opportunities with AIM-AHEAD, applications due date EXTENDED to December 11, 2023.
+    -   [Traineeship in Advanced Data Analysis using the All of Us Clinical Database](https://www.aim-ahead.net/data-science-training-core/aim-ahead-all-of-us-training-program/){target="_blank"}
+    -   [Traineeship in Advanced Data Analysis using the NCATS data and the N3C enclave](https://www.aim-ahead.net/data-science-training-core/aim-ahead-and-ncats-training-program/){target="_blank"}
+
+-   [America's Datahub Consortium Idea Bank](https://www.americasdatahub.org/idea-bank-form/){target="_blank"} invites input from stakeholders to inform future project solicitations on the topics of:
+
+    -   Privacy Preserving Technologies (PPT)
+    -   Data collection, access, linkage, and standards
+    -   Statistical and other quantitative analyses
+    -   Legal frameworks
+    -   User Tools
+    -   Stakeholder Engagement
+    -   Artificial Intelligence
+
+-   [Open AI Preparedness Challenge](https://openai.com/form/preparedness-challenge){target="_blank"} responses will be accepted on a rolling basis through December 31, 2023. We will offer \$25,000 each in API credits to up to 10 top submissions, publish novel ideas and entries, and look for candidates for Preparedness from among the top contenders in this challenge.
+
+-   [The FTC Voice Cloning Challenge](https://www.ftc.gov/news-events/contests/ftc-voice-cloning-challenge){target="_blank"} supports the development of multidisciplinary approaches---from products to policies to procedures---aimed at protecting consumers from AI-enabled voice cloning harms, such as fraud and the broader misuse of biometric data and creative content. The goal of the Challenge is to foster breakthrough ideas on preventing, monitoring, and evaluating malicious voice cloning. Abstracts and detailed explanations due January 12, 2024.
 
 <!--## Policy and Engagement -->
 
-
-
-Updated November 22, 2023.
+Updated December 5, 2023.

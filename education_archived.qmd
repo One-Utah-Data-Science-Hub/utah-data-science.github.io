@@ -4,6 +4,20 @@ format: html
 ---
 
 ## Software Carpentries
+### Databases and SQL
+**When:** December 1, 2023\
+**Where:** HSEB 1730, Salt Lake City, UT 84113\
+**Instructors:** Rebecca Barter, Alec Chapman\
+[Register to save your spot!](https://forms.gle/WC5Q9NsV52LaKjuA8){target="_blank"}
+Additional information can be found on the [website](https://uofudelphi.github.io/2023-12-01-sql/){target="_blank"}.
+
+### Version Control and Collaboration with Git and GitHub
+**When:** November 30, 2023\
+**Where:** HSEB 1730, Salt Lake City, UT 84113\
+**Instructors:** Rebecca Barter, George Vega Yon\
+[Register to save your spot!](https://forms.gle/a6b8NkncHRKes8Pf8){target="_blank"} 
+Additional information can be found on the [website](https://uofudelphi.github.io/2023-11-30-git/){target="_blank"}.
+
 ### Introduction to Data Analysis with Python
 **When:** Tuesdays and Thursdays 9-10am from October 24-November 16  
 **Where:** Virtual  
