@@ -102,13 +102,6 @@ format: html
 <!-- * DATASET will be supporting concepts via an Ideas Lab - submit your concept to [Penny Atkins](mailto:data-science-hub@utah.edu?subject=Ideas%20Lab%20Concept%20Proposal) by August 20, 2023; [additional details here](pdfs/DATASET_IdeasLab_CallForConcepts.pdf){target="_blank"}.-->
 * [Internal Limited Submission Opportunity (LSO)](https://utah.infoready4.com/#freeformCompetitionDetail/1912202){target="_blank"} has ended.
 
-### [Geoinformatics (GI)](https://new.nsf.gov/funding/opportunities/geoinformatics-gi){target="_blank"}
-* Supports the deployment, operation, and sustainment of cyberinfrastructure (CI) resources to serve and support Earth Sciences research and education.
-  + The *Innovative Resources track* supports the early-stage development, deployment, and community-building for CI resources that serve Earth Sciences research and education.
-  + The *Sustained Resources track* supports the sustained operations and user community support for mature CI resources that serve Earth Sciences research and education.
-* Deadline: December 1 2023 (*Sustained Resources track* requires a Concept Outline to be submitted 3 months prior); *Sustained Resources* will recur on December 6, 2024, *Innovative Resources* will recur on December 5, 2025
-* Award: *Innovative Resources* $200K/year for durations up to three years; *Sustained Resources* budget must align with the project scope, for durations of three to four years.
-
 ### [Human Networks and Data Science (HNDS)](https://beta.nsf.gov/funding/opportunities/human-networks-data-science-hnds){target="_blank"}
 *   Supports research that studies the behavior of individuals and groups by leveraging data and network science and the development of data infrastructure that makes such work possible.
 *   Deadline: *Core Research* January 11, 2024, July 11, 2024, annually thereafter in January and July; *Infrastructure* February 1, 2024, annually thereafter in February and August
@@ -184,6 +177,11 @@ format: html
 *   Deadline: March 1, 2024, annually thereafter
 *   Award: \$500-750K for durations up to three years
 
+### [Collaborative Research in Computational Neuroscience (CRCNS)](https://new.nsf.gov/funding/opportunities/collaborative-research-computational-neuroscience){target="_blank"}
+* Supports collaborative activities that span a broad spectrum of computational neuroscience research, as appropriate to the missions and strategic objectives of each agency.
+* Deadine: March 7, 2024; November 13, 2024; November 12, 2025
+* Award: $250K/year for durations of three to five years
+
 ### [Smart Health and Biomedical Research in the Era of Artificial Intelligence and Advanced Data Science (SCH)](https://new.nsf.gov/funding/opportunities/smart-health-biomedical-research-era-artificial){target="_blank"}
 * Supports the development of transformative high-risk, high-reward advances in computer and information science, engineering, mathematics, statistics, behavioral and/or cognitive research to address pressing questions in the biomedical and public health communities. 
   + Fairness and Trustworthiness
@@ -196,6 +194,13 @@ format: html
 * Deadline: October 3, 2024
 * Award: $300K/year (total) for durations up to four years
 <!--* [DELPHI and DHI Townhall on Aug 31 at 10:30 am](https://utah.zoom.us/j/93613638947?pwd=MFB0RHRoemR2UUpUcVRXbGVmajY0dz09){target="_blank"}, [NIH/NSF Webinar on Sept 25 at 1pm](https://nsf.zoomgov.com/webinar/register/WN_ctCzc3alRQyXZAX0rS1Fww){target="_blank"}-->
+
+### [Geoinformatics (GI)](https://new.nsf.gov/funding/opportunities/geoinformatics-gi){target="_blank"}
+* Supports the deployment, operation, and sustainment of cyberinfrastructure (CI) resources to serve and support Earth Sciences research and education.
+  + The *Innovative Resources track* supports the early-stage development, deployment, and community-building for CI resources that serve Earth Sciences research and education.
+  + The *Sustained Resources track* supports the sustained operations and user community support for mature CI resources that serve Earth Sciences research and education.
+* Deadline: *Sustained Resources* will recur on December 6, 2024, *Innovative Resources* will recur on December 5, 2025
+* Award: *Innovative Resources* $200K/year for durations up to three years; *Sustained Resources* budget must align with the project scope, for durations of three to four years.
 
 ### [Mid-scale Research Infrastructure-1 (Mid-scale RI-1)](https://new.nsf.gov/funding/opportunities/mid-scale-research-infrastructure-1-mid-scale-ri-1){target="_blank"}
 * Supports the design and implementation of research infrastructure — including equipment, cyberinfrastructure, large-scale datasets and personnel — whose total project costs exceed NSF's Major Research Instrumentation program but are under $20 million.
@@ -252,6 +257,8 @@ format: html
 
 
 ### Dear Colleague Letters
+* [Broadening Participation in Computing (BPC) Supplemental Funding in Computer and Information Science and Engineering](https://www.nsf.gov/pubs/2024/nsf24030/nsf24030.jsp){target="_blank"} recommended submission prior to March 31 each year. <!-- December 5, 2023 -->
+
 * [Medical / Health Cyber Physical Systems Proposals](https://www.nsf.gov/pubs/2024/nsf24017/nsf24017.jsp){target="_blank"}<!-- November 8, 2023 -->
 
 * [Workshops to Identify Educational Requirements of the Future Ocean Technical Workforce](https://www.nsf.gov/pubs/2023/nsf23134/nsf23134.jsp){target="_blank"} <!-- July 21, 2023 -->
@@ -271,4 +278,4 @@ format: html
 * [Fairness, Ethics, Accountability, and Transparency: Enabling Breakthrough Research to Expand Inclusivity in Computer and Information Science and Engineering Research](https://www.nsf.gov/pubs/2019/nsf19016/nsf19016.jsp){target="_blank"} <!-- Nov 2, 2018 -->
 
 
-Updated December 5, 2023.
+Updated December 12, 2023.

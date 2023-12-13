@@ -240,8 +240,10 @@ title: "NIH Funding Opportunities"
 ## Notices of Special Interest and Requests for Information
 <!-- * [](https://grants.nih.gov/grants/guide/notice-files/NOT-CA-24-002.html){target="_blank"} expires -->
 * [**Request for Information** Opportunities and Challenges for the Collection, Use, and Sharing of Real-World Data (RWD) including Electronic Health Records, for NIH Supported Biomedical and Behavioral Research](https://grants.nih.gov/grants/guide/notice-files/NOT-OD-23-180.html){target="_blank"} due by December 14, 2023.
+* [**Request for Information** NCI Cancer Research Data Commons (CRDC) Artificial Intelligence (AI) use cases to inform an assessment of data readiness](https://grants.nih.gov/grants/guide/notice-files/NOT-CA-24-017.html){target="_blank"} due by December 31, 2023.
 * [**Request for Information** Best Practices for Sharing NIH Supported Research Software](https://datascience.nih.gov/rfi-software){target="_blank"} expires February 1, 2024.
 * [**Administrative Supplements** for R25 Data Science Training for Infectious and Immune-mediated Disease Research](https://grants.nih.gov/grants/guide/notice-files/NOT-AI-23-010.html) expires February 14, 2024.
+* [Administrative Supplements to Support the Development of Digital Twins in Radiation Oncology (DTRO)](https://grants.nih.gov/grants/guide/notice-files/NOT-CA-24-015.html){target="_blank"} expires March 22, 2024.
 * [**Administrative Supplements** to Enhance Institutional Data Science Capacity](https://grants.nih.gov/grants/guide/notice-files/NOT-OD-23-123.html){target="_blank"} in institutions serving medically underserved communities and underrepresented students due June 19, 2023 or April 1, 2024; expires April 2, 2024.
 * [Harnessing Big Data to Halt HIV](https://grants.nih.gov/grants/guide/notice-files/NOT-AI-21-054.html){target="_blank"} expires May 8, 2024.
 * [Maximizing the Scientific Value of Secondary Analyses of Existing Cohorts and Datasets in Order to Address Research Gaps and Foster Additional Opportunities in Aging Research](https://grants.nih.gov/grants/guide/notice-files/NOT-AG-23-020.html){target="_blank"} expires May 8, 2024.
@@ -262,4 +264,4 @@ title: "NIH Funding Opportunities"
 
 * [NIH Office for Data Science Strategy](https://datascience.nih.gov/research-and-training-funding){target="_blank"} list of funding opportunities.
 
-Updated December 7, 2023.
+Updated December 12, 2023.

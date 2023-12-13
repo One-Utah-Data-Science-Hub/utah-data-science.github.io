@@ -7,16 +7,25 @@ format: html
 Software Carpentries workshops are offered in person over two-days, including breakfast, lunch, and snacks. Topics covered will depend on the specific workshop, but could include R, python, SQL, Unix, and more.  
 
 ### Introduction to Data Analysis in Python
-**When:** February 2024  (Thursday-Friday)\
+**When:** February 2024  (Thursday-Friday), 9am-4pm\
 **Where:** TBD\
 **Instructors:** Rebecca Barter, Alec Chapman\
-Contact [Penny Atkins](mailto:penny.atkins@hsc.utah.edu) with any inquiries.
+Contact [Penny Atkins](mailto:penny.atkins@hsc.utah.edu) with any inquiries.  
+<!--[Register to save your spot!](https://forms.gle/wGrVndw1pbrzb9fX9){target="_blank"}-->
+
 
 ### Introduction to Natural Language Processing with Applications to Clinical Data Science
-**When:** March 8, 2024\
-**Where:** TBD\
+**When:** March 8, 2024, 9am-4pm\
+**Where:** HSEB 4100B\
 **Instructors:** Alec Chapman, Kelly Peterson\
-Contact [Penny Atkins](mailto:penny.atkins@hsc.utah.edu) with any inquiries.
+Contact [Penny Atkins](mailto:penny.atkins@hsc.utah.edu) with any inquiries.  
+[Register to save your spot!](https://forms.gle/6FzV6iemeNp9uJUw8){target="_blank"}
+
+### Introduction to OpenRefine
+**When:** Spring 2024\
+**Where:** TBD\
+**Instructors:** Kaylee Alexander, Madison Golden\
+Contact [Penny Atkins](mailto:penny.atkins@hsc.utah.edu) with any inquiries.  
 
 ![R Workshop May 2023](images/RWorkshop_May2023.jpg)  
 

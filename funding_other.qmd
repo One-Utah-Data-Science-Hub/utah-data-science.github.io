@@ -32,10 +32,6 @@ editor: visual
 -   Deadline: Rolling for one year until budget of \$1M is depleted <!-- August 2024 -->
 -   Application should take no more than 3 hours!
 
-### [Simons Foundation: Scientific Software Research Faculty Award](https://www.simonsfoundation.org/grant/scientific-software-research-faculty-award/){target="_blank"}
--   Supports new research professor positions in existing academic departments to be filled by scientific software-focused researchers with an overall aim to stimulate the development and maintenance of core scientific software infrastructure in academic environments through creating a new, long-term, faculty-level career path.
--   Deadline: December 8, 2023 (LOI), February 28, 2024 (Full Proposal)
--   Award: 50% salary and \$50K allowable expenses for durations up to five years
 
 ### [AVDF/ACLS Fellowships for Research on the Liberal Arts](https://www.acls.org/programs/avdf-acls-fellowships-for-research-on-the-liberal-arts/){target="_blank"}
 -   Supports scholarly projects that draw upon the newly available College and Beyond II (CBII) database.
@@ -80,10 +76,6 @@ editor: visual
 -   Supports the demands of complex, modern-day systems, computational models and simulators have become the primary artifacts for encoding, propagating, and applying expert knowledge to real-world science and engineering problems.
 
 ## Challenges, Awards, and Other Opportunities
--   Two Traineeship Opportunities with AIM-AHEAD, applications due date EXTENDED to December 11, 2023.
-    -   [Traineeship in Advanced Data Analysis using the All of Us Clinical Database](https://www.aim-ahead.net/data-science-training-core/aim-ahead-all-of-us-training-program/){target="_blank"}
-    -   [Traineeship in Advanced Data Analysis using the NCATS data and the N3C enclave](https://www.aim-ahead.net/data-science-training-core/aim-ahead-and-ncats-training-program/){target="_blank"}
-
 -   [America's Datahub Consortium Idea Bank](https://www.americasdatahub.org/idea-bank-form/){target="_blank"} invites input from stakeholders to inform future project solicitations on the topics of:
 
     -   Privacy Preserving Technologies (PPT)
@@ -98,6 +90,12 @@ editor: visual
 
 -   [The FTC Voice Cloning Challenge](https://www.ftc.gov/news-events/contests/ftc-voice-cloning-challenge){target="_blank"} supports the development of multidisciplinary approaches---from products to policies to procedures---aimed at protecting consumers from AI-enabled voice cloning harms, such as fraud and the broader misuse of biometric data and creative content. The goal of the Challenge is to foster breakthrough ideas on preventing, monitoring, and evaluating malicious voice cloning. Abstracts and detailed explanations due January 12, 2024.
 
+- [Cyber Defensive Capability Performance Measurement Development Challenge](https://www.challenge.gov/?challenge=cyber-defensive-capability-performance-measurement-development-challenge){target="_blank"} seeks undergraduate and graduate students to develop algorithms to measure a system’s ability to maintain critical functionality during a cyberspace attack from Advanced Persistent Threat (APT) actors. The developed algorithms are to: (a) measure the effectiveness of a system’s cyber defensive capabilities against full spectrum cyber threats, and (b) calculate the cyber resiliency of the system based on given system architecture, critical functions, and the defined cyber APTs. Phase 1 open until January 26, 2024, $125K in total prizes.
+
+- [NIH Pioneering Research for Early Prediction of Alzheimer's Disease & Related Dementias (PREPARE) Challenge](https://www.challenge.gov/?challenge=prepare-challenge){target="_blank"} seeks to advance solutions for accurate, innovative, and representative early prediction of AD/ADRD through three challenge phases that successively build on each other. Phase 1 open until January 31, 2024, $650K in total prizes.
+
+- [Digitizing Utilities Prize Round 2](https://www.challenge.gov/?challenge=digitizing-utilities-prize-round-2){target="_blank"} aims to help utilities tackle data and cybersecurity challenges that advance grid resiliency. This prize connects utilities with interdisciplinary teams of software developers and data experts to transform digital systems and data analytics for utilities in the energy sector. Phase 1 open until February 29, 2024, $1.85M in total prizes.
+
 <!--## Policy and Engagement -->
 
-Updated December 5, 2023.
+Updated December 11, 2023.

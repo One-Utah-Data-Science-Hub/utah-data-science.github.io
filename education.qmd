@@ -13,6 +13,7 @@ format: html
 * [School of Computing Data Science YouTube Channel](https://www.youtube.com/@UofUDataScience/videos){target="_blank"}
 * [Utah Data Science Club YouTube Channel](https://www.youtube.com/@utahdatascience6178/videos){target="_blank"}
 * [ETH Zurich Deep Learning in Scientific Computing on YouTube](https://www.youtube.com/@CAMLabETHZurich){target="_blank"}
+* [Bridge2AI Training on AI Basic Concepts](https://bridge2ai-training.org/courses/training-on-ai-basic-concepts/){target="_blank"}
 
 ### Reference Materials
 * [Applied HPC with R](https://book-hpc.ggvy.cl/){target="_blank"} by George Vega Yon
