@@ -81,6 +81,11 @@ format: html
 *   Deadline: February 1, 2024
 *   Award: \$600K *(UCSS and RSSD)* - \$1.2M *(TCR)* for durations up to three years
 
+### [Collaborations in Artificial Intelligence and Geosciences (CAIG)](https://new.nsf.gov/funding/opportunities/collaborations-artificial-intelligence-geosciences){target="_blank"}
+* Supports geoscience research, education and fellowships to advance the development and adoption of AI.
+* Deadline: March 15, 2024
+* Award: $250K-$1M for durations up to three years
+
 ### [Cyber-Physical Systems (CPS)](https://new.nsf.gov/funding/opportunities/cyber-physical-systems-cps){target="_blank"}
 * Supports research on engineered systems with a seamless integration of cyber and physical components, such as computation, control, networking, learning, autonomy, security, privacy and verification, for a range of application domains.
   + *Small Projects* $500K for durations up to three years; rolling deadline through May 30, 2024
@@ -133,6 +138,11 @@ format: html
 *   Deadline: January 18, 2024 ([Internal LSO application](https://utah.infoready4.com/#freeformCompetitionDetail/1921706){target="_blank"} due December 6, 2023), annually thereafter
 *   Award: Not specified
 
+### [Science of Learning and Augmented Intelligence](https://new.nsf.gov/funding/opportunities/science-learning-augmented-intelligence){target="_blank"}
+* Supports research to develop fundamental knowledge about principles, processes and mechanisms of learning and about augmented intelligence — how human cognitive function can be augmented through interactions with others and technology.
+* Deadline: February 14, 2024 and August 7, 2024 (recurring annually) <!-- on the second Wed in Feb and the first Wed in August)-->
+
+
 ### [Research on Innovative Technologies for Enhanced Learning (RITEL)](https://new.nsf.gov/funding/opportunities/research-innovative-technologies-enhanced-learning){target="_blank"}
 * Supports early-stage research in emerging technologies such as AI, robotics and immersive or augmenting technologies for teaching and learning that respond to pressing needs in real-world educational environments.
 * Deadline: January 24, 2024; November 5, 2024; November 4, 2025
@@ -172,15 +182,15 @@ format: html
 * Deadline: February 21, 2024; recurring annually on the third Wednesday in February
 * Award: Unspecified
 
-### [Emerging Mathematics in Biology (eMB)](https://new.nsf.gov/funding/opportunities/emerging-mathematics-biology-emb){target="_blank"}
-*   Supports research in mathematical biology that addresses significant biological questions by applying nontrivial mathematics or developing new theories --- particularly from foundational mathematics, including artificial intelligence or machine learning.
-*   Deadline: March 1, 2024, annually thereafter
-*   Award: \$500-750K for durations up to three years
-
 ### [Collaborative Research in Computational Neuroscience (CRCNS)](https://new.nsf.gov/funding/opportunities/collaborative-research-computational-neuroscience){target="_blank"}
 * Supports collaborative activities that span a broad spectrum of computational neuroscience research, as appropriate to the missions and strategic objectives of each agency.
 * Deadine: March 7, 2024; November 13, 2024; November 12, 2025
 * Award: $250K/year for durations of three to five years
+
+### [Emerging Mathematics in Biology (eMB)](https://new.nsf.gov/funding/opportunities/emerging-mathematics-biology-emb){target="_blank"}
+*   Supports research in mathematical biology that addresses significant biological questions by applying nontrivial mathematics or developing new theories --- particularly from foundational mathematics, including artificial intelligence or machine learning.
+*   Deadline: March 11, 2024, annually thereafter
+*   Award: \$500-750K for durations up to three years
 
 ### [Smart Health and Biomedical Research in the Era of Artificial Intelligence and Advanced Data Science (SCH)](https://new.nsf.gov/funding/opportunities/smart-health-biomedical-research-era-artificial){target="_blank"}
 * Supports the development of transformative high-risk, high-reward advances in computer and information science, engineering, mathematics, statistics, behavioral and/or cognitive research to address pressing questions in the biomedical and public health communities. 

@@ -67,10 +67,20 @@ editor: visual
 -   Supports novel technologies to assist forensic experts in making determinations of the most likely attackers, based on coding styles. The program will explore full feature spaces in binary code and source code files to measure the similarity between files and provide information to forensic experts to the likely origins (country, groups, individuals, etc.).
 -   Deadline: January 22, 2024
 
+### [Boosting Innovative GEOINT - Topic 1: Geospatial-Intelligence Foundational Model (GFM)](https://www.grants.gov/search-results-detail/351404){target="_blank")}
+* Supports innovative concepts to address hard GEOINT problems that align to one or more of the following technical domains: (1) Foundational GEOINT, (2) Advanced Phenomenologies, and (3) Analytic Technologies.
+* Deadline: January 23, 2024 (Abstracts); March 4, 2024 (Proposal); Additional topics added through 2026
+* Award: $3M for one year
+
 ### [NEH: Humanities Research Centers on Artificial Intelligence](https://www.grants.gov/web/grants/view-opportunity.html?oppId=349711){target="_blank"}
 -   Supports humanities research centers on artificial intelligence (AI) focused on better understanding the ethical, legal, or societal implications of AI.
 -   Deadline: February 14, 2024 (forecasted)
 -   Award: \$500K
+
+### [DoD and AirForce: Geospatial Intelligence Processing and Exploitation (GeoPEX)](https://sam.gov/opp/f6dac217c58545578b6dff242335e997/view){target="_blank"}
+* Supports research, development, integration, test and evaluation of technologies/techniques to provide geospatial intelligence (GEOINT) in all its forms and from whatever source to ensure a solid foundation of knowledge for planning, decision, and action while creating tailored, customer-specific geospatial intelligence, analytic services, and solutions.
+* Deadline: September 30, 2024; recurring on September 30, 2025 and September 30, 2026
+* Award: $250K-$10M for durations up to two years
 
 ### [DARPA: Automating Scientific Knowledge Extraction and Modeling (ASKEM)](https://www.darpa.mil/program/automating-scientific-knowledge-extraction-and-modelinga){target="_blank"}
 -   Supports the demands of complex, modern-day systems, computational models and simulators have become the primary artifacts for encoding, propagating, and applying expert knowledge to real-world science and engineering problems.
