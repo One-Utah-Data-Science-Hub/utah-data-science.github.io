@@ -247,6 +247,7 @@ format: html
 	+ Award: $500K-1M for durations up to two years
 
 ## Notices of Special Interest and Requests for Information
+* [**Request for Information** Opportunities and Challenges for the Collection, Use, and Sharing of Real-World Data (RWD) including Electronic Health Records, for NIH Supported Biomedical and Behavioral Research](https://grants.nih.gov/grants/guide/notice-files/NOT-OD-23-180.html){target="_blank"} due by December 14, 2023.
 * [**Request for Information** Exploring the role of Generative AI in enhancing the use of Big Data in Heart, Lung, Blood, and Sleep (HLBS) research](https://grants.nih.gov/grants/guide/notice-files/NOT-HL-23-097.html){target="_blank"} due by December 5, 2023.
 * [**Request for Information** NCI Cancer Research Data Commons (CRDC) Artificial Intelligence (AI) use cases to inform an assessment of data readiness](https://grants.nih.gov/grants/guide/notice-files/NOT-CA-24-002.html){target="_blank"} expires November 30, 2023. 
 * [**Request for Information** National Institute of Dental and Craniofacial Research (NIDCR) Strategic Planning of Infrastructure and Resources for Data Science Research and Research Training](https://grants.nih.gov/grants/guide/notice-files/NOT-DE-23-008.html){target="_blank"} due by September 25, 2023.
@@ -344,6 +345,16 @@ format: html
 * [Seeking US Industry and US Federal Agency Partners to Support Research Projects in Advanced Networking Systems](https://www.nsf.gov/pubs/2023/nsf23090/nsf23090.jsp) response due May 15, 2023.<!-- April 18, 2023 -->
 
 # Internal Funding Opportunities
+### [One Utah Data Science Hub Seed Grant Program - FY24](https://utah.infoready4.com/#freeformCompetitionDetail/1913850){target="_blank"}
+-   Supports the initiation of new collaborations and innovative research in data science and data-enabled science that will lead to federal extramural grant applications.
+-   Deadline: December 15, 2023
+-   Award: Up to \$50K for one year
+
+### [FY24 Distinguished Research Awards](https://utah.infoready4.com/#freeformCompetitionDetail/1912040){target="_blank"}
+-   The Distinguished Research Award (DRA) is a prestigious faculty award designed to recognize outstanding achievements in research by three University of Utah faculty each year.
+-   Deadline: December 13, 2023
+-   Award: \$10,000 grant to pursue research and/or creative pursuits and recognition at the UofU Commencement.
+
 ### [Utah CTSI Community & Academic Partnership Pilot (CAPP) Program](pdfs/CTSI CAPP FOA - final.pdf){target="_blank"}
 * Supports collaborations between community organizations located in Utah and adjacent states, and CTSI-affiliated academic partners that address at least one of the following focal areas:
   + Address barriers to conducting clinical & translational research
@@ -354,6 +365,10 @@ format: html
 
 
 # Foundation Funding Opportunities
+### [AVDF/ACLS Fellowships for Research on the Liberal Arts](https://www.acls.org/programs/avdf-acls-fellowships-for-research-on-the-liberal-arts/){target="_blank"}
+-   Supports scholarly projects that draw upon the newly available College and Beyond II (CBII) database.
+-   Deadline: December 15, 2023
+-   Award: \$45K, participation in a 2-day data training, and subsequent symposium
 
 ### [Simons Foundation: Scientific Software Research Faculty Award](https://www.simonsfoundation.org/grant/scientific-software-research-faculty-award/){target="_blank"}
 -   Supports new research professor positions in existing academic departments to be filled by scientific software-focused researchers with an overall aim to stimulate the development and maintenance of core scientific software infrastructure in academic environments through creating a new, long-term, faculty-level career path.

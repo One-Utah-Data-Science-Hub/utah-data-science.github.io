@@ -15,12 +15,12 @@ Register to save your spot!](https://forms.gle/wGrVndw1pbrzb9fX9){target="_blank
 Additional information can be found on the [website](https://uofudelphi.github.io/2024-02-08-python/){target="_blank"}.
 
 ### Introduction to Natural Language Processing with Applications to Clinical Data Science
-**When:** March 8, 2024, 9am-4pm\
+**When:** March 8, 2024, 9am-5pm\
 **Where:** [EHSEB](https://maps.app.goo.gl/kuvgQtmpQxJHfibb9){target="_blank"} 4100B\
 **Instructors:** Alec Chapman, Kelly Peterson\
 Contact [Penny Atkins](mailto:penny.atkins@hsc.utah.edu) with any inquiries.  
 [Register to save your spot!](https://forms.gle/6FzV6iemeNp9uJUw8){target="_blank"}
-<!--Additional information can be found on the [website](https://uofudelphi.github.io/2023-12-01-sql/){target="_blank"}.-->
+<!--Additional information can be found on the [website](https://uofudelphi.github.io/2024-03-08-nlp/){target="_blank"}.-->
 
 ### Introduction to OpenRefine
 **When:** Spring 2024\

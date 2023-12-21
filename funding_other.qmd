@@ -11,19 +11,13 @@ editor: visual
 * Award: $ for durations up to  years -->
 ```
 ## Internal Funding Opportunities
+### [Digital Health Innovations Seed Grant Program](https://utah.infoready4.com/#competitionDetail/1924926){target="_blank"}
+-   Supports new collaborations and innovative research in digital health that will lead to federal extramural grant applications. 
+-   Deadline: February 2, 2024
+-   Award: $75K (+$25K in [SD2C](https://cores.utah.edu/sd2c/){target="_blank"} support) for one year
 
-### [FY24 Distinguished Research Awards](https://utah.infoready4.com/#freeformCompetitionDetail/1912040){target="_blank"}
--   The Distinguished Research Award (DRA) is a prestigious faculty award designed to recognize outstanding achievements in research by three University of Utah faculty each year.
--   Deadline: December 13, 2023
--   Award: \$10,000 grant to pursue research and/or creative pursuits and recognition at the UofU Commencement.
-
-### [One Utah Data Science Hub Seed Grant Program - FY24](https://utah.infoready4.com/#freeformCompetitionDetail/1913850){target="_blank"}
--   Supports the initiation of new collaborations and innovative research in data science and data-enabled science that will lead to federal extramural grant applications.
--   Deadline: December 15, 2023
--   Award: Up to \$50K for one year
 
 ## Foundation Funding Opportunities
-
 ### [Foresight Institute: AI Safety: Neuro/Security/Cryptography/Multipolar Approaches](https://foresight.org/ai-safety/){target="_blank"}
 -   Supports projects working to make progress on three areas we consider underexplored when it comes to AI Safety.
     -   Neurotechnology, Whole Brain Emulation and lo-fi Uploading for AI safety
@@ -32,11 +26,10 @@ editor: visual
 -   Deadline: Rolling for one year until budget of \$1M is depleted <!-- August 2024 -->
 -   Application should take no more than 3 hours!
 
-
-### [AVDF/ACLS Fellowships for Research on the Liberal Arts](https://www.acls.org/programs/avdf-acls-fellowships-for-research-on-the-liberal-arts/){target="_blank"}
--   Supports scholarly projects that draw upon the newly available College and Beyond II (CBII) database.
--   Deadline: December 15, 2023
--   Award: \$45K, participation in a 2-day data training, and subsequent symposium
+### [Predictors of Vaccine Efficacy: Identifying Correlates of Protection](https://wellcome.org/grant-funding/schemes/correlates-protection-for-vaccine-development){target="_blank"}
+* Supports research teams to establish or validate correlates of protection across 11 diseases with the potential to cause substantial outbreaks or which have significant burden, and have no licenced vaccines. 
+* Deadline: February 6, 2024 (Preliminary Application), May 21, 2024 (Full Invited Proposal)
+* Award: £5M for durations up to three years
 
 <!--## Industry Funding Opportunities-->
 
@@ -72,9 +65,9 @@ editor: visual
 * Deadline: January 23, 2024 (Abstracts); March 4, 2024 (Proposal); Additional topics added through 2026
 * Award: $3M for one year
 
-### [NEH: Humanities Research Centers on Artificial Intelligence](https://www.grants.gov/web/grants/view-opportunity.html?oppId=349711){target="_blank"}
--   Supports humanities research centers on artificial intelligence (AI) focused on better understanding the ethical, legal, or societal implications of AI.
--   Deadline: February 14, 2024 (forecasted)
+### [NEH: Humanities Research Centers on Artificial Intelligence](https://www.neh.gov/program/humanities-research-centers-artificial-intelligence){target="_blank"}
+-   Supports humanities research centers on artificial intelligence (AI) focused on better understanding the ethical, legal, or societal implications of AI. Avery Holton will be the PI for the University of Utah Proposal.
+-   Deadline: February 14, 2024
 -   Award: \$500K
 
 ### [DoD and AirForce: Geospatial Intelligence Processing and Exploitation (GeoPEX)](https://sam.gov/opp/f6dac217c58545578b6dff242335e997/view){target="_blank"}
@@ -84,6 +77,8 @@ editor: visual
 
 ### [DARPA: Automating Scientific Knowledge Extraction and Modeling (ASKEM)](https://www.darpa.mil/program/automating-scientific-knowledge-extraction-and-modelinga){target="_blank"}
 -   Supports the demands of complex, modern-day systems, computational models and simulators have become the primary artifacts for encoding, propagating, and applying expert knowledge to real-world science and engineering problems.
+
+
 
 ## Challenges, Awards, and Other Opportunities
 -   [America's Datahub Consortium Idea Bank](https://www.americasdatahub.org/idea-bank-form/){target="_blank"} invites input from stakeholders to inform future project solicitations on the topics of:
@@ -108,4 +103,4 @@ editor: visual
 
 <!--## Policy and Engagement -->
 
-Updated December 11, 2023.
+Updated December 21, 2023.
