@@ -521,12 +521,6 @@ format: html
 -   Award: \$250K for durations of 7-8 months
 -   [Q&A Session on August 2, 2023 at 7am MT](https://events.teams.microsoft.com/event/2d44f676-6b1e-49e1-b5d8-e88125e99da1@4ff91a0d-0e02-4e46-8d31-b793d477b044)
 
-### [Japan Science and Technology Agency: Adopting Sustainable Partnerships for Innovative Research Ecosystem (ASPIRE) 2023 Call for Proposals](https://www.jst.go.jp/inter/aspire/en/program_e/announce_e/announce_aspire2023_e.html){target="_blank"}
--   Proposals are welcomed from Japan-based researchers intending to conduct collaborative research with researchers from other advanced countries and regions in science and technology.
-    -   *AI and information* research for the realization of [Society 5.0](https://www8.cao.go.jp/cstp/english/society5_0/index.html) based on the principles of human understanding and respect, diversity, and sustainability.
--   Deadline: August 17, 2023 (recommended LOI by July 31)
--   Award: 30-100M Yen for durations up of three to five years
-
 
 # Governmental Funding Opportunities
 ### [ARPA-H: Biomedical Data Fabric Toolbox](https://sam.gov/opp/d4d90aff105c4ffebe264a47642deef3/view){target="_blank"}

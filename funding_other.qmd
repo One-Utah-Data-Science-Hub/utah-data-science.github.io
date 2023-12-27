@@ -35,7 +35,14 @@ editor: visual
 
 
 
-<!--## International Funding Opportunities-->
+## International Funding Opportunities
+### [Japan Science and Technology Agency: Adopting Sustainable Partnerships for Innovative Research Ecosystem (ASPIRE) Call for Proposals](https://www.jst.go.jp/inter/aspire/en/program_e/announce_e/announce_aspire2023_e.html){target="_blank"}
+-   Proposals are welcomed from Japan-based researchers intending to conduct collaborative research with researchers from other advanced countries and regions in science and technology.
+    -   *AI and information* research for the realization of [Society 5.0](https://www8.cao.go.jp/cstp/english/society5_0/index.html) based on the principles of human understanding and respect, diversity, and sustainability.
+-   Deadline: August 17, 2024 (anticipated; recommended LOI by July 31)
+-   Award: 30-100M Yen ($200K-700K) for durations up of three to five years
+
+
 
 ## Governmental Funding Opportunities
 ### [ARPA-H: Open-Office Broad Agency Announcement](https://arpa-h.gov/engage/baa/){target="_blank"}
@@ -82,7 +89,6 @@ editor: visual
 
 ## Challenges, Awards, and Other Opportunities
 -   [America's Datahub Consortium Idea Bank](https://www.americasdatahub.org/idea-bank-form/){target="_blank"} invites input from stakeholders to inform future project solicitations on the topics of:
-
     -   Privacy Preserving Technologies (PPT)
     -   Data collection, access, linkage, and standards
     -   Statistical and other quantitative analyses
@@ -103,4 +109,4 @@ editor: visual
 
 <!--## Policy and Engagement -->
 
-Updated December 21, 2023.
+Updated December 27, 2023.

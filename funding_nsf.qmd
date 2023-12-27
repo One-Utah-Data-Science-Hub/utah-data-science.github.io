@@ -12,6 +12,7 @@ format: html
   + *S&CC Planning Grants (SCC-PG)* $150K for durations of one year
   + *S&CC Integrative Research Grants (SCC-IRG) Track 1* $2.5M for durations up to four years
   + *S&CC Integrative Research Grants (SCC-IRG) Track 2* $1.5M for durations up to three years
+* Expires: April 1, 2024
 
 ### [Research Infrastructure in the Social and Behavioral Sciences (RISBS)](https://new.nsf.gov/funding/opportunities/research-infrastructure-social-behavioral-sciences){target="_blank"}
 * Supports projects that create computational tools and data to facilitate basic research in the social and behavioral sciences that can lead to improved health, prosperity and security. The RISBS program administers separate solicitations for the American National Election Study (ANES), the General Social Survey (GSS) and the Panel Study of Income Dynamics (PSID).
@@ -142,7 +143,6 @@ format: html
 * Supports research to develop fundamental knowledge about principles, processes and mechanisms of learning and about augmented intelligence — how human cognitive function can be augmented through interactions with others and technology.
 * Deadline: February 14, 2024 and August 7, 2024 (recurring annually) <!-- on the second Wed in Feb and the first Wed in August)-->
 
-
 ### [Research on Innovative Technologies for Enhanced Learning (RITEL)](https://new.nsf.gov/funding/opportunities/research-innovative-technologies-enhanced-learning){target="_blank"}
 * Supports early-stage research in emerging technologies such as AI, robotics and immersive or augmenting technologies for teaching and learning that respond to pressing needs in real-world educational environments.
 * Deadline: January 24, 2024; November 5, 2024; November 4, 2025
@@ -150,13 +150,12 @@ format: html
 
 ### [Ethical and Responsible Research (ER2)](https://new.nsf.gov/funding/opportunities/ethical-responsible-research-er2){target="_blank"}
 * Supports research on what constitutes and promotes responsible research conduct and how to instill that knowledge in researchers, practitioners and educators across all career stages.
-* Deadline: January 25, 2024; fourth Thursday annually thereafter
+* Deadline: January 25, 2024; fourth Thursday in January annually thereafter
 * Award
   + Conference Projects: $50K and a maximum duration of 12 months.
   + Incubation Projects: $90K and a maximum duration of 12 months.
   + Research Grants: $400K and a maximum duration of 3 years.
   + Institutional Transformation Research Grants: $700K and a maximum duration of 5 years.
-
 
 ### [Incorporating Human Behavior in Epidemiological Models (IHBEM)](https://new.nsf.gov/funding/opportunities/incorporating-human-behavior-epidemiological-0){target="_blank"}
 * Supports research that incorporates research on social and behavioral processes in mathematical epidemiological models. The program provides support for projects that involve balanced participation from the mathematical sciences and from the social, behavioral, and economic sciences.
@@ -183,8 +182,8 @@ format: html
 * Award: Unspecified
 
 ### [Collaborative Research in Computational Neuroscience (CRCNS)](https://new.nsf.gov/funding/opportunities/collaborative-research-computational-neuroscience){target="_blank"}
-* Supports collaborative activities that span a broad spectrum of computational neuroscience research, as appropriate to the missions and strategic objectives of each agency.
-* Deadine: March 7, 2024; November 13, 2024; November 12, 2025
+* Supports innovative approaches to science and engineering research on brain function, specifically collaborative activities that span a broad spectrum of computational neuroscience research, as appropriate to the missions and strategic objectives of each agency.
+* Deadline: March 7, 2024; November 13, 2024; November 12, 2025
 * Award: $250K/year for durations of three to five years
 
 ### [Emerging Mathematics in Biology (eMB)](https://new.nsf.gov/funding/opportunities/emerging-mathematics-biology-emb){target="_blank"}
@@ -201,7 +200,7 @@ format: html
   + Robotics
   + Biomedical Image interpretation
   + Unpacking Health Disparities and Health Equity
-* Deadline: October 3, 2024
+* Deadline: October 3, 2024; October 3, 2025
 * Award: $300K/year (total) for durations up to four years
 <!--* [DELPHI and DHI Townhall on Aug 31 at 10:30 am](https://utah.zoom.us/j/93613638947?pwd=MFB0RHRoemR2UUpUcVRXbGVmajY0dz09){target="_blank"}, [NIH/NSF Webinar on Sept 25 at 1pm](https://nsf.zoomgov.com/webinar/register/WN_ctCzc3alRQyXZAX0rS1Fww){target="_blank"}-->
 
@@ -225,7 +224,7 @@ format: html
 
 ### [Expeditions in Computing (Expeditions)](https://new.nsf.gov/funding/opportunities/expeditions-computing-expeditions){target="_blank"}
 *   Supports long-term, multi-institutional research with the potential to transform computer and information science and engineering.
-*   Deadline: *Preliminary Proposal* June 19, 2024, *Full Proposal* March 31, 2025, recurring every other year
+*   Deadline: *Preliminary Proposal* June 19, 2024, June 19, 2026; *Full Proposal* March 31, 2025, March 31, 2027
 *   Award: \$15M for durations up to seven years
 
 ### [CyberCorps Scholarship for Service (SFS)](https://new.nsf.gov/funding/opportunities/cybercorps-scholarship-service-sfs-0){target="_blank"}
@@ -290,4 +289,4 @@ format: html
 * [Fairness, Ethics, Accountability, and Transparency: Enabling Breakthrough Research to Expand Inclusivity in Computer and Information Science and Engineering Research](https://www.nsf.gov/pubs/2019/nsf19016/nsf19016.jsp){target="_blank"} <!-- Nov 2, 2018 -->
 
 
-Updated December 21, 2023.
+Updated December 27, 2023.

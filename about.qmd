@@ -33,4 +33,5 @@ Data science can help researchers distill the vast amount of data through the in
   + Deepen integration with our community and local industry, including through training of a data workforce
   + Expand funding of and resources for data science
 
-![IMAG Poster](images/OUDSH_Poster_IMAG_MSM.png)
+<!-- ![IMAG Poster](images/OUDSH_Poster_IMAG_MSM.png) -->
+![1UDSH One Pager](images/1UDSH_OnePager_Nov2023.png)
