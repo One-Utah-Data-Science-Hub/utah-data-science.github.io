@@ -41,6 +41,14 @@ for (i in 1:nrow(data)){
       link_string<-paste(link_string,'[{{< fa brands twitter >}}](',data$Social_Twitter[i],'){target="_blank"} ',sep="")
     }
   }
+  if (!is.na(data$Social_LinkedIn[i])){
+    if (!startsWith(data$Social_LinkedIn[i], "http")){
+      link_string<-paste(link_string,'[{{< fa brands linkedin >}}](https://www.linkedin.com/in/',data$Social_LinkedIn[i],'){target="_blank"} ',sep="")
+    }
+    else {
+      link_string<-paste(link_string,'[{{< fa brands linkedin >}}](',data$Social_LinkedIn[i],'){target="_blank"} ',sep="")
+    }
+  }
   if (!is.na(data$Website[i])){
     if (startsWith(data$Website[i],'www')){
       data$Website[i] <- paste('http://',data$Website[i],sep="")
