@@ -89,31 +89,6 @@ title: "NIH Funding Opportunities"
 
 
 ## Research Grants - R01 Activities
-### [Computational Approaches to Curation at Scale for Biomedical Research Assets](https://grants.nih.gov/grants/guide/pa-files/PAR-20-304.html){target="_blank"}
-* Supports the availability of and access to secure, complete data sets and computational models that can serve as the basis of transformative biomedical discoveries by improving the speed and scope of the curation processes.
-* Deadline: January 6, 2024 (LOI), February 5, 2024 (Proposal)
-* Award: R01, $250K/year (direct) for durations up to four years
-
-### [Leveraging Health Information Technology (Health IT) to Address and Reduce Health Care Disparities](https://grants.nih.gov/grants/guide/pa-files/PAR-22-145.html){target="_blank"}
-* Supports research that examines the impact of leveraging health information technology (health IT) to reduce disparities in access to and utilization of health care services, patient-clinician communication, and health outcomes for populations that experience health disparities in the U.S.
-* Deadline: January 6, 2024 (LOI), February 5, 2024 (Proposal); annually in February, June, and October through Feb 2025
-* Award: R01, budget must align with the project scope, for durations up to five years
-
-### [Accelerating the Pace of Child Health Research Using Existing Data from the Adolescent Brain Cognitive Development (ABCD) Study](https://grants.nih.gov/grants/guide/pa-files/PAR-22-137.html){target="_blank"}
-* Supports the  analysis of the Adolescent Brain Cognitive Development (ABCD) dataset to increase knowledge of adolescent health and development. 
-* Deadline: January 6, 2024 (LOI), February 5, 2024 (Proposal); annually in February, June, October through Feb 2025
-* Award: R01, $250K/year (direct) for durations up to five years ([R21](https://grants.nih.gov/grants/guide/pa-files/PAR-22-138.html){target="_blank"} also available)
-
-### [NLM Research Grants in Biomedical Informatics and Data Science](https://grants.nih.gov/grants/guide/pa-files/PAR-23-034.html){target="_blank"}
-* Supports innovative research and development in biomedical informatics and data science. This funding opportunity focuses on biomedical discovery and data-powered health, integrating streams of complex and interconnected research outputs that can be translated into scientific insights, clinical care, public health practices, and personal wellness.
-* Deadline: January 6, 2024 (LOI), February 5, 2024 (Proposal); annually in February, June, and October through 2025
-* Award: R01, $250K/year (direct) for durations up to four years
-
-### [Secondary Analysis and Integration of Existing Data to Elucidate Cancer Risk and Related Outcomes](https://grants.nih.gov/grants/guide/pa-files/PAR-23-254.html){target="_blank"}
-* Supports secondary data analysis and integration of existing datasets and database resources, with the ultimate aim to elucidate cancer risk and related outcomes (e.g., risk prediction or reduction, survival, or response to treatment, etc.). 
-* Deadline: January 6, 2024 (LOI), February 5, 2024 (Proposal); recurring annually in February, June, and October through June 2026
-* Award: R01, $350K/year (direct) for durations of up to five years ([R21](https://grants.nih.gov/grants/guide/pa-files/PAR-23-255.html){target="_blank"} also available)
-
 ### [Investigator Initiated Research in Computational Genomics and Data Science](https://grants.nih.gov/grants/guide/pa-files/PAR-21-254.html){target="_blank"}
 * Supports a broad range of research efforts in computational genomics, data science, statistics, and bioinformatics relevant to one or both of basic or clinical genomic science, and broadly applicable to human health and disease. 
 * Deadline: February 5, 2024, recurring June 5, 2024
@@ -159,6 +134,26 @@ title: "NIH Funding Opportunities"
 * Deadline: May 28, 2024 (LOI), June 28, 2024 (Proposal), recurring on October 2, 2024
 * Award: R01, approximately $750K/year for durations up to five years
 
+### [Leveraging Health Information Technology (Health IT) to Address and Reduce Health Care Disparities](https://grants.nih.gov/grants/guide/pa-files/PAR-22-145.html){target="_blank"}
+* Supports research that examines the impact of leveraging health information technology (health IT) to reduce disparities in access to and utilization of health care services, patient-clinician communication, and health outcomes for populations that experience health disparities in the U.S.
+* Deadline: May 6, 2024 (LOI), June 5, 2024 (Proposal); annually in February, June, and October through Feb 2025
+* Award: R01, budget must align with the project scope, for durations up to five years
+
+### [Accelerating the Pace of Child Health Research Using Existing Data from the Adolescent Brain Cognitive Development (ABCD) Study](https://grants.nih.gov/grants/guide/pa-files/PAR-22-137.html){target="_blank"}
+* Supports the  analysis of the Adolescent Brain Cognitive Development (ABCD) dataset to increase knowledge of adolescent health and development. 
+* Deadline: May 6, 2024 (LOI), June 5, 2024 (Proposal); annually in February, June, October through Feb 2025
+* Award: R01, $250K/year (direct) for durations up to five years ([R21](https://grants.nih.gov/grants/guide/pa-files/PAR-22-138.html){target="_blank"} also available)
+
+### [NLM Research Grants in Biomedical Informatics and Data Science](https://grants.nih.gov/grants/guide/pa-files/PAR-23-034.html){target="_blank"}
+* Supports innovative research and development in biomedical informatics and data science. This funding opportunity focuses on biomedical discovery and data-powered health, integrating streams of complex and interconnected research outputs that can be translated into scientific insights, clinical care, public health practices, and personal wellness.
+* Deadline: May 6, 2024 (LOI), June 5, 2024 (Proposal); annually in February, June, and October through 2025
+* Award: R01, $250K/year (direct) for durations up to four years
+
+### [Secondary Analysis and Integration of Existing Data to Elucidate Cancer Risk and Related Outcomes](https://grants.nih.gov/grants/guide/pa-files/PAR-23-254.html){target="_blank"}
+* Supports secondary data analysis and integration of existing datasets and database resources, with the ultimate aim to elucidate cancer risk and related outcomes (e.g., risk prediction or reduction, survival, or response to treatment, etc.). 
+* Deadline: January 6, 2024 (LOI), February 5, 2024 (Proposal); recurring annually in February, June, and October through June 2026
+* Award: R01, $350K/year (direct) for durations of up to five years ([R21](https://grants.nih.gov/grants/guide/pa-files/PAR-23-255.html){target="_blank"} also available)
+
 ### [Advancing Genomic Medicine Research](https://grants.nih.gov/grants/guide/rfa-files/RFA-HG-23-032.html){target="_blank"}
 * Supports proposals that stimulate innovation and advance understanding of when, where, and how best to implement the use and sharing of genomic information and technologies in clinical care  provided to all persons irrespective of racial/ethnic background or socioeconomic status.
 * Deadline: July 8, 2024; February 11, 2025
@@ -177,11 +172,6 @@ title: "NIH Funding Opportunities"
 
 
 ## Research Grants - Other Activities
-### [Education Activities for Responsible Analyses of Complex, Large-Scale Data](https://grants.nih.gov/grants/guide/rfa-files/RFA-DA-24-027.html){target="_blank"}
-* Supports research education activities in the mission areas of the NIH. The overarching goal of this NIDA R25 program is to support training and educational activities for responsible analyses of complex large-scale data involving brain, behavioral, genomic, and socioenvironmental data that complement and/or enhance the training of a workforce to meet the nation's biomedical, behavioral, and clinical research needs.
-* Deadline: January 8, 2024 (LOI), February 8, 2024 (Full Proposal)
-* Award: R25, $300K/year (direct) for durations up to three years
-
 ### [Research on Bioethical Issues Related to Bionic and Robotic Device Development and Translation](https://grants.nih.gov/grants/guide/rfa-files/RFA-EB-23-005.html){target="_blank"}
 * Supports greater integration of bioethics within research and develop a robust bioethics research evidentiary base to inform policy and program decision-making.
 * Deadline: January 26, 2024
@@ -240,6 +230,11 @@ title: "NIH Funding Opportunities"
 
 
 ## Other Activities
+### [Discovery of the Genetic Basis of Childhood Cancers and of Structural Birth Defects: Gabriella Miller Kids First Pediatric Research Program](https://grants.nih.gov/grants/guide/pa-files/PAR-24-082.html){target="_blank"}
+* Supports applications to submit samples from pediatric cohorts for whole genome sequencing at a Kids First Program supported sequencing centers. 
+* Deadline: February 13, 2024 (LOI), March 13, 2024 (Proposal)
+* Award: X01, whole genome sequencing of pediatric cohorts within one year
+
 ### [Diagnostic Centers of Excellence](https://grants.nih.gov/grants/guide/pa-files/PAR-23-171.html){target="_blank"}
 * Supports access to resources provided by the Data Management Coordinating Center for Diagnostic Centers of Excellence (RFA-NS-22-051), as part of the next phase of the Undiagnosed Diseases Network. 
 * Deadline: April 15, 2024 (LOI), May 15, 2024 (Proposal); May 15, 2025
@@ -283,4 +278,4 @@ title: "NIH Funding Opportunities"
 
 * [NIH Office for Data Science Strategy](https://datascience.nih.gov/research-and-training-funding){target="_blank"} list of funding opportunities.
 
-Updated January 2, 2024.
+Updated January 10, 2024.

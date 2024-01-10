@@ -162,6 +162,11 @@ format: html
 * Award: F99/K00, covers stipends, tuition, fees, and institutional allowance for durations up to six years (F99 for two years, K00 for four years).
 
 ## Research Grants - R01 Activities
+### [Computational Approaches to Curation at Scale for Biomedical Research Assets](https://grants.nih.gov/grants/guide/pa-files/PAR-20-304.html){target="_blank"}
+* Supports the availability of and access to secure, complete data sets and computational models that can serve as the basis of transformative biomedical discoveries by improving the speed and scope of the curation processes.
+* Deadline: January 6, 2024 (LOI), February 5, 2024 (Proposal)
+* Award: R01, $250K/year (direct) for durations up to four years
+
 ### [Accelerating the Pace of Drug Abuse Research Using Existing Data](https://grants.nih.gov/grants/guide/rfa-files/RFA-DA-22-037.html){target="_blank"}
 * Supports the  analysis of the Adolescent Brain Cognitive Development (ABCD) dataset to increase knowledge of adolescent health and development. 
 * Deadline: November 15, 2023 (LOI due 1 month prior), annually in March, August, November through 2024
@@ -193,6 +198,11 @@ format: html
 * Award: R01, $250K/year for durations up to four years
 
 ## Research Grants - Other Activities
+### [Education Activities for Responsible Analyses of Complex, Large-Scale Data](https://grants.nih.gov/grants/guide/rfa-files/RFA-DA-24-027.html){target="_blank"}
+* Supports research education activities in the mission areas of the NIH. The overarching goal of this NIDA R25 program is to support training and educational activities for responsible analyses of complex large-scale data involving brain, behavioral, genomic, and socioenvironmental data that complement and/or enhance the training of a workforce to meet the nation's biomedical, behavioral, and clinical research needs.
+* Deadline: January 8, 2024 (LOI), February 8, 2024 (Full Proposal)
+* Award: R25, $300K/year (direct) for durations up to three years
+
 ### [Precision HIV Health: Integrating Data and Implementation Science to Accelerate HIV Prevention and Treatment](https://grants.nih.gov/grants/guide/rfa-files/RFA-MH-24-100.html){target="_blank"}
 * Supports participatory data science and implementation science research to accelerate the implementation of more targeted and sustainable HIV interventions with the goals of (1) using data science methods to model complex systems, including social and structural determinants of health, to identify more targeted HIV prevention, treatment, and care interventions and implementation strategies; (2) using novel measurement approaches and modern statistical methods to evaluate the implementation of data-driven discoveries; (3) integrating meaningful engagement of community and implementing partners at every stage of the research.
 * Deadline: November 22, 2023 (LOI due 1 month prior)

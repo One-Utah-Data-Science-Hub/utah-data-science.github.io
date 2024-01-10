@@ -42,6 +42,7 @@ editor: source
 * [Data Resources in Polycystic Kidney Disease](https://pkdcure.org/research-medical-professionals/data-resources-in-pkd-research/){target="_blank"}
 
 ## Common Fund Datasets
+* [Common Fund Data Ecosystem Search Portal](https://app.nih-cfde.org/){target="_blank"}
 * 4D Nucleome (4DN): Reference nucleomics and imaging data sets, including an expanding tool set for open data processing and visualization
 * Extracellular RNA Communication (exRNA): Catalog of exRNA molecules found in human biofluids like plasma, saliva, and urine; and potential exRNA biomarkers for diseases
 * Gabriella First Kids First (KF): Data from whole-genome sequencing of cohorts with structural birth defects and/or susceptibility to childhood cancer, with associated phenotypic and clinical data

@@ -87,6 +87,11 @@ format: html
 * Deadline: March 15, 2024
 * Award: $250K-$1M for durations up to three years
 
+### [Responsible Design, Development, and Deployment of Technologies (ReDDDoT)](https://new.nsf.gov/funding/opportunities/responsible-design-development-deployment){target="_blank"}
+* Supports multidisciplinary, multi-sector teams that examine and demonstrate the principles, methodologies, implementations, and impacts associated with responsible design, development, and deployment of technologies in practice, focusing especially on the key technologies specified in Section 10387 of the [CHIPS and Science Act of 2022](https://www.congress.gov/bill/117th-congress/house-bill/4346/text){target="_blank"}. 
+* Deadline: April 8, 2024 (Phase 1: Planning Grants, Translational Research Coordination Networks, Workshops); April 22, 204 (Phase 2: Project Proposals)
+* Award: $300K for durations up to 2 years for Planning Grants; $500K for durations of 3-4 years for Translational Research Coordination Networks; $75K for Workshops; $750K-$1.5M for durations of 3 years for Project Proposals
+
 ### [Cyber-Physical Systems (CPS)](https://new.nsf.gov/funding/opportunities/cyber-physical-systems-cps){target="_blank"}
 * Supports research on engineered systems with a seamless integration of cyber and physical components, such as computation, control, networking, learning, autonomy, security, privacy and verification, for a range of application domains.
   + *Small Projects* $500K for durations up to three years; rolling deadline through May 30, 2024
@@ -266,6 +271,8 @@ format: html
 
 
 ### Dear Colleague Letters
+* [Funding Opportunities for Engineering Research in Artificial Intelligence](https://www.nsf.gov/pubs/2024/nsf24039/nsf24039.jsp){target="_blank"} <!-- December 22, 2023 -->
+
 * [Broadening Participation in Computing (BPC) Supplemental Funding in Computer and Information Science and Engineering](https://www.nsf.gov/pubs/2024/nsf24030/nsf24030.jsp){target="_blank"} recommended submission prior to March 31 each year. <!-- December 5, 2023 -->
 
 * [Advancing education for the future AI workforce (EducateAI)](https://www.nsf.gov/pubs/2024/nsf24025/nsf24025.jsp){target="_blank"} With this Dear Colleague Letter (DCL), EDU and CISE encourage the submission of novel and high impact proposals that advance inclusive computing education that prepares preK-12 and undergraduate students for the AI workforce.<!-- December 1, 2023-->
@@ -289,4 +296,4 @@ format: html
 * [Fairness, Ethics, Accountability, and Transparency: Enabling Breakthrough Research to Expand Inclusivity in Computer and Information Science and Engineering Research](https://www.nsf.gov/pubs/2019/nsf19016/nsf19016.jsp){target="_blank"} <!-- Nov 2, 2018 -->
 
 
-Updated December 27, 2023.
+Updated January 10, 2024.
