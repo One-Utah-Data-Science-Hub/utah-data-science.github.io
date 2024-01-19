@@ -281,6 +281,20 @@ format: html
 
 
 # NSF Funding Opportunities
+
+### [Safe Learning-Enabled Systems](https://new.nsf.gov/funding/opportunities/safe-learning-enabled-systems){target="_blank"}
+*   Supports foundational research that leads to the design and implementation of learning-enabled systems in which safety is ensured with high levels of confidence.
+    *   *Foundation* Projects
+    *   *Synergy* Projects
+*   Deadline: January 16, 2024
+*   Award: *Foundation* \$800K for durations up to three years; *Synergy* \$1.5M for durations up to four years
+
+### [Synthesis Center for Understanding Organismal Resilience](https://new.nsf.gov/funding/opportunities/synthesis-center-understanding-organismal){target="_blank"}
+* Supports the establishment of a new Synthesis Center focused on organismal resilience and plasticity as well as training new generations of researchers in data-intensive, open, cross-disciplinary and collaborative science.
+* Deadline: January 12, 2024 (Preliminary); July 15, 2024 (Full Proposal)
+* Award: $20M over five years
+<!-- * [UofU Townhall on May 24 at 4pm](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NXFrMzhpOWl2bHU5cnU5ajVxdDI0dWswcGMgY2Y0ZDA4OThhMjJiMmQxOTY5NzU1ZDRiYmU3NzA2M2U4MGVhNDgxMGEyNGEyYTI0ZWQ4NDAwM2IyMjU0NGY1NEBn&tmsrc=cf4d0898a22b2d1969755d4bbe77063e80ea4810a24a2a24ed84003b22544f54%40group.calendar.google.com){target="_blank"} -->
+
 ### [Ideas Lab: Personalized Engineering Learning (PEL)](https://new.nsf.gov/funding/opportunities/ideas-lab-personalized-engineering-learning-pel){target="_blank"}
 * The goal of the Personalized Engineering Learning Ideas Lab is to extend engineering education research to enable advanced personalization in pedagogy and assessment in a K-12 or higher education context. The following broad areas have been identified as possible avenues to advance knowledge: personalized engineering education, multimodal sensing for personalized learning systems and team-based personalized learning.
 * Deadline: November 29, 2023 (Preliminary Proposal); May 8, 2024 (Full Proposal)
@@ -544,6 +558,15 @@ format: html
 
 
 # Governmental Funding Opportunities
+### [NASA ROSES: Heliophysics Artificial Intelligence/Machine Learning-Ready Data](https://nspires.nasaprs.com/external/solicitations/summary.do?solId=%7B8721DD55-91A7-4355-4EFB-9224A6C9462A%7D){target="_blank"}
+-   Supports the advancement of the goals and objectives of NASA Heliophysics by developing new tools and methods for the generation of AI/ML-ready datasets from existing research and mission data.
+-   Deadline: January 18, 2024 (Step 1, preliminary proposal); April 18, 2024 (Step 2, full proposal); repeated annually
+-   Award: Dependent on scope of project
+
+### [I-ARPA Bias Effects and Notable Generative AI Limitations (BENGAL) Targeted Super Seedling Research Topics](https://sam.gov/opp/affad5d251934a2a8c4c8e4c9f33433d/view){target="_blank"}
+-   Supports new capabilities to enable the safe adoption and use of generative AI technologies to greatly enhance the effectiveness and efficiency of the Intelligence Community (IC). The goal of the BENGAL targeted super seedling is to understand LLM threat modes, quantify them and to find novel methods to correct threats and vulnerabilities or to work resiliently with imperfect models.
+-   Deadline: January 19, 2024 (ENCOURAGED: white papers due December 5, 2023)
+
 ### [ARPA-H: Biomedical Data Fabric Toolbox](https://sam.gov/opp/d4d90aff105c4ffebe264a47642deef3/view){target="_blank"}
 -   Supports innovative proposals for research and development (R&D) in data integration and usability technologies. Proposed R&D should investigate innovative software approaches that enable revolutionary advances in the collection and usability of biomedical datasets that originate from thousands of different research labs, clinical care centers, and other sources of data in order to accelerate technical innovation across the health ecosystem.
 -   Deadline: November 28, 2023
@@ -685,7 +708,7 @@ format: html
 * Deadline: May 8, 2023
 
 ## Challenges, Awards, and Other Opportunities
-
+-   [The FTC Voice Cloning Challenge](https://www.ftc.gov/news-events/contests/ftc-voice-cloning-challenge){target="_blank"} supports the development of multidisciplinary approaches---from products to policies to procedures---aimed at protecting consumers from AI-enabled voice cloning harms, such as fraud and the broader misuse of biometric data and creative content. The goal of the Challenge is to foster breakthrough ideas on preventing, monitoring, and evaluating malicious voice cloning. Abstracts and detailed explanations due January 12, 2024.
 -   [Open AI Preparedness Challenge](https://openai.com/form/preparedness-challenge){target="_blank"} responses will be accepted on a rolling basis through December 31, 2023. We will offer \$25,000 each in API credits to up to 10 top submissions, publish novel ideas and entries, and look for candidates for Preparedness from among the top contenders in this challenge.
 -   Two Traineeship Opportunities with AIM-AHEAD, applications due date EXTENDED to December 11, 2023.
     -   [Traineeship in Advanced Data Analysis using the All of Us Clinical Database](https://www.aim-ahead.net/data-science-training-core/aim-ahead-all-of-us-training-program/){target="_blank"}

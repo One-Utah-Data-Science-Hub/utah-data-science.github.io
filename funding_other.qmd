@@ -26,10 +26,21 @@ editor: visual
 -   Deadline: Rolling for one year until budget of \$1M is depleted <!-- August 2024 -->
 -   Application should take no more than 3 hours!
 
+### [Motorola Solutions Foundation Grants](https://www.motorolasolutions.com/en_us/about/motorola-solutions-foundation/annual-grants.html){target="_blank"}
+* Technology & engineering education - From engaging students through hands-on engineering activities like design, coding and robotics to providing scholarship and workforce placement for underrepresented groups, we’re committed to creating opportunities for future innovators.
+* Deadline: February 1, 2024
+* Award: $50,000
+* Please contact [Gwen Allouch](mailto:gwen.allouch@hsc.utah.edu) if you are interested in applying to this opportunity. 
+
 ### [Predictors of Vaccine Efficacy: Identifying Correlates of Protection](https://wellcome.org/grant-funding/schemes/correlates-protection-for-vaccine-development){target="_blank"}
 * Supports research teams to establish or validate correlates of protection across 11 diseases with the potential to cause substantial outbreaks or which have significant burden, and have no licenced vaccines. 
 * Deadline: February 6, 2024 (Preliminary Application), May 21, 2024 (Full Invited Proposal)
 * Award: £5M for durations up to three years
+
+### [OpenAI Superalignment Fast Grants](https://openai.com/blog/superalignment-fast-grants){target="_blank"}
+* Supports technical research towards ensuring superhuman AI systems are aligned and safe, through partnership with Eric Schmidt
+* Deadline: February 18, 2024
+* Award: $100K–$2M grants for academic labs, nonprofits, and individual researchers; $150K OpenAI Superalignment Fellowship ($75K in stipend and $75K in compute and research funding) for graduate students
 
 <!--## Industry Funding Opportunities-->
 
@@ -54,15 +65,6 @@ editor: visual
 -   Deadline: Rolling, expires March 14, 2024
 -   Award: Unspecified, budget must be align with the project scope
 
-### [NASA ROSES: Heliophysics Artificial Intelligence/Machine Learning-Ready Data](https://nspires.nasaprs.com/external/solicitations/summary.do?solId=%7B8721DD55-91A7-4355-4EFB-9224A6C9462A%7D){target="_blank"}
--   Supports the advancement of the goals and objectives of NASA Heliophysics by developing new tools and methods for the generation of AI/ML-ready datasets from existing research and mission data.
--   Deadline: January 18, 2024 (Step 1, preliminary proposal); April 18, 2024 (Step 2, full proposal); repeated annually
--   Award: Dependent on scope of project
-
-### [I-ARPA Bias Effects and Notable Generative AI Limitations (BENGAL) Targeted Super Seedling Research Topics](https://sam.gov/opp/affad5d251934a2a8c4c8e4c9f33433d/view){target="_blank"}
--   Supports new capabilities to enable the safe adoption and use of generative AI technologies to greatly enhance the effectiveness and efficiency of the Intelligence Community (IC). The goal of the BENGAL targeted super seedling is to understand LLM threat modes, quantify them and to find novel methods to correct threats and vulnerabilities or to work resiliently with imperfect models.
--   Deadline: January 19, 2024 (ENCOURAGED: white papers due December 5, 2023)
-
 ### [I-ARPA Securing Our Underlying Resources in Cyber Environments (SoURCE CODE) Program](https://sam.gov/opp/fba8e8b62bbf437da4ca1db186b0a7dd/view){target="_blank"}
 -   Supports novel technologies to assist forensic experts in making determinations of the most likely attackers, based on coding styles. The program will explore full feature spaces in binary code and source code files to measure the similarity between files and provide information to forensic experts to the likely origins (country, groups, individuals, etc.).
 -   Deadline: January 22, 2024
@@ -76,6 +78,11 @@ editor: visual
 -   Supports humanities research centers on artificial intelligence (AI) focused on better understanding the ethical, legal, or societal implications of AI. Avery Holton will be the PI for the University of Utah Proposal.
 -   Deadline: February 14, 2024
 -   Award: \$500K
+
+### [Establishing Qualification Processes for Agile Pharmaceutical Manufacturing (EQUIP-A-Pharma)](https://sam.gov/opp/4ad34752d4cc466fb9ac67e0c5c31941/view){target="_blank"}
+* Supports development of an informatics-based models to create a real-time digital regulatory approval framework for qualification of pharmaceuticals produced in an agile pharmaceutical manufacturing platform.
+* Deadline: February 28, 2024
+* Award: $500K
 
 ### [DoD and AirForce: Geospatial Intelligence Processing and Exploitation (GeoPEX)](https://sam.gov/opp/f6dac217c58545578b6dff242335e997/view){target="_blank"}
 * Supports research, development, integration, test and evaluation of technologies/techniques to provide geospatial intelligence (GEOINT) in all its forms and from whatever source to ensure a solid foundation of knowledge for planning, decision, and action while creating tailored, customer-specific geospatial intelligence, analytic services, and solutions.
@@ -97,8 +104,6 @@ editor: visual
     -   Stakeholder Engagement
     -   Artificial Intelligence
 
--   [The FTC Voice Cloning Challenge](https://www.ftc.gov/news-events/contests/ftc-voice-cloning-challenge){target="_blank"} supports the development of multidisciplinary approaches---from products to policies to procedures---aimed at protecting consumers from AI-enabled voice cloning harms, such as fraud and the broader misuse of biometric data and creative content. The goal of the Challenge is to foster breakthrough ideas on preventing, monitoring, and evaluating malicious voice cloning. Abstracts and detailed explanations due January 12, 2024.
-
 - [Cyber Defensive Capability Performance Measurement Development Challenge](https://www.challenge.gov/?challenge=cyber-defensive-capability-performance-measurement-development-challenge){target="_blank"} seeks undergraduate and graduate students to develop algorithms to measure a system’s ability to maintain critical functionality during a cyberspace attack from Advanced Persistent Threat (APT) actors. The developed algorithms are to: (a) measure the effectiveness of a system’s cyber defensive capabilities against full spectrum cyber threats, and (b) calculate the cyber resiliency of the system based on given system architecture, critical functions, and the defined cyber APTs. Phase 1 open until January 26, 2024, $125K in total prizes.
 
 - [NIH Pioneering Research for Early Prediction of Alzheimer's Disease & Related Dementias (PREPARE) Challenge](https://www.challenge.gov/?challenge=prepare-challenge){target="_blank"} seeks to advance solutions for accurate, innovative, and representative early prediction of AD/ADRD through three challenge phases that successively build on each other. Phase 1 open until January 31, 2024, $650K in total prizes.
@@ -109,4 +114,4 @@ editor: visual
 
 <!--## Policy and Engagement -->
 
-Updated January 2, 2024.
+Updated January 18, 2024.

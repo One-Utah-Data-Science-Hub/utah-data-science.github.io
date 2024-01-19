@@ -207,6 +207,11 @@ title: "NIH Funding Opportunities"
 * Deadline: February 14, 2024 (LOI), March 14, 2024 (Proposal)
 * Award: R61/R33, budget must align with the project scope, for durations up to five years (2 years for R61, 3 years for R33)
 
+### [Solutions to Enable Regional Genomic Medicine eConsult Services](https://grants.nih.gov/grants/guide/pa-files/PAR-24-106.html){target="_blank"}
+* Supports Small Business Technology Transfer (STTR)/Small Business Innovation Research (SBIR) grant applications from small businesses to develop innovative solutions for commercialization that would enable regional genomic medicine eConsult Services.
+* Deadline: April 30, 2024 (LOI), May 30, 2024 (Proposal)
+* Award: [R41/R42](https://grants.nih.gov/grants/guide/pa-files/PAR-24-107.html){target="_blank"} or [R43/44](https://grants.nih.gov/grants/guide/pa-files/PAR-24-106.html){target="_blank"}; $400K (total) for durations up to two years for Phase I, $2.15M (total) for durations up to three years for Phase II
+
 ### [Research Experience in Genomic Research for Data Scientists](https://grants.nih.gov/grants/guide/pa-files/PAR-21-075.html){target="_blank"}
 * Supports educational activities that encourage individuals from diverse backgrounds, including those from groups underrepresented in the biomedical and behavioral sciences, to pursue further studies or careers in research.
 * Deadline: [Anticipated May 2024](https://www.genome.gov/sites/default/files/media/files/2023-09/Genomic_Research_Experiences_for_Data_Scientists_R25_PAR.pdf){target="_blank"}
@@ -250,6 +255,7 @@ title: "NIH Funding Opportunities"
 <!-- * [](https://grants.nih.gov/grants/guide/notice-files/NOT-CA-24-002.html){target="_blank"} expires -->
 * [**Request for Information** Best Practices for Sharing NIH Supported Research Software](https://datascience.nih.gov/rfi-software){target="_blank"} expires February 1, 2024.
 * [**Administrative Supplements** for R25 Data Science Training for Infectious and Immune-mediated Disease Research](https://grants.nih.gov/grants/guide/notice-files/NOT-AI-23-010.html) expires February 14, 2024.
+* [**Request for Information** Increasing the usability of Common Fund data resources by researchers from underrepresented groups](https://grants.nih.gov/grants/guide/notice-files/NOT-RM-24-001.html){target="_blank"} expires February 29, 2024.
 * [**Request for Information** Inviting Comments on the National Institutes of Health (NIH) Strategic Plan for Data Science 2023-2028](https://grants.nih.gov/grants/guide/notice-files/NOT-OD-24-037.html) due by March 15, 2024. The updated Strategic Plan will accomplish five overarching goals:
   + Goal 1: Improve Capabilities to Sustain the NIH Policy for Data Management and Sharing
   + Goal 2: Develop Programs to Enhance Human Derived Data for Research
@@ -278,4 +284,4 @@ title: "NIH Funding Opportunities"
 
 * [NIH Office for Data Science Strategy](https://datascience.nih.gov/research-and-training-funding){target="_blank"} list of funding opportunities.
 
-Updated January 10, 2024.
+Updated January 18, 2024.

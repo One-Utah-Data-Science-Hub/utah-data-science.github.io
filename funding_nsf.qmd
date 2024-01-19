@@ -60,20 +60,6 @@ format: html
 
 
 ## Upcoming Proposal Deadlines
-### [Synthesis Center for Understanding Organismal Resilience](https://new.nsf.gov/funding/opportunities/synthesis-center-understanding-organismal){target="_blank"}
-* Supports the establishment of a new Synthesis Center focused on organismal resilience and plasticity as well as training new generations of researchers in data-intensive, open, cross-disciplinary and collaborative science.
-* Deadline: January 12, 2024 (Preliminary); July 15, 2024 (Full Proposal)
-* Award: $20M over five years
-<!-- * [UofU Townhall on May 24 at 4pm](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NXFrMzhpOWl2bHU5cnU5ajVxdDI0dWswcGMgY2Y0ZDA4OThhMjJiMmQxOTY5NzU1ZDRiYmU3NzA2M2U4MGVhNDgxMGEyNGEyYTI0ZWQ4NDAwM2IyMjU0NGY1NEBn&tmsrc=cf4d0898a22b2d1969755d4bbe77063e80ea4810a24a2a24ed84003b22544f54%40group.calendar.google.com){target="_blank"} -->
-
-### [Emerging Frontiers in Research and Innovation (EFRI-2024/25): Biocomputing through EnGINeering Organoid Intelligence (BEGIN OI)](https://new.nsf.gov/funding/opportunities/emerging-frontiers-research-innovation-efri){target="_blank"}
-* Supports foundational and transformative research to advance the design, engineering, and fabrication of organoid systems that are capable of processing information dynamically while interfacing with non-living systems.
-  + Research Thread 1: Biocomputing Theory and Modelling
-  + Research Thread 2: Biology-Integrated Culture Maintenance and Hardware Systems
-  + Research Thread 3: Ethical, Legal, and Social Implications (ELSI)
-* Deadline: January 17, 2024 (LOI), February 22, 2024 (Full Proposal); repeats with LOI due September 12, 2024
-* Award: $2M for durations up to four years
-
 ### [Cybersecurity Innovation for Cyberinfrastructure (CICI)](https://new.nsf.gov/funding/opportunities/cybersecurity-innovation-cyberinfrastructure-cici){target="_blank"}
 *   Supports work that enables scientists and scientific discovery by improving the security, robustness, and trustworthiness of cyberinfrastructure.
     *   *Usable and Collaborative Security for Science (UCSS)*: Projects in this program area should support novel and/or applied security and usability research that facilitates scientific collaboration, encourages the adoption of security into the scientific workflow, and helps create a holistic, integrated security environment that spans the entire scientific cyberinfrastructure ecosystem.
@@ -88,7 +74,7 @@ format: html
 * Award: $250K-$1M for durations up to three years
 
 ### [Responsible Design, Development, and Deployment of Technologies (ReDDDoT)](https://new.nsf.gov/funding/opportunities/responsible-design-development-deployment){target="_blank"}
-* Supports multidisciplinary, multi-sector teams that examine and demonstrate the principles, methodologies, implementations, and impacts associated with responsible design, development, and deployment of technologies in practice, focusing especially on the key technologies specified in Section 10387 of the [CHIPS and Science Act of 2022](https://www.congress.gov/bill/117th-congress/house-bill/4346/text){target="_blank"}. 
+* Supports multidisciplinary, multi-sector teams that examine and demonstrate the principles, methodologies, implementations, and impacts associated with responsible design, development, and deployment of technologies in practice, focusing especially on the key technologies specified in Section 10387 of the [CHIPS and Science Act of 2022](https://www.congress.gov/bill/117th-congress/house-bill/4346/text){target="_blank"}. There are three priority areas: artificial intelligence, biotechnology, or natural and anthropogenic disaster prevention or mitigation. 
 * Deadline: April 8, 2024 (Phase 1: Planning Grants, Translational Research Coordination Networks, Workshops); April 22, 204 (Phase 2: Project Proposals)
 * Award: $300K for durations up to 2 years for Planning Grants; $500K for durations of 3-4 years for Translational Research Coordination Networks; $75K for Workshops; $750K-$1.5M for durations of 3 years for Project Proposals
 
@@ -100,54 +86,17 @@ format: html
 * [DCL: Medical / Health Cyber Physical Systems Proposals](https://www.nsf.gov/pubs/2024/nsf24017/nsf24017.jsp){target="_blank"}<!-- November 8, 2023 -->
 
 
+### [Emerging Frontiers in Research and Innovation (EFRI): Biocomputing through EnGINeering Organoid Intelligence (BEGIN OI)](https://new.nsf.gov/funding/opportunities/emerging-frontiers-research-innovation-efri){target="_blank"}
+* Supports foundational and transformative research to advance the design, engineering, and fabrication of organoid systems that are capable of processing information dynamically while interfacing with non-living systems.
+  + Research Thread 1: Biocomputing Theory and Modelling
+  + Research Thread 2: Biology-Integrated Culture Maintenance and Hardware Systems
+  + Research Thread 3: Ethical, Legal, and Social Implications (ELSI)
+* Deadline: September 12, 2024 (LOI), December 12, 2024 (Full Proposal)
+* Award: $2M for durations up to four years
+
 
 
 ## Upcoming Recurring Proposal Deadlines
-### [National Artificial Intelligence (AI) Research Institutes](https://new.nsf.gov/funding/opportunities/national-artificial-intelligence-research){target="_blank"}
-* Supports the development of new AI Institutes that focus on one of the following themes: astronomical sciences, materials research and new methods for strengthening AI.
-  + Theme 1: AI for Astronomical Sciences
-  + Theme 2: AI for Discovery in Materials Research
-  + Theme 3: Strengthening AI
-* Deadline: *Preliminary Proposal* Theme 1 passed, January 12, 2024 (Themes 2 & 3), *Full Proposal* February 16, 2024 (Theme 1), May 17, 2024 (Themes 2 & 3); recurring every other year
-* Award: $16-20M for durations of four or five years
-<!-- * DATASET will be supporting concepts via an Ideas Lab - submit your concept to [Penny Atkins](mailto:data-science-hub@utah.edu?subject=Ideas%20Lab%20Concept%20Proposal) by August 20, 2023; [additional details here](pdfs/DATASET_IdeasLab_CallForConcepts.pdf){target="_blank"}.-->
-* [Internal Limited Submission Opportunity (LSO)](https://utah.infoready4.com/#freeformCompetitionDetail/1912202){target="_blank"} has ended.
-
-### [Human Networks and Data Science (HNDS)](https://beta.nsf.gov/funding/opportunities/human-networks-data-science-hnds){target="_blank"}
-*   Supports research that studies the behavior of individuals and groups by leveraging data and network science and the development of data infrastructure that makes such work possible.
-*   Deadline: *Core Research* January 11, 2024, July 11, 2024, annually thereafter in January and July; *Infrastructure* February 1, 2024, annually thereafter in February and August
-*   Awards: *Core Research* \$400K; *Infrastructure* \$800K for durations of one to five years
-
-### [Cognitive Neuroscience (CogNeuro)](https://new.nsf.gov/funding/opportunities/cognitive-neuroscience-cogneuro-0){target="_blank"}
-* Supports advancement of our understanding of the neural mechanisms underlying human cognition and behavior. Funded proposals typically advance theories in cognitive neuroscience by relating precise and rich quantifications of physiology, cognition and behavior with each other (Intellectual Merit) and strengthen the field through, for example, outreach, mentoring the next generation of diverse cognitive neuroscientists and/or increasing awareness and utilization of the research the field produces (Broader Impacts).
-* Deadline: February 1, 2024 or August 15, 2024
-
-### [Safe Learning-Enabled Systems](https://new.nsf.gov/funding/opportunities/safe-learning-enabled-systems){target="_blank"}
-*   Supports foundational research that leads to the design and implementation of learning-enabled systems in which safety is ensured with high levels of confidence.
-    *   *Foundation* Projects
-    *   *Synergy* Projects
-*   Deadline: January 16, 2024
-*   Award: *Foundation* \$800K for durations up to three years; *Synergy* \$1.5M for durations up to four years
-
-### [Decision, Risk and Management Sciences (DRMS)](https://new.nsf.gov/funding/opportunities/decision-risk-management-sciences-drms-0){target="_blank"}
-* Supports research that increases understanding of how individuals, organizations and societies make decisions. Areas include judgment, decision analysis and aids, risk analysis and communication, public policy decision making and management science.
-* Deadline: January 18 and August 18; annually
-
-### [Training-based Workforce Development for Advanced Cyberinfrastructure (CyberTraining)](https://new.nsf.gov/funding/opportunities/training-based-workforce-development-advanced){target="_blank"}
-*   *Pilot* projects are exploratory activities that may lead to *Implementation* projects.
-*   *Implementation* projects make CI training and educational activities or curriculum/instructional materials broadly accessible to a significant portion of a community for one or more disciplines.
-*   Deadline: January 18, 2024, annually thereafter
-*   Award: *Pilot* up to \$300K for durations up to two years; *Implementation* up to \$1M for durations up to four years
-
-### [Strengthening the Cyberinfrastructure Professionals Ecosystem (SCIPE)](https://new.nsf.gov/funding/opportunities/strengthening-cyberinfrastructure-professionals){target="_blank"}
-*   Supports projects that deepen the integration of cyberinfrastructure professionals' services into research, while fostering education, training and recognition that address CI workforce development needs.
-*   Deadline: January 18, 2024 ([Internal LSO application](https://utah.infoready4.com/#freeformCompetitionDetail/1921706){target="_blank"} due December 6, 2023), annually thereafter
-*   Award: Not specified
-
-### [Science of Learning and Augmented Intelligence](https://new.nsf.gov/funding/opportunities/science-learning-augmented-intelligence){target="_blank"}
-* Supports research to develop fundamental knowledge about principles, processes and mechanisms of learning and about augmented intelligence — how human cognitive function can be augmented through interactions with others and technology.
-* Deadline: February 14, 2024 and August 7, 2024 (recurring annually) <!-- on the second Wed in Feb and the first Wed in August)-->
-
 ### [Research on Innovative Technologies for Enhanced Learning (RITEL)](https://new.nsf.gov/funding/opportunities/research-innovative-technologies-enhanced-learning){target="_blank"}
 * Supports early-stage research in emerging technologies such as AI, robotics and immersive or augmenting technologies for teaching and learning that respond to pressing needs in real-world educational environments.
 * Deadline: January 24, 2024; November 5, 2024; November 4, 2025
@@ -161,11 +110,29 @@ format: html
   + Incubation Projects: $90K and a maximum duration of 12 months.
   + Research Grants: $400K and a maximum duration of 3 years.
   + Institutional Transformation Research Grants: $700K and a maximum duration of 5 years.
+  
+### [Human Networks and Data Science (HNDS)](https://beta.nsf.gov/funding/opportunities/human-networks-data-science-hnds){target="_blank"}
+*   Supports research that studies the behavior of individuals and groups by leveraging data and network science and the development of data infrastructure that makes such work possible.
+*   Deadline: *Core Research* July 11, 2024, annually thereafter in January and July; *Infrastructure* February 1, 2024, annually thereafter in February and August
+*   Awards: *Core Research* \$400K; *Infrastructure* \$800K for durations of one to five years
+
+### [Cognitive Neuroscience (CogNeuro)](https://new.nsf.gov/funding/opportunities/cognitive-neuroscience-cogneuro-0){target="_blank"}
+* Supports advancement of our understanding of the neural mechanisms underlying human cognition and behavior. Funded proposals typically advance theories in cognitive neuroscience by relating precise and rich quantifications of physiology, cognition and behavior with each other (Intellectual Merit) and strengthen the field through, for example, outreach, mentoring the next generation of diverse cognitive neuroscientists and/or increasing awareness and utilization of the research the field produces (Broader Impacts).
+* Deadline: February 1, 2024 or August 15, 2024
+  
+### [A Science of Science Approach to Analyzing and Innovating the Biomedical Research Enterprise (SoS:BIO)](https://new.nsf.gov/funding/opportunities/science-science-approach-analyzing-innovating){target="_blank"}
+* Supports the development of theories, models, analytical tools, data and metrics that can inform the science of science, science policy, public outcomes and the advancement of the scientific enterprise, with a focus on the biomedical sciences.
+* Deadline: February 9, 2024; recurring annually on February 9 and September 9
+* Award: $100K-250K/year (total) for durations up to 4 years
 
 ### [Incorporating Human Behavior in Epidemiological Models (IHBEM)](https://new.nsf.gov/funding/opportunities/incorporating-human-behavior-epidemiological-0){target="_blank"}
 * Supports research that incorporates research on social and behavioral processes in mathematical epidemiological models. The program provides support for projects that involve balanced participation from the mathematical sciences and from the social, behavioral, and economic sciences.
 * Deadline: February 14, 2024; recurring annually
 * Award: $1M for durations of 3-4 years
+
+### [Science of Learning and Augmented Intelligence](https://new.nsf.gov/funding/opportunities/science-learning-augmented-intelligence){target="_blank"}
+* Supports research to develop fundamental knowledge about principles, processes and mechanisms of learning and about augmented intelligence — how human cognitive function can be augmented through interactions with others and technology.
+* Deadline: February 14, 2024 and August 7, 2024 (recurring annually) <!-- on the second Wed in Feb and the first Wed in August)-->
 
 ### [Enabling Discovery through GEnomics (EDGE)](https://new.nsf.gov/funding/opportunities/enabling-discovery-through-genomics-edge){target="_blank"}
 * Supports research to advance understanding of comparative and functional genomics and the development of innovative tools, technologies, resources, and infrastructure that advance biological research focused on the identification of the causal mechanisms connecting genes and phenotypes.
@@ -182,7 +149,10 @@ format: html
 *   Award: *Track 1 (Institutional Capacity Building)* \$1M for a duration of up to six years; *Track 2 (Implementation: Single Institution)* \$2.5M for a duration of up to six years; *Track 3 (Inter-institutional Consortia)* \$5M for a duration of up to six years; *Collaborative Planning* \$100K for a duration of one year.
 
 ### [Algorithms for Threat Detection (ATD)](https://new.nsf.gov/funding/opportunities/algorithms-threat-detection-atd){target="_blank"}
-* Supports research on new ways to use spatiotemporal data to model human dynamics, with an emphasis on identifying and forecasting unusual events and future threats.
+* Supports research on new ways to use spatiotemporal data to model human dynamics, with an emphasis on identifying and forecasting unusual events and future threats. There are two areas of interest:
+  + Develop mathematical, statistical and computational algorithms for analysis of massive spatiotemporal datasets, at scale; and
+  + Develop mathematical theory to guide the application of advanced artificial intelligence to processing massive spatiotemporal data.
+
 * Deadline: February 21, 2024; recurring annually on the third Wednesday in February
 * Award: Unspecified
 
@@ -195,6 +165,20 @@ format: html
 *   Supports research in mathematical biology that addresses significant biological questions by applying nontrivial mathematics or developing new theories --- particularly from foundational mathematics, including artificial intelligence or machine learning.
 *   Deadline: March 11, 2024, annually thereafter
 *   Award: \$500-750K for durations up to three years
+
+### [Algorithms for Threat Detection (ATD)](https://new.nsf.gov/funding/opportunities/algorithms-threat-detection-atd){target="_blank"}
+* Supports research on new ways to use spatiotemporal data to model human dynamics, with an emphasis on identifying and forecasting unusual events and future threats.
+* Deadline: April 10, 2024; February 19, 2025; annually on the third Wednesday in February 
+* Award: $150-300K
+
+### [Future Manufacturing (FM)](https://new.nsf.gov/funding/opportunities/future-manufacturing-fm){target="_blank"}
+* Supports fundamental research, education, and training of a future workforce to overcome scientific, technological, educational, economic, and social barriers in order to catalyze new manufacturing capabilities that do not exist today. Focuses on cybermanufacturing, eco-manufacturing and biomanufacturing.
+* Deadline: April 11, 2024; January 13, 2025
+* Award: $3M for up to four years (research grants); $500K for up to two years (seed)
+
+### [Decision, Risk and Management Sciences (DRMS)](https://new.nsf.gov/funding/opportunities/decision-risk-management-sciences-drms-0){target="_blank"}
+* Supports research that increases understanding of how individuals, organizations and societies make decisions. Areas include judgment, decision analysis and aids, risk analysis and communication, public policy decision making and management science.
+* Deadline: January 18 and August 18; annually
 
 ### [Smart Health and Biomedical Research in the Era of Artificial Intelligence and Advanced Data Science (SCH)](https://new.nsf.gov/funding/opportunities/smart-health-biomedical-research-era-artificial){target="_blank"}
 * Supports the development of transformative high-risk, high-reward advances in computer and information science, engineering, mathematics, statistics, behavioral and/or cognitive research to address pressing questions in the biomedical and public health communities. 
@@ -215,6 +199,18 @@ format: html
   + The *Sustained Resources track* supports the sustained operations and user community support for mature CI resources that serve Earth Sciences research and education.
 * Deadline: *Sustained Resources* will recur on December 6, 2024, *Innovative Resources* will recur on December 5, 2025
 * Award: *Innovative Resources* $200K/year for durations up to three years; *Sustained Resources* budget must align with the project scope, for durations of three to four years.
+
+
+### [Training-based Workforce Development for Advanced Cyberinfrastructure (CyberTraining)](https://new.nsf.gov/funding/opportunities/training-based-workforce-development-advanced){target="_blank"}
+*   *Pilot* projects are exploratory activities that may lead to *Implementation* projects.
+*   *Implementation* projects make CI training and educational activities or curriculum/instructional materials broadly accessible to a significant portion of a community for one or more disciplines.
+*   Deadline: January 18, 2025, annually thereafter
+*   Award: *Pilot* up to \$300K for durations up to two years; *Implementation* up to \$1M for durations up to four years
+
+### [Strengthening the Cyberinfrastructure Professionals Ecosystem (SCIPE)](https://new.nsf.gov/funding/opportunities/strengthening-cyberinfrastructure-professionals){target="_blank"}
+*   Supports projects that deepen the integration of cyberinfrastructure professionals' services into research, while fostering education, training and recognition that address CI workforce development needs.
+*   Deadline: January 18, 2025, annually thereafter *Limited Submission Opportunity.*
+*   Award: Not specified
 
 ### [Mid-scale Research Infrastructure-1 (Mid-scale RI-1)](https://new.nsf.gov/funding/opportunities/mid-scale-research-infrastructure-1-mid-scale-ri-1){target="_blank"}
 * Supports the design and implementation of research infrastructure — including equipment, cyberinfrastructure, large-scale datasets and personnel — whose total project costs exceed NSF's Major Research Instrumentation program but are under $20 million.
@@ -269,6 +265,11 @@ format: html
 * Deadline: *Letter of Intent* September 2025, *Full Proposal* October 2025; anticipated dates
 * Award: $9.5M for FY2024 then at least $10M/year for durations up to five years
 
+### [National Artificial Intelligence (AI) Research Institutes](https://new.nsf.gov/funding/opportunities/national-artificial-intelligence-research){target="_blank"}
+* Supports the development of new AI Institutes.
+* Deadline: Expected early 2026
+* Award: $16-20M for durations of four or five years
+
 
 ### Dear Colleague Letters
 * [Funding Opportunities for Engineering Research in Artificial Intelligence](https://www.nsf.gov/pubs/2024/nsf24039/nsf24039.jsp){target="_blank"} <!-- December 22, 2023 -->
@@ -296,4 +297,4 @@ format: html
 * [Fairness, Ethics, Accountability, and Transparency: Enabling Breakthrough Research to Expand Inclusivity in Computer and Information Science and Engineering Research](https://www.nsf.gov/pubs/2019/nsf19016/nsf19016.jsp){target="_blank"} <!-- Nov 2, 2018 -->
 
 
-Updated January 10, 2024.
+Updated January 18, 2024.
