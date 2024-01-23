@@ -11,14 +11,17 @@ editor: visual
 * Award: $ for durations up to  years -->
 ```
 ## Internal Funding Opportunities
-### [Digital Health Innovations Seed Grant Program](https://utah.infoready4.com/#competitionDetail/1924926){target="_blank"}
--   Supports new collaborations and innovative research in digital health that will lead to federal extramural grant applications. 
--   Deadline: February 2, 2024
--   Award: $75K (+$25K in [SD2C](https://cores.utah.edu/sd2c/){target="_blank"} support) for one year
 
+### [Digital Health Innovations Seed Grant Program](https://utah.infoready4.com/#competitionDetail/1924926){target="_blank"}
+
+-   Supports new collaborations and innovative research in digital health that will lead to federal extramural grant applications.
+-   Deadline: February 2, 2024
+-   Award: \$75K (+\$25K in [SD2C](https://cores.utah.edu/sd2c/){target="_blank"} support) for one year
 
 ## Foundation Funding Opportunities
+
 ### [Foresight Institute: AI Safety: Neuro/Security/Cryptography/Multipolar Approaches](https://foresight.org/ai-safety/){target="_blank"}
+
 -   Supports projects working to make progress on three areas we consider underexplored when it comes to AI Safety.
     -   Neurotechnology, Whole Brain Emulation and lo-fi Uploading for AI safety
     -   Security, Cryptography, and Auxiliary Approaches for Infosec and AI Security
@@ -27,36 +30,39 @@ editor: visual
 -   Application should take no more than 3 hours!
 
 ### [Motorola Solutions Foundation Grants](https://www.motorolasolutions.com/en_us/about/motorola-solutions-foundation/annual-grants.html){target="_blank"}
-* Technology & engineering education - From engaging students through hands-on engineering activities like design, coding and robotics to providing scholarship and workforce placement for underrepresented groups, we’re committed to creating opportunities for future innovators.
-* Deadline: February 1, 2024
-* Award: $50,000
-* Please contact [Gwen Allouch](mailto:gwen.allouch@hsc.utah.edu) if you are interested in applying to this opportunity. 
+
+-   Technology & engineering education - From engaging students through hands-on engineering activities like design, coding and robotics to providing scholarship and workforce placement for underrepresented groups, we’re committed to creating opportunities for future innovators.
+-   Deadline: February 1, 2024
+-   Award: \$50,000
+-   Please contact [Gwen Allouch](mailto:gwen.allouch@hsc.utah.edu) if you are interested in applying to this opportunity.
 
 ### [Predictors of Vaccine Efficacy: Identifying Correlates of Protection](https://wellcome.org/grant-funding/schemes/correlates-protection-for-vaccine-development){target="_blank"}
-* Supports research teams to establish or validate correlates of protection across 11 diseases with the potential to cause substantial outbreaks or which have significant burden, and have no licenced vaccines. 
-* Deadline: February 6, 2024 (Preliminary Application), May 21, 2024 (Full Invited Proposal)
-* Award: £5M for durations up to three years
+
+-   Supports research teams to establish or validate correlates of protection across 11 diseases with the potential to cause substantial outbreaks or which have significant burden, and have no licenced vaccines.
+-   Deadline: February 6, 2024 (Preliminary Application), May 21, 2024 (Full Invited Proposal)
+-   Award: £5M for durations up to three years
 
 ### [OpenAI Superalignment Fast Grants](https://openai.com/blog/superalignment-fast-grants){target="_blank"}
-* Supports technical research towards ensuring superhuman AI systems are aligned and safe, through partnership with Eric Schmidt
-* Deadline: February 18, 2024
-* Award: $100K–$2M grants for academic labs, nonprofits, and individual researchers; $150K OpenAI Superalignment Fellowship ($75K in stipend and $75K in compute and research funding) for graduate students
+
+-   Supports technical research towards ensuring superhuman AI systems are aligned and safe, through partnership with Eric Schmidt
+-   Deadline: February 18, 2024
+-   Award: \$100K–\$2M grants for academic labs, nonprofits, and individual researchers; \$150K OpenAI Superalignment Fellowship (\$75K in stipend and \$75K in compute and research funding) for graduate students
 
 <!--## Industry Funding Opportunities-->
 
-
-
 ## International Funding Opportunities
+
 ### [Japan Science and Technology Agency: Adopting Sustainable Partnerships for Innovative Research Ecosystem (ASPIRE) Call for Proposals](https://www.jst.go.jp/inter/aspire/en/program_e/announce_e/announce_aspire2023_e.html){target="_blank"}
+
 -   Proposals are welcomed from Japan-based researchers intending to conduct collaborative research with researchers from other advanced countries and regions in science and technology.
     -   *AI and information* research for the realization of [Society 5.0](https://www8.cao.go.jp/cstp/english/society5_0/index.html) based on the principles of human understanding and respect, diversity, and sustainability.
 -   Deadline: August 17, 2024 (anticipated; recommended LOI by July 31)
--   Award: 30-100M Yen ($200K-700K) for durations up of three to five years
-
-
+-   Award: 30-100M Yen (\$200K-700K) for durations up of three to five years
 
 ## Governmental Funding Opportunities
+
 ### [ARPA-H: Open-Office Broad Agency Announcement](https://arpa-h.gov/engage/baa/){target="_blank"}
+
 -   Supports research aiming to improve health outcomes across patient populations, communities, diseases, and health conditions. The BAA calls for proposals to outline breakthrough research and technological advancements.
     -   Health Science Futures - Expanding what's technically possible
     -   Scalable Solutions - Reaching everyone quickly
@@ -65,37 +71,51 @@ editor: visual
 -   Deadline: Rolling, expires March 14, 2024
 -   Award: Unspecified, budget must be align with the project scope
 
-### [I-ARPA Securing Our Underlying Resources in Cyber Environments (SoURCE CODE) Program](https://sam.gov/opp/fba8e8b62bbf437da4ca1db186b0a7dd/view){target="_blank"}
--   Supports novel technologies to assist forensic experts in making determinations of the most likely attackers, based on coding styles. The program will explore full feature spaces in binary code and source code files to measure the similarity between files and provide information to forensic experts to the likely origins (country, groups, individuals, etc.).
--   Deadline: January 22, 2024
 
 ### [Boosting Innovative GEOINT - Topic 1: Geospatial-Intelligence Foundational Model (GFM)](https://www.grants.gov/search-results-detail/351404){target="_blank"}
-* Supports innovative concepts to address hard GEOINT problems that align to one or more of the following technical domains: (1) Foundational GEOINT, (2) Advanced Phenomenologies, and (3) Analytic Technologies.
-* Deadline: January 23, 2024 (Abstracts); March 4, 2024 (Proposal); Additional topics added through 2026
-* Award: $3M for one year
+
+-   Supports innovative concepts to address hard GEOINT problems that align to one or more of the following technical domains: (1) Foundational GEOINT, (2) Advanced Phenomenologies, and (3) Analytic Technologies.
+-   Deadline: January 23, 2024 (Abstracts); March 4, 2024 (Proposal); Additional topics added through 2026
+-   Award: \$3M for one year
 
 ### [NEH: Humanities Research Centers on Artificial Intelligence](https://www.neh.gov/program/humanities-research-centers-artificial-intelligence){target="_blank"}
+
 -   Supports humanities research centers on artificial intelligence (AI) focused on better understanding the ethical, legal, or societal implications of AI. Avery Holton will be the PI for the University of Utah Proposal.
 -   Deadline: February 14, 2024
 -   Award: \$500K
 
+### [DARPA: Building an Adaptive & Competitive Workforce](https://tools-competition.org/workforce/){target="_blank"}
+* Supports adult learners in developing critical skills necessary for the current and future national security workforce. Proposed solutions should leverage artificial intelligence and advanced computational methods to help adults upskill and reskill in the complex subjects required for the continuously advancing 21st-century economy.
+* Deadline: February 26, 2024 (abstract)
+* Award: $50K (Catalyst), $150K (Growth), $300K (Transform)
+* Information Session on January 29, 2024 at 11am MT ([Registration required.](https://www.eventbrite.com/e/information-session-darpas-building-an-adaptive-competitive-workforce-tickets-794453119667?aff=oddtdtcreator){target="_blank"})
+
 ### [Establishing Qualification Processes for Agile Pharmaceutical Manufacturing (EQUIP-A-Pharma)](https://sam.gov/opp/4ad34752d4cc466fb9ac67e0c5c31941/view){target="_blank"}
-* Supports development of an informatics-based models to create a real-time digital regulatory approval framework for qualification of pharmaceuticals produced in an agile pharmaceutical manufacturing platform.
-* Deadline: February 28, 2024
-* Award: $500K
+
+-   Supports development of an informatics-based models to create a real-time digital regulatory approval framework for qualification of pharmaceuticals produced in an agile pharmaceutical manufacturing platform.
+-   Deadline: February 28, 2024
+-   Award: \$500K
+
+### [DOE Office of Science: Data Reduction for Science](https://www.grants.gov/search-results-detail/351814){target="_blank"}
+* Supports exploration of potentially high-impact approaches in the development and use of data reduction techniques and algorithms to facilitate more efficient analysis and use of massive data sets produced by observations, experiments and simulation.
+* Deadline: March 19, 2024 (pre-application); May 7, 2024 (proposal)
+* Award: $400K/year
+* This is a [*Limited Submission Opportunity*](https://utah.infoready4.com/#freeformCompetitionDetail/1928990) with an internal deadline of February 20, 2024. 
 
 ### [DoD and AirForce: Geospatial Intelligence Processing and Exploitation (GeoPEX)](https://sam.gov/opp/f6dac217c58545578b6dff242335e997/view){target="_blank"}
-* Supports research, development, integration, test and evaluation of technologies/techniques to provide geospatial intelligence (GEOINT) in all its forms and from whatever source to ensure a solid foundation of knowledge for planning, decision, and action while creating tailored, customer-specific geospatial intelligence, analytic services, and solutions.
-* Deadline: September 30, 2024; recurring on September 30, 2025 and September 30, 2026
-* Award: $250K-$10M for durations up to two years
+
+-   Supports research, development, integration, test and evaluation of technologies/techniques to provide geospatial intelligence (GEOINT) in all its forms and from whatever source to ensure a solid foundation of knowledge for planning, decision, and action while creating tailored, customer-specific geospatial intelligence, analytic services, and solutions.
+-   Deadline: September 30, 2024; recurring on September 30, 2025 and September 30, 2026
+-   Award: \$250K-\$10M for durations up to two years
 
 ### [DARPA: Automating Scientific Knowledge Extraction and Modeling (ASKEM)](https://www.darpa.mil/program/automating-scientific-knowledge-extraction-and-modelinga){target="_blank"}
+
 -   Supports the demands of complex, modern-day systems, computational models and simulators have become the primary artifacts for encoding, propagating, and applying expert knowledge to real-world science and engineering problems.
 
-
-
 ## Challenges, Awards, and Other Opportunities
+
 -   [America's Datahub Consortium Idea Bank](https://www.americasdatahub.org/idea-bank-form/){target="_blank"} invites input from stakeholders to inform future project solicitations on the topics of:
+
     -   Privacy Preserving Technologies (PPT)
     -   Data collection, access, linkage, and standards
     -   Statistical and other quantitative analyses
@@ -104,14 +124,14 @@ editor: visual
     -   Stakeholder Engagement
     -   Artificial Intelligence
 
-- [Cyber Defensive Capability Performance Measurement Development Challenge](https://www.challenge.gov/?challenge=cyber-defensive-capability-performance-measurement-development-challenge){target="_blank"} seeks undergraduate and graduate students to develop algorithms to measure a system’s ability to maintain critical functionality during a cyberspace attack from Advanced Persistent Threat (APT) actors. The developed algorithms are to: (a) measure the effectiveness of a system’s cyber defensive capabilities against full spectrum cyber threats, and (b) calculate the cyber resiliency of the system based on given system architecture, critical functions, and the defined cyber APTs. Phase 1 open until January 26, 2024, $125K in total prizes.
+-   [Cyber Defensive Capability Performance Measurement Development Challenge](https://www.challenge.gov/?challenge=cyber-defensive-capability-performance-measurement-development-challenge){target="_blank"} seeks undergraduate and graduate students to develop algorithms to measure a system’s ability to maintain critical functionality during a cyberspace attack from Advanced Persistent Threat (APT) actors. The developed algorithms are to: (a) measure the effectiveness of a system’s cyber defensive capabilities against full spectrum cyber threats, and (b) calculate the cyber resiliency of the system based on given system architecture, critical functions, and the defined cyber APTs. Phase 1 open until January 26, 2024, \$125K in total prizes.
 
-- [NIH Pioneering Research for Early Prediction of Alzheimer's Disease & Related Dementias (PREPARE) Challenge](https://www.challenge.gov/?challenge=prepare-challenge){target="_blank"} seeks to advance solutions for accurate, innovative, and representative early prediction of AD/ADRD through three challenge phases that successively build on each other. Phase 1 open until January 31, 2024, $650K in total prizes.
+-   [NIH Pioneering Research for Early Prediction of Alzheimer's Disease & Related Dementias (PREPARE) Challenge](https://www.challenge.gov/?challenge=prepare-challenge){target="_blank"} seeks to advance solutions for accurate, innovative, and representative early prediction of AD/ADRD through three challenge phases that successively build on each other. Phase 1 open until January 31, 2024, \$650K in total prizes.
 
-- [Digitizing Utilities Prize Round 2](https://www.challenge.gov/?challenge=digitizing-utilities-prize-round-2){target="_blank"} aims to help utilities tackle data and cybersecurity challenges that advance grid resiliency. This prize connects utilities with interdisciplinary teams of software developers and data experts to transform digital systems and data analytics for utilities in the energy sector. Phase 1 open until February 29, 2024, $1.85M in total prizes.
+-   [Digitizing Utilities Prize Round 2](https://www.challenge.gov/?challenge=digitizing-utilities-prize-round-2){target="_blank"} aims to help utilities tackle data and cybersecurity challenges that advance grid resiliency. This prize connects utilities with interdisciplinary teams of software developers and data experts to transform digital systems and data analytics for utilities in the energy sector. Phase 1 open until February 29, 2024, \$1.85M in total prizes.
 
-* [NIH and CGE Targeted Genome Editor Delivery (TARGETED) Challenge](https://www.challenge.gov/?challenge=targeted-challenge){target="_blank"} aims to revolutionize technology development of delivery systems for in vivo genome editing. This is a *$6M competition* to improve in vivo delivery technologies for genome editors in two Target Areas: 1. Programmable delivery systems, and 2. Non-viral delivery across the blood-brain barrier. The National Institutes of Health (NIH), through the Common Fund’s [Somatic Cell Genome Editing (SCGE)](https://commonfund.nih.gov/editing){target="_blank"} program, is seeking Participants with ideas or early-stage solutions to join the Challenge with the chance to win up to $1,000,000 and have their solution independently tested and validated in large animal models through NIH-supported independent evaluation relevant to preclinical assessments of investigational products. Phase 2 is open until January 10, 2025.
+-   [NIH and CGE Targeted Genome Editor Delivery (TARGETED) Challenge](https://www.challenge.gov/?challenge=targeted-challenge){target="_blank"} aims to revolutionize technology development of delivery systems for in vivo genome editing. This is a *\$6M competition* to improve in vivo delivery technologies for genome editors in two Target Areas: 1. Programmable delivery systems, and 2. Non-viral delivery across the blood-brain barrier. The National Institutes of Health (NIH), through the Common Fund’s [Somatic Cell Genome Editing (SCGE)](https://commonfund.nih.gov/editing){target="_blank"} program, is seeking Participants with ideas or early-stage solutions to join the Challenge with the chance to win up to \$1,000,000 and have their solution independently tested and validated in large animal models through NIH-supported independent evaluation relevant to preclinical assessments of investigational products. Phase 2 is open until January 10, 2025.
 
 <!--## Policy and Engagement -->
 
-Updated January 18, 2024.
+Updated January 22, 2024.

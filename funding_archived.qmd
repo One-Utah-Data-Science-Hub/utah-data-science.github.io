@@ -558,6 +558,11 @@ format: html
 
 
 # Governmental Funding Opportunities
+### [I-ARPA Securing Our Underlying Resources in Cyber Environments (SoURCE CODE) Program](https://sam.gov/opp/fba8e8b62bbf437da4ca1db186b0a7dd/view){target="_blank"}
+
+-   Supports novel technologies to assist forensic experts in making determinations of the most likely attackers, based on coding styles. The program will explore full feature spaces in binary code and source code files to measure the similarity between files and provide information to forensic experts to the likely origins (country, groups, individuals, etc.).
+-   Deadline: January 22, 2024
+
 ### [NASA ROSES: Heliophysics Artificial Intelligence/Machine Learning-Ready Data](https://nspires.nasaprs.com/external/solicitations/summary.do?solId=%7B8721DD55-91A7-4355-4EFB-9224A6C9462A%7D){target="_blank"}
 -   Supports the advancement of the goals and objectives of NASA Heliophysics by developing new tools and methods for the generation of AI/ML-ready datasets from existing research and mission data.
 -   Deadline: January 18, 2024 (Step 1, preliminary proposal); April 18, 2024 (Step 2, full proposal); repeated annually
