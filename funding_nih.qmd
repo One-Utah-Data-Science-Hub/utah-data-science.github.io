@@ -125,6 +125,11 @@ title: "NIH Funding Opportunities"
 * Deadline: February 5, 2024; recurring annually in February, June, and October through June 2025
 * Award: R01, budget must reflect actual needs of the proposed project, durations up to five years
 
+### [Focused Technology Research and Development](https://grants.nih.gov/grants/guide/pa-files/PAR-22-127.html){target="_blank"}
+* Supports projects that focus solely on the development of technologies with the potential to enable acquisition of biomedical knowledge. Projects should be justified in terms of technical innovation and utility of such technical innovation for impacting future biomedical research. 
+* Deadline: February 5, 2024; recurring in February, June, and October through February 2025
+* Award: R01, budget must reflect actual needs of the proposed project, durations up to five years [R21 Opportunity also available.](https://grants.nih.gov/grants/guide/pa-files/PAR-22-126.html){target="_blank"}
+
 ### [Ethical, Legal and Social Implications (ELSI) Research](https://grants.nih.gov/grants/guide/pa-files/PAR-23-293.html){target="_blank"}
 * Supports the study of the ethical, legal and social implications (ELSI) of human genome research, using either single or mixed methods.
 * Deadline: February 20, 2024; recurring annually in February, June, and October through October 2026
