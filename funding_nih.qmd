@@ -36,10 +36,6 @@ title: "NIH Funding Opportunities"
 * Deadline: May 8, 2024 (LOI), June 7, 2024 (Proposal)
 * Award: UG3/UH3, budget must align with the project scope, for durations up to five years (UG3 cannot exceed three years)
 
-### [HEAL Initiative: Interdisciplinary Team Science to Uncover the Mechanisms of Pain Relief by Medical Devices](https://grants.nih.gov/grants/guide/rfa-files/rfa-ns-23-003.html){target="_blank"}
-* Supports interdisciplinary research teams of multiple PDs/PIs to investigate the mechanism of action of pain relief by medical devices with the overall goal of optimizing therapeutic outcomes for FDA-approved or -cleared technologies. 
-* Deadline: June 10, 2024 and June 9, 2025
-* Award: RM1, generally $1.5M/year (direct) for durations up to five years
 
 ### [Early-Stage Development of Informatics Technologies for Cancer Research and Management](https://grants.nih.gov/grants/guide/rfa-files/RFA-CA-24-017.html){target="_blank"}
 * Supports the development of enabling informatics technologies to improve the acquisition, management, analysis, and dissemination of data and knowledge across the cancer research continuum including cancer biology, cancer treatment and diagnosis, early cancer detection, risk assessment and prevention, cancer control and epidemiology, and/or cancer health disparities. 
@@ -55,6 +51,21 @@ title: "NIH Funding Opportunities"
 * Supports teams of three or more (up to six) PDs/PIs that seek to cross boundaries of interdisciplinary collaboration to elucidate the contributions of dynamic circuit activity to a specific behavioral or neural system.
 * Deadline: May 14, 2024 (LOI), June 14, 2024 (Proposal)
 * Award: U01, approximately $2.4M/year for durations of three  years
+
+### [HEAL Initiative: Interdisciplinary Team Science to Uncover the Mechanisms of Pain Relief by Medical Devices](https://grants.nih.gov/grants/guide/rfa-files/rfa-ns-23-003.html){target="_blank"}
+* Supports interdisciplinary research teams of multiple PDs/PIs to investigate the mechanism of action of pain relief by medical devices with the overall goal of optimizing therapeutic outcomes for FDA-approved or -cleared technologies. 
+* Deadline: June 10, 2024 and June 9, 2025
+* Award: RM1, generally $1.5M/year (direct) for durations up to five years
+
+### [Coordinating Center to Support Multi-Sectoral Preventive Interventions that Address Social Determinants of Health in Populations that Experience Health Disparities](https://grants.nih.gov/grants/guide/rfa-files/RFA-OD-24-006.html){target="_blank"}
+* Supports a Coordinating Center (CC) for the Multi-Sectoral Preventive Interventions (MSPI) Research Network. Members of the Multi-Sectoral Preventive Interventions (MSPI) Research Network, including the CC and separately funded research projects, will work collaboratively with the NIH to test prospective multi-sectoral preventive interventions that address social determinants of health in populations that experience health disparities.  
+* Deadline: July 5, 2024 (LOI), August 5, 2024 (Proposal)
+* Award: U24, $1M/year (direct) for durations up to seven years
+
+### [Multi-sectoral preventive interventions that address social determinants of health in populations that experience health disparities](https://grants.nih.gov/grants/guide/pa-files/PAR-24-053.html){target="_blank"}
+* Supports projects to test prospective multi-sectoral preventive interventions that address social determinants of health in populations that experience health disparities. These research projects will be part of the Multi-Sectoral Preventive Interventions (MSPI) Research Network, which will also include a Coordinating Center ([RFA-OD-24-006](https://grants.nih.gov/grants/guide/rfa-files/RFA-OD-24-006.html){target="_blank"}).   
+* Deadline: July 5, 2024 (LOI), August 5, 2024 (Proposal)
+* Award: U24, $500K/year (direct) for two years (UG3, phase 1) and $750K/year (direct) for five years (UH3, phase 2)
 
 ### [Enhancement and Management of Established Biomedical Data Repositories and Knowledgebases](https://grants.nih.gov/grants/guide/pa-files/PAR-23-237.html){target="_blank"}
 * Supports established biomedical data repositories and knowledgebases as distinct and separate resources that have demonstrated impact and have potential for continued benefit to the community served. 
@@ -90,7 +101,7 @@ title: "NIH Funding Opportunities"
 
 ## Research Grants - R01 Activities
 ### [Investigator Initiated Research in Computational Genomics and Data Science](https://grants.nih.gov/grants/guide/pa-files/PAR-21-254.html){target="_blank"}
-* Supports a broad range of research efforts in computational genomics, data science, statistics, and bioinformatics relevant to one or both of basic or clinical genomic science, and broadly applicable to human health and disease. 
+* Supports a broad range of research efforts in computational genomics, data science, statistics, and bioinformatics relevant to one or both of basic or clinical genomic science, and broadly applicable to human health and disease.
 * Deadline: February 5, 2024, recurring June 5, 2024
 * Award: R01, $500K/year (direct) for durations of up to five years ([R21](https://grants.nih.gov/grants/guide/pa-files/PAR-21-255.html){target="_blank"} also available)
 
@@ -148,6 +159,11 @@ title: "NIH Funding Opportunities"
 * Supports innovative research and development in biomedical informatics and data science. This funding opportunity focuses on biomedical discovery and data-powered health, integrating streams of complex and interconnected research outputs that can be translated into scientific insights, clinical care, public health practices, and personal wellness.
 * Deadline: May 6, 2024 (LOI), June 5, 2024 (Proposal); annually in February, June, and October through 2025
 * Award: R01, $250K/year (direct) for durations up to four years
+
+### [Modular R01s in Cancer Control and Population Sciences](https://grants.nih.gov/grants/guide/pa-files/PAR-24-122.html){target="_blank}
+* Supports research efforts on novel scientific ideas that have the potential to substantially advance cancer research in statistical and analytic methods, epidemiology, cancer survivorship, cancer-related behaviors and behavioral interventions, health care delivery, digital health and data science, and implementation science.
+* Deadline: June 5, 2024, October 5, 2024
+* Award: R01, $250K/year (direct) for durations up to five years
 
 ### [Secondary Analysis and Integration of Existing Data to Elucidate Cancer Risk and Related Outcomes](https://grants.nih.gov/grants/guide/pa-files/PAR-23-254.html){target="_blank"}
 * Supports secondary data analysis and integration of existing datasets and database resources, with the ultimate aim to elucidate cancer risk and related outcomes (e.g., risk prediction or reduction, survival, or response to treatment, etc.). 
@@ -284,4 +300,4 @@ title: "NIH Funding Opportunities"
 
 * [NIH Office for Data Science Strategy](https://datascience.nih.gov/research-and-training-funding){target="_blank"} list of funding opportunities.
 
-Updated January 18, 2024.
+Updated January 25, 2024.

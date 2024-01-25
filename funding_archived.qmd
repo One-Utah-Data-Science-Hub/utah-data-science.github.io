@@ -558,6 +558,13 @@ format: html
 
 
 # Governmental Funding Opportunities
+
+### [Boosting Innovative GEOINT - Topic 1: Geospatial-Intelligence Foundational Model (GFM)](https://www.grants.gov/search-results-detail/351404){target="_blank"}
+
+-   Supports innovative concepts to address hard GEOINT problems that align to one or more of the following technical domains: (1) Foundational GEOINT, (2) Advanced Phenomenologies, and (3) Analytic Technologies.
+-   Deadline: January 23, 2024 (Abstracts); March 4, 2024 (Proposal); Additional topics added through 2026
+-   Award: \$3M for one year
+
 ### [I-ARPA Securing Our Underlying Resources in Cyber Environments (SoURCE CODE) Program](https://sam.gov/opp/fba8e8b62bbf437da4ca1db186b0a7dd/view){target="_blank"}
 
 -   Supports novel technologies to assist forensic experts in making determinations of the most likely attackers, based on coding styles. The program will explore full feature spaces in binary code and source code files to measure the similarity between files and provide information to forensic experts to the likely origins (country, groups, individuals, etc.).
