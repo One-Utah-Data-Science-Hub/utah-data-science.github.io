@@ -78,6 +78,18 @@ format: html
 * Deadline: April 8, 2024 (Phase 1: Planning Grants, Translational Research Coordination Networks, Workshops); April 22, 204 (Phase 2: Project Proposals)
 * Award: $300K for durations up to 2 years for Planning Grants; $500K for durations of 3-4 years for Translational Research Coordination Networks; $75K for Workshops; $750K-$1.5M for durations of 3 years for Project Proposals
 
+
+### [Campus Cyberinfrastructure (CC\*)](https://new.nsf.gov/funding/opportunities/campus-cyberinfrastructure-cc){target="_blank"}
+* Supports coordinated campus-level networking and cyberinfrastructure improvements for science applications and distributed research projects.
+  + Area (1) Data Driven Networking Infrastructure,
+  + Area (2) Computing and the Computing Continuum,
+  + Area (3) Network Integration and Applied Innovation,
+  + Area (4) Data Storage and Digital Archives, and
+  + Area (5) Strategy.
+* Deadline: April 22, 2024; October 15, 2024
+* Award: \$100K - \$1.4M depending on area for durations up to two years
+
+
 ### [Cyber-Physical Systems (CPS)](https://new.nsf.gov/funding/opportunities/cyber-physical-systems-cps){target="_blank"}
 * Supports research on engineered systems with a seamless integration of cyber and physical components, such as computation, control, networking, learning, autonomy, security, privacy and verification, for a range of application domains.
   + *Small Projects* $500K for durations up to three years; rolling deadline through May 30, 2024
@@ -97,20 +109,6 @@ format: html
 
 
 ## Upcoming Recurring Proposal Deadlines
-### [Research on Innovative Technologies for Enhanced Learning (RITEL)](https://new.nsf.gov/funding/opportunities/research-innovative-technologies-enhanced-learning){target="_blank"}
-* Supports early-stage research in emerging technologies such as AI, robotics and immersive or augmenting technologies for teaching and learning that respond to pressing needs in real-world educational environments.
-* Deadline: January 24, 2024; November 5, 2024; November 4, 2025
-* Award: $900K for durations up to three years
-
-### [Ethical and Responsible Research (ER2)](https://new.nsf.gov/funding/opportunities/ethical-responsible-research-er2){target="_blank"}
-* Supports research on what constitutes and promotes responsible research conduct and how to instill that knowledge in researchers, practitioners and educators across all career stages.
-* Deadline: January 25, 2024; fourth Thursday in January annually thereafter
-* Award
-  + Conference Projects: $50K and a maximum duration of 12 months.
-  + Incubation Projects: $90K and a maximum duration of 12 months.
-  + Research Grants: $400K and a maximum duration of 3 years.
-  + Institutional Transformation Research Grants: $700K and a maximum duration of 5 years.
-  
 ### [Human Networks and Data Science (HNDS)](https://beta.nsf.gov/funding/opportunities/human-networks-data-science-hnds){target="_blank"}
 *   Supports research that studies the behavior of individuals and groups by leveraging data and network science and the development of data infrastructure that makes such work possible.
 *   Deadline: *Core Research* July 11, 2024, annually thereafter in January and July; *Infrastructure* February 1, 2024, annually thereafter in February and August
@@ -156,6 +154,13 @@ format: html
 * Deadline: February 21, 2024; recurring annually on the third Wednesday in February
 * Award: Unspecified
 
+
+### [NSF National Quantum Virtual Laboratory (NQVL) Quantum Science and Technology Demonstrations (QSTD): I. **Pilot Phase**](https://www.nsf.gov/pubs/2023/nsf23604/nsf23604.htm){target="_blank"}
+* Supports the demonstration of practical quantum advantage, the actual application of the tools of Quantum Information Science and Engineering (QISE) to problems that will enable solutions that classical approaches can only solve much less efficiently or not at all.
+* Deadline: April 9, 2024 (LOI), June 11, 2024 (Proposal)
+* Award: $1M for durations of one year
+<!--* [NSF NQVL Webinar on August 4, 2023](https://new.nsf.gov/events/nqvl-webinar/2023-08-04) at 11am MT.--> 
+
 ### [Collaborative Research in Computational Neuroscience (CRCNS)](https://new.nsf.gov/funding/opportunities/collaborative-research-computational-neuroscience){target="_blank"}
 * Supports innovative approaches to science and engineering research on brain function, specifically collaborative activities that span a broad spectrum of computational neuroscience research, as appropriate to the missions and strategic objectives of each agency.
 * Deadline: March 7, 2024; November 13, 2024; November 12, 2025
@@ -200,29 +205,6 @@ format: html
 * Deadline: *Sustained Resources* will recur on December 6, 2024, *Innovative Resources* will recur on December 5, 2025
 * Award: *Innovative Resources* $200K/year for durations up to three years; *Sustained Resources* budget must align with the project scope, for durations of three to four years.
 
-
-### [Training-based Workforce Development for Advanced Cyberinfrastructure (CyberTraining)](https://new.nsf.gov/funding/opportunities/training-based-workforce-development-advanced){target="_blank"}
-*   *Pilot* projects are exploratory activities that may lead to *Implementation* projects.
-*   *Implementation* projects make CI training and educational activities or curriculum/instructional materials broadly accessible to a significant portion of a community for one or more disciplines.
-*   Deadline: January 18, 2025, annually thereafter
-*   Award: *Pilot* up to \$300K for durations up to two years; *Implementation* up to \$1M for durations up to four years
-
-### [Strengthening the Cyberinfrastructure Professionals Ecosystem (SCIPE)](https://new.nsf.gov/funding/opportunities/strengthening-cyberinfrastructure-professionals){target="_blank"}
-*   Supports projects that deepen the integration of cyberinfrastructure professionals' services into research, while fostering education, training and recognition that address CI workforce development needs.
-*   Deadline: January 18, 2025, annually thereafter *Limited Submission Opportunity.*
-*   Award: Not specified
-
-### [Mid-scale Research Infrastructure-1 (Mid-scale RI-1)](https://new.nsf.gov/funding/opportunities/mid-scale-research-infrastructure-1-mid-scale-ri-1){target="_blank"}
-* Supports the design and implementation of research infrastructure — including equipment, cyberinfrastructure, large-scale datasets and personnel — whose total project costs exceed NSF's Major Research Instrumentation program but are under $20 million.
-* Deadline: January 2025 (anticipated, recurring every other year)
-* Award: $4-20M for durations up to five years
-
-### [NSF National Quantum Virtual Laboratory (NQVL) Quantum Science and Technology Demonstrations (QSTD): I. **Pilot Phase**](https://www.nsf.gov/pubs/2023/nsf23604/nsf23604.htm){target="_blank"}
-* Supports the demonstration of practical quantum advantage, the actual application of the tools of Quantum Information Science and Engineering (QISE) to problems that will enable solutions that classical approaches can only solve much less efficiently or not at all.
-* Deadline: LOI due April 9, 2024, Proposal due June 11, 2024
-* Award: $1M for durations of one year
-<!--* [NSF NQVL Webinar on August 4, 2023](https://new.nsf.gov/events/nqvl-webinar/2023-08-04) at 11am MT.--> 
-
 ### [Expeditions in Computing (Expeditions)](https://new.nsf.gov/funding/opportunities/expeditions-computing-expeditions){target="_blank"}
 *   Supports long-term, multi-institutional research with the potential to transform computer and information science and engineering.
 *   Deadline: *Preliminary Proposal* June 19, 2024, June 19, 2026; *Full Proposal* March 31, 2025, March 31, 2027
@@ -252,17 +234,48 @@ format: html
 ### [Engineering Research Center (ERC)](https://new.nsf.gov/funding/opportunities/gen-4-engineering-research-centers-erc){target="_blank"}
 *   Convergent Research and Innovation through Inclusive Partnerships and Workforce Development
 *   Supports high-risk, high-payoff research centers focused on advancing engineered systems technology and education through multidisciplinary, cross-sector partnerships.
-*   Deadline: *LOI* September 2024, *Preliminary Proposal* October 2024, *Full Proposal* May 2025 (anticipated, recurring every other year)
+*   Deadline: September 2024 (LOI), October 2024 (Preliminary Proposal), May 2025 (Full Proposal); dates anticipated, recurring every other year
 *   Award: \$15M for durations up to seven years
+
+### [Research on Innovative Technologies for Enhanced Learning (RITEL)](https://new.nsf.gov/funding/opportunities/research-innovative-technologies-enhanced-learning){target="_blank"}
+* Supports early-stage research in emerging technologies such as AI, robotics and immersive or augmenting technologies for teaching and learning that respond to pressing needs in real-world educational environments.
+* Deadline: November 5, 2024; November 4, 2025
+* Award: $900K for durations up to three years
+
+
+### [Training-based Workforce Development for Advanced Cyberinfrastructure (CyberTraining)](https://new.nsf.gov/funding/opportunities/training-based-workforce-development-advanced){target="_blank"}
+*   *Pilot* projects are exploratory activities that may lead to *Implementation* projects.
+*   *Implementation* projects make CI training and educational activities or curriculum/instructional materials broadly accessible to a significant portion of a community for one or more disciplines.
+*   Deadline: January 18, 2025, annually thereafter
+*   Award: *Pilot* up to \$300K for durations up to two years; *Implementation* up to \$1M for durations up to four years
+
+### [Strengthening the Cyberinfrastructure Professionals Ecosystem (SCIPE)](https://new.nsf.gov/funding/opportunities/strengthening-cyberinfrastructure-professionals){target="_blank"}
+*   Supports projects that deepen the integration of cyberinfrastructure professionals' services into research, while fostering education, training and recognition that address CI workforce development needs.
+*   Deadline: January 18, 2025, annually thereafter *Limited Submission Opportunity.*
+*   Award: Not specified
+
+### [Ethical and Responsible Research (ER2)](https://new.nsf.gov/funding/opportunities/ethical-responsible-research-er2){target="_blank"}
+* Supports research on what constitutes and promotes responsible research conduct and how to instill that knowledge in researchers, practitioners and educators across all career stages.
+* Deadline: January 23, 2025; fourth Thursday in January annually thereafter
+* Award
+  + Conference Projects: $50K and a maximum duration of 12 months.
+  + Incubation Projects: $90K and a maximum duration of 12 months.
+  + Research Grants: $400K and a maximum duration of 3 years.
+  + Institutional Transformation Research Grants: $700K and a maximum duration of 5 years.
+
+### [Mid-scale Research Infrastructure-1 (Mid-scale RI-1)](https://new.nsf.gov/funding/opportunities/mid-scale-research-infrastructure-1-mid-scale-ri-1){target="_blank"}
+* Supports the design and implementation of research infrastructure — including equipment, cyberinfrastructure, large-scale datasets and personnel — whose total project costs exceed NSF's Major Research Instrumentation program but are under $20 million.
+* Deadline: January 2025 (anticipated, recurring every other year)
+* Award: $4-20M for durations up to five years
 
 ### [Mid-scale Research Infrastructure-2 (Mid-scale RI-2)](https://new.nsf.gov/funding/opportunities/mid-scale-research-infrastructure-2-mid-scale-ri-2){target="_blank"}
 *   Supports the implementation of research infrastructure --- including equipment, cyberinfrastructure, large-scale datasets and personnel --- whose total project costs fall between \$20 million and \$100 million.
-*   Deadline: *LOI* May 2025, *Preliminary Proposal* June 2025 (anticipated, recurring every other year)
+*   Deadline: May 2025 (LOI), June 2025 (Preliminary Proposal); dates anticipated, recurring every other year
 *   Award: \$20-100M for durations up to five years
 
 ### [Research Security and Integrity Information Sharing Analysis Organization (RSI-ISAO)](https://new.nsf.gov/funding/opportunities/research-security-integrity-information-sharing){target="_blank"}
 * Supports the establishment of an independent Research Security and Integrity Information Sharing Analysis Organization (RSI-ISAO) to empower the U.S. research community (institutions of higher education (IHEs), non-profit research institutions, and small and medium-sized for-profit organizations) to address foreign government interference, support security-informed decision-making, and serve as a conduit that connects research community stakeholders with one another and with U.S. government (USG) agencies via NSF.
-* Deadline: *Letter of Intent* September 2025, *Full Proposal* October 2025; anticipated dates
+* Deadline: September 2025 (LOI), October 2025 (Proposal); anticipated dates
 * Award: $9.5M for FY2024 then at least $10M/year for durations up to five years
 
 ### [National Artificial Intelligence (AI) Research Institutes](https://new.nsf.gov/funding/opportunities/national-artificial-intelligence-research){target="_blank"}
@@ -272,6 +285,7 @@ format: html
 
 
 ### Dear Colleague Letters
+* [**Request for Information** Researcher and Educator Use Cases for the National Artificial Intelligence Research Resource (NAIRR)](https://www.nsf.gov/pubs/2024/nsf24051/nsf24051.jsp){target="_blank"} expires March 8, 2024. Individuals and groups of individuals in all research and education domains are invited to submit responses using the [online submission form](https://idaorg.gov1.qualtrics.com/jfe/form/SV_cRMnkUFJoXs7UfI){target="_blank"}.
 * [Funding Opportunities for Engineering Research in Artificial Intelligence](https://www.nsf.gov/pubs/2024/nsf24039/nsf24039.jsp){target="_blank"} <!-- December 22, 2023 -->
 
 * [Broadening Participation in Computing (BPC) Supplemental Funding in Computer and Information Science and Engineering](https://www.nsf.gov/pubs/2024/nsf24030/nsf24030.jsp){target="_blank"} recommended submission prior to March 31 each year. <!-- December 5, 2023 -->
@@ -297,4 +311,4 @@ format: html
 * [Fairness, Ethics, Accountability, and Transparency: Enabling Breakthrough Research to Expand Inclusivity in Computer and Information Science and Engineering Research](https://www.nsf.gov/pubs/2019/nsf19016/nsf19016.jsp){target="_blank"} <!-- Nov 2, 2018 -->
 
 
-Updated January 18, 2024.
+Updated January 29, 2024.
