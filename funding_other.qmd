@@ -15,7 +15,7 @@ editor: visual
 ### [Digital Health Innovations Seed Grant Program](https://utah.infoready4.com/#competitionDetail/1924926){target="_blank"}
 
 -   Supports new collaborations and innovative research in digital health that will lead to federal extramural grant applications.
--   Deadline: February 2, 2024
+-   Deadline: *EXTENDED* February 9, 2024
 -   Award: \$75K (+\$25K in [SD2C](https://cores.utah.edu/sd2c/){target="_blank"} support) for one year
 
 ## Foundation Funding Opportunities
@@ -29,18 +29,6 @@ editor: visual
 -   Deadline: Rolling for one year until budget of \$1M is depleted <!-- August 2024 -->
 -   Application should take no more than 3 hours!
 
-### [Motorola Solutions Foundation Grants](https://www.motorolasolutions.com/en_us/about/motorola-solutions-foundation/annual-grants.html){target="_blank"}
-
--   Technology & engineering education - From engaging students through hands-on engineering activities like design, coding and robotics to providing scholarship and workforce placement for underrepresented groups, we’re committed to creating opportunities for future innovators.
--   Deadline: February 1, 2024
--   Award: \$50,000
--   Please contact [Gwen Allouch](mailto:gwen.allouch@hsc.utah.edu) if you are interested in applying to this opportunity.
-
-### [Predictors of Vaccine Efficacy: Identifying Correlates of Protection](https://wellcome.org/grant-funding/schemes/correlates-protection-for-vaccine-development){target="_blank"}
-
--   Supports research teams to establish or validate correlates of protection across 11 diseases with the potential to cause substantial outbreaks or which have significant burden, and have no licenced vaccines.
--   Deadline: February 6, 2024 (Preliminary Application), May 21, 2024 (Full Invited Proposal)
--   Award: £5M for durations up to three years
 
 ### [OpenAI Superalignment Fast Grants](https://openai.com/blog/superalignment-fast-grants){target="_blank"}
 
@@ -80,15 +68,15 @@ editor: visual
 
 
 ### [ARPA-H: SBIR Research and Development](https://sam.gov/opp/cc0e634201084b2b8f20e5ba59ee59a5/view){target="_blank"}
--   Supports mall business concerns that possess the research and development (R&D) expertise to conduct innovative research that will contribute toward ARPA-H mission needs and Small Business Innovation Research (SBIR) program objectives. Research topics: 
-  + Inexpensive Plant-based Manufacturing of Viruses
-  + LymphoLab ProDiscover Kit
-  + Continuous Monitoring of Vascular Health Using Smart Biomimetic Implantables
-  + Personalized Medicine Platform for Predicting Response to Immunotherapy
-  + Saving Baby Hearts: Fully Autonomous Neonatal Echocardiography for the Diagnosis of Critical Congenital Heart Disease 
-  + Improving Identity and Access Management with Clinical Context 
--   Deadline: February 22, 2024 (anticipated, Solicitation 75N91024R00006 is anticipated to be made available on or about January 23, 2024)
--   Award: Unspecified, budget must be align with the project scope
+*   Supports mall business concerns that possess the research and development (R&D) expertise to conduct innovative research that will contribute toward ARPA-H mission needs and Small Business Innovation Research (SBIR) program objectives. Research topics: 
+    -   Inexpensive Plant-based Manufacturing of Viruses 
+    -   LymphoLab ProDiscover Kit
+    -   Continuous Monitoring of Vascular Health Using Smart Biomimetic Implantables
+    -   Personalized Medicine Platform for Predicting Response to Immunotherapy
+    -   Saving Baby Hearts: Fully Autonomous Neonatal Echocardiography for the Diagnosis of Critical Congenital Heart Disease 
+    -   Improving Identity and Access Management with Clinical Context 
+*   Deadline: February 22, 2024 (anticipated, Solicitation 75N91024R00006 is anticipated to be made available on or about January 23, 2024)
+*   Award: Unspecified, budget must be align with the project scope
 
 ### [DARPA: Building an Adaptive & Competitive Workforce](https://tools-competition.org/workforce/){target="_blank"}
 * Supports adult learners in developing critical skills necessary for the current and future national security workforce. Proposed solutions should leverage artificial intelligence and advanced computational methods to help adults upskill and reskill in the complex subjects required for the continuously advancing 21st-century economy.
@@ -99,14 +87,14 @@ editor: visual
 
 ### [ARPA-H: Platform Accelerating Rural Access to Distributed & InteGrated Medical care (PARADIGM)](https://sam.gov/opp/f0795d3596724bbe9d83bd33662e49e4/view){target="_blank"}
 -   Supports development of a distributed care delivery model that can be easily adopted by health systems. This new model will deliver services typically associated with brick-and-mortar health care facilities; establish real-world settings for demonstrating and evaluating Care Delivery Platform (CDP)-based care; and demonstrate the financial sustainability of this care model. Projects should address one of the five technical areas:
-  + Decentralized Approach to Hospital-Level Care
-  + CDP Integration
-  + Medical Internet of Things (IoT) Platform
-  + Rugged & Miniaturized CT Scanner
-  + Intelligent Task Guidance
+    -   Decentralized Approach to Hospital-Level Care
+    -   CDP Integration
+    -   Medical Internet of Things (IoT) Platform
+    -   Rugged & Miniaturized CT Scanner
+    -   Intelligent Task Guidance
 -   Deadline: February 27, 2024 (Abstract), April 26, 2024 (Proposal)
 -   Award: Unspecified, budget must be align with the project scope
-* An internal informational and networking meeting will be held on January 31 from 11am-12pm on [zoom](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MnBnamF2ZTBvbDRnaDZxOHYxbjRoaDViNTYgY2Y0ZDA4OThhMjJiMmQxOTY5NzU1ZDRiYmU3NzA2M2U4MGVhNDgxMGEyNGEyYTI0ZWQ4NDAwM2IyMjU0NGY1NEBn&tmsrc=cf4d0898a22b2d1969755d4bbe77063e80ea4810a24a2a24ed84003b22544f54%40group.calendar.google.com){target="_blank"}
+<!--* An internal informational and networking meeting will be held on January 31 from 11am-12pm on [zoom](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MnBnamF2ZTBvbDRnaDZxOHYxbjRoaDViNTYgY2Y0ZDA4OThhMjJiMmQxOTY5NzU1ZDRiYmU3NzA2M2U4MGVhNDgxMGEyNGEyYTI0ZWQ4NDAwM2IyMjU0NGY1NEBn&tmsrc=cf4d0898a22b2d1969755d4bbe77063e80ea4810a24a2a24ed84003b22544f54%40group.calendar.google.com){target="_blank"} -->
 * Proposer's Day will be held (virtually and in-person) on February 15, 2024 in Phoenix Arizona. [Register here!](https://arpa-h-paradigm.powerappsportals.us/){target="_blank"}
 
 ### [Establishing Qualification Processes for Agile Pharmaceutical Manufacturing (EQUIP-A-Pharma)](https://sam.gov/opp/4ad34752d4cc466fb9ac67e0c5c31941/view){target="_blank"}
@@ -119,11 +107,21 @@ editor: visual
 * Supports basic research to explore potentially high-impact approaches in scientific computing and extreme-scale science in one of five research topics:
   + Harnessing Technology Innovations to Accelerate Science through Visualization
   + Scalable Space-Time Memories for Large Discrete/Agent-Based Models 
-  + Neuromorphic Computing 
+  + Neuromorphic Computing extre
   + Advanced Wireless 
   + Quantum Hardware Emulation
-* Deadline: February 29, 2024 (pre-application); May 2, 2024 (proposal)
+* Deadline: February 29, 2024 (pre-application); May 2, 2024 (proposal) [Internal LSO deadline is February 14!](https://utah.infoready4.com/#freeformCompetitionDetail/1930101){target=_"blank"}
 * Award: $300K-$1.1M
+
+### [Office of Naval Research: Fundamental Research Towards Expeditionary Air Warfare & Weapons](https://www.grants.gov/search-results-detail/351927){target="_blank"}
+* Supports research relevant to the Expeditionary Forces, specifically Theoretical Foundations and Limitations of Predicting, Deceiving, and Disrupting Artificial Intelligence Algorithms in Perception/Action Loops.
+* Deadline: March 1, 2024
+* Award: Up to $4.2M over five years ($330K for the first year, $910K/year for the next one to two years, $1M/year for another one to two years)
+
+### [U.S. DOT Small Business Innovation Research (SBIR) Pre-Solicitation - Complete Streets Artificial Intelligence Initiative](https://www.volpe.dot.gov/work-us/small-business-innovation-research/us-dot-sbir-fiscal-year-20242-fy242-phase-i-pre){target="_blank"}
+* Supports development of a suite of decision-support tools for transportation agencies that assists in the siting, design, and deployment of Complete Streets. Complete Streets are streets and networks that prioritize safety, comfort, and connectivity to destinations for all people who use the street network. 
+* Deadline: March 1, 2024 (Pre-solicitation)
+* An informational webinar about the solicitation is tentatively scheduled for March 21, 2024, at 1:00 pm ET, more information will be available on the solicitation.
 
 ### [DOE Office of Science: Data Reduction for Science](https://www.grants.gov/search-results-detail/351814){target="_blank"}
 * Supports exploration of potentially high-impact approaches in the development and use of data reduction techniques and algorithms to facilitate more efficient analysis and use of massive data sets produced by observations, experiments and simulation.
@@ -153,7 +151,6 @@ editor: visual
     -   Stakeholder Engagement
     -   Artificial Intelligence
 
--   [NIH Pioneering Research for Early Prediction of Alzheimer's Disease & Related Dementias (PREPARE) Challenge](https://www.challenge.gov/?challenge=prepare-challenge){target="_blank"} seeks to advance solutions for accurate, innovative, and representative early prediction of AD/ADRD through three challenge phases that successively build on each other. Phase 1 open until January 31, 2024, \$650K in total prizes.
 
 -   [Digitizing Utilities Prize Round 2](https://www.challenge.gov/?challenge=digitizing-utilities-prize-round-2){target="_blank"} aims to help utilities tackle data and cybersecurity challenges that advance grid resiliency. This prize connects utilities with interdisciplinary teams of software developers and data experts to transform digital systems and data analytics for utilities in the energy sector. Phase 1 open until February 29, 2024, \$1.85M in total prizes.
 
@@ -164,4 +161,4 @@ editor: visual
 
 <!--## Policy and Engagement -->
 
-Updated January 29, 2024.
+Updated February 8, 2024.

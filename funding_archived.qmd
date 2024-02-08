@@ -162,6 +162,12 @@ format: html
 * Award: F99/K00, covers stipends, tuition, fees, and institutional allowance for durations up to six years (F99 for two years, K00 for four years).
 
 ## Research Grants - R01 Activities
+
+### [Short Courses to Promote the Broad and Rigorous Use of Common Fund Data](https://grants.nih.gov/grants/guide/rfa-files/RFA-RM-23-014.html){target="_blank"}
+* Supports research education activities in the mission areas of the NIH.  The overarching goal of this R25 program is to support educational activities that complement and/or enhance the training of a workforce to meet the nation’s biomedical, behavioral and clinical research needs.
+* Deadline: January 14, 2024 (LOI), February 14, 2024 (Proposal)
+* Award: R25, $350K/year (direct) for durations of three years
+
 ### [Computational Approaches to Curation at Scale for Biomedical Research Assets](https://grants.nih.gov/grants/guide/pa-files/PAR-20-304.html){target="_blank"}
 * Supports the availability of and access to secure, complete data sets and computational models that can serve as the basis of transformative biomedical discoveries by improving the speed and scope of the curation processes.
 * Deadline: January 6, 2024 (LOI), February 5, 2024 (Proposal)
@@ -267,6 +273,7 @@ format: html
 	+ Award: $500K-1M for durations up to two years
 
 ## Notices of Special Interest and Requests for Information
+* [**Request for Information** Best Practices for Sharing NIH Supported Research Software](https://datascience.nih.gov/rfi-software){target="_blank"} expires February 1, 2024.
 * [**Request for Information** NCI Cancer Research Data Commons (CRDC) Artificial Intelligence (AI) use cases to inform an assessment of data readiness](https://grants.nih.gov/grants/guide/notice-files/NOT-CA-24-017.html){target="_blank"} due by December 31, 2023.
 * [**Request for Information** Opportunities and Challenges for the Collection, Use, and Sharing of Real-World Data (RWD) including Electronic Health Records, for NIH Supported Biomedical and Behavioral Research](https://grants.nih.gov/grants/guide/notice-files/NOT-OD-23-180.html){target="_blank"} due by December 14, 2023.
 * [**Request for Information** Exploring the role of Generative AI in enhancing the use of Big Data in Heart, Lung, Blood, and Sleep (HLBS) research](https://grants.nih.gov/grants/guide/notice-files/NOT-HL-23-097.html){target="_blank"} due by December 5, 2023.
@@ -281,6 +288,13 @@ format: html
 
 
 # NSF Funding Opportunities
+### [Cybersecurity Innovation for Cyberinfrastructure (CICI)](https://new.nsf.gov/funding/opportunities/cybersecurity-innovation-cyberinfrastructure-cici){target="_blank"}
+*   Supports work that enables scientists and scientific discovery by improving the security, robustness, and trustworthiness of cyberinfrastructure.
+    *   *Usable and Collaborative Security for Science (UCSS)*: Projects in this program area should support novel and/or applied security and usability research that facilitates scientific collaboration, encourages the adoption of security into the scientific workflow, and helps create a holistic, integrated security environment that spans the entire scientific cyberinfrastructure ecosystem.
+    *   *Reference Scientific Security Datasets (RSSD)*: Projects in this program area should leverage instrumented cyberinfrastructure to capture metadata from scientific workflows and workloads as reference data artifacts that can help support reproducible security research, testing and evaluation.
+    *   *Transition to Cyberinfrastructure Resilience (TCR)*: Projects in this program area should improve the robustness, trustworthiness, integrity, and/or resilience of scientific cyberinfrastructure through testing, evaluation, hardening, validation, and technology transition of novel cybersecurity research. The TCR area further encourages transition activities that advance the deployment and use of reproducibility in CI, workflows, and data.
+*   Deadline: February 1, 2024
+*   Award: \$600K *(UCSS and RSSD)* - \$1.2M *(TCR)* for durations up to three years
 
 ### [Safe Learning-Enabled Systems](https://new.nsf.gov/funding/opportunities/safe-learning-enabled-systems){target="_blank"}
 *   Supports foundational research that leads to the design and implementation of learning-enabled systems in which safety is ensured with high levels of confidence.
@@ -400,6 +414,20 @@ format: html
 
 
 # Foundation Funding Opportunities
+
+### [Predictors of Vaccine Efficacy: Identifying Correlates of Protection](https://wellcome.org/grant-funding/schemes/correlates-protection-for-vaccine-development){target="_blank"}
+
+-   Supports research teams to establish or validate correlates of protection across 11 diseases with the potential to cause substantial outbreaks or which have significant burden, and have no licenced vaccines.
+-   Deadline: February 6, 2024 (Preliminary Application), May 21, 2024 (Full Invited Proposal)
+-   Award: £5M for durations up to three years
+
+### [Motorola Solutions Foundation Grants](https://www.motorolasolutions.com/en_us/about/motorola-solutions-foundation/annual-grants.html){target="_blank"}
+
+-   Technology & engineering education - From engaging students through hands-on engineering activities like design, coding and robotics to providing scholarship and workforce placement for underrepresented groups, we’re committed to creating opportunities for future innovators.
+-   Deadline: February 1, 2024
+-   Award: \$50,000
+-   Please contact [Gwen Allouch](mailto:gwen.allouch@hsc.utah.edu) if you are interested in applying to this opportunity.
+
 ### [AVDF/ACLS Fellowships for Research on the Liberal Arts](https://www.acls.org/programs/avdf-acls-fellowships-for-research-on-the-liberal-arts/){target="_blank"}
 -   Supports scholarly projects that draw upon the newly available College and Beyond II (CBII) database.
 -   Deadline: December 15, 2023
@@ -721,6 +749,7 @@ format: html
 
 ## Challenges, Awards, and Other Opportunities
 
+-   [NIH Pioneering Research for Early Prediction of Alzheimer's Disease & Related Dementias (PREPARE) Challenge](https://www.challenge.gov/?challenge=prepare-challenge){target="_blank"} seeks to advance solutions for accurate, innovative, and representative early prediction of AD/ADRD through three challenge phases that successively build on each other. Phase 1 open until January 31, 2024, \$650K in total prizes.
 -   [Cyber Defensive Capability Performance Measurement Development Challenge](https://www.challenge.gov/?challenge=cyber-defensive-capability-performance-measurement-development-challenge){target="_blank"} seeks undergraduate and graduate students to develop algorithms to measure a system’s ability to maintain critical functionality during a cyberspace attack from Advanced Persistent Threat (APT) actors. The developed algorithms are to: (a) measure the effectiveness of a system’s cyber defensive capabilities against full spectrum cyber threats, and (b) calculate the cyber resiliency of the system based on given system architecture, critical functions, and the defined cyber APTs. Phase 1 open until January 26, 2024, \$125K in total prizes.
 -   [The FTC Voice Cloning Challenge](https://www.ftc.gov/news-events/contests/ftc-voice-cloning-challenge){target="_blank"} supports the development of multidisciplinary approaches---from products to policies to procedures---aimed at protecting consumers from AI-enabled voice cloning harms, such as fraud and the broader misuse of biometric data and creative content. The goal of the Challenge is to foster breakthrough ideas on preventing, monitoring, and evaluating malicious voice cloning. Abstracts and detailed explanations due January 12, 2024.
 -   [Open AI Preparedness Challenge](https://openai.com/form/preparedness-challenge){target="_blank"} responses will be accepted on a rolling basis through December 31, 2023. We will offer \$25,000 each in API credits to up to 10 top submissions, publish novel ideas and entries, and look for candidates for Preparedness from among the top contenders in this challenge.
