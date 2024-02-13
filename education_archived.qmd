@@ -4,6 +4,13 @@ format: html
 ---
 
 ## Software Carpentries
+### Introduction to Data Analysis in Python
+**When:** February 8-9, 2024, 9am-5pm\
+**Where:** [HELIX](https://maps.app.goo.gl/3w96QNsCt9ASd3d77){target="_blank"} GS155 (Alder)\
+**Instructors:** Rebecca Barter, Alec Chapman\
+Contact [Penny Atkins](mailto:penny.atkins@hsc.utah.edu) with any inquiries. [Register to save your spot!](https://forms.gle/wGrVndw1pbrzb9fX9){target="_blank"}
+Additional information can be found on the [website](https://uofudelphi.github.io/2024-02-08-python/){target="_blank"}.
+
 ### Databases and SQL
 **When:** December 1, 2023\
 **Where:** HSEB 1730, Salt Lake City, UT 84113\

@@ -5,8 +5,7 @@ format: html
 Each course will include asynchronous lectures and quizzes and will be taught in either R or Python. The series has been designed by Dr. Rebecca Barter and will grow to include additional modules, so check back again soon! \
 
 See our full collection of courses on our [Data Science Learning Canvas Catalog](https://utah.catalog.instructure.com/browse/ds-learn/){target="_blank"}. 
-<object data="pdfs/DSLearning_flyer_print.pdf" type="application/pdf" width="800" height="1200" style="overflow:hidden" scrolling="no">
-</object>
+[![Data Science Learning Opportunities](images/DSLearning_flyer_print.png)](https://utah.catalog.instructure.com/browse/ds-learn/){target="_blank"}
   
 ### [Introduction to R for Data Analysis](https://utah.catalog.instructure.com/browse/ds-learn/courses/introduction-to-r-for-data-analysis){target="_blank"} 
 

@@ -5,7 +5,7 @@ library(reshape2)
 library(ggplot2)
 
 #read in files
-file_path = "C:/Users/Penny/Documents/DSHub/HubRoster/Data Science Roster_ALL.xlsx"
+file_path = "/Users/pennyatkins/Box Sync/DSHub/HubRoster/Data Science Roster_ALL.xlsx"
 data <- read.xlsx(file_path, sheet = "Responses")
 
 method_experts<-which(data=="Expert", arr.ind=TRUE)
@@ -98,8 +98,8 @@ for (i in 1:nrow(data)){
                   "<br>",link_string,"|",methodologies,applications,"|",sep="")
   output_strings<-append(output_strings,gsub("; ","<br>",output_str))
 }
-close( file("C:/Users/Penny/Documents/DSHub/HubRoster/roster_table.txt", open="w" ) )
-lapply(output_strings,write,"C:/Users/Penny/Documents/DSHub/HubRoster/roster_table.txt",append=TRUE)
+close( file("/Users/pennyatkins/Box Sync/DSHub/HubRoster/roster_table.txt", open="w" ) )
+lapply(output_strings,write,"/Users/pennyatkins/Box Sync/DSHub/HubRoster/roster_table.txt",append=TRUE)
 
 # plot services results and save for website
 act.data <- data.frame(
@@ -134,7 +134,7 @@ p <- ggplot(data=act.data, aes(x=reorder(activities,+actcounts),
         axis.text = element_text(size=6),
         axis.text.x = element_blank(),
         axis.ticks.x = element_blank())
-ggsave("C:/Users/Penny/Projects/utah-data-science-hub.github.io/images/servicesPlot.png",
+ggsave("/Users/pennyatkins/Documents/Projects/utah-data-science-hub.github.io/images/servicesPlot.png",
        p, width=1500, height=800, units = "px", dpi= 300)
   
 #plot methodology summary and save for website
@@ -160,7 +160,7 @@ p <- method.freq %>%
         axis.line = element_line(color="black"), 
         axis.text.x = element_text(angle=90, vjust = 0.5, hjust = 1,size=8))
 p
-ggsave("C:/Users/Penny/Projects/utah-data-science-hub.github.io/images/methodologyPlot.png",
+ggsave("/Users/pennyatkins/Documents/Projects/utah-data-science-hub.github.io/images/methodologyPlot.png",
        p, width=1500, height=1200, units = "px", dpi= 300)
 
 
@@ -188,6 +188,6 @@ p <- app.freq %>%
         axis.line = element_line(color="black"), 
         axis.text.x = element_text(angle=90, vjust = 0.5, hjust = 1,size=8))
 p
-ggsave("C:/Users/Penny/Projects/utah-data-science-hub.github.io/images/applicationsPlot.png",
+ggsave("/Users/pennyatkins/Documents/Projects/utah-data-science-hub.github.io/images/applicationsPlot.png",
        p, width=1500, height=1200, units = "px", dpi= 300)
 

@@ -8,13 +8,6 @@ Check out our calendar of upcoming events and seminars in our [Google Calendar](
 <iframe src="https://calendar.google.com/calendar/embed?src=cf4d0898a22b2d1969755d4bbe77063e80ea4810a24a2a24ed84003b22544f54%40group.calendar.google.com&amp;ctz=America%2FDenver" style="border: 0" width="800" height="600" frameborder="0" scrolling="no">
 </iframe>
 
-## Introduction to Data Analysis in Python
-**When:** February 8-9, 2024, 9am-5pm\
-**Where:** [HELIX](https://maps.app.goo.gl/3w96QNsCt9ASd3d77){target="_blank"} GS155 (Alder)\
-**Instructors:** Rebecca Barter, Alec Chapman\
-Contact [Penny Atkins](mailto:penny.atkins@hsc.utah.edu) with any inquiries. [Register to save your spot!](https://forms.gle/wGrVndw1pbrzb9fX9){target="_blank"}
-Additional information can be found on the [website](https://uofudelphi.github.io/2024-02-08-python/){target="_blank"}.
-
 
 ## Digital Humanities Utah 2024 (DHU8)
 **Dates:** February 23-24, 2024  
@@ -34,7 +27,14 @@ Additional information can be found on the [website](https://uofudelphi.github.i
 **Dates:** July 9-12, 2024  
 <!--**Time:** 9:30am - 3:30pm  -->
 **Location:** Hilton Salt Lake City Center  
-Additional information about AIME2024 can be found on the [conference webpage](https://aime24.aimedicine.info/){target="_blank"}. If you are interested in supporting the conference in any way, please contact Joseph Finkelstein.
+Additional information about AIME2024 can be found on the [conference webpage](https://aime24.aimedicine.info/){target="_blank"}. 
+[![DELPHI Sponsorship of AIME Trainees](images/AIME_DELPHISponsorship.png)](http://bit.ly/aime-delphi){target="_blank"}
+DELPHI would like to support trainees interested in attending this conference and taking advantage of having this conference held right here in Salt Lake City! We are offering an opportunity for trainees to get a match of their departmental support to attend AIME 2024. In total, DELPHI expects to support 25-30 applicants with a preference for applicants who have submitted an abstract to the conference and who have met the early registration deadline of March 1, 2024. However, all interested trainees are encouraged to apply.   
+
+## DELPHI Symposium 2024
+**Save the Date:** October 11, 2024  
+**Location:** Cleone Peterson Eccles Alumni House  
+
 
 ## Other Seminars on Campus
 * [Utah Center for Data Science](https://datascience.utah.edu/seminar.html)  
