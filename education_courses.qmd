@@ -11,6 +11,8 @@ See our full collection of courses on our [Data Science Learning Canvas Catalog]
 
 ### [Data Cleaning in R](https://utah.catalog.instructure.com/browse/ds-learn/courses/data-cleaning-with-r){target="_blank"}
 
+### [Introduction to Python for Data Analysis](https://utah.catalog.instructure.com/browse/ds-learn/courses/introduction-to-python-for-data-analysis){target="_blank"}
+
 <!-- ### Data Visualization in R
 **When:** October/November 2023\
 **Where:** Virtual\

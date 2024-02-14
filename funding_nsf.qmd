@@ -106,20 +106,6 @@ format: html
 
 ## Upcoming Recurring Proposal Deadlines
 
-### [Incorporating Human Behavior in Epidemiological Models (IHBEM)](https://new.nsf.gov/funding/opportunities/incorporating-human-behavior-epidemiological-0){target="_blank"}
-* Supports research that incorporates research on social and behavioral processes in mathematical epidemiological models. The program provides support for projects that involve balanced participation from the mathematical sciences and from the social, behavioral, and economic sciences.
-* Deadline: February 14, 2024; recurring annually
-* Award: $1M for durations of 3-4 years
-
-### [Science of Learning and Augmented Intelligence](https://new.nsf.gov/funding/opportunities/science-learning-augmented-intelligence){target="_blank"}
-* Supports research to develop fundamental knowledge about principles, processes and mechanisms of learning and about augmented intelligence — how human cognitive function can be augmented through interactions with others and technology.
-* Deadline: February 14, 2024 and August 7, 2024 (recurring annually) <!-- on the second Wed in Feb and the first Wed in August)-->
-
-### [Enabling Discovery through GEnomics (EDGE)](https://new.nsf.gov/funding/opportunities/enabling-discovery-through-genomics-edge){target="_blank"}
-* Supports research to advance understanding of comparative and functional genomics and the development of innovative tools, technologies, resources, and infrastructure that advance biological research focused on the identification of the causal mechanisms connecting genes and phenotypes.
-* Deadline: February 15, 2024; recurring annually on the third Thursday in February
-* Award: $2M for durations up to four years
-
 ### [NSF Scholarships in Science, Technology, Engineering, and Mathematics Program (S-STEM)](https://new.nsf.gov/funding/opportunities/nsf-scholarships-science-technology-engineering){target="_blank"}
 *   Supports institutions of higher education to fund scholarships for academically talented low-income students and to study and implement a program of activities that support their recruitment, retention and graduation in STEM.
     *   Track 1: Institutional Capacity Building
@@ -170,6 +156,10 @@ format: html
 *   Deadline: *Core Research* July 11, 2024, annually thereafter in January and July; *Infrastructure* February 1, 2024, annually thereafter in February and August
 *   Awards: *Core Research* \$400K; *Infrastructure* \$800K for durations of one to five years
 
+### [Science of Learning and Augmented Intelligence](https://new.nsf.gov/funding/opportunities/science-learning-augmented-intelligence){target="_blank"}
+* Supports research to develop fundamental knowledge about principles, processes and mechanisms of learning and about augmented intelligence — how human cognitive function can be augmented through interactions with others and technology.
+* Deadline: August 7, 2024 and February 12, 2025 (recurring annually) <!-- on the second Wed in Feb and the first Wed in August)-->
+
 ### [Cognitive Neuroscience (CogNeuro)](https://new.nsf.gov/funding/opportunities/cognitive-neuroscience-cogneuro-0){target="_blank"}
 * Supports advancement of our understanding of the neural mechanisms underlying human cognition and behavior. Funded proposals typically advance theories in cognitive neuroscience by relating precise and rich quantifications of physiology, cognition and behavior with each other (Intellectual Merit) and strengthen the field through, for example, outreach, mentoring the next generation of diverse cognitive neuroscientists and/or increasing awareness and utilization of the research the field produces (Broader Impacts).
 * Deadline: August 15, 2024
@@ -207,6 +197,16 @@ format: html
 *   Supports long-term, multi-institutional research with the potential to transform computer and information science and engineering.
 *   Deadline: *Preliminary Proposal* June 19, 2024, June 19, 2026; *Full Proposal* March 31, 2025, March 31, 2027
 *   Award: \$15M for durations up to seven years
+
+### [Incorporating Human Behavior in Epidemiological Models (IHBEM)](https://new.nsf.gov/funding/opportunities/incorporating-human-behavior-epidemiological-0){target="_blank"}
+* Supports research that incorporates research on social and behavioral processes in mathematical epidemiological models. The program provides support for projects that involve balanced participation from the mathematical sciences and from the social, behavioral, and economic sciences.
+* Deadline: February 1-14, 2025; recurring annually
+* Award: $1M for durations of 3-4 years
+
+### [Enabling Discovery through GEnomics (EDGE)](https://new.nsf.gov/funding/opportunities/enabling-discovery-through-genomics-edge){target="_blank"}
+* Supports research to advance understanding of comparative and functional genomics and the development of innovative tools, technologies, resources, and infrastructure that advance biological research focused on the identification of the causal mechanisms connecting genes and phenotypes.
+* Deadline: February 20, 2025; recurring annually on the third Thursday in February
+* Award: $2M for durations up to four years
 
 ### [CyberCorps Scholarship for Service (SFS)](https://new.nsf.gov/funding/opportunities/cybercorps-scholarship-service-sfs-0){target="_blank"}
 * Supports scholarships in cybersecurity that require a service obligation following graduation equivalent to the length of the scholarship.
@@ -309,4 +309,4 @@ format: html
 * [Fairness, Ethics, Accountability, and Transparency: Enabling Breakthrough Research to Expand Inclusivity in Computer and Information Science and Engineering Research](https://www.nsf.gov/pubs/2019/nsf19016/nsf19016.jsp){target="_blank"} <!-- Nov 2, 2018 -->
 
 
-Updated February 8, 2024.
+Updated February 13, 2024.

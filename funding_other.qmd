@@ -10,13 +10,9 @@ editor: visual
 * Deadline: 
 * Award: $ for durations up to  years -->
 ```
-## Internal Funding Opportunities
+<!-- ## Internal Funding Opportunities -->
 
-### [Digital Health Innovations Seed Grant Program](https://utah.infoready4.com/#competitionDetail/1924926){target="_blank"}
 
--   Supports new collaborations and innovative research in digital health that will lead to federal extramural grant applications.
--   Deadline: *EXTENDED* February 9, 2024
--   Award: \$75K (+\$25K in [SD2C](https://cores.utah.edu/sd2c/){target="_blank"} support) for one year
 
 ## Foundation Funding Opportunities
 
@@ -58,14 +54,6 @@ editor: visual
     -   Resilient Systems - Building integrated healthcare systems
 -   Deadline: Rolling, expires March 14, 2024
 -   Award: Unspecified, budget must be align with the project scope
-
-
-### [NEH: Humanities Research Centers on Artificial Intelligence](https://www.neh.gov/program/humanities-research-centers-artificial-intelligence){target="_blank"}
-
--   Supports humanities research centers on artificial intelligence (AI) focused on better understanding the ethical, legal, or societal implications of AI. Avery Holton will be the PI for the University of Utah Proposal.
--   Deadline: February 14, 2024
--   Award: \$500K
-
 
 ### [ARPA-H: SBIR Research and Development](https://sam.gov/opp/cc0e634201084b2b8f20e5ba59ee59a5/view){target="_blank"}
 *   Supports mall business concerns that possess the research and development (R&D) expertise to conduct innovative research that will contribute toward ARPA-H mission needs and Small Business Innovation Research (SBIR) program objectives. Research topics: 
@@ -123,11 +111,27 @@ editor: visual
 * Deadline: March 1, 2024 (Pre-solicitation)
 * An informational webinar about the solicitation is tentatively scheduled for March 21, 2024, at 1:00 pm ET, more information will be available on the solicitation.
 
+### [DOD Measurement & Signature Intelligence Research and Development Initiative](https://sam.gov/opp/c7c934df83d2451db509e8e5930a4f6f/view){target="_blank"}
+* Supports the next generation of capabilities and platforms to advance the Measurement and Signature Intelligence (MASINT) enterprise. Research Areas of Interest include:
+  + Data-Enabling Technologies
+  + Automation and Machine Learning Technologies
+  + Modeling and Simulation Technologies
+  + Technologies that Increase Analytics, and
+  + Technologies that Advance Collection.
+* Deadline: March 1, 2024 (White paper opens), March 29, 2024
+* Award: 4-10 awards expected
+
 ### [DOE Office of Science: Data Reduction for Science](https://www.grants.gov/search-results-detail/351814){target="_blank"}
 * Supports exploration of potentially high-impact approaches in the development and use of data reduction techniques and algorithms to facilitate more efficient analysis and use of massive data sets produced by observations, experiments and simulation.
 * Deadline: March 19, 2024 (pre-application); May 7, 2024 (proposal)
 * Award: $400K/year
 * This is a [*Limited Submission Opportunity*](https://utah.infoready4.com/#freeformCompetitionDetail/1928990) with an internal deadline of February 20, 2024. 
+
+### [CDC Epidemiologic and Economic Modeling for HIV, Viral Hepatitis, STD, and TB](https://www.grants.gov/search-results-detail/349740){target="_blank"}
+* Support modeling of disease dynamics and advanced data analytics to inform and improve HIV, viral hepatitis, STC, TB, and adolescent health interventions and programs.
+* Deadline: March 29, 2024 (White Paper), April 8, 2024 (Proposal)
+* Award: $5M
+
 
 ### [DoD and AirForce: Geospatial Intelligence Processing and Exploitation (GeoPEX)](https://sam.gov/opp/f6dac217c58545578b6dff242335e997/view){target="_blank"}
 
@@ -156,9 +160,14 @@ editor: visual
 
 * [Advanced Computing Allocations to Advance AI Research and Education](https://nairrpilot.org/allocations){target="_blank"} As part of the launch of the [NAIRR Pilot](https://nairrpilot.org){target="_blank"}, the National Science Foundation (NSF) and the Department of Energy (DOE) are collaborating to create an early opportunity for the research community to request access to a set of advanced computing resources for projects related to the focus of this call, which will be open from January 24 to March 1, 2024.
 
+- [NIH AI Data Readiness Challenge for the NCI Cancer Research Data Commons (CRDC)](https://www.challenge.gov/?challenge=ai-data-readiness-nci-challenge){target="_blank"} Assess the CRDC AI Data Readiness for a use case and build an AI/ML model and win up to $20K:
+  1) Select AI/ML use cases  
+  2) Preprocess CRDC data to an AI-ready format  
+  3) apply your AI/ML model to solve use case  
+  4) provide feedback  
 
 -   [NIH and CGE Targeted Genome Editor Delivery (TARGETED) Challenge](https://www.challenge.gov/?challenge=targeted-challenge){target="_blank"} aims to revolutionize technology development of delivery systems for in vivo genome editing. This is a *\$6M competition* to improve in vivo delivery technologies for genome editors in two Target Areas: 1. Programmable delivery systems, and 2. Non-viral delivery across the blood-brain barrier. The National Institutes of Health (NIH), through the Common Fund’s [Somatic Cell Genome Editing (SCGE)](https://commonfund.nih.gov/editing){target="_blank"} program, is seeking Participants with ideas or early-stage solutions to join the Challenge with the chance to win up to \$1,000,000 and have their solution independently tested and validated in large animal models through NIH-supported independent evaluation relevant to preclinical assessments of investigational products. Phase 2 is open until January 10, 2025.
 
 <!--## Policy and Engagement -->
 
-Updated February 8, 2024.
+Updated February 13, 2024.

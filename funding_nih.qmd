@@ -121,6 +121,10 @@ title: "NIH Funding Opportunities"
 * Deadline: February 27, 2024
 * Award: R01, budget must align with the project scope, for durations up to five years
 
+### [Multi-Scale Models Bridging Levels of Analysis in Aging and Alzheimer's Disease (AD) and AD-Related Dementias (ADRD)](https://grants.nih.gov/grants/guide/rfa-files/RFA-AG-25-016.html){target="_blank"}
+* Supports establishment of multi-scale computational models recapitulating dynamic changes associated with aging and Alzheimer’s disease (AD) and AD-related dementias (ADRD). 
+* Deadline: May 13, 2024 (LOI), June 13, 2024 (Proposal)
+* Award: R01, $500K/year (direct) for durations up to five years
 
 ### [BRAIN Initiative: Targeted BRAIN Circuits Projects- TargetedBCP](https://grants.nih.gov/grants/guide/rfa-files/RFA-NS-23-024.html){target="_blank"}
 * Supports research projects that seek to understand how circuit activity gives rise to mental experience and behavior using innovative, methodologically-integrated approaches.
@@ -237,6 +241,11 @@ title: "NIH Funding Opportunities"
 * Deadline: May 11, 2024 (LOI), June 11, 2024 (Proposal)
 * Award: R21, $275K (direct) for durations up to two years
 
+### [Advancing Learning Health Care Research in Outpatient Mental Health Treatment Settings](https://grants.nih.gov/grants/guide/pa-files/PAR-24-118.html){target="_blank"}
+* Supports exploratory/developmental research applications within the learning health care framework to support adoption, implementation, sustainability, and continuous improvement of evidence-based practices in outpatient mental health and substance use treatment systems.
+* Deadline: May 16, 2024 (LOI), June 16, 2024 (Proposal); recurring every February, June, and October through October 2025
+* Award: R34, $450K (direct) for durations up to three years
+
 ### [BRAIN Initiative: Targeted BRAIN Circuits Planning Projects – TargetedBCPP](https://grants.nih.gov/grants/guide/rfa-files/RFA-NS-23-023.html){target="_blank"}
 * Supports research projects that offer a limited scope of aims and an approach that will establish feasibility, validity, or other technically qualifying results that, if successful, would support, enable, and/or lay the groundwork for a potential, subsequent Targeted BRAIN Circuits Projects - Targeted BCP R01.
 * Deadline: May 28, 2024 (LOI), June 28, 2024 (Proposal), recurring October 2, 2024
@@ -315,4 +324,4 @@ title: "NIH Funding Opportunities"
 
 * [NIH Office for Data Science Strategy](https://datascience.nih.gov/research-and-training-funding){target="_blank"} list of funding opportunities.
 
-Updated February 8, 2024.
+Updated February 13, 2024.
