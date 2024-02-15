@@ -394,6 +394,12 @@ format: html
 * [Seeking US Industry and US Federal Agency Partners to Support Research Projects in Advanced Networking Systems](https://www.nsf.gov/pubs/2023/nsf23090/nsf23090.jsp) response due May 15, 2023.<!-- April 18, 2023 -->
 
 # Internal Funding Opportunities
+### [Digital Health Innovations Seed Grant Program](https://utah.infoready4.com/#competitionDetail/1924926){target="_blank"}
+
+-   Supports new collaborations and innovative research in digital health that will lead to federal extramural grant applications.
+-   Deadline: *EXTENDED* February 9, 2024
+-   Award: \$75K (+\$25K in [SD2C](https://cores.utah.edu/sd2c/){target="_blank"} support) for one year
+
 ### [One Utah Data Science Hub Seed Grant Program - FY24](https://utah.infoready4.com/#freeformCompetitionDetail/1913850){target="_blank"}
 -   Supports the initiation of new collaborations and innovative research in data science and data-enabled science that will lead to federal extramural grant applications.
 -   Deadline: December 15, 2023
@@ -586,6 +592,11 @@ format: html
 
 
 # Governmental Funding Opportunities
+### [NEH: Humanities Research Centers on Artificial Intelligence](https://www.neh.gov/program/humanities-research-centers-artificial-intelligence){target="_blank"}
+
+-   Supports humanities research centers on artificial intelligence (AI) focused on better understanding the ethical, legal, or societal implications of AI. Avery Holton will be the PI for the University of Utah Proposal.
+-   Deadline: February 14, 2024
+-   Award: \$500K
 
 ### [Boosting Innovative GEOINT - Topic 1: Geospatial-Intelligence Foundational Model (GFM)](https://www.grants.gov/search-results-detail/351404){target="_blank"}
 
