@@ -202,6 +202,11 @@ title: "NIH Funding Opportunities"
 * Deadline: September 9, 2024 (LOI), October 9, 2024 (Proposal), recurring October 9, 2025 
 * Award: R01, $500K/year (direct) for durations up to five years 
 
+### [BRAIN Initiative: Research on the Ethical Implications of Advancements in Neurotechnology and Brain Science](https://grants.nih.gov/grants/guide/rfa-files/RFA-MH-25-170.html){target="_blank"}
+* Supports efforts addressing core ethical issues associated with research focused on the human brain and resulting from emerging technologies and advancements supported by the BRAIN Initiative. 
+* Deadline: September 11, 2024 (LOI), October 11, 2024 (Proposal); recurring on October 10, 2025 and October 9, 2026
+* Award: R01, $300K/year (direct) for durations up to four years; [R21 Opportunity](https://grants.nih.gov/grants/guide/rfa-files/RFA-MH-25-171.html){target="_blank"} is also available.
+
 
 
 ## Research Grants - Other Activities
@@ -293,7 +298,8 @@ title: "NIH Funding Opportunities"
 
 ## Notices of Special Interest and Requests for Information
 <!-- * [](https://grants.nih.gov/grants/guide/notice-files/NOT-CA-24-002.html){target="_blank"} expires -->
-* [**Administrative Supplements** for R25 Data Science Training for Infectious and Immune-mediated Disease Research](https://grants.nih.gov/grants/guide/notice-files/NOT-AI-23-010.html) expires February 14, 2024.
+<!--* [](){target="_blank"} -->
+* [**Administrative Supplements** for R25 Data Science Training for Infectious and Immune-mediated Disease Research](https://grants.nih.gov/grants/guide/notice-files/NOT-AI-23-010.html){target="_blank"} expires February 14, 2024.
 * [**Request for Information** Increasing the usability of Common Fund data resources by researchers from underrepresented groups](https://grants.nih.gov/grants/guide/notice-files/NOT-RM-24-001.html){target="_blank"} expires February 29, 2024.
 * [**Request for Information** Current Capabilities in Automated Data Entry & Extraction from Electronic Health Records](https://rfi.grants.nih.gov/?s=65788be6eeffccde4504c2c2){target="_blank"} expires February 29, 2024.
 * [**Request for Information** Inviting Comments on the National Institutes of Health (NIH) Strategic Plan for Data Science 2023-2028](https://grants.nih.gov/grants/guide/notice-files/NOT-OD-24-037.html) due by March 15, 2024. The updated Strategic Plan will accomplish five overarching goals:
@@ -311,6 +317,7 @@ title: "NIH Funding Opportunities"
 * [Clinical and Translational Science Award (CTSA) Program: Collaborative and Innovative Acceleration Award (UG3/UH3) (Clinical Trial Optional) for Advancing Recruitment through Trial Innovation Network (AR-TIN)](https://grants.nih.gov/grants/guide/notice-files/NOT-TR-23-026.html){target="_blank"} expires October 18, 2024.
 * [High-Priority Interest to Enhance Data Science Research Training in Addiction Research](https://grants.nih.gov/grants/guide/notice-files/NOT-DA-21-013.html){target="_blank"} expires December 9, 2024.
 * [IDEA2Health: Innovative Data Evaluation and Analysis to Health](https://grants.nih.gov/grants/guide/notice-files/NOT-HL-22-001.html){target="_blank"} expires January 8, 2025.
+* [Validation of Digital Health and Artificial Intelligence/Machine Learning Tools for Improved Assessment in Biomedical and Behavioral Research](https://grants.nih.gov/grants/guide/notice-files/NOT-CA-24-031.html){target="_blank"} expires July 6, 2025.
 * [Leveraging Data Science to Bring Actionable Insights for Substance Use Prevention and Treatment](https://grants.nih.gov/grants/guide/notice-files/NOT-DA-23-006.html){target="_blank"} expires September 8, 2025.
 * [Development and Implementation of Clinical Informatics Tools to Enhance Patients Use of Genomic Information](https://grants.nih.gov/grants/guide/notice-files/NOT-HG-22-011.html){target="_blank"} expires September 25, 2025.
 * [HEAL Initiative: Leveraging Inpatient Medical or Surgical Hospitalizations to Improve Outcomes for People Who Use Drugs](https://grants.nih.gov/grants/guide/notice-files/NOT-DA-24-011.html){target="_blank"} expires November 13, 2025.

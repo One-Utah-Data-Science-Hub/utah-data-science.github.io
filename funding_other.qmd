@@ -127,6 +127,17 @@ editor: visual
 * Award: $400K/year
 * This is a [*Limited Submission Opportunity*](https://utah.infoready4.com/#freeformCompetitionDetail/1928990) with an internal deadline of February 20, 2024. 
 
+### [DOE: Advancements in Artificial Intelligence for Science](https://www.grants.gov/search-results-detail/352320){target="_blank"}
+* Supports basic computer science and applied mathematics research in the fundamentals of Artificial Intelligence (AI) for science. 
+  + Foundation models for computational science;
+  + Automated scientific workflows and laboratories;
+  + Scientific programming and scientific-knowledge-management systems;
+  + Federated and privacy-preserving training for foundation and other AI models for science; and
+  + Energy-efficient AI algorithms and hardware for science.
+* Deadline: March 19, 2024
+* Award: $250K-$2M 
+
+
 ### [CDC Epidemiologic and Economic Modeling for HIV, Viral Hepatitis, STD, and TB](https://www.grants.gov/search-results-detail/349740){target="_blank"}
 * Support modeling of disease dynamics and advanced data analytics to inform and improve HIV, viral hepatitis, STC, TB, and adolescent health interventions and programs.
 * Deadline: March 29, 2024 (White Paper), April 8, 2024 (Proposal)

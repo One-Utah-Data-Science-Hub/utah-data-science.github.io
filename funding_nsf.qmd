@@ -151,6 +151,11 @@ format: html
 * Deadline: April 11, 2024; January 13, 2025
 * Award: $3M for up to four years (research grants); $500K for up to two years (seed)
 
+### [ACED: Accelerating Computing-Enabled Scientific Discovery](https://new.nsf.gov/funding/opportunities/aced-accelerating-computing-enabled-scientific){target="_blank"}
+* Supports harnessing computing to accelerate scientific discovery, while driving new computing advancements. The intent is to catalyze advancements on both sides of a virtuous cycle that: (a) benefit scientific disciplines through computational technologies and (b) foster novel computing technologies that will enable advances beyond the specific use cases or domains originally targeted. 
+* Deadline: May 13, 2024 (Emerging Ideas Proposals Only); recurring January 14 annually thereafter
+* Award: $500K for durations of 18-24 months (Track I), $750K/year for durations up to four years (Track II)
+
 ### [Human Networks and Data Science (HNDS)](https://beta.nsf.gov/funding/opportunities/human-networks-data-science-hnds){target="_blank"}
 *   Supports research that studies the behavior of individuals and groups by leveraging data and network science and the development of data infrastructure that makes such work possible.
 *   Deadline: *Core Research* July 11, 2024, annually thereafter in January and July; *Infrastructure* February 1, 2024, annually thereafter in February and August
@@ -283,6 +288,7 @@ format: html
 
 
 ### Dear Colleague Letters
+* [NSF-Italian Ministry of Universities and Research Lead Agency Opportunity on Artificial Intelligence](https://www.nsf.gov/pubs/2024/nsf24055/nsf24055.jsp){target="_blank"}  <!-- February 20, 2024 -->
 * [**Request for Information** Researcher and Educator Use Cases for the National Artificial Intelligence Research Resource (NAIRR)](https://www.nsf.gov/pubs/2024/nsf24051/nsf24051.jsp){target="_blank"} expires March 8, 2024. Individuals and groups of individuals in all research and education domains are invited to submit responses using the [online submission form](https://idaorg.gov1.qualtrics.com/jfe/form/SV_cRMnkUFJoXs7UfI){target="_blank"}.
 * [Funding Opportunities for Engineering Research in Artificial Intelligence](https://www.nsf.gov/pubs/2024/nsf24039/nsf24039.jsp){target="_blank"} <!-- December 22, 2023 -->
 
