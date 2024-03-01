@@ -106,24 +106,6 @@ format: html
 
 ## Upcoming Recurring Proposal Deadlines
 
-### [NSF Scholarships in Science, Technology, Engineering, and Mathematics Program (S-STEM)](https://new.nsf.gov/funding/opportunities/nsf-scholarships-science-technology-engineering){target="_blank"}
-*   Supports institutions of higher education to fund scholarships for academically talented low-income students and to study and implement a program of activities that support their recruitment, retention and graduation in STEM.
-    *   Track 1: Institutional Capacity Building
-    *   Track 2: Implementation: Single Institution
-    *   Track 3: Inter-institutional Consortia
-    *   Collaborative Planning Grants to Develop an Inter-institutional Consortium
-*   Deadline: *Tracks 2, 3, and 4, Collaborative Planning* February 20, 2024, annually thereafter; *Track 1* March 28, 2024, annually thereafter
-*   Award: *Track 1 (Institutional Capacity Building)* \$1M for a duration of up to six years; *Track 2 (Implementation: Single Institution)* \$2.5M for a duration of up to six years; *Track 3 (Inter-institutional Consortia)* \$5M for a duration of up to six years; *Collaborative Planning* \$100K for a duration of one year.
-
-### [Algorithms for Threat Detection (ATD)](https://new.nsf.gov/funding/opportunities/algorithms-threat-detection-atd){target="_blank"}
-* Supports research on new ways to use spatiotemporal data to model human dynamics, with an emphasis on identifying and forecasting unusual events and future threats. There are two areas of interest:
-  + Develop mathematical, statistical and computational algorithms for analysis of massive spatiotemporal datasets, at scale; and
-  + Develop mathematical theory to guide the application of advanced artificial intelligence to processing massive spatiotemporal data.
-
-* Deadline: February 21, 2024; recurring annually on the third Wednesday in February
-* Award: Unspecified
-
-
 ### [Collaborative Research in Computational Neuroscience (CRCNS)](https://new.nsf.gov/funding/opportunities/collaborative-research-computational-neuroscience){target="_blank"}
 * Supports innovative approaches to science and engineering research on brain function, specifically collaborative activities that span a broad spectrum of computational neuroscience research, as appropriate to the missions and strategic objectives of each agency.
 * Deadline: March 7, 2024; November 13, 2024; November 12, 2025
@@ -134,6 +116,14 @@ format: html
 *   Deadline: March 11, 2024, annually thereafter
 *   Award: \$500-750K for durations up to three years
 
+### [NSF Scholarships in Science, Technology, Engineering, and Mathematics Program (S-STEM)](https://new.nsf.gov/funding/opportunities/nsf-scholarships-science-technology-engineering){target="_blank"}
+*   Supports institutions of higher education to fund scholarships for academically talented low-income students and to study and implement a program of activities that support their recruitment, retention and graduation in STEM.
+    *   Track 1: Institutional Capacity Building
+    *   Track 2: Implementation: Single Institution
+    *   Track 3: Inter-institutional Consortia
+    *   Collaborative Planning Grants to Develop an Inter-institutional Consortium
+*   Deadline: *Tracks 2, 3, and 4, Collaborative Planning* February 20, 2024, annually thereafter; *Track 1* March 28, 2024, annually thereafter
+*   Award: *Track 1 (Institutional Capacity Building)* \$1M for a duration of up to six years; *Track 2 (Implementation: Single Institution)* \$2.5M for a duration of up to six years; *Track 3 (Inter-institutional Consortia)* \$5M for a duration of up to six years; *Collaborative Planning* \$100K for a duration of one year.
 
 ### [NSF National Quantum Virtual Laboratory (NQVL) Quantum Science and Technology Demonstrations (QSTD): I. **Pilot Phase**](https://www.nsf.gov/pubs/2023/nsf23604/nsf23604.htm){target="_blank"}
 * Supports the demonstration of practical quantum advantage, the actual application of the tools of Quantum Information Science and Engineering (QISE) to problems that will enable solutions that classical approaches can only solve much less efficiently or not at all.
@@ -288,6 +278,7 @@ format: html
 
 
 ### Dear Colleague Letters
+* [Supporting Computing & Networking Research for a National Discovery Cloud for Climate (NDC-C)](https://www.nsf.gov/pubs/2024/nsf24058/nsf24058.jsp){target="_blank"}  <!-- February 20, 2024 -->
 * [NSF-Italian Ministry of Universities and Research Lead Agency Opportunity on Artificial Intelligence](https://www.nsf.gov/pubs/2024/nsf24055/nsf24055.jsp){target="_blank"}  <!-- February 20, 2024 -->
 * [**Request for Information** Researcher and Educator Use Cases for the National Artificial Intelligence Research Resource (NAIRR)](https://www.nsf.gov/pubs/2024/nsf24051/nsf24051.jsp){target="_blank"} expires March 8, 2024. Individuals and groups of individuals in all research and education domains are invited to submit responses using the [online submission form](https://idaorg.gov1.qualtrics.com/jfe/form/SV_cRMnkUFJoXs7UfI){target="_blank"}.
 * [Funding Opportunities for Engineering Research in Artificial Intelligence](https://www.nsf.gov/pubs/2024/nsf24039/nsf24039.jsp){target="_blank"} <!-- December 22, 2023 -->
@@ -315,4 +306,4 @@ format: html
 * [Fairness, Ethics, Accountability, and Transparency: Enabling Breakthrough Research to Expand Inclusivity in Computer and Information Science and Engineering Research](https://www.nsf.gov/pubs/2019/nsf19016/nsf19016.jsp){target="_blank"} <!-- Nov 2, 2018 -->
 
 
-Updated February 13, 2024.
+Updated March 1, 2024.
