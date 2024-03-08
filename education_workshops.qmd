@@ -6,13 +6,6 @@ format: html
 ## Software Carpentries
 Software Carpentries workshops are offered in person over two-days, including breakfast, lunch, and snacks. Topics covered will depend on the specific workshop, but could include R, python, SQL, Unix, and more.  
 
-### Introduction to Natural Language Processing with Applications to Clinical Data Science
-**When:** March 8, 2024, 9am-5pm\
-**Where:** [EHSEB](https://maps.app.goo.gl/kuvgQtmpQxJHfibb9){target="_blank"} 4100B\
-**Instructors:** Alec Chapman, Kelly Peterson\
-Contact [DELPHI](mailto:delphi@hsc.utah.edu) with any inquiries. [Register to save your spot!](https://forms.gle/6FzV6iemeNp9uJUw8){target="_blank"}
-Additional information can be found on the [website](https://uofudelphi.github.io/2024-03-08-nlp/){target="_blank"}.
-
 ### Introduction to OpenRefine
 **When:** Spring 2024\
 **Where:** TBD\

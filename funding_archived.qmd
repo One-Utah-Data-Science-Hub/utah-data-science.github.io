@@ -655,6 +655,16 @@ format: html
 
 # Governmental Funding Opportunities
 
+### [DOD Measurement & Signature Intelligence Research and Development Initiative](https://sam.gov/opp/c7c934df83d2451db509e8e5930a4f6f/view){target="_blank"}
+* Supports the next generation of capabilities and platforms to advance the Measurement and Signature Intelligence (MASINT) enterprise. Research Areas of Interest include:
+  + Data-Enabling Technologies
+  + Automation and Machine Learning Technologies
+  + Modeling and Simulation Technologies
+  + Technologies that Increase Analytics, and
+  + Technologies that Advance Collection.
+* Deadline: March 1, 2024 (White paper opens), March 29, 2024
+* Award: 4-10 awards expected
+
 ### [Office of Naval Research: Fundamental Research Towards Expeditionary Air Warfare & Weapons](https://www.grants.gov/search-results-detail/351927){target="_blank"}
 * Supports research relevant to the Expeditionary Forces, specifically Theoretical Foundations and Limitations of Predicting, Deceiving, and Disrupting Artificial Intelligence Algorithms in Perception/Action Loops.
 * Deadline: March 1, 2024

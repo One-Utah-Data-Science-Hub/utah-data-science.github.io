@@ -53,18 +53,6 @@ editor: visual
 -   Deadline: Rolling, expires March 14, 2024
 -   Award: Unspecified, budget must be align with the project scope
 
-
-
-### [DOD Measurement & Signature Intelligence Research and Development Initiative](https://sam.gov/opp/c7c934df83d2451db509e8e5930a4f6f/view){target="_blank"}
-* Supports the next generation of capabilities and platforms to advance the Measurement and Signature Intelligence (MASINT) enterprise. Research Areas of Interest include:
-  + Data-Enabling Technologies
-  + Automation and Machine Learning Technologies
-  + Modeling and Simulation Technologies
-  + Technologies that Increase Analytics, and
-  + Technologies that Advance Collection.
-* Deadline: March 1, 2024 (White paper opens), March 29, 2024
-* Award: 4-10 awards expected
-
 ### [DOE Office of Science: Data Reduction for Science](https://www.grants.gov/search-results-detail/351814){target="_blank"}
 * Supports exploration of potentially high-impact approaches in the development and use of data reduction techniques and algorithms to facilitate more efficient analysis and use of massive data sets produced by observations, experiments and simulation.
 * Deadline: March 19, 2024 (pre-application); May 7, 2024 (proposal)
@@ -92,6 +80,11 @@ editor: visual
 * Deadline: April 10, 2024
 * Award: $200K for Phase 1
 
+### [DARPA Scientific Feasibility](https://www.grants.gov/search-results-detail/352745){target="_blank"}
+* Supports development of computational methods that measure the feasibility of claims in order to enable accurate assessments of scientific content. The program aims to demonstrate that the scientific feasibility of claims can be determined by using automated reasoning to decompose claims into constituent, verifiable parts.
+* Deadline: August 25, 2024
+* Award: Multiple awards are anticipated.
+
 ### [DoD and AirForce: Geospatial Intelligence Processing and Exploitation (GeoPEX)](https://sam.gov/opp/f6dac217c58545578b6dff242335e997/view){target="_blank"}
 
 -   Supports research, development, integration, test and evaluation of technologies/techniques to provide geospatial intelligence (GEOINT) in all its forms and from whatever source to ensure a solid foundation of knowledge for planning, decision, and action while creating tailored, customer-specific geospatial intelligence, analytic services, and solutions.
@@ -114,8 +107,10 @@ editor: visual
     -   Stakeholder Engagement
     -   Artificial Intelligence
 
+* [AAMAS Maritime Capture the Flag Competition](https://www.challenge.gov/?challenge=maritime-capture-the-flag){target="_blank"} invites submissions of AI agents that can autonomously play a multi-player Capture-the-Flag game within a maritime, multi-agent, real-time game environment. Phase 1 due April 5, 2024. 
+
 -   [NIH and CGE Targeted Genome Editor Delivery (TARGETED) Challenge](https://www.challenge.gov/?challenge=targeted-challenge){target="_blank"} aims to revolutionize technology development of delivery systems for in vivo genome editing. This is a *\$6M competition* to improve in vivo delivery technologies for genome editors in two Target Areas: 1. Programmable delivery systems, and 2. Non-viral delivery across the blood-brain barrier. The National Institutes of Health (NIH), through the Common Fund’s [Somatic Cell Genome Editing (SCGE)](https://commonfund.nih.gov/editing){target="_blank"} program, is seeking Participants with ideas or early-stage solutions to join the Challenge with the chance to win up to \$1,000,000 and have their solution independently tested and validated in large animal models through NIH-supported independent evaluation relevant to preclinical assessments of investigational products. Phase 2 is open until January 10, 2025.
 
 <!--## Policy and Engagement -->
 
-Updated March 1, 2024.
+Updated March 8, 2024.

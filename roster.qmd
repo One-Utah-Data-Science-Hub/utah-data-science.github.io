@@ -135,6 +135,7 @@ tbl-colwidths: [150,400,500]
 |![Shane Macfarlan](images/Shane Macfarlan.jpg){.headshot}|**Shane Macfarlan**<br>Associate Professor, Anthropology<br>Sustainability Teaching Professorship<br>Director of Undergraduate Studies<br>[{{< fa globe >}}](https://faculty.utah.edu/u0955236-SHANE_JAMES_MACFARLAN/hm/index.hml){target="_blank"} ||
 |![Christopher Macintosh](images/Christopher Macintosh.jpg){.headshot}|**Christopher Macintosh**<br>Assistant Professor of Nursing<br>Director Nursing Informatics Specialty Track<br>[{{< fa brands github >}}](https://github.com/cmcntsh){target="_blank"} [{{< fa brands linkedin >}}](https://www.linkedin.com/in/christopher-i-macintosh-21041813/){target="_blank"} ||
 |![Randy Madsen](images/Randy Madsen.jpg){.headshot}|**Randy Madsen**<br>Director of Operations, Biomedical Informatics Core, Clinical and Translational Science Institute<br>[{{< fa globe >}}](https://ctsi.utah.edu/cores-and-services/bmic){target="_blank"} |Data Management, Bioinformatics, Data Privacy, Electronic Health Records, Precision Medicine, Mental Health, Air Quality and Pollution, Business Intelligence, Information Systems, Human-Computer Interaction|
+|<i class='fa-regular fa-user fa-9x'></i>|**Kunal Manjare**<br>Masters Student, Kahlert School of Computing<br>||
 |![Thomas Maloney](images/Thomas Maloney.jpg){.headshot}|**Thomas Maloney**<br>Professor, Economics<br>[{{< fa brands twitter >}}](https://twitter.com/tommaloney9){target="_blank"} [{{< fa globe >}}](https://sites.google.com/view/thomasnmaloney/home?pli=1){target="_blank"} |Labor and Demography|
 |![Ana Marasovic](images/Ana Marasovic.jpg){.headshot}|**Ana Marasovic**<br>Assistant Professor, Kahlert School of Computing<br>[{{< fa globe >}}](https://www.anamarasovic.com/){target="_blank"} |High-Dimensional Data, Natural Language Processing, Neural Networks, Languages and Linguistics|
 |![Josh McCrain](images/Josh McCrain.jpg){.headshot}|**Josh McCrain**<br>Assistant Professor, Political Science<br>[{{< fa brands twitter >}}](https://twitter.com/joshmccrain){target="_blank"} [{{< fa globe >}}](http://www.joshuamccrain.com){target="_blank"} |Data Mining, Statistical Analysis, Visualization, Computational Modeling, Data Science Education, Web Scraping, R Programming Language, Social Media/Network Analytics, Political Science|
@@ -182,4 +183,5 @@ tbl-colwidths: [150,400,500]
 |<i class='fa-regular fa-user fa-9x'></i>|**Tianyu Zheng**<br>Biostatistician, Population Health Science<br>|Electronic Health Records, Health Outcome Prediction|
 
 
-Updated on February 13, 2024. 
+
+Updated on March 8, 2024. 

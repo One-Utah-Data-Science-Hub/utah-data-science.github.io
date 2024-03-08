@@ -4,6 +4,13 @@ format: html
 ---
 
 ## Software Carpentries
+### Introduction to Natural Language Processing with Applications to Clinical Data Science
+**When:** March 8, 2024, 9am-5pm\
+**Where:** [EHSEB](https://maps.app.goo.gl/kuvgQtmpQxJHfibb9){target="_blank"} 4100B\
+**Instructors:** Alec Chapman, Kelly Peterson\
+Contact [DELPHI](mailto:delphi@hsc.utah.edu) with any inquiries. [Register to save your spot!](https://forms.gle/6FzV6iemeNp9uJUw8){target="_blank"}
+Additional information can be found on the [website](https://uofudelphi.github.io/2024-03-08-nlp/){target="_blank"}.
+
 ### Introduction to Data Analysis in Python
 **When:** February 8-9, 2024, 9am-5pm\
 **Where:** [HELIX](https://maps.app.goo.gl/3w96QNsCt9ASd3d77){target="_blank"} GS155 (Alder)\

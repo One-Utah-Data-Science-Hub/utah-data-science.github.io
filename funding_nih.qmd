@@ -78,6 +78,11 @@ title: "NIH Funding Opportunities"
 
 
 ## Career Development and Training (F/K and T) Grants
+### [Predoctoral Training in Advanced Data Analytics for Behavioral and Social Sciences Research (BSSR)](https://grants.nih.gov/grants/guide/rfa-files/RFA-OD-24-012.html){target="_blank"}
+* Supports predoctoral training programs that focus on innovative computational and/or data science analytic approaches and their incorporation into training for the future BSSR health research workforce.
+* Deadline: May 24, 2024
+* Award: T32, budgets need to reflect the actual needs of the proposed project, durations up to five years
+
 ### [INCLUDE (INvestigation of Co-occurring conditions across the Lifespan to Understand Down syndromE) Predoctoral to Postdoctoral Fellow Transition Award](https://grants.nih.gov/grants/guide/rfa-files/RFA-OD-24-007.html){target="_blank"}
 * Supports exceptional graduate students from a broad variety of research fields to pursue postdoctoral training focused on Down syndrome related research. Graduate students from disciplines including, but not limited to, genetics, biochemistry, data science, imaging, engineering, and neurobiology are invited to apply to this opportunity.
 * Deadline: June 1, 2024 (LOI); July 1, 2024 (Proposal); recurring on July 1, 2025 and 2026
@@ -292,4 +297,4 @@ title: "NIH Funding Opportunities"
 
 * [NIH Office for Data Science Strategy](https://datascience.nih.gov/research-and-training-funding){target="_blank"} list of funding opportunities.
 
-Updated March 1, 2024.
+Updated March 8, 2024.

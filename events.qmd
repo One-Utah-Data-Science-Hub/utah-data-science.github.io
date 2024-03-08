@@ -9,20 +9,6 @@ Check out our calendar of upcoming events and seminars in our [Google Calendar](
 </iframe>
 
 
-## Digital Humanities Utah 2024 (DHU8)
-**Dates:** February 23-24, 2024  
-<!--**Time:** 9:30am - 3:30pm  -->
-**Location:** University of Utah  
-Additional information about Digital Humanities Utah can be found on the [dhutah.org](https://dhutah.org/){target="_blank"} webpage. [Register for DHU8 today!](https://umarket.utah.edu/um2/marriottlib/productlist.php?category=2){target="_blank"}
-
-
-## Introduction to Natural Language Processing with Applications to Clinical Data Science
-**When:** March 8, 2024, 9am-5pm\
-**Where:** [EHSEB](https://maps.app.goo.gl/kuvgQtmpQxJHfibb9){target="_blank"} 4100B\
-**Instructors:** Alec Chapman, Kelly Peterson\
-Contact [Penny Atkins](mailto:penny.atkins@hsc.utah.edu) with any inquiries. [Register to save your spot!](https://forms.gle/6FzV6iemeNp9uJUw8){target="_blank"}
-Additional information can be found on the [website](https://uofudelphi.github.io/2024-03-08-nlp/){target="_blank"}.
-
 ## 22nd International Conference on Artificial Intelligence in Medicine (AIME2024)
 **Dates:** July 9-12, 2024  
 <!--**Time:** 9:30am - 3:30pm  -->
