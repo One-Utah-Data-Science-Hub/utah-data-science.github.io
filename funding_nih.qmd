@@ -37,6 +37,11 @@ title: "NIH Funding Opportunities"
 * Deadline: May 14, 2024 (LOI), June 14, 2024 (Proposal)
 * Award: U01, approximately $2.4M/year for durations of three  years
 
+### [Use of Digital Health Technologies in Clinical Investigations to Support Drug and Biological Product Development](https://grants.nih.gov/grants/guide/rfa-files/RFA-FD-24-037.html){target="_blank"}
+* Supports addressing topics related to the use of digital health technologies (DHTs) for remote data acquisition in clinical investigations to support drug development.
+* Deadline: May 20, 2024
+* Award: U01, $1.1M during year one and $860K during year two
+
 ### [HEAL Initiative: Interdisciplinary Team Science to Uncover the Mechanisms of Pain Relief by Medical Devices](https://grants.nih.gov/grants/guide/rfa-files/rfa-ns-23-003.html){target="_blank"}
 * Supports interdisciplinary research teams of multiple PDs/PIs to investigate the mechanism of action of pain relief by medical devices with the overall goal of optimizing therapeutic outcomes for FDA-approved or -cleared technologies. 
 * Deadline: June 10, 2024 and June 9, 2025
@@ -122,6 +127,11 @@ title: "NIH Funding Opportunities"
 * Supports research projects that seek to understand how circuit activity gives rise to mental experience and behavior using innovative, methodologically-integrated approaches.
 * Deadline: May 28, 2024 (LOI), June 28, 2024 (Proposal), recurring on October 2, 2024
 * Award: R01, approximately $750K/year for durations up to five years
+
+### [Leveraging Data at Scale to Understand Natural Product Impacts on Whole Person Health](https://grants.nih.gov/grants/guide/rfa-files/RFA-AT-24-008.html){target="_blank"}
+* Supports development, adaptation, and/or applications of computational tools to aggregate and analyze orthogonal chemical and/or biological data sets related to natural products with the aim of generating novel testable hypotheses regarding their biological activity and role in the context of whole person health research.  
+* Deadline: May 28, 2024 (LOI), June 28, 2024 (Proposal)
+* Award: R01, $500K (direct) for durations up to five years
 
 ### [Modular R01s in Cancer Control and Population Sciences](https://grants.nih.gov/grants/guide/pa-files/PAR-24-122.html){target="_blank}
 * Supports research efforts on novel scientific ideas that have the potential to substantially advance cancer research in statistical and analytic methods, epidemiology, cancer survivorship, cancer-related behaviors and behavioral interventions, health care delivery, digital health and data science, and implementation science.
