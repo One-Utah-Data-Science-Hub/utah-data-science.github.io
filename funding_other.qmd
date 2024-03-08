@@ -10,9 +10,11 @@ editor: visual
 * Deadline: 
 * Award: $ for durations up to  years -->
 ```
-<!-- ## Internal Funding Opportunities -->
-
-
+## Internal Funding Opportunities
+### [1U4U Seed Grant Program: The Future of Sustainability](https://utah.infoready4.com/#freeformCompetitionDetail/1933586){target="_blank"}
+* Supports collaborative teams to address the most complex and profound challenges of our communities, both near and far. Sustainability is achieved whenever the needs of the present can be met without sacrificing the needs of future generations. 
+* Deadline: May 22, 2024
+* Award: Up to $50K over one year
 
 ## Foundation Funding Opportunities
 
