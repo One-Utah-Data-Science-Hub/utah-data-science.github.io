@@ -60,10 +60,6 @@ format: html
 
 
 ## Upcoming Proposal Deadlines
-### [Collaborations in Artificial Intelligence and Geosciences (CAIG)](https://new.nsf.gov/funding/opportunities/collaborations-artificial-intelligence-geosciences){target="_blank"}
-* Supports geoscience research, education and fellowships to advance the development and adoption of AI.
-* Deadline: March 15, 2024
-* Award: $250K-$1M for durations up to three years
 
 ### [Responsible Design, Development, and Deployment of Technologies (ReDDDoT)](https://new.nsf.gov/funding/opportunities/responsible-design-development-deployment){target="_blank"}
 * Supports multidisciplinary, multi-sector teams that examine and demonstrate the principles, methodologies, implementations, and impacts associated with responsible design, development, and deployment of technologies in practice, focusing especially on the key technologies specified in Section 10387 of the [CHIPS and Science Act of 2022](https://www.congress.gov/bill/117th-congress/house-bill/4346/text){target="_blank"}. There are three priority areas: artificial intelligence, biotechnology, or natural and anthropogenic disaster prevention or mitigation. 
@@ -106,11 +102,6 @@ format: html
 
 ## Upcoming Recurring Proposal Deadlines
 
-### [Emerging Mathematics in Biology (eMB)](https://new.nsf.gov/funding/opportunities/emerging-mathematics-biology-emb){target="_blank"}
-*   Supports research in mathematical biology that addresses significant biological questions by applying nontrivial mathematics or developing new theories --- particularly from foundational mathematics, including artificial intelligence or machine learning.
-*   Deadline: March 11, 2024, annually thereafter
-*   Award: \$500-750K for durations up to three years
-
 ### [NSF Scholarships in Science, Technology, Engineering, and Mathematics Program (S-STEM)](https://new.nsf.gov/funding/opportunities/nsf-scholarships-science-technology-engineering){target="_blank"}
 *   Supports institutions of higher education to fund scholarships for academically talented low-income students and to study and implement a program of activities that support their recruitment, retention and graduation in STEM.
     *   Track 1: Institutional Capacity Building
@@ -140,6 +131,11 @@ format: html
 * Supports harnessing computing to accelerate scientific discovery, while driving new computing advancements. The intent is to catalyze advancements on both sides of a virtuous cycle that: (a) benefit scientific disciplines through computational technologies and (b) foster novel computing technologies that will enable advances beyond the specific use cases or domains originally targeted. 
 * Deadline: May 13, 2024 (Emerging Ideas Proposals Only); recurring January 14 annually thereafter
 * Award: $500K for durations of 18-24 months (Track I), $750K/year for durations up to four years (Track II)
+
+### [Artificial Intelligence, Formal Methods, and Mathematical Reasoning (AIMing)](https://new.nsf.gov/funding/opportunities/artificial-intelligence-formal-methods){target="_blank"}
+* Supports research at the interface of innovative computational and artificial intelligence (AI) technologies and new strategies/technologies in mathematical reasoning to automate knowledge discovery. 
+* Deadline: June 3, 2024, recurring on February 5, 2025
+* Award: $500K-$1.2M for up to three years
 
 ### [Expeditions in Computing (Expeditions)](https://new.nsf.gov/funding/opportunities/expeditions-computing-expeditions){target="_blank"}
 *   Supports long-term, multi-institutional research with the potential to transform computer and information science and engineering.
@@ -305,4 +301,4 @@ format: html
 * [Fairness, Ethics, Accountability, and Transparency: Enabling Breakthrough Research to Expand Inclusivity in Computer and Information Science and Engineering Research](https://www.nsf.gov/pubs/2019/nsf19016/nsf19016.jsp){target="_blank"} <!-- Nov 2, 2018 -->
 
 
-Updated March 8, 2024.
+Updated March 15, 2024.

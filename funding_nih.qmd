@@ -118,6 +118,7 @@ title: "NIH Funding Opportunities"
 * Supports secondary data analysis and integration of existing datasets and database resources, with the ultimate aim to elucidate cancer risk and related outcomes (e.g., risk prediction or reduction, survival, or response to treatment, etc.). 
 * Deadline: May 6, 2024 (LOI), June 5, 2024 (Proposal); recurring annually in February, June, and October through June 2026
 * Award: R01, $350K/year (direct) for durations of up to five years ([R21](https://grants.nih.gov/grants/guide/pa-files/PAR-23-255.html){target="_blank"} also available)
+
 ### [Multi-Scale Models Bridging Levels of Analysis in Aging and Alzheimer's Disease (AD) and AD-Related Dementias (ADRD)](https://grants.nih.gov/grants/guide/rfa-files/RFA-AG-25-016.html){target="_blank"}
 * Supports establishment of multi-scale computational models recapitulating dynamic changes associated with aging and Alzheimer’s disease (AD) and AD-related dementias (ADRD). 
 * Deadline: May 13, 2024 (LOI), June 13, 2024 (Proposal)
@@ -129,7 +130,7 @@ title: "NIH Funding Opportunities"
 * Award: R01, approximately $750K/year for durations up to five years
 
 ### [Leveraging Data at Scale to Understand Natural Product Impacts on Whole Person Health](https://grants.nih.gov/grants/guide/rfa-files/RFA-AT-24-008.html){target="_blank"}
-* Supports development, adaptation, and/or applications of computational tools to aggregate and analyze orthogonal chemical and/or biological data sets related to natural products with the aim of generating novel testable hypotheses regarding their biological activity and role in the context of whole person health research.  
+* Supports development, adaptation, and/or applications of computational tools to aggregate and analyze orthogonal chemical and/or biological data sets related to natural products with the aim of generating novel testable hypotheses regarding their biological activity and role in the context of whole person health research.
 * Deadline: May 28, 2024 (LOI), June 28, 2024 (Proposal)
 * Award: R01, $500K (direct) for durations up to five years
 
@@ -260,6 +261,12 @@ title: "NIH Funding Opportunities"
 
 
 ## Other Activities
+### [Systems Biology Data Platform (SysBio) Leveraging the Accelerating Medicines Partnership (AMP)](https://commonfund.nih.gov/sites/default/files/Research-Opportunity-Announcement-OTA-24-008-SysBio-updated-20240311_508.pdf){target="_blank"}
+* Supports development of a platform that provides a single access point for querying data across the different tissues and conditions studied in the participating AMP projects.
+* Deadline: April 3, 2024 (LOI - not required), May 15, 2024 (Proposal)
+* Award: Negotiations to begin around June 12, 2024.
+* Informational Webinar on March 18, 2024, 1:00-2:00pm MT. [Learn more and register here.](https://commonfund.nih.gov/venture/sysbio/faqs){target="_blank"}
+
 
 ### [Diagnostic Centers of Excellence](https://grants.nih.gov/grants/guide/pa-files/PAR-23-171.html){target="_blank"}
 * Supports access to resources provided by the Data Management Coordinating Center for Diagnostic Centers of Excellence (RFA-NS-22-051), as part of the next phase of the Undiagnosed Diseases Network. 
@@ -307,4 +314,4 @@ title: "NIH Funding Opportunities"
 
 * [NIH Office for Data Science Strategy](https://datascience.nih.gov/research-and-training-funding){target="_blank"} list of funding opportunities.
 
-Updated March 8, 2024.
+Updated March 15, 2024.

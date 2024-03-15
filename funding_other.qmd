@@ -45,16 +45,6 @@ editor: visual
 
 ## Governmental Funding Opportunities
 
-### [ARPA-H: Open-Office Broad Agency Announcement](https://arpa-h.gov/engage/baa/){target="_blank"}
-
--   Supports research aiming to improve health outcomes across patient populations, communities, diseases, and health conditions. The BAA calls for proposals to outline breakthrough research and technological advancements.
-    -   Health Science Futures - Expanding what's technically possible
-    -   Scalable Solutions - Reaching everyone quickly
-    -   Proactive Health - Keeping people from being patients
-    -   Resilient Systems - Building integrated healthcare systems
--   Deadline: Rolling, expires March 14, 2024
--   Award: Unspecified, budget must be align with the project scope
-
 ### [DOE Office of Science: Data Reduction for Science](https://www.grants.gov/search-results-detail/351814){target="_blank"}
 * Supports exploration of potentially high-impact approaches in the development and use of data reduction techniques and algorithms to facilitate more efficient analysis and use of massive data sets produced by observations, experiments and simulation.
 * Deadline: March 19, 2024 (pre-application); May 7, 2024 (proposal)
@@ -82,6 +72,16 @@ editor: visual
 * Deadline: April 10, 2024
 * Award: $200K for Phase 1
 
+### [APRA-H Advanced Analysis for Precision Cancer Therapy](https://sam.gov/opp/0ee8d3e84cfc4319bd9a54468728fcf3/view){target="_blank"}
+* Supports development of an adaptive cancer treatment platform that detects when tumors change, recommends updates to the treatment plan, and evaluates revised plans through a novel clinical trial design.
+* Deadline: May 6, 2024
+* Award: Multiple awards expected
+
+### [DOT SBIR Complete Streets Artificial Intelligence Initiative](https://sam.gov/opp/9a760572d69b4ed3be6e438fa9d23ace/view){target="_blank"}
+* Supports the potential of novel data generation and processing methods to produce useful data for the Complete Streets Artificial Intelligence (CSAI) Initiative. 
+* Deadline: May 10, 2024
+* Award: $200K (up to 10 awards)
+
 ### [DARPA Scientific Feasibility](https://www.grants.gov/search-results-detail/352745){target="_blank"}
 * Supports development of computational methods that measure the feasibility of claims in order to enable accurate assessments of scientific content. The program aims to demonstrate that the scientific feasibility of claims can be determined by using automated reasoning to decompose claims into constituent, verifiable parts.
 * Deadline: August 25, 2024
@@ -97,6 +97,10 @@ editor: visual
 
 -   Supports the demands of complex, modern-day systems, computational models and simulators have become the primary artifacts for encoding, propagating, and applying expert knowledge to real-world science and engineering problems.
 
+### [DOC and NIST: Manufacturing USA AI Institute Competition](https://www.federalregister.gov/documents/2024/03/13/2024-05228/manufacturing-usa-institute-competition-ai-for-resilient-manufacturing){target="_blank"}
+* Supports the use of AI to improve resilience of manufacturing within industries and sectors of national interest. The Manufacturing USA  institute will have a predominant focus on a manufacturing process, novel, material, enabling technology, supply chain integration methodology or another relevant aspect of advanced manufacturing such as nanotechnology applications, advanced ceramics, photonics and optics, composites, biobased and advanced materials, flexible hybrid technologies, tool development for microelectronics, food manufacturing, superconductors, advanced battery technologies, robotics, advanced sensors, quantum information science, supply chain water optimization, aeronautics and advanced materials, and graphene and graphene commercialization.
+* Deadline and Award: To be announced in Spring 2024
+
 ## Challenges, Awards, and Other Opportunities
 
 -   [America's Datahub Consortium Idea Bank](https://www.americasdatahub.org/idea-bank-form/){target="_blank"} invites input from stakeholders to inform future project solicitations on the topics of:
@@ -110,9 +114,9 @@ editor: visual
     -   Artificial Intelligence
 
 * [AAMAS Maritime Capture the Flag Competition](https://www.challenge.gov/?challenge=maritime-capture-the-flag){target="_blank"} invites submissions of AI agents that can autonomously play a multi-player Capture-the-Flag game within a maritime, multi-agent, real-time game environment. Phase 1 due April 5, 2024. 
-
+* [ARPA-H Investor Catalyst Hub: Medical Imaging Data Marketplace (MIDM) Network Survey](https://investorcatalysthub.org/medical-imaging/){target="_blank"} aims to collect feedback about specific needs and challenges that medical imaging software and product developers, users of AI and ML medical imaging products, and private and public organizations face with utilizing, managing, and producing data for product development and evaluation. Responses due April 16, 2024. 
 -   [NIH and CGE Targeted Genome Editor Delivery (TARGETED) Challenge](https://www.challenge.gov/?challenge=targeted-challenge){target="_blank"} aims to revolutionize technology development of delivery systems for in vivo genome editing. This is a *\$6M competition* to improve in vivo delivery technologies for genome editors in two Target Areas: 1. Programmable delivery systems, and 2. Non-viral delivery across the blood-brain barrier. The National Institutes of Health (NIH), through the Common Fund’s [Somatic Cell Genome Editing (SCGE)](https://commonfund.nih.gov/editing){target="_blank"} program, is seeking Participants with ideas or early-stage solutions to join the Challenge with the chance to win up to \$1,000,000 and have their solution independently tested and validated in large animal models through NIH-supported independent evaluation relevant to preclinical assessments of investigational products. Phase 2 is open until January 10, 2025.
 
 <!--## Policy and Engagement -->
 
-Updated March 8, 2024.
+Updated March 15, 2024.

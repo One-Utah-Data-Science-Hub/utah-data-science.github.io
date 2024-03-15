@@ -335,6 +335,16 @@ format: html
 
 
 # NSF Funding Opportunities
+### [Collaborations in Artificial Intelligence and Geosciences (CAIG)](https://new.nsf.gov/funding/opportunities/collaborations-artificial-intelligence-geosciences){target="_blank"}
+* Supports geoscience research, education and fellowships to advance the development and adoption of AI.
+* Deadline: March 15, 2024
+* Award: $250K-$1M for durations up to three years
+
+### [Emerging Mathematics in Biology (eMB)](https://new.nsf.gov/funding/opportunities/emerging-mathematics-biology-emb){target="_blank"}
+*   Supports research in mathematical biology that addresses significant biological questions by applying nontrivial mathematics or developing new theories --- particularly from foundational mathematics, including artificial intelligence or machine learning.
+*   Deadline: March 11, 2024
+*   Award: \$500-750K for durations up to three years
+
 ### [Algorithms for Threat Detection (ATD)](https://new.nsf.gov/funding/opportunities/algorithms-threat-detection-atd){target="_blank"}
 * Supports research on new ways to use spatiotemporal data to model human dynamics, with an emphasis on identifying and forecasting unusual events and future threats. There are two areas of interest:
   + Develop mathematical, statistical and computational algorithms for analysis of massive spatiotemporal datasets, at scale; and
@@ -654,6 +664,15 @@ format: html
 
 
 # Governmental Funding Opportunities
+### [ARPA-H: Open-Office Broad Agency Announcement](https://arpa-h.gov/engage/baa/){target="_blank"}
+
+-   Supports research aiming to improve health outcomes across patient populations, communities, diseases, and health conditions. The BAA calls for proposals to outline breakthrough research and technological advancements.
+    -   Health Science Futures - Expanding what's technically possible
+    -   Scalable Solutions - Reaching everyone quickly
+    -   Proactive Health - Keeping people from being patients
+    -   Resilient Systems - Building integrated healthcare systems
+-   Deadline: Rolling, expires March 14, 2024
+-   Award: Unspecified, budget must be align with the project scope
 
 ### [DOD Measurement & Signature Intelligence Research and Development Initiative](https://sam.gov/opp/c7c934df83d2451db509e8e5930a4f6f/view){target="_blank"}
 * Supports the next generation of capabilities and platforms to advance the Measurement and Signature Intelligence (MASINT) enterprise. Research Areas of Interest include:
