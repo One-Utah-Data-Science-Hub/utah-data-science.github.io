@@ -228,7 +228,7 @@ title: "NIH Funding Opportunities"
 * Deadline: May 28, 2024 (LOI), June 28, 2024 (Proposal), recurring October 2, 2024
 * Award: R34, $450K for durations up to two years
 
-### [Developing novel theory and methods for understanding the genetic architecture of complex human traits](https://grants.nih.gov/grants/guide/pa-files/PAR-23-301.html){target="_blank"}
+### [Developing Novel Theory and Methods for Understanding the Genetic Architecture of Complex Human Traits](https://grants.nih.gov/grants/guide/pa-files/PAR-23-301.html){target="_blank"}
 * Supports applications for novel theory and methods development that enable better understanding of how genetic and non-genetic factors contribute to complex trait variation across individuals, families, and populations.
 * Deadline: June 16, 2024, recurring February, June, and October 16 through October 2026
 * Award: R21, $275K total (direct) for durations up to two years

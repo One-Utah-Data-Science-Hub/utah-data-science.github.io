@@ -49,7 +49,7 @@ editor: visual
 
 ## Governmental Funding Opportunities
 
-### [CDC Epidemiologic and Economic Modeling for HIV, Viral Hepatitis, STD, and TB](https://www.grants.gov/search-results-detail/349740){target="_blank"}
+### [CDC: Epidemiologic and Economic Modeling for HIV, Viral Hepatitis, STD, and TB](https://www.grants.gov/search-results-detail/349740){target="_blank"}
 * Support modeling of disease dynamics and advanced data analytics to inform and improve HIV, viral hepatitis, STC, TB, and adolescent health interventions and programs.
 * Deadline: March 29, 2024 (White Paper), April 8, 2024 (Proposal)
 * Award: $5M
@@ -59,37 +59,37 @@ editor: visual
 * Deadline: April 10, 2024
 * Award: $200K for Phase 1
 
-### [CDC Secure Deduplication Tool for HIV Surveillance](https://www.grants.gov/search-results-detail/351008){target="_blank"}
+### [CDC: Secure Deduplication Tool for HIV Surveillance](https://www.grants.gov/search-results-detail/351008){target="_blank"}
 * Supports a more efficient method for jurisdictions to de-duplicate cases reported to the National HIV Surveillance System.
 * Deadline: May 1, 2024
 * Award: $2.35M available for awards
 
-### [APRA-H Advanced Analysis for Precision Cancer Therapy](https://sam.gov/opp/0ee8d3e84cfc4319bd9a54468728fcf3/view){target="_blank"}
+### [ARPA-H: Advanced Analysis for Precision Cancer Therapy](https://sam.gov/opp/0ee8d3e84cfc4319bd9a54468728fcf3/view){target="_blank"}
 * Supports development of an adaptive cancer treatment platform that detects when tumors change, recommends updates to the treatment plan, and evaluates revised plans through a novel clinical trial design.
 * Deadline: May 6, 2024
 * Award: Multiple awards expected
 
-### [DOT SBIR Complete Streets Artificial Intelligence Initiative](https://sam.gov/opp/9a760572d69b4ed3be6e438fa9d23ace/view){target="_blank"}
+### [DOT: SBIR Complete Streets Artificial Intelligence Initiative](https://sam.gov/opp/9a760572d69b4ed3be6e438fa9d23ace/view){target="_blank"}
 * Supports the potential of novel data generation and processing methods to produce useful data for the Complete Streets Artificial Intelligence (CSAI) Initiative. 
 * Deadline: May 10, 2024
 * Award: $200K (up to 10 awards)
 
-### [DoD Civil Works Strategic Focus Areas](https://grants.gov/search-results-detail/352929){target="_blank"}
+### [DoD: Civil Works Strategic Focus Areas](https://grants.gov/search-results-detail/352929){target="_blank"}
 * Supports solutions that progress research and development efforts or advance civil works science and engineering capabilities. One of six Strategic Focus Areas is AI, Robotics and Data - Innovative Applications of Big Data, Artificial Intelligence, and Autonomy.
 * Deadline: May 22, 2024 
 * Award: Unspecified
 
-### [EPA Advancing Sustainable Chemistry](https://www.grants.gov/search-results-detail/353029){target="_blank"}
+### [EPA: Advancing Sustainable Chemistry](https://www.grants.gov/search-results-detail/353029){target="_blank"}
 * Supports research for data, methods, and systems that lead to actionable, scalable change toward chemistry, chemicals, and products that support sustainable chemistry.
 * Deadline: May 29, 2024
 * Award: $1.5M
 
-### [DARPA Scientific Feasibility](https://www.grants.gov/search-results-detail/352745){target="_blank"}
+### [DARPA: Scientific Feasibility](https://www.grants.gov/search-results-detail/352745){target="_blank"}
 * Supports development of computational methods that measure the feasibility of claims in order to enable accurate assessments of scientific content. The program aims to demonstrate that the scientific feasibility of claims can be determined by using automated reasoning to decompose claims into constituent, verifiable parts.
 * Deadline: August 25, 2024
 * Award: Multiple awards are anticipated.
 
-### [DARPA and ARPA-H Artificial Intelligence Cyber Challenge (AIxCC)](https://aicyberchallenge.com/){target="_blank"}
+### [DARPA and ARPA-H: Artificial Intelligence Cyber Challenge (AIxCC)](https://aicyberchallenge.com/){target="_blank"}
 * Supports the design of novel AI tools and capabilities to find and fix vulnerabilities in software used in critical infrastructure like transportation, water and wastewater systems, emergency services, and energy sources.
 * Deadline: August 2024 (Semifinal), August 2025 (Final)
 * Award: Two year competition with up to $20M in awards
