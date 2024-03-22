@@ -42,6 +42,11 @@ title: "NIH Funding Opportunities"
 * Deadline: May 20, 2024
 * Award: U01, $1.1M during year one and $860K during year two
 
+### [Center of Excellence for Systems Modeling of Infection and Immunity across Biological Scales](https://grants.nih.gov/grants/guide/rfa-files/RFA-AI-23-077.html){target="_blank"}
+* Supports the establishment of one (1) Center of Excellence (CoE) to coordinate the research community of infectious and immune-mediated disease (IID) computational modelers and advance IID modeling research across biological scales.
+* Deadline: May 31, 2024 (LOI), June 30, 2024 (Proposal)
+* Award: U54, $3.125M for durations of five years
+
 ### [HEAL Initiative: Interdisciplinary Team Science to Uncover the Mechanisms of Pain Relief by Medical Devices](https://grants.nih.gov/grants/guide/rfa-files/rfa-ns-23-003.html){target="_blank"}
 * Supports interdisciplinary research teams of multiple PDs/PIs to investigate the mechanism of action of pain relief by medical devices with the overall goal of optimizing therapeutic outcomes for FDA-approved or -cleared technologies. 
 * Deadline: June 10, 2024 and June 9, 2025
@@ -283,13 +288,6 @@ title: "NIH Funding Opportunities"
 <!-- * [](https://grants.nih.gov/grants/guide/notice-files/NOT-CA-24-002.html){target="_blank"} expires -->
 <!--* [](){target="_blank"} -->
 
-* [**Request for Information** Inviting Comments on the National Institutes of Health (NIH) Strategic Plan for Data Science 2023-2028](https://grants.nih.gov/grants/guide/notice-files/NOT-OD-24-037.html) due by March 15, 2024. The updated Strategic Plan will accomplish five overarching goals:
-  + Goal 1: Improve Capabilities to Sustain the NIH Policy for Data Management and Sharing
-  + Goal 2: Develop Programs to Enhance Human Derived Data for Research
-  + Goal 3: Provide New Opportunities in Software, Computational Methods, and Artificial Intelligence
-  + Goal 4: Support for a Federated Biomedical Research Data Infrastructure
-  + Goal 5: Strengthen a Broad Community in Data Science
-* [Administrative Supplements to Support the Development of Digital Twins in Radiation Oncology (DTRO)](https://grants.nih.gov/grants/guide/notice-files/NOT-CA-24-015.html){target="_blank"} expires March 22, 2024.
 * [**Administrative Supplements** to Enhance Institutional Data Science Capacity](https://grants.nih.gov/grants/guide/notice-files/NOT-OD-23-123.html){target="_blank"} in institutions serving medically underserved communities and underrepresented students due June 19, 2023 or April 1, 2024; expires April 2, 2024.
 * [Notice of The Common Fund’s Participation in the Ruth L. Kirschstein National Research Service Award (NRSA) Individual Postdoctoral Fellowship (Parent F32) Program](https://grants.nih.gov/grants/guide/notice-files/NOT-RM-24-006.html){target="_blank"} applications due April 8, 2024 and future deadlines per the [F32 RFA](https://grants.nih.gov/grants/guide/pa-files/PA-23-262.html){target="_blank"}. 
 * [**Request for Information** Proposed Use of Common Data Elements (CDEs) for NIH-Funded Clinical Research and Trials](https://datascience.nih.gov/cde-rfi){target="_blank"} expires April 20, 2024.
@@ -314,4 +312,4 @@ title: "NIH Funding Opportunities"
 
 * [NIH Office for Data Science Strategy](https://datascience.nih.gov/research-and-training-funding){target="_blank"} list of funding opportunities.
 
-Updated March 15, 2024.
+Updated March 22, 2024.

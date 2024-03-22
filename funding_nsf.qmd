@@ -214,6 +214,11 @@ format: html
 * Deadline: November 13, 2024; November 12, 2025
 * Award: $250K/year for durations of three to five years
 
+### [Ecology and Evolution of Infectious Diseases (EEID)](https://new.nsf.gov/funding/opportunities/ecology-evolution-infectious-diseases-eeid){target="_blank"}
+* Supports the quantitative, mathematical, or computational understanding of pathogen transmission dynamics.
+* Deadline: November 20, 2024, recurring on third Wednesday in November annually
+* Award: $1.5-3M for durations of five years
+
 ### [Geoinformatics (GI)](https://new.nsf.gov/funding/opportunities/geoinformatics-gi){target="_blank"}
 * Supports the deployment, operation, and sustainment of cyberinfrastructure (CI) resources to serve and support Earth Sciences research and education.
   + The *Innovative Resources track* supports the early-stage development, deployment, and community-building for CI resources that serve Earth Sciences research and education.
@@ -301,4 +306,4 @@ format: html
 * [Fairness, Ethics, Accountability, and Transparency: Enabling Breakthrough Research to Expand Inclusivity in Computer and Information Science and Engineering Research](https://www.nsf.gov/pubs/2019/nsf19016/nsf19016.jsp){target="_blank"} <!-- Nov 2, 2018 -->
 
 
-Updated March 15, 2024.
+Updated March 22, 2024.

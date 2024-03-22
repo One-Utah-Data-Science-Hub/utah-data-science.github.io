@@ -34,6 +34,8 @@ editor: visual
 
 <!--## Industry Funding Opportunities-->
 
+
+
 ## International Funding Opportunities
 
 ### [Japan Science and Technology Agency: Adopting Sustainable Partnerships for Innovative Research Ecosystem (ASPIRE) Call for Proposals](https://www.jst.go.jp/inter/aspire/en/program_e/announce_e/announce_aspire2023_e.html){target="_blank"}
@@ -43,24 +45,9 @@ editor: visual
 -   Deadline: August 17, 2024 (anticipated; recommended LOI by July 31)
 -   Award: 30-100M Yen (\$200K-700K) for durations up of three to five years
 
+
+
 ## Governmental Funding Opportunities
-
-### [DOE Office of Science: Data Reduction for Science](https://www.grants.gov/search-results-detail/351814){target="_blank"}
-* Supports exploration of potentially high-impact approaches in the development and use of data reduction techniques and algorithms to facilitate more efficient analysis and use of massive data sets produced by observations, experiments and simulation.
-* Deadline: March 19, 2024 (pre-application); May 7, 2024 (proposal)
-* Award: $400K/year
-* This is a [*Limited Submission Opportunity*](https://utah.infoready4.com/#freeformCompetitionDetail/1928990) with an internal deadline of February 20, 2024. 
-
-### [DOE: Advancements in Artificial Intelligence for Science](https://www.grants.gov/search-results-detail/352320){target="_blank"}
-* Supports basic computer science and applied mathematics research in the fundamentals of Artificial Intelligence (AI) for science. 
-  + Foundation models for computational science;
-  + Automated scientific workflows and laboratories;
-  + Scientific programming and scientific-knowledge-management systems;
-  + Federated and privacy-preserving training for foundation and other AI models for science; and
-  + Energy-efficient AI algorithms and hardware for science.
-* Deadline: March 19, 2024
-* Award: $250K-$2M 
-
 
 ### [CDC Epidemiologic and Economic Modeling for HIV, Viral Hepatitis, STD, and TB](https://www.grants.gov/search-results-detail/349740){target="_blank"}
 * Support modeling of disease dynamics and advanced data analytics to inform and improve HIV, viral hepatitis, STC, TB, and adolescent health interventions and programs.
@@ -72,6 +59,11 @@ editor: visual
 * Deadline: April 10, 2024
 * Award: $200K for Phase 1
 
+### [CDC Secure Deduplication Tool for HIV Surveillance](https://www.grants.gov/search-results-detail/351008){target="_blank"}
+* Supports a more efficient method for jurisdictions to de-duplicate cases reported to the National HIV Surveillance System.
+* Deadline: May 1, 2024
+* Award: $2.35M available for awards
+
 ### [APRA-H Advanced Analysis for Precision Cancer Therapy](https://sam.gov/opp/0ee8d3e84cfc4319bd9a54468728fcf3/view){target="_blank"}
 * Supports development of an adaptive cancer treatment platform that detects when tumors change, recommends updates to the treatment plan, and evaluates revised plans through a novel clinical trial design.
 * Deadline: May 6, 2024
@@ -82,10 +74,25 @@ editor: visual
 * Deadline: May 10, 2024
 * Award: $200K (up to 10 awards)
 
+### [DoD Civil Works Strategic Focus Areas](https://grants.gov/search-results-detail/352929){target="_blank"}
+* Supports solutions that progress research and development efforts or advance civil works science and engineering capabilities. One of six Strategic Focus Areas is AI, Robotics and Data - Innovative Applications of Big Data, Artificial Intelligence, and Autonomy.
+* Deadline: May 22, 2024 
+* Award: Unspecified
+
+### [EPA Advancing Sustainable Chemistry](https://www.grants.gov/search-results-detail/353029){target="_blank"}
+* Supports research for data, methods, and systems that lead to actionable, scalable change toward chemistry, chemicals, and products that support sustainable chemistry.
+* Deadline: May 29, 2024
+* Award: $1.5M
+
 ### [DARPA Scientific Feasibility](https://www.grants.gov/search-results-detail/352745){target="_blank"}
 * Supports development of computational methods that measure the feasibility of claims in order to enable accurate assessments of scientific content. The program aims to demonstrate that the scientific feasibility of claims can be determined by using automated reasoning to decompose claims into constituent, verifiable parts.
 * Deadline: August 25, 2024
 * Award: Multiple awards are anticipated.
+
+### [DARPA and ARPA-H Artificial Intelligence Cyber Challenge (AIxCC)](https://aicyberchallenge.com/){target="_blank"}
+* Supports the design of novel AI tools and capabilities to find and fix vulnerabilities in software used in critical infrastructure like transportation, water and wastewater systems, emergency services, and energy sources.
+* Deadline: August 2024 (Semifinal), August 2025 (Final)
+* Award: Two year competition with up to $20M in awards
 
 ### [DoD and AirForce: Geospatial Intelligence Processing and Exploitation (GeoPEX)](https://sam.gov/opp/f6dac217c58545578b6dff242335e997/view){target="_blank"}
 
@@ -119,4 +126,4 @@ editor: visual
 
 <!--## Policy and Engagement -->
 
-Updated March 15, 2024.
+Updated March 22, 2024.

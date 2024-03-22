@@ -317,6 +317,13 @@ format: html
 	+ Award: $500K-1M for durations up to two years
 
 ## Notices of Special Interest and Requests for Information
+* [Administrative Supplements to Support the Development of Digital Twins in Radiation Oncology (DTRO)](https://grants.nih.gov/grants/guide/notice-files/NOT-CA-24-015.html){target="_blank"} expires March 22, 2024.
+* [**Request for Information** Inviting Comments on the National Institutes of Health (NIH) Strategic Plan for Data Science 2023-2028](https://grants.nih.gov/grants/guide/notice-files/NOT-OD-24-037.html) due by March 15, 2024. The updated Strategic Plan will accomplish five overarching goals:
+  + Goal 1: Improve Capabilities to Sustain the NIH Policy for Data Management and Sharing
+  + Goal 2: Develop Programs to Enhance Human Derived Data for Research
+  + Goal 3: Provide New Opportunities in Software, Computational Methods, and Artificial Intelligence
+  + Goal 4: Support for a Federated Biomedical Research Data Infrastructure
+  + Goal 5: Strengthen a Broad Community in Data Science
 * [**Administrative Supplements** for R25 Data Science Training for Infectious and Immune-mediated Disease Research](https://grants.nih.gov/grants/guide/notice-files/NOT-AI-23-010.html){target="_blank"} expires February 14, 2024.
 * [**Request for Information** Increasing the usability of Common Fund data resources by researchers from underrepresented groups](https://grants.nih.gov/grants/guide/notice-files/NOT-RM-24-001.html){target="_blank"} expires February 29, 2024.
 * [**Request for Information** Current Capabilities in Automated Data Entry & Extraction from Electronic Health Records](https://rfi.grants.nih.gov/?s=65788be6eeffccde4504c2c2){target="_blank"} expires February 29, 2024.
@@ -664,6 +671,22 @@ format: html
 
 
 # Governmental Funding Opportunities
+### [DOE Office of Science: Data Reduction for Science](https://www.grants.gov/search-results-detail/351814){target="_blank"}
+* Supports exploration of potentially high-impact approaches in the development and use of data reduction techniques and algorithms to facilitate more efficient analysis and use of massive data sets produced by observations, experiments and simulation.
+* Deadline: March 19, 2024 (pre-application); May 7, 2024 (proposal)
+* Award: $400K/year
+* This is a [*Limited Submission Opportunity*](https://utah.infoready4.com/#freeformCompetitionDetail/1928990) with an internal deadline of February 20, 2024. 
+
+### [DOE: Advancements in Artificial Intelligence for Science](https://www.grants.gov/search-results-detail/352320){target="_blank"}
+* Supports basic computer science and applied mathematics research in the fundamentals of Artificial Intelligence (AI) for science. 
+  + Foundation models for computational science;
+  + Automated scientific workflows and laboratories;
+  + Scientific programming and scientific-knowledge-management systems;
+  + Federated and privacy-preserving training for foundation and other AI models for science; and
+  + Energy-efficient AI algorithms and hardware for science.
+* Deadline: March 19, 2024
+* Award: $250K-$2M 
+
 ### [ARPA-H: Open-Office Broad Agency Announcement](https://arpa-h.gov/engage/baa/){target="_blank"}
 
 -   Supports research aiming to improve health outcomes across patient populations, communities, diseases, and health conditions. The BAA calls for proposals to outline breakthrough research and technological advancements.
