@@ -169,6 +169,11 @@ title: "NIH Funding Opportunities"
 * Deadline: June 5, 2024; recurring annually in February, June, and October through June 2025
 * Award: R01, budget must reflect actual needs of the proposed project, durations up to five years
 
+### [New Approaches for Measuring Brain Changes Across Longer Timespans](https://grants.nih.gov/grants/guide/pa-files/PAR-24-160.html){target="_blank"}
+* Supports multidisciplinary investigators to develop new approaches or apply existing approaches in novel ways to measure brain activity, connectivity, genomics, or other aspects across the age spectrum of neurodevelopment.
+* Deadline: June 5, 2024; recurring in February, June, and October through February 2027
+* Award: R01, budget must reflect actual needs of the proposed project, durations up to five years; [R21 opportunity also open](https://grants.nih.gov/grants/guide/pa-files/PAR-24-161.html){target="_blank"}
+
 ### [Focused Technology Research and Development](https://grants.nih.gov/grants/guide/pa-files/PAR-22-127.html){target="_blank"}
 * Supports projects that focus solely on the development of technologies with the potential to enable acquisition of biomedical knowledge. Projects should be justified in terms of technical innovation and utility of such technical innovation for impacting future biomedical research. 
 * Deadline: June 5, 2024; recurring in February, June, and October through February 2025
@@ -237,6 +242,11 @@ title: "NIH Funding Opportunities"
 * Supports vision-related secondary data analyses utilizing existing database resources.
 * Deadline: June 16, 2024 annually in February, June, and October through Feb 2025 <!-- on the 16th -->
 * Award: R21, $275K (direct) for durations up to two years
+
+### [BRAIN Initiative: Data Archives for the BRAIN Initiative](https://grants.nih.gov/grants/guide/rfa-files/RFA-MH-25-110.html){target="_blank"}
+* Supports applications to develop web-accessible data archives to capture, store, and curate data related to the Brain Research Through Advancing Innovative Neurotechnologies® (BRAIN) Initiative activities. 
+* Deadline: June 24, 2024; recurring June 24, 2025 and June 24, 2026
+* Award: R24; budget must align with the project scope, for durations of up to five years
 
 ### [Harnessing Artificial Intelligence and Polypharmacology to Discover Pharmacotherapeutics for Substance Use Disorders](https://grants.nih.gov/grants/guide/rfa-files/RFA-DA-25-053.html){target="_blank"}
 * Supports Small Business Technology Transfer (STTR) or Small Business Innovation Research (SBIR) grant applications proposing research projects directed towards commercialization to harness artificial intelligence (AI), including machine learning (ML), tools, and polypharmacology to identify pharmacotherapeutics with lower toxicity and higher efficacy to prevent or treat substance use disorders (SUDs).
@@ -312,4 +322,4 @@ title: "NIH Funding Opportunities"
 
 * [NIH Office for Data Science Strategy](https://datascience.nih.gov/research-and-training-funding){target="_blank"} list of funding opportunities.
 
-Updated March 22, 2024.
+Updated March 29, 2024.

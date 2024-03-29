@@ -89,6 +89,10 @@ format: html
 <!--  + *Frontier Projects* up to $7M for durations up to five years; deadline of June 15, 2023 -->
 * [DCL: Medical / Health Cyber Physical Systems Proposals](https://www.nsf.gov/pubs/2024/nsf24017/nsf24017.jsp){target="_blank"}<!-- November 8, 2023 -->
 
+### [Data Science Corps (DSC)](https://new.nsf.gov/funding/opportunities/data-science-corps-dsc){target="_blank"}
+* Supports data science education and training by engaging students in real-world implementation projects in partnership with organizations and communities — helping to build a strong national data science infrastructure and workforce.
+* Deadline: June 21, 2024
+* Award: $800K-1.2M for durations up to three years.
 
 ### [Emerging Frontiers in Research and Innovation (EFRI): Biocomputing through EnGINeering Organoid Intelligence (BEGIN OI)](https://new.nsf.gov/funding/opportunities/emerging-frontiers-research-innovation-efri){target="_blank"}
 * Supports foundational and transformative research to advance the design, engineering, and fabrication of organoid systems that are capable of processing information dynamically while interfacing with non-living systems.
@@ -101,15 +105,6 @@ format: html
 
 
 ## Upcoming Recurring Proposal Deadlines
-
-### [NSF Scholarships in Science, Technology, Engineering, and Mathematics Program (S-STEM)](https://new.nsf.gov/funding/opportunities/nsf-scholarships-science-technology-engineering){target="_blank"}
-*   Supports institutions of higher education to fund scholarships for academically talented low-income students and to study and implement a program of activities that support their recruitment, retention and graduation in STEM.
-    *   Track 1: Institutional Capacity Building
-    *   Track 2: Implementation: Single Institution
-    *   Track 3: Inter-institutional Consortia
-    *   Collaborative Planning Grants to Develop an Inter-institutional Consortium
-*   Deadline: *Tracks 2, 3, and 4, Collaborative Planning* February 20, 2024, annually thereafter; *Track 1* March 28, 2024, annually thereafter
-*   Award: *Track 1 (Institutional Capacity Building)* \$1M for a duration of up to six years; *Track 2 (Implementation: Single Institution)* \$2.5M for a duration of up to six years; *Track 3 (Inter-institutional Consortia)* \$5M for a duration of up to six years; *Collaborative Planning* \$100K for a duration of one year.
 
 ### [NSF National Quantum Virtual Laboratory (NQVL) Quantum Science and Technology Demonstrations (QSTD): I. **Pilot Phase**](https://www.nsf.gov/pubs/2023/nsf23604/nsf23604.htm){target="_blank"}
 * Supports the demonstration of practical quantum advantage, the actual application of the tools of Quantum Information Science and Engineering (QISE) to problems that will enable solutions that classical approaches can only solve much less efficiently or not at all.
@@ -261,6 +256,15 @@ format: html
 * Deadline: February 20, 2025; recurring annually on the third Thursday in February
 * Award: $2M for durations up to four years
 
+### [NSF Scholarships in Science, Technology, Engineering, and Mathematics Program (S-STEM)](https://new.nsf.gov/funding/opportunities/nsf-scholarships-science-technology-engineering){target="_blank"}
+*   Supports institutions of higher education to fund scholarships for academically talented low-income students and to study and implement a program of activities that support their recruitment, retention and graduation in STEM.
+    *   Track 1: Institutional Capacity Building
+    *   Track 2: Implementation: Single Institution
+    *   Track 3: Inter-institutional Consortia
+    *   Collaborative Planning Grants to Develop an Inter-institutional Consortium
+*   Deadline: March 5, 2025, annually thereafter
+*   Award: *Track 1 (Institutional Capacity Building)* \$1M for a duration of up to six years; *Track 2 (Implementation: Single Institution)* \$2.5M for a duration of up to six years; *Track 3 (Inter-institutional Consortia)* \$5M for a duration of up to six years; *Collaborative Planning* \$100K for a duration of one year.
+
 ### [Mid-scale Research Infrastructure-2 (Mid-scale RI-2)](https://new.nsf.gov/funding/opportunities/mid-scale-research-infrastructure-2-mid-scale-ri-2){target="_blank"}
 *   Supports the implementation of research infrastructure --- including equipment, cyberinfrastructure, large-scale datasets and personnel --- whose total project costs fall between \$20 million and \$100 million.
 *   Deadline: May 2025 (LOI), June 2025 (Preliminary Proposal); dates anticipated, recurring every other year
@@ -278,9 +282,9 @@ format: html
 
 
 ### Dear Colleague Letters
+* [Innovative Use of Scientific Collections (IUSC)](https://www.nsf.gov/pubs/2024/nsf24069/nsf24069.jsp){target="_blank"} <!--March 18, 2024-->
 * [Supporting Computing & Networking Research for a National Discovery Cloud for Climate (NDC-C)](https://www.nsf.gov/pubs/2024/nsf24058/nsf24058.jsp){target="_blank"}  <!-- February 20, 2024 -->
 * [NSF-Italian Ministry of Universities and Research Lead Agency Opportunity on Artificial Intelligence](https://www.nsf.gov/pubs/2024/nsf24055/nsf24055.jsp){target="_blank"}  <!-- February 20, 2024 -->
-* [**Request for Information** Researcher and Educator Use Cases for the National Artificial Intelligence Research Resource (NAIRR)](https://www.nsf.gov/pubs/2024/nsf24051/nsf24051.jsp){target="_blank"} expires March 8, 2024. Individuals and groups of individuals in all research and education domains are invited to submit responses using the [online submission form](https://idaorg.gov1.qualtrics.com/jfe/form/SV_cRMnkUFJoXs7UfI){target="_blank"}.
 * [Funding Opportunities for Engineering Research in Artificial Intelligence](https://www.nsf.gov/pubs/2024/nsf24039/nsf24039.jsp){target="_blank"} <!-- December 22, 2023 -->
 
 * [Broadening Participation in Computing (BPC) Supplemental Funding in Computer and Information Science and Engineering](https://www.nsf.gov/pubs/2024/nsf24030/nsf24030.jsp){target="_blank"} recommended submission prior to March 31 each year. <!-- December 5, 2023 -->
@@ -306,4 +310,4 @@ format: html
 * [Fairness, Ethics, Accountability, and Transparency: Enabling Breakthrough Research to Expand Inclusivity in Computer and Information Science and Engineering Research](https://www.nsf.gov/pubs/2019/nsf19016/nsf19016.jsp){target="_blank"} <!-- Nov 2, 2018 -->
 
 
-Updated March 22, 2024.
+Updated March 29, 2024.

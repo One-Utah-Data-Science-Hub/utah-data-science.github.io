@@ -27,6 +27,15 @@ editor: visual
 -   Deadline: Rolling for one year until budget of \$1M is depleted <!-- August 2024 -->
 -   Application should take no more than 3 hours!
 
+### [2024 Prostate Cancer Foundation Challenge Awards](https://ssti.us2.list-manage.com/track/click?u=3b83ca94cd43c0588e1cc5785&id=50a379bbe4&e=c34b361f8d){target="_blank"}
+* Supports high-risk projects investigating metastatic, lethal prostate cancer. Research proposals in the following topic areas are preferred:
+  + new systemic precision treatments for metastatic, lethal prostate cancer;
+  + determinants of survivorship;
+  + developing or validating biomarkers that guide therapy in patients or further our understanding of the mechanisms by which therapies work;
+  + new data science technologies for analysis of genomic information to advance precision medicine
+* Deadline: April 8, 2024 (LOI/white paper); June 17, 2024 (proposal)
+* Award: Up to $1M
+
 ### [Pew Biomedical Scholars](https://www.pewtrusts.org/en/projects/pew-biomedical-scholars/program-details){target="_blank"}
 * Supports young investigators of outstanding promise in science relevant to the advancement of human health. Strong proposals will incorporate particularly creative and pioneering approaches to basic, translational, and applied biomedical research. Candidates whose work is based on biomedical principles but who bring in concepts and theories from more diverse fields are encouraged to apply. 
 * Deadline: April 14, 2024 ([Internal LOI](https://utah.infoready4.com/#competitionDetail/1932490){target="_blank"}), September 5, 2024 (Full Application)
@@ -63,6 +72,11 @@ editor: visual
 * Supports a more efficient method for jurisdictions to de-duplicate cases reported to the National HIV Surveillance System.
 * Deadline: May 1, 2024
 * Award: $2.35M available for awards
+
+### [DARPA: Mathematics for the DIscovery of ALgorithms and Architectures (DIAL)](https://sam.gov/opp/8e9428a0783e483f954d93555dd8cc77/view){target="_blank"}
+* Supports basic or applied research concepts in mathematical methods for computer-aided algorithm discovery via optimization.
+* Deadline: May 3, 2024
+* Award: Multiple awards are expected.
 
 ### [ARPA-H: Advanced Analysis for Precision Cancer Therapy](https://sam.gov/opp/0ee8d3e84cfc4319bd9a54468728fcf3/view){target="_blank"}
 * Supports development of an adaptive cancer treatment platform that detects when tumors change, recommends updates to the treatment plan, and evaluates revised plans through a novel clinical trial design.
@@ -126,4 +140,4 @@ editor: visual
 
 <!--## Policy and Engagement -->
 
-Updated March 22, 2024.
+Updated March 29, 2024.
