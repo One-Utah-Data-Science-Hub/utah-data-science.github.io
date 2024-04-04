@@ -58,11 +58,6 @@ editor: visual
 
 ## Governmental Funding Opportunities
 
-### [CDC: Epidemiologic and Economic Modeling for HIV, Viral Hepatitis, STD, and TB](https://www.grants.gov/search-results-detail/349740){target="_blank"}
-* Support modeling of disease dynamics and advanced data analytics to inform and improve HIV, viral hepatitis, STC, TB, and adolescent health interventions and programs.
-* Deadline: March 29, 2024 (White Paper), April 8, 2024 (Proposal)
-* Award: $5M
-
 ### [Department of Homeland Security: Synthetic Data Generator](https://sam.gov/opp/bbdbcc1f76f6464a86f9a99af6cd2ca9/view){target="_blank"}
 * Supports synthetic generation capabilities for both structured and unstructured data that currently have or can be adapted to clearly separate the way the solution seeks to understand the shape and patterns of real data from the mechanism it uses to generate the synthetic data.
 * Deadline: April 10, 2024
@@ -93,6 +88,11 @@ editor: visual
 * Deadline: May 22, 2024 
 * Award: Unspecified
 
+### [NIST and DOC: Regional Alliances and Multistakeholder Partnerships to Stimulate (RAMPS) Cybersecurity Education and Workforce Development](https://www.grants.gov/search-results-detail/353143){target="_blank"}
+* Supports activities to establish community-based partnerships to develop cybersecurity career pathways that address local workforce needs. Effective multistakeholder workforce partnerships will organize multiple employers with skill shortages in specific occupations to focus on developing the skilled workforce to meet industry needs within the local or regional economy.
+* Deadline: May 24, 2024
+* Award: Up to $200K for durations up to two years
+
 ### [EPA: Advancing Sustainable Chemistry](https://www.grants.gov/search-results-detail/353029){target="_blank"}
 * Supports research for data, methods, and systems that lead to actionable, scalable change toward chemistry, chemicals, and products that support sustainable chemistry.
 * Deadline: May 29, 2024
@@ -106,7 +106,7 @@ editor: visual
 ### [DARPA and ARPA-H: Artificial Intelligence Cyber Challenge (AIxCC)](https://aicyberchallenge.com/){target="_blank"}
 * Supports the design of novel AI tools and capabilities to find and fix vulnerabilities in software used in critical infrastructure like transportation, water and wastewater systems, emergency services, and energy sources.
 * Deadline: August 2024 (Semifinal), August 2025 (Final)
-* Award: Two year competition with up to $20M in awards
+* Award: 7 teams will be awarded $2M from the semifinal competition; final awards up to $4M
 
 ### [DoD and AirForce: Geospatial Intelligence Processing and Exploitation (GeoPEX)](https://sam.gov/opp/f6dac217c58545578b6dff242335e997/view){target="_blank"}
 
@@ -140,4 +140,4 @@ editor: visual
 
 <!--## Policy and Engagement -->
 
-Updated March 29, 2024.
+Updated April 4, 2024.

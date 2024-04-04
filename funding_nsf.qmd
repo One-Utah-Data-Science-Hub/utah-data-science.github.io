@@ -7,13 +7,6 @@ format: html
 * Deadline: 
 * Award: $ for durations up to  years -->
 ## Proposals Accepted Anytime
-### [Smart and Connected Communities (S&CC)](https://new.nsf.gov/funding/opportunities/smart-connected-communities-scc){target="_blank"}
-* Supports use-inspired research that addresses communities' social, economic and environmental challenges. Projects must work with community stakeholders on pilots that integrate intelligent technologies with the natural and built environments.
-  + *S&CC Planning Grants (SCC-PG)* $150K for durations of one year
-  + *S&CC Integrative Research Grants (SCC-IRG) Track 1* $2.5M for durations up to four years
-  + *S&CC Integrative Research Grants (SCC-IRG) Track 2* $1.5M for durations up to three years
-* Expires: April 1, 2024
-
 ### [Research Infrastructure in the Social and Behavioral Sciences (RISBS)](https://new.nsf.gov/funding/opportunities/research-infrastructure-social-behavioral-sciences){target="_blank"}
 * Supports projects that create computational tools and data to facilitate basic research in the social and behavioral sciences that can lead to improved health, prosperity and security. The RISBS program administers separate solicitations for the American National Election Study (ANES), the General Social Survey (GSS) and the Panel Study of Income Dynamics (PSID).
 
@@ -94,6 +87,11 @@ format: html
 * Deadline: June 21, 2024
 * Award: $800K-1.2M for durations up to three years.
 
+### [Foundations for Digital Twins as Catalyzers of Biomedical Technological Innovation (FDT-BioTech)](https://new.nsf.gov/funding/opportunities/foundations-digital-twins-catalyzers-biomedical){target="_blank"}
+* Supports inherently interdisciplinary research projects that underpin the mathematical and engineering foundations behind the development and use of digital twins and synthetic data in biomedical and healthcare applications, with a particular focus on digital, in silico models used in the evaluation of medical devices and the relevance of the developed models in addressing current and emerging  challenges affecting the development and assessment of biomedical technologies. 
+* Deadline: June 21, 2024
+* Award: $1M or less for durations up to three years
+
 ### [Emerging Frontiers in Research and Innovation (EFRI): Biocomputing through EnGINeering Organoid Intelligence (BEGIN OI)](https://new.nsf.gov/funding/opportunities/emerging-frontiers-research-innovation-efri){target="_blank"}
 * Supports foundational and transformative research to advance the design, engineering, and fabrication of organoid systems that are capable of processing information dynamically while interfacing with non-living systems.
   + Research Thread 1: Biocomputing Theory and Modelling
@@ -136,6 +134,11 @@ format: html
 *   Supports long-term, multi-institutional research with the potential to transform computer and information science and engineering.
 *   Deadline: *Preliminary Proposal* June 19, 2024, June 19, 2026; *Full Proposal* March 31, 2025, March 31, 2027
 *   Award: \$15M for durations up to seven years
+
+### [Mathematical Foundations of Digital Twins (MATH-DT)](https://new.nsf.gov/funding/opportunities/mathematical-foundations-digital-twins-math-dt){target="_blank"}
+* Supports foundational mathematical and statistical research on digital twins in applied science to harness science, technology and innovation to address society’s most pressing challenges.
+* Deadline: June 20, 2024; March 17, 2025; March 15 annually thereafter
+* Award: Approximately $500-800K for durations up to three years
 
 ### [Human Networks and Data Science (HNDS)](https://beta.nsf.gov/funding/opportunities/human-networks-data-science-hnds){target="_blank"}
 *   Supports research that studies the behavior of individuals and groups by leveraging data and network science and the development of data infrastructure that makes such work possible.
@@ -282,6 +285,7 @@ format: html
 
 
 ### Dear Colleague Letters
+* [Catalyzing human-centered solutions through research and innovation in science, the environment and society](https://new.nsf.gov/funding/opportunities/catalyzing-human-centered-solutions-through-0){target="_blank"} NSF invites planning proposals for interdisciplinary research to create evidence-based solutions that strengthen human resilience, security, and quality of life by addressing seemingly intractable challenges that confront society. Concept outlines should be submitted by *May 1, 2024* with invited full proposals due *July 1, 2024*. <!-- March 28, 2024 -->
 * [Innovative Use of Scientific Collections (IUSC)](https://www.nsf.gov/pubs/2024/nsf24069/nsf24069.jsp){target="_blank"} <!--March 18, 2024-->
 * [Supporting Computing & Networking Research for a National Discovery Cloud for Climate (NDC-C)](https://www.nsf.gov/pubs/2024/nsf24058/nsf24058.jsp){target="_blank"}  <!-- February 20, 2024 -->
 * [NSF-Italian Ministry of Universities and Research Lead Agency Opportunity on Artificial Intelligence](https://www.nsf.gov/pubs/2024/nsf24055/nsf24055.jsp){target="_blank"}  <!-- February 20, 2024 -->
@@ -310,4 +314,4 @@ format: html
 * [Fairness, Ethics, Accountability, and Transparency: Enabling Breakthrough Research to Expand Inclusivity in Computer and Information Science and Engineering Research](https://www.nsf.gov/pubs/2019/nsf19016/nsf19016.jsp){target="_blank"} <!-- Nov 2, 2018 -->
 
 
-Updated March 29, 2024.
+Updated April 4, 2024.

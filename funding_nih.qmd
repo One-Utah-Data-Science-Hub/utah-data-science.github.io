@@ -253,6 +253,11 @@ title: "NIH Funding Opportunities"
 * Deadline: June 25, 2024 (LOI), July 25, 2024
 * Award: [R41/42](https://grants.nih.gov/grants/guide/rfa-files/RFA-DA-25-053.html){target="_blank"}, $400K (total) for one year (Phase 1) and $3M (total) over three years (Phase II); [R43/44](https://grants.nih.gov/grants/guide/rfa-files/RFA-DA-25-054.html){target="_blank"}, $400K (total) for one year (Phase 1) and $3M (total) over three years (Phase II)
 
+### [Pilot Projects Enhancing Utility and Usage of Common Fund Data Sets](https://grants.nih.gov/grants/guide/rfa-files/RFA-RM-24-006.html){target="_blank"}
+* Supports demonstration and enhancing the utility of selected Common Fund (https://commonfund.nih.gov/) data sets, including generating hypotheses and catalyzing discoveries
+* Deadline: June 27, 2024
+* Award: R03; $200K for up to one year
+
 ### [Leveraging Extant Data to Understand Developmental Trajectories of Late Talking Children](https://grants.nih.gov/grants/guide/pa-files/PAR-24-045.html){target="_blank"}
 * Supports furthering understanding of the developmental trajectories of late talking children by leveraging existing data and creating open and shared data resources to aid in identifying patterns and predictors of developmental outcomes in late talking children, and exploring potential underlying mechanisms, risk factors, and sequelae. 
 * Deadline: July 19, 2024, November 19, 2024
@@ -298,7 +303,6 @@ title: "NIH Funding Opportunities"
 <!-- * [](https://grants.nih.gov/grants/guide/notice-files/NOT-CA-24-002.html){target="_blank"} expires -->
 <!--* [](){target="_blank"} -->
 
-* [**Administrative Supplements** to Enhance Institutional Data Science Capacity](https://grants.nih.gov/grants/guide/notice-files/NOT-OD-23-123.html){target="_blank"} in institutions serving medically underserved communities and underrepresented students due June 19, 2023 or April 1, 2024; expires April 2, 2024.
 * [Notice of The Common Fund’s Participation in the Ruth L. Kirschstein National Research Service Award (NRSA) Individual Postdoctoral Fellowship (Parent F32) Program](https://grants.nih.gov/grants/guide/notice-files/NOT-RM-24-006.html){target="_blank"} applications due April 8, 2024 and future deadlines per the [F32 RFA](https://grants.nih.gov/grants/guide/pa-files/PA-23-262.html){target="_blank"}. 
 * [**Request for Information** Proposed Use of Common Data Elements (CDEs) for NIH-Funded Clinical Research and Trials](https://datascience.nih.gov/cde-rfi){target="_blank"} expires April 20, 2024.
 * [Harnessing Big Data to Halt HIV](https://grants.nih.gov/grants/guide/notice-files/NOT-AI-21-054.html){target="_blank"} expires May 8, 2024.
@@ -308,6 +312,7 @@ title: "NIH Funding Opportunities"
 * [High-Priority Interest to Enhance Data Science Research Training in Addiction Research](https://grants.nih.gov/grants/guide/notice-files/NOT-DA-21-013.html){target="_blank"} expires December 9, 2024.
 * [IDEA2Health: Innovative Data Evaluation and Analysis to Health](https://grants.nih.gov/grants/guide/notice-files/NOT-HL-22-001.html){target="_blank"} expires January 8, 2025.
 * [Validation of Digital Health and Artificial Intelligence/Machine Learning Tools for Improved Assessment in Biomedical and Behavioral Research](https://grants.nih.gov/grants/guide/notice-files/NOT-CA-24-031.html){target="_blank"} expires July 6, 2025.
+* [Advance Data Science Approaches Through Secondary Data Analysis to Reveal Scientific Insights of COVID-19 Testing Technologies (R21)](https://grants.nih.gov/grants/guide/notice-files/NOT-OD-24-026.html){target="_blank"}, expires July 16, 2024.
 * [Leveraging Data Science to Bring Actionable Insights for Substance Use Prevention and Treatment](https://grants.nih.gov/grants/guide/notice-files/NOT-DA-23-006.html){target="_blank"} expires September 8, 2025.
 * [Development and Implementation of Clinical Informatics Tools to Enhance Patients Use of Genomic Information](https://grants.nih.gov/grants/guide/notice-files/NOT-HG-22-011.html){target="_blank"} expires September 25, 2025.
 * [HEAL Initiative: Leveraging Inpatient Medical or Surgical Hospitalizations to Improve Outcomes for People Who Use Drugs](https://grants.nih.gov/grants/guide/notice-files/NOT-DA-24-011.html){target="_blank"} expires November 13, 2025.
@@ -322,4 +327,4 @@ title: "NIH Funding Opportunities"
 
 * [NIH Office for Data Science Strategy](https://datascience.nih.gov/research-and-training-funding){target="_blank"} list of funding opportunities.
 
-Updated March 29, 2024.
+Updated April 4, 2024.

@@ -317,6 +317,7 @@ format: html
 	+ Award: $500K-1M for durations up to two years
 
 ## Notices of Special Interest and Requests for Information
+* [**Administrative Supplements** to Enhance Institutional Data Science Capacity](https://grants.nih.gov/grants/guide/notice-files/NOT-OD-23-123.html){target="_blank"} in institutions serving medically underserved communities and underrepresented students due June 19, 2023 or April 1, 2024; expires April 2, 2024.
 * [Administrative Supplements to Support the Development of Digital Twins in Radiation Oncology (DTRO)](https://grants.nih.gov/grants/guide/notice-files/NOT-CA-24-015.html){target="_blank"} expires March 22, 2024.
 * [**Request for Information** Inviting Comments on the National Institutes of Health (NIH) Strategic Plan for Data Science 2023-2028](https://grants.nih.gov/grants/guide/notice-files/NOT-OD-24-037.html) due by March 15, 2024. The updated Strategic Plan will accomplish five overarching goals:
   + Goal 1: Improve Capabilities to Sustain the NIH Policy for Data Management and Sharing
@@ -342,6 +343,13 @@ format: html
 
 
 # NSF Funding Opportunities
+### [Smart and Connected Communities (S&CC)](https://new.nsf.gov/funding/opportunities/smart-connected-communities-scc){target="_blank"}
+* Supports use-inspired research that addresses communities' social, economic and environmental challenges. Projects must work with community stakeholders on pilots that integrate intelligent technologies with the natural and built environments.
+  + *S&CC Planning Grants (SCC-PG)* $150K for durations of one year
+  + *S&CC Integrative Research Grants (SCC-IRG) Track 1* $2.5M for durations up to four years
+  + *S&CC Integrative Research Grants (SCC-IRG) Track 2* $1.5M for durations up to three years
+* Expires: April 1, 2024
+
 ### [Collaborations in Artificial Intelligence and Geosciences (CAIG)](https://new.nsf.gov/funding/opportunities/collaborations-artificial-intelligence-geosciences){target="_blank"}
 * Supports geoscience research, education and fellowships to advance the development and adoption of AI.
 * Deadline: March 15, 2024
@@ -672,6 +680,11 @@ format: html
 
 
 # Governmental Funding Opportunities
+### [CDC: Epidemiologic and Economic Modeling for HIV, Viral Hepatitis, STD, and TB](https://www.grants.gov/search-results-detail/349740){target="_blank"}
+* Support modeling of disease dynamics and advanced data analytics to inform and improve HIV, viral hepatitis, STC, TB, and adolescent health interventions and programs.
+* Deadline: March 29, 2024 (White Paper), April 8, 2024 (Proposal)
+* Award: $5M
+
 ### [DOE Office of Science: Data Reduction for Science](https://www.grants.gov/search-results-detail/351814){target="_blank"}
 * Supports exploration of potentially high-impact approaches in the development and use of data reduction techniques and algorithms to facilitate more efficient analysis and use of massive data sets produced by observations, experiments and simulation.
 * Deadline: March 19, 2024 (pre-application); May 7, 2024 (proposal)
