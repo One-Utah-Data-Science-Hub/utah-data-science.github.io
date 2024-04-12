@@ -50,6 +50,10 @@ format: html
 * Deadline: Accepted anytime (recommended to avoid April 15-June 15)
 * Award: The size and duration of any individual request should be justified by the amount and complexity of the work to be accomplished.  
 
+### [Cyberinfrastructure for Public Access and Open Science (CI PAOS)](https://new.nsf.gov/funding/opportunities/cyberinfrastructure-public-access-open-science-ci){target="_blank"}
+* Supports new and transformative socio-technical partnerships supporting research data infrastructure ecosystems across domains through early-stage collaborative activities between cyberinfrastructure researchers, scientists, research computing experts, data management experts, research labs, university libraries, and other communities of practice. 
+* Award: The size and duration of any individual request should be justified by the amount and complexity of the work to be accomplished.
+
 
 
 ## Upcoming Proposal Deadlines

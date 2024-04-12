@@ -2,13 +2,20 @@
 title: "News Highlights"
 format: html
 ---
-* [From Economics to Electrocardiograms, Data Science Projects Get a Boost from New Seed Grants](https://uofuhealth.utah.edu/newsroom/news/2024/04/economics-electrocardiograms-data-science-projects-get-boost-new-seed-grants){target="_blank"}, April 1, 2024
+* [From Economics to Electrocardiograms, Data Science Projects Get a Boost from New Seed Grants](https://uofuhealth.utah.edu/newsroom/news/2024/04/economics-electrocardiograms-data-science-projects-get-boost-new-seed-grants){target="_blank"}, April 1, 2024.
+  + *Explaining Data Evolution*. PIs: Anna Fariha, Nina de Lacy.
+  + *Scalable and Information-Rich Sequence Search Over SRA for Advanced Biological Analyses*. PIs: Prashant Pandey, Aaron Quinlan.
+  + *Connecting the Metabolite-Protein Interactome: Precision Diet and Drug Synergy for Enhanced Cancer Care*. PIs: Mary Playdon, Kevin Hicks, Aik Choon Tan.
+  + *Information Theoretic Approaches to Causal Inference*. PIs: Ellis Scharfenaker, Braxton Osting.
+  + *Automated Live Meta-Analysis of Clinical Outcomes Using Generative AI*. PIs: Fatemeh Shah-Mohammadi, Joseph Finkelstein.
+  + *Modeling the Effect of Artificial Nature Exposure on Brain Health in Bed-bound Populations Using Variational Autoencoders*. PIs: Elliot Smith, Jeanine Stefanucci.
+  + *Using Controlled Animal ECG Recordings for Machine Learning-Based Prediction of Myocardial Ischemia Outcomes*. PIs: Tolga Tasdizen, Ben Steinberg, Rob MacLeod.
 
-* [Data Science Research at the U: Meet ‘The Architects of our New Data-Driven Future’](https://www.research.utah.edu/features/data-science-research-at-the-u-meet-the-architects-of-our-new-data-driven-future/){target="_blank"}, March 8, 2024
+* [Data Science Research at the U: Meet ‘The Architects of our New Data-Driven Future’](https://www.research.utah.edu/features/data-science-research-at-the-u-meet-the-architects-of-our-new-data-driven-future/){target="_blank"}, March 8, 2024.
 
-* [From Hidden History to Robot Surgery: Big Data Solves Big Problems at Utah Data Science Day 2024](https://uofuhealth.utah.edu/news/2024/02/hidden-history-robot-surgery-big-data-solves-big-problems-utah-data-science-day-2024){target="_blank"}, February 5, 2024
+* [From Hidden History to Robot Surgery: Big Data Solves Big Problems at Utah Data Science Day 2024](https://uofuhealth.utah.edu/news/2024/02/hidden-history-robot-surgery-big-data-solves-big-problems-utah-data-science-day-2024){target="_blank"}, February 5, 2024.
 
-* [Responsible AI Initiative seeks to solve societal problems](https://attheu.utah.edu/facultystaff/responsible-ai-initiative-seeks-to-solve-societal-problems/){target="_blank"}, October 13, 2023
+* [Responsible AI Initiative seeks to solve societal problems](https://attheu.utah.edu/facultystaff/responsible-ai-initiative-seeks-to-solve-societal-problems/){target="_blank"}, October 13, 2023.
 
 * [2023 Patai-Rapport Lecture Award](https://science.utah.edu/faculty/matthew-sigman-receives-the-2023-patai-rapport-lecture-award/){target="_blank"} for Matthew Sigman, Distinguished Professor and Peter J. Christine S. Stang Presidential Endowed Chair of Chemistry, is the recipient of the 2023 Patai-Rappoport Lecture Award for his major contributions in physical organic chemistry, data science and enantioselective catalysis.
 

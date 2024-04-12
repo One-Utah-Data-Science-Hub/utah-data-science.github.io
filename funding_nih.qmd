@@ -60,7 +60,17 @@ title: "NIH Funding Opportunities"
 ### [Multi-sectoral preventive interventions that address social determinants of health in populations that experience health disparities](https://grants.nih.gov/grants/guide/pa-files/PAR-24-053.html){target="_blank"}
 * Supports projects to test prospective multi-sectoral preventive interventions that address social determinants of health in populations that experience health disparities. These research projects will be part of the Multi-Sectoral Preventive Interventions (MSPI) Research Network, which will also include a Coordinating Center ([RFA-OD-24-006](https://grants.nih.gov/grants/guide/rfa-files/RFA-OD-24-006.html){target="_blank"}).   
 * Deadline: July 5, 2024 (LOI), August 5, 2024 (Proposal)
-* Award: U24, $500K/year (direct) for two years (UG3, phase 1) and $750K/year (direct) for five years (UH3, phase 2)
+* Award: UG3/UH3, $500K/year (direct) for two years (UG3, phase 1) and $750K/year (direct) for five years (UH3, phase 2)
+
+### [ML/AI Tools to Advance Genomic Translational Research (MAGen) - Coordinating Center](https://grants.nih.gov/grants/guide/notice-files/NOT-HG-24-030.html){target="_blank"}
+* Supports the development of novel Machine Learning/Artificial Intelligence (ML/AI) tools to explore their potential for advancing genomic translational research. The MAGen CC will be responsible for implementing approaches to bring diverse teams together to enable synergistic and collaborative team science across the Consortium. 
+* Deadline: July 26, 2024 (expected) 
+* Award: UG3/UH3, $800K/year (direct) for two years (UG3) and $800K/year (direct) for three years (UH3)
+
+### [ML/AI Tools to Advance Genomic Translational Research (MAGen) - Development Sites](https://grants.nih.gov/grants/guide/notice-files/NOT-HG-24-029.html){target="_blank"}
+* Supports the development of novel Machine Learning/Artificial Intelligence (ML/AI) tools to explore their potential for advancing genomic translational research. Each MAGen Site will develop and cross validate tools, conduct ELSI research projects, and generate resources for dissemination.
+* Deadline: July 26, 2024 (expected) 
+* Award: UG3/UH3, $1.6M/year (total) for two years (UG3) and $1.6M/year (direct) for three years (UH3)
 
 ### [Enhancement and Management of Established Biomedical Data Repositories and Knowledgebases](https://grants.nih.gov/grants/guide/pa-files/PAR-23-237.html){target="_blank"}
 * Supports established biomedical data repositories and knowledgebases as distinct and separate resources that have demonstrated impact and have potential for continued benefit to the community served. 
@@ -72,10 +82,11 @@ title: "NIH Funding Opportunities"
 * Deadline: September 8, 2024 (LOI), October 8, 2024 (Proposal)
 * Award: RM1, $500K-$1.5M (direct) for durations up to five years
 
-### [ML/AI Tools to Advance Genomic Translational Research](https://www.genome.gov/sites/default/files/media/files/2023-09/ML_AI_Tools_to_Advance_Genomic_Translational_Reseach.pdf){target="_blank"}
-* Supports the development of novel Machine Learning/Artificial Intelligence (ML/AI) tools to explore their potential for advancing genomic translational research.
-* Deadline: TBA (RFA approved for clearance Sept 18, 2023)
-* Award: UG3/UH3, $1.2M/year (total) for durations of five years
+### [Precision Mental Health: Develop Tools to Inform Treatment Selection in Depression](https://grants.nih.gov/grants/guide/rfa-files/RFA-MH-25-190.html){target="_blank"}
+* Supports creation of a pipeline to accelerate the development and early validation of predictive tools and/or biomarkers to inform individual-level treatment selection among two or more existing therapeutics for depression.
+* Deadline: September 18, 2024 (LOI), October 18, 2024 (Full Proposal)
+* Award: UG3/UH3; $500K/year (direct) for one to two years (UG3, phase 1) and $1.5M/year (direct) for five years (UH3, phase 2)
+
 
 
 ## Program and Center (P) Grants
@@ -285,13 +296,19 @@ title: "NIH Funding Opportunities"
 * Supports development of a platform that provides a single access point for querying data across the different tissues and conditions studied in the participating AMP projects.
 * Deadline: April 3, 2024 (LOI - not required), May 15, 2024 (Proposal)
 * Award: Negotiations to begin around June 12, 2024.
-* Informational Webinar on March 18, 2024, 1:00-2:00pm MT. [Learn more and register here.](https://commonfund.nih.gov/venture/sysbio/faqs){target="_blank"}
+<!-- * Informational Webinar on March 18, 2024, 1:00-2:00pm MT. [Learn more and register here.](https://commonfund.nih.gov/venture/sysbio/faqs){target="_blank"} -->
 
 
 ### [Diagnostic Centers of Excellence](https://grants.nih.gov/grants/guide/pa-files/PAR-23-171.html){target="_blank"}
 * Supports access to resources provided by the Data Management Coordinating Center for Diagnostic Centers of Excellence (RFA-NS-22-051), as part of the next phase of the Undiagnosed Diseases Network. 
 * Deadline: April 15, 2024 (LOI), May 15, 2024 (Proposal); May 15, 2025
 * Award: X01, access to data resource for up to three to five years
+
+### [Advancing Health Research through Ethical, Multimodal AI](https://datascience.nih.gov/sites/default/files/MAI-Solicitation-outline.pdf){target="_blank"}
+* Supports ethically focused and data-driven multimodal AI approaches to more closely model, interpret, and predict complex biological, behavioural, and health systems and enhance our understanding of health and the ability to detect and treat human diseases. 
+* Deadline: April 29, 2024 (LOI - optional), May 16, 2024 (Proposal)
+* Award: OTA, $1-2M for durations of two years
+* Informational Webinar on April 19, 2024 at 12pm MT, more information can be found [here](https://datascience.nih.gov/artificial-intelligence/MultimodalAI){target="_blank"}!
 
 ### [NHLBI TOPMed: Omics Phenotypes of Heart, Lung, and Blood Disorders](https://grants.nih.gov/grants/guide/pa-files/PAR-22-194.html){target="_blank"}
 * Supports use of NHLBI-funded TransOmics for Precision Medicine (TOPMed) program to generate a large volume of integrated genetic and multi-omics data to facilitate discovery of the molecular mechanisms of Heart, Lung, Blood, and Sleep (HLBS) disorders. 
@@ -313,6 +330,7 @@ title: "NIH Funding Opportunities"
 * [IDEA2Health: Innovative Data Evaluation and Analysis to Health](https://grants.nih.gov/grants/guide/notice-files/NOT-HL-22-001.html){target="_blank"} expires January 8, 2025.
 * [Validation of Digital Health and Artificial Intelligence/Machine Learning Tools for Improved Assessment in Biomedical and Behavioral Research](https://grants.nih.gov/grants/guide/notice-files/NOT-CA-24-031.html){target="_blank"} expires July 6, 2025.
 * [Advance Data Science Approaches Through Secondary Data Analysis to Reveal Scientific Insights of COVID-19 Testing Technologies (R21)](https://grants.nih.gov/grants/guide/notice-files/NOT-OD-24-026.html){target="_blank"}, expires July 16, 2024.
+* [Competitive Revision Supplements to Existing T32 Programs to Include Institutional Research Training in Data Science for Infectious and Immune Mediated Diseases](https://grants.nih.gov/grants/guide/notice-files/NOT-AI-24-012.html){target="_blank"}, expired January 8, 2025.
 * [Leveraging Data Science to Bring Actionable Insights for Substance Use Prevention and Treatment](https://grants.nih.gov/grants/guide/notice-files/NOT-DA-23-006.html){target="_blank"} expires September 8, 2025.
 * [Development and Implementation of Clinical Informatics Tools to Enhance Patients Use of Genomic Information](https://grants.nih.gov/grants/guide/notice-files/NOT-HG-22-011.html){target="_blank"} expires September 25, 2025.
 * [HEAL Initiative: Leveraging Inpatient Medical or Surgical Hospitalizations to Improve Outcomes for People Who Use Drugs](https://grants.nih.gov/grants/guide/notice-files/NOT-DA-24-011.html){target="_blank"} expires November 13, 2025.
