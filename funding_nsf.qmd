@@ -60,7 +60,7 @@ format: html
 
 ### [Responsible Design, Development, and Deployment of Technologies (ReDDDoT)](https://new.nsf.gov/funding/opportunities/responsible-design-development-deployment){target="_blank"}
 * Supports multidisciplinary, multi-sector teams that examine and demonstrate the principles, methodologies, implementations, and impacts associated with responsible design, development, and deployment of technologies in practice, focusing especially on the key technologies specified in Section 10387 of the [CHIPS and Science Act of 2022](https://www.congress.gov/bill/117th-congress/house-bill/4346/text){target="_blank"}. There are three priority areas: artificial intelligence, biotechnology, or natural and anthropogenic disaster prevention or mitigation. 
-* Deadline: April 8, 2024 (Phase 1: Planning Grants, Translational Research Coordination Networks, Workshops); April 22, 204 (Phase 2: Project Proposals)
+* Deadline: April 22, 2024 (Phase 2: Project Proposals) <!--April 8, 2024 (Phase 1: Planning Grants, Translational Research Coordination Networks, Workshops);-->
 * Award: $300K for durations up to 2 years for Planning Grants; $500K for durations of 3-4 years for Translational Research Coordination Networks; $75K for Workshops; $750K-$1.5M for durations of 3 years for Project Proposals
 
 
@@ -107,23 +107,6 @@ format: html
 
 
 ## Upcoming Recurring Proposal Deadlines
-
-### [NSF National Quantum Virtual Laboratory (NQVL) Quantum Science and Technology Demonstrations (QSTD): I. **Pilot Phase**](https://www.nsf.gov/pubs/2023/nsf23604/nsf23604.htm){target="_blank"}
-* Supports the demonstration of practical quantum advantage, the actual application of the tools of Quantum Information Science and Engineering (QISE) to problems that will enable solutions that classical approaches can only solve much less efficiently or not at all.
-* Deadline: April 9, 2024 (LOI), June 11, 2024 (Proposal)
-* Award: $1M for durations of one year
-<!--* [NSF NQVL Webinar on August 4, 2023](https://new.nsf.gov/events/nqvl-webinar/2023-08-04) at 11am MT.--> 
-
-### [Algorithms for Threat Detection (ATD)](https://new.nsf.gov/funding/opportunities/algorithms-threat-detection-atd){target="_blank"}
-* Supports research on new ways to use spatiotemporal data to model human dynamics, with an emphasis on identifying and forecasting unusual events and future threats.
-* Deadline: April 10, 2024; February 19, 2025; annually on the third Wednesday in February 
-* Award: $150-300K
-
-### [Future Manufacturing (FM)](https://new.nsf.gov/funding/opportunities/future-manufacturing-fm){target="_blank"}
-* Supports fundamental research, education, and training of a future workforce to overcome scientific, technological, educational, economic, and social barriers in order to catalyze new manufacturing capabilities that do not exist today. Focuses on cybermanufacturing, eco-manufacturing and biomanufacturing.
-* Deadline: April 11, 2024; January 13, 2025
-* Award: $3M for up to four years (research grants); $500K for up to two years (seed)
-
 ### [ACED: Accelerating Computing-Enabled Scientific Discovery](https://new.nsf.gov/funding/opportunities/aced-accelerating-computing-enabled-scientific){target="_blank"}
 * Supports harnessing computing to accelerate scientific discovery, while driving new computing advancements. The intent is to catalyze advancements on both sides of a virtuous cycle that: (a) benefit scientific disciplines through computational technologies and (b) foster novel computing technologies that will enable advances beyond the specific use cases or domains originally targeted. 
 * Deadline: May 13, 2024 (Emerging Ideas Proposals Only); recurring January 14 annually thereafter
@@ -228,6 +211,11 @@ format: html
 * Deadline: *Sustained Resources* December 6, 2024, *Innovative Resources* December 5, 2025
 * Award: *Innovative Resources* $200K/year for durations up to three years; *Sustained Resources* budget must align with the project scope, for durations of three to four years.
 
+### [Future Manufacturing (FM)](https://new.nsf.gov/funding/opportunities/future-manufacturing-fm){target="_blank"}
+* Supports fundamental research, education, and training of a future workforce to overcome scientific, technological, educational, economic, and social barriers in order to catalyze new manufacturing capabilities that do not exist today. Focuses on cybermanufacturing, eco-manufacturing and biomanufacturing.
+* Deadline:  January 13, 2025
+* Award: $3M for up to four years (research grants); $500K for up to two years (seed)
+
 ### [Training-based Workforce Development for Advanced Cyberinfrastructure (CyberTraining)](https://new.nsf.gov/funding/opportunities/training-based-workforce-development-advanced){target="_blank"}
 *   *Pilot* projects are exploratory activities that may lead to *Implementation* projects.
 *   *Implementation* projects make CI training and educational activities or curriculum/instructional materials broadly accessible to a significant portion of a community for one or more disciplines.
@@ -257,6 +245,11 @@ format: html
 * Supports research that incorporates research on social and behavioral processes in mathematical epidemiological models. The program provides support for projects that involve balanced participation from the mathematical sciences and from the social, behavioral, and economic sciences.
 * Deadline: February 1-14, 2025; recurring annually
 * Award: $1M for durations of 3-4 years
+
+### [Algorithms for Threat Detection (ATD)](https://new.nsf.gov/funding/opportunities/algorithms-threat-detection-atd){target="_blank"}
+* Supports research on new ways to use spatiotemporal data to model human dynamics, with an emphasis on identifying and forecasting unusual events and future threats.
+* Deadline: February 19, 2025; annually on the third Wednesday in February 
+* Award: $150-300K
 
 ### [Enabling Discovery through GEnomics (EDGE)](https://new.nsf.gov/funding/opportunities/enabling-discovery-through-genomics-edge){target="_blank"}
 * Supports research to advance understanding of comparative and functional genomics and the development of innovative tools, technologies, resources, and infrastructure that advance biological research focused on the identification of the causal mechanisms connecting genes and phenotypes.
@@ -318,4 +311,4 @@ format: html
 * [Fairness, Ethics, Accountability, and Transparency: Enabling Breakthrough Research to Expand Inclusivity in Computer and Information Science and Engineering Research](https://www.nsf.gov/pubs/2019/nsf19016/nsf19016.jsp){target="_blank"} <!-- Nov 2, 2018 -->
 
 
-Updated April 4, 2024.
+Updated April 19, 2024.

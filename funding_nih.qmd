@@ -76,6 +76,7 @@ title: "NIH Funding Opportunities"
 * Supports established biomedical data repositories and knowledgebases as distinct and separate resources that have demonstrated impact and have potential for continued benefit to the community served. 
 * Deadline: July 27, 2024 (LOI), September 25, 2024 (Proposal) and November 26, 2024 (LOI), January 25, 2025 (Proposal); annually through January 2026
 * Award: U24, budget must align with the project scope for durations up to 5 years
+* Pre-Application Webinar on June 26, 2024, 9-10am MT, register in advance [here](https://scgcorp.zoom.us/webinar/register/WN_uFo6N3LoQPCtcqtrWO9LEw#/registration){target="_blank"}.
 
 ### [Collaborative Opportunities for Multidisciplinary, Bold, and Innovative Neuroscience (COMBINE)](https://grants.nih.gov/grants/guide/rfa-files/RFA-NS-23-027.html){target="_blank"}
 * Supports integrated efforts of three to six PDs/PIs to pursue a bold, impactful, and challenging goal with defined 5-year outcomes within the scope of this program and the NINDS mission. This defined research goal must only be achievable by an interdisciplinary team approach involving innovative combination of distinct disciplines and/or intellectual viewpoints, synergy in expertise and approaches, and well-managed team interactions. 
@@ -284,6 +285,11 @@ title: "NIH Funding Opportunities"
 * Deadline: October 28, 2024; recurring in February and October through 2025
 * Award: R21, $75K/year (direct) for durations up to two years
 
+### [Education Activities for Responsible Analyses of Complex, Large-Scale Data](https://grants.nih.gov/grants/guide/rfa-files/RFA-DA-25-039.html){target="_blank"}
+* Supports training and educational activities for responsible analyses of complex large-scale data involving brain, behavioral, genomic, and socioenvironmental data that complement and/or enhance the training of a workforce to meet the nation's biomedical, behavioral, and clinical research needs.
+* Deadline: November 18, 2024 (LOI), December 18, 2024 (Proposal)
+* Award: R25, $300K/year (direct) for durations up to three years
+
 ### [Research on Bioethical Issues Related to Bionic and Robotic Device Development and Translation](https://grants.nih.gov/grants/guide/rfa-files/RFA-EB-23-005.html){target="_blank"}
 * Supports greater integration of bioethics within research and develop a robust bioethics research evidentiary base to inform policy and program decision-making.
 * Deadline: January 21, 2025
@@ -299,11 +305,6 @@ title: "NIH Funding Opportunities"
 <!-- * Informational Webinar on March 18, 2024, 1:00-2:00pm MT. [Learn more and register here.](https://commonfund.nih.gov/venture/sysbio/faqs){target="_blank"} -->
 
 
-### [Diagnostic Centers of Excellence](https://grants.nih.gov/grants/guide/pa-files/PAR-23-171.html){target="_blank"}
-* Supports access to resources provided by the Data Management Coordinating Center for Diagnostic Centers of Excellence (RFA-NS-22-051), as part of the next phase of the Undiagnosed Diseases Network. 
-* Deadline: April 15, 2024 (LOI), May 15, 2024 (Proposal); May 15, 2025
-* Award: X01, access to data resource for up to three to five years
-
 ### [Advancing Health Research through Ethical, Multimodal AI](https://datascience.nih.gov/sites/default/files/MAI-Solicitation-outline.pdf){target="_blank"}
 * Supports ethically focused and data-driven multimodal AI approaches to more closely model, interpret, and predict complex biological, behavioural, and health systems and enhance our understanding of health and the ability to detect and treat human diseases. 
 * Deadline: April 29, 2024 (LOI - optional), May 16, 2024 (Proposal)
@@ -315,12 +316,18 @@ title: "NIH Funding Opportunities"
 * Deadline: September 17, 2024 (LOI), October 17, 2024 (Proposal)
 * Award: X01, access to data resource for up to three years
 
+### [Diagnostic Centers of Excellence](https://grants.nih.gov/grants/guide/pa-files/PAR-23-171.html){target="_blank"}
+* Supports access to resources provided by the Data Management Coordinating Center for Diagnostic Centers of Excellence (RFA-NS-22-051), as part of the next phase of the Undiagnosed Diseases Network. 
+* Deadline: April 15, 2025 (LOI), May 15, 2025 (Proposal)
+* Award: X01, access to data resource for up to three to five years
+
+
+
 
 ## Notices of Special Interest and Requests for Information
 <!-- * [](https://grants.nih.gov/grants/guide/notice-files/NOT-CA-24-002.html){target="_blank"} expires -->
 <!--* [](){target="_blank"} -->
 
-* [Notice of The Common Fund’s Participation in the Ruth L. Kirschstein National Research Service Award (NRSA) Individual Postdoctoral Fellowship (Parent F32) Program](https://grants.nih.gov/grants/guide/notice-files/NOT-RM-24-006.html){target="_blank"} applications due April 8, 2024 and future deadlines per the [F32 RFA](https://grants.nih.gov/grants/guide/pa-files/PA-23-262.html){target="_blank"}. 
 * [**Request for Information** Proposed Use of Common Data Elements (CDEs) for NIH-Funded Clinical Research and Trials](https://datascience.nih.gov/cde-rfi){target="_blank"} expires April 20, 2024.
 * [Harnessing Big Data to Halt HIV](https://grants.nih.gov/grants/guide/notice-files/NOT-AI-21-054.html){target="_blank"} expires May 8, 2024.
 * [Maximizing the Scientific Value of Secondary Analyses of Existing Cohorts and Datasets in Order to Address Research Gaps and Foster Additional Opportunities in Aging Research](https://grants.nih.gov/grants/guide/notice-files/NOT-AG-23-020.html){target="_blank"} expires May 8, 2024.
@@ -345,4 +352,4 @@ title: "NIH Funding Opportunities"
 
 * [NIH Office for Data Science Strategy](https://datascience.nih.gov/research-and-training-funding){target="_blank"} list of funding opportunities.
 
-Updated April 4, 2024.
+Updated April 19, 2024.

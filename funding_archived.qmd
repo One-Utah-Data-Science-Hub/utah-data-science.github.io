@@ -317,6 +317,7 @@ format: html
 	+ Award: $500K-1M for durations up to two years
 
 ## Notices of Special Interest and Requests for Information
+* [Notice of The Common Fund’s Participation in the Ruth L. Kirschstein National Research Service Award (NRSA) Individual Postdoctoral Fellowship (Parent F32) Program](https://grants.nih.gov/grants/guide/notice-files/NOT-RM-24-006.html){target="_blank"} applications due April 8, 2024 and future deadlines per the [F32 RFA](https://grants.nih.gov/grants/guide/pa-files/PA-23-262.html){target="_blank"}. 
 * [**Administrative Supplements** to Enhance Institutional Data Science Capacity](https://grants.nih.gov/grants/guide/notice-files/NOT-OD-23-123.html){target="_blank"} in institutions serving medically underserved communities and underrepresented students due June 19, 2023 or April 1, 2024; expires April 2, 2024.
 * [Administrative Supplements to Support the Development of Digital Twins in Radiation Oncology (DTRO)](https://grants.nih.gov/grants/guide/notice-files/NOT-CA-24-015.html){target="_blank"} expires March 22, 2024.
 * [**Request for Information** Inviting Comments on the National Institutes of Health (NIH) Strategic Plan for Data Science 2023-2028](https://grants.nih.gov/grants/guide/notice-files/NOT-OD-24-037.html) due by March 15, 2024. The updated Strategic Plan will accomplish five overarching goals:
@@ -343,6 +344,13 @@ format: html
 
 
 # NSF Funding Opportunities
+
+### [NSF National Quantum Virtual Laboratory (NQVL) Quantum Science and Technology Demonstrations (QSTD): I. **Pilot Phase**](https://www.nsf.gov/pubs/2023/nsf23604/nsf23604.htm){target="_blank"}
+* Supports the demonstration of practical quantum advantage, the actual application of the tools of Quantum Information Science and Engineering (QISE) to problems that will enable solutions that classical approaches can only solve much less efficiently or not at all.
+* Deadline: April 9, 2024 (LOI), June 11, 2024 (Proposal)
+* Award: $1M for durations of one year
+<!--* [NSF NQVL Webinar on August 4, 2023](https://new.nsf.gov/events/nqvl-webinar/2023-08-04) at 11am MT.--> 
+
 ### [Smart and Connected Communities (S&CC)](https://new.nsf.gov/funding/opportunities/smart-connected-communities-scc){target="_blank"}
 * Supports use-inspired research that addresses communities' social, economic and environmental challenges. Projects must work with community stakeholders on pilots that integrate intelligent technologies with the natural and built environments.
   + *S&CC Planning Grants (SCC-PG)* $150K for durations of one year
@@ -501,6 +509,14 @@ format: html
 
 
 # Foundation Funding Opportunities
+### [2024 Prostate Cancer Foundation Challenge Awards](https://ssti.us2.list-manage.com/track/click?u=3b83ca94cd43c0588e1cc5785&id=50a379bbe4&e=c34b361f8d){target="_blank"}
+* Supports high-risk projects investigating metastatic, lethal prostate cancer. Research proposals in the following topic areas are preferred:
+  + new systemic precision treatments for metastatic, lethal prostate cancer;
+  + determinants of survivorship;
+  + developing or validating biomarkers that guide therapy in patients or further our understanding of the mechanisms by which therapies work;
+  + new data science technologies for analysis of genomic information to advance precision medicine
+* Deadline: April 8, 2024 (LOI/white paper); June 17, 2024 (proposal)
+* Award: Up to $1M
 
 ### [Predictors of Vaccine Efficacy: Identifying Correlates of Protection](https://wellcome.org/grant-funding/schemes/correlates-protection-for-vaccine-development){target="_blank"}
 
@@ -680,6 +696,11 @@ format: html
 
 
 # Governmental Funding Opportunities
+### [Department of Homeland Security: Synthetic Data Generator](https://sam.gov/opp/bbdbcc1f76f6464a86f9a99af6cd2ca9/view){target="_blank"}
+* Supports synthetic generation capabilities for both structured and unstructured data that currently have or can be adapted to clearly separate the way the solution seeks to understand the shape and patterns of real data from the mechanism it uses to generate the synthetic data.
+* Deadline: April 10, 2024
+* Award: $200K for Phase 1
+
 ### [CDC: Epidemiologic and Economic Modeling for HIV, Viral Hepatitis, STD, and TB](https://www.grants.gov/search-results-detail/349740){target="_blank"}
 * Support modeling of disease dynamics and advanced data analytics to inform and improve HIV, viral hepatitis, STC, TB, and adolescent health interventions and programs.
 * Deadline: March 29, 2024 (White Paper), April 8, 2024 (Proposal)
@@ -943,6 +964,9 @@ format: html
 * Deadline: May 8, 2023
 
 ## Challenges, Awards, and Other Opportunities
+* [ARPA-H Investor Catalyst Hub: Medical Imaging Data Marketplace (MIDM) Network Survey](https://investorcatalysthub.org/medical-imaging/){target="_blank"} aims to collect feedback about specific needs and challenges that medical imaging software and product developers, users of AI and ML medical imaging products, and private and public organizations face with utilizing, managing, and producing data for product development and evaluation. Responses due April 16, 2024. Next information scheduled for Monday, April 1 at 11am MT. [Register to attend.](https://bit.ly/3wVj7EA){target="_blank"}
+* [AAMAS Maritime Capture the Flag Competition](https://www.challenge.gov/?challenge=maritime-capture-the-flag){target="_blank"} invites submissions of AI agents that can autonomously play a multi-player Capture-the-Flag game within a maritime, multi-agent, real-time game environment. Phase 1 due April 5, 2024. 
+
 * [Advanced Computing Allocations to Advance AI Research and Education](https://nairrpilot.org/allocations){target="_blank"} As part of the launch of the [NAIRR Pilot](https://nairrpilot.org){target="_blank"}, the National Science Foundation (NSF) and the Department of Energy (DOE) are collaborating to create an early opportunity for the research community to request access to a set of advanced computing resources for projects related to the focus of this call, which will be open from January 24 to March 1, 2024.
 
 - [NIH AI Data Readiness Challenge for the NCI Cancer Research Data Commons (CRDC)](https://www.challenge.gov/?challenge=ai-data-readiness-nci-challenge){target="_blank"} Assess the CRDC AI Data Readiness for a use case and build an AI/ML model and win up to $20K:
