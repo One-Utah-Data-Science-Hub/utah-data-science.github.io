@@ -38,11 +38,6 @@ editor: visual
 * Deadline: June 9, 2024 (Two-page proposal)
 * Award: $150K
 
-### [Pew Biomedical Scholars](https://www.pewtrusts.org/en/projects/pew-biomedical-scholars/program-details){target="_blank"}
-* Supports young investigators of outstanding promise in science relevant to the advancement of human health. Strong proposals will incorporate particularly creative and pioneering approaches to basic, translational, and applied biomedical research. Candidates whose work is based on biomedical principles but who bring in concepts and theories from more diverse fields are encouraged to apply. 
-* Deadline: April 14, 2024 ([Internal LOI](https://utah.infoready4.com/#competitionDetail/1932490){target="_blank"}), September 5, 2024 (Full Application)
-* Award: $300K over four years
-
 <!--## Industry Funding Opportunities-->
 
 
