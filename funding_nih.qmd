@@ -7,11 +7,6 @@ title: "NIH Funding Opportunities"
 * Award: , $ for durations up to  years -->
 ## Cooperative Agreement (U) Grants
 
-### [ClinGen Genomic Curation Expert Panels](https://grants.nih.gov/grants/guide/pa-files/PAR-23-199.html){target="_blank"}
-* Supports the establishment of Expert Panels that will select genes and genomic variants associated with diseases or conditions of high priority to participating NIH Institutes and Centers (ICs) and systematically determine their clinical significance for diagnosis and treatment of these diseases or conditions. 
-* Deadline: April 25, 2024 (LOI), May 25, 2024 (Proposal), recurring on May 25, 2025
-* Award: U24, $220K/year (direct) for durations up to three years
-
 ### [BRAIN Initiative: Development of Novel Tools to Probe Cell-Specific and Circuit-Specific Processes in Human and Non-Human Primate Brain](https://grants.nih.gov/grants/guide/rfa-files/RFA-MH-23-295.html){target="_blank"}
 * Supports the development and validation of novel tools to facilitate the detailed analysis and manipulation of complex circuits in large brains. Critical advances in the treatment of brain disorders in human populations are hindered by our lack of ability to monitor and manipulate circuitry in safe, minimally-invasive ways. 
 * Deadline: May 8, 2024 (LOI), June 7, 2024 (Proposal)
@@ -87,6 +82,11 @@ title: "NIH Funding Opportunities"
 * Supports creation of a pipeline to accelerate the development and early validation of predictive tools and/or biomarkers to inform individual-level treatment selection among two or more existing therapeutics for depression.
 * Deadline: September 18, 2024 (LOI), October 18, 2024 (Full Proposal)
 * Award: UG3/UH3; $500K/year (direct) for one to two years (UG3, phase 1) and $1.5M/year (direct) for five years (UH3, phase 2)
+
+### [ClinGen Genomic Curation Expert Panels](https://grants.nih.gov/grants/guide/pa-files/PAR-23-199.html){target="_blank"}
+* Supports the establishment of Expert Panels that will select genes and genomic variants associated with diseases or conditions of high priority to participating NIH Institutes and Centers (ICs) and systematically determine their clinical significance for diagnosis and treatment of these diseases or conditions. 
+* Deadline: April 25, 2025 (LOI), May 25, 2025 (Proposal)
+* Award: U24, $220K/year (direct) for durations up to three years
 
 
 
@@ -300,7 +300,7 @@ title: "NIH Funding Opportunities"
 ## Other Activities
 ### [Systems Biology Data Platform (SysBio) Leveraging the Accelerating Medicines Partnership (AMP)](https://commonfund.nih.gov/sites/default/files/Research-Opportunity-Announcement-OTA-24-008-SysBio-updated-20240311_508.pdf){target="_blank"}
 * Supports development of a platform that provides a single access point for querying data across the different tissues and conditions studied in the participating AMP projects.
-* Deadline: April 3, 2024 (LOI - not required), May 15, 2024 (Proposal)
+* Deadline: May 15, 2024 (Proposal)
 * Award: Negotiations to begin around June 12, 2024.
 <!-- * Informational Webinar on March 18, 2024, 1:00-2:00pm MT. [Learn more and register here.](https://commonfund.nih.gov/venture/sysbio/faqs){target="_blank"} -->
 
@@ -328,9 +328,10 @@ title: "NIH Funding Opportunities"
 <!-- * [](https://grants.nih.gov/grants/guide/notice-files/NOT-CA-24-002.html){target="_blank"} expires -->
 <!--* [](){target="_blank"} -->
 
-* [**Request for Information** Proposed Use of Common Data Elements (CDEs) for NIH-Funded Clinical Research and Trials](https://datascience.nih.gov/cde-rfi){target="_blank"} expires April 20, 2024.
+* [**Request for Information** Proposed Use of Common Data Elements (CDEs) for NIH-Funded Clinical Research and Trials](https://datascience.nih.gov/cde-rfi){target="_blank"} expires May 7, 2024.
 * [Harnessing Big Data to Halt HIV](https://grants.nih.gov/grants/guide/notice-files/NOT-AI-21-054.html){target="_blank"} expires May 8, 2024.
 * [Maximizing the Scientific Value of Secondary Analyses of Existing Cohorts and Datasets in Order to Address Research Gaps and Foster Additional Opportunities in Aging Research](https://grants.nih.gov/grants/guide/notice-files/NOT-AG-23-020.html){target="_blank"} expires May 8, 2024.
+* [**Request for Information** Data Management, Sharing, and Secondary Data Use Challenges and Opportunities](https://grants.nih.gov/grants/guide/notice-files/NOT-AG-24-013.html){target="_blank"}, expires May 31, 2024.
 * [Advance Data Science Approaches Through Secondary Data Analysis to Reveal Scientific Insights of COVID-19 Testing Technologies (R21)](https://grants.nih.gov/grants/guide/notice-files/NOT-OD-23-040.html){target="_blank"} extended to July 16, 2024.
 * [Clinical and Translational Science Award (CTSA) Program: Collaborative and Innovative Acceleration Award (UG3/UH3) (Clinical Trial Optional) for Advancing Recruitment through Trial Innovation Network (AR-TIN)](https://grants.nih.gov/grants/guide/notice-files/NOT-TR-23-026.html){target="_blank"} expires October 18, 2024.
 * [High-Priority Interest to Enhance Data Science Research Training in Addiction Research](https://grants.nih.gov/grants/guide/notice-files/NOT-DA-21-013.html){target="_blank"} expires December 9, 2024.
@@ -352,4 +353,4 @@ title: "NIH Funding Opportunities"
 
 * [NIH Office for Data Science Strategy](https://datascience.nih.gov/research-and-training-funding){target="_blank"} list of funding opportunities.
 
-Updated April 19, 2024.
+Updated April 24, 2024.

@@ -58,22 +58,6 @@ format: html
 
 ## Upcoming Proposal Deadlines
 
-### [Responsible Design, Development, and Deployment of Technologies (ReDDDoT)](https://new.nsf.gov/funding/opportunities/responsible-design-development-deployment){target="_blank"}
-* Supports multidisciplinary, multi-sector teams that examine and demonstrate the principles, methodologies, implementations, and impacts associated with responsible design, development, and deployment of technologies in practice, focusing especially on the key technologies specified in Section 10387 of the [CHIPS and Science Act of 2022](https://www.congress.gov/bill/117th-congress/house-bill/4346/text){target="_blank"}. There are three priority areas: artificial intelligence, biotechnology, or natural and anthropogenic disaster prevention or mitigation. 
-* Deadline: April 22, 2024 (Phase 2: Project Proposals) <!--April 8, 2024 (Phase 1: Planning Grants, Translational Research Coordination Networks, Workshops);-->
-* Award: $300K for durations up to 2 years for Planning Grants; $500K for durations of 3-4 years for Translational Research Coordination Networks; $75K for Workshops; $750K-$1.5M for durations of 3 years for Project Proposals
-
-
-### [Campus Cyberinfrastructure (CC\*)](https://new.nsf.gov/funding/opportunities/campus-cyberinfrastructure-cc){target="_blank"}
-* Supports coordinated campus-level networking and cyberinfrastructure improvements for science applications and distributed research projects.
-  + Area (1) Data Driven Networking Infrastructure,
-  + Area (2) Computing and the Computing Continuum,
-  + Area (3) Network Integration and Applied Innovation,
-  + Area (4) Data Storage and Digital Archives, and
-  + Area (5) Strategy.
-* Deadline: April 22, 2024; October 15, 2024
-* Award: \$100K - \$1.4M depending on area for durations up to two years
-
 ### [Sustainable Regional Systems Research Networks (SRS RNs)](https://new.nsf.gov/funding/opportunities/sustainable-regional-systems-research-networks-srs){target="_blank"}
 * Supports multi-organizational teams to collaboratively produce convergent research, education and outreach that addresses grand challenges in sustainable regional systems.
 * Deadline: May 15, 2024
@@ -188,6 +172,17 @@ format: html
 * Deadline: October 3, 2024; October 3, 2025
 * Award: $300K/year (total) for durations up to four years
 <!--* [DELPHI and DHI Townhall on Aug 31 at 10:30 am](https://utah.zoom.us/j/93613638947?pwd=MFB0RHRoemR2UUpUcVRXbGVmajY0dz09){target="_blank"}, [NIH/NSF Webinar on Sept 25 at 1pm](https://nsf.zoomgov.com/webinar/register/WN_ctCzc3alRQyXZAX0rS1Fww){target="_blank"}-->
+
+
+### [Campus Cyberinfrastructure (CC\*)](https://new.nsf.gov/funding/opportunities/campus-cyberinfrastructure-cc){target="_blank"}
+* Supports coordinated campus-level networking and cyberinfrastructure improvements for science applications and distributed research projects.
+  + Area (1) Data Driven Networking Infrastructure,
+  + Area (2) Computing and the Computing Continuum,
+  + Area (3) Network Integration and Applied Innovation,
+  + Area (4) Data Storage and Digital Archives, and
+  + Area (5) Strategy.
+* Deadline: October 15, 2024
+* Award: \$100K - \$1.4M depending on area for durations up to two years
 
 ### [Research on Innovative Technologies for Enhanced Learning (RITEL)](https://new.nsf.gov/funding/opportunities/research-innovative-technologies-enhanced-learning){target="_blank"}
 * Supports early-stage research in emerging technologies such as AI, robotics and immersive or augmenting technologies for teaching and learning that respond to pressing needs in real-world educational environments.
@@ -311,4 +306,4 @@ format: html
 * [Fairness, Ethics, Accountability, and Transparency: Enabling Breakthrough Research to Expand Inclusivity in Computer and Information Science and Engineering Research](https://www.nsf.gov/pubs/2019/nsf19016/nsf19016.jsp){target="_blank"} <!-- Nov 2, 2018 -->
 
 
-Updated April 19, 2024.
+Updated April 24, 2024.

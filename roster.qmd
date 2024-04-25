@@ -151,6 +151,7 @@ tbl-colwidths: [150,400,500]
 |![Vineet Pandey](images/Vineet Pandey.jpg){.headshot}|**Vineet Pandey**<br>Assistant Professor, Kahlert School of Computing<br>[{{< fa globe >}}](https://vineetp13.github.io){target="_blank"} |Human-Computer Interaction, Digital Health, Citizen Science, Design|
 |![Valerio Pascucci](images/Valerio Pascucci.jpg){.headshot}|**Valerio Pascucci**<br>John R. Parks Endowed Chair, University of Utah<br>Professor, Kahlert School of Computing<br>Director, Center for Extreme Data Management Analysis and Visualization <br>DOE Laboratory Fellow<br>[{{< fa globe >}}](http://cedmav.org/){target="_blank"} ||
 |![Jacob Pettit](images/Jacob Pettit.jpg){.headshot}|**Jacob Pettit**<br>Data Science Manager, Utah Health Hospitals and Clinics<br>[{{< fa brands linkedin >}}](https://www.linkedin.com/in/jacob-pettit-a8186441/){target="_blank"} ||
+|<i class='fa-regular fa-user fa-9x'></i>|**Megan Pierce**<br>Fellow, Internal Medicine (Pulmonary)<br>||
 |![Zhaoxia Pu](images/Zhaoxia Pu.jpg){.headshot}|**Zhaoxia Pu**<br>Professor, Atmospheric Sciences<br>Adjunct Professor,  Kahlert School of Computing<br>[{{< fa globe >}}](https://home.chpc.utah.edu/~pu){target="_blank"} |Data Mining, Data Management, High-Dimensional Data, Machine Learning, Statistical Analysis, Visualization, Computational Modeling, Algorithms and Software, Data Science Education, HPC and Parallel Computing, Optimization, Numerical Modeling, Uncertainty Quantification, Atmospheric Sciences, Climate Forecasting, Meteorology, Physics, Water, Disaster Management, Decision Intelligence, Communication, Outreach and Social Impact, Diversity, Equity, and Inclusion, Information Systems|
 |![Yongzhi Qu](images/Yongzhi Qu.jpg){.headshot}|**Yongzhi Qu**<br>Assistant Processor, Mechanical Engineering - System Engineering<br>[{{< fa brands github >}}](https://github.com/yongzhiqu){target="_blank"} [{{< fa brands linkedin >}}](https://www.linkedin.com/in/yongzhi-qu-66a6572b/){target="_blank"} [{{< fa globe >}}](https://scholar.google.com/citations?hl=en&user=SbJ3oQ8AAAAJ&view_op=list_works&sortby=pubdate){target="_blank"} |Machine Learning, Neural Networks, Data Science Education, Machine Learning for Physics Rules, Learning Mathematical Functions, Health Outcome Prediction, Diagnostic Medical Imaging, Disease Diagnostics, Physics, Energy, Financial Forecasting, Supply Chain Logistics, Construction and Maintenance, Robotics|
 |<i class='fa-regular fa-user fa-9x'></i>|**Thomas Reichler**<br>Professor, Atmospheric Sciences<br>[{{< fa globe >}}](https://www.inscc.utah.edu/~reichler/){target="_blank"} |Statistical Analysis, Visualization, Computational Modeling, Atmospheric Sciences, Climate Forecasting, Meteorology, Water|
@@ -184,4 +185,5 @@ tbl-colwidths: [150,400,500]
 
 
 
-Updated on March 8, 2024. 
+
+Updated on April 24, 2024. 

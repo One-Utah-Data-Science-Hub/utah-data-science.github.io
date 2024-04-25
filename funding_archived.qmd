@@ -345,6 +345,11 @@ format: html
 
 # NSF Funding Opportunities
 
+### [Responsible Design, Development, and Deployment of Technologies (ReDDDoT)](https://new.nsf.gov/funding/opportunities/responsible-design-development-deployment){target="_blank"}
+* Supports multidisciplinary, multi-sector teams that examine and demonstrate the principles, methodologies, implementations, and impacts associated with responsible design, development, and deployment of technologies in practice, focusing especially on the key technologies specified in Section 10387 of the [CHIPS and Science Act of 2022](https://www.congress.gov/bill/117th-congress/house-bill/4346/text){target="_blank"}. There are three priority areas: artificial intelligence, biotechnology, or natural and anthropogenic disaster prevention or mitigation. 
+* Deadline: April 8, 2024 (Phase 1: Planning Grants, Translational Research Coordination Networks, Workshops); April 22, 2024 (Phase 2: Project Proposals) 
+* Award: $300K for durations up to 2 years for Planning Grants; $500K for durations of 3-4 years for Translational Research Coordination Networks; $75K for Workshops; $750K-$1.5M for durations of 3 years for Project Proposals
+
 ### [NSF National Quantum Virtual Laboratory (NQVL) Quantum Science and Technology Demonstrations (QSTD): I. **Pilot Phase**](https://www.nsf.gov/pubs/2023/nsf23604/nsf23604.htm){target="_blank"}
 * Supports the demonstration of practical quantum advantage, the actual application of the tools of Quantum Information Science and Engineering (QISE) to problems that will enable solutions that classical approaches can only solve much less efficiently or not at all.
 * Deadline: April 9, 2024 (LOI), June 11, 2024 (Proposal)

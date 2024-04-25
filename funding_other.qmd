@@ -98,6 +98,21 @@ editor: visual
 * Deadline: May 29, 2024
 * Award: $1.5M
 
+### [DoD: Joint Warfighter Medical Research](https://cdmrp.health.mil/funding/jwmrp){target="_blank"}
+* Supports projects to augment and accelerate medical product development and health care solutions addressing virtual/telehealth and decision support with artificial intelligence solution to provide combat casualty care/prolonged care.
+* Deadline: June 3, 2024 (pre-application)
+* Award: $2-3.4M
+
+### [ARPA-H: Chatbot Accuracy and Reliability Evaluation (CARE) Exploration Topic](https://sam.gov/opp/8d3c07159e9f4d32ab7b179d365e6fab/view){target="_blank"}
+* Supports production of tools and technology that evaluates output with the efficiency of computational methods and the accuracy of human experts, with specific interest in development of new evaluation technologies for detecting hallucinations and other inaccuracies in medical Large Language Model (LLM) output for patient-facing applications.
+* Deadline: June 3, 2024
+* Award: Multiple awards are expected
+
+### [DARPA: Microsystems Technology Office - Embedded Microsystem Intelligence and Localized Processing Thrust](https://sam.gov/opp/6214ecd14eeb41fd8103bad223837cd3/view){target="_blank"}
+* Supports exploration of the development of sensors and systems that enable specialized computation at the tactical edge and microsystems capable of learning, moving beyond those with pre-set functions.
+* Deadline: June 15, 2024
+* Award: Multiple awards are expected
+
 ### [DARPA: Scientific Feasibility](https://www.grants.gov/search-results-detail/352745){target="_blank"}
 * Supports development of computational methods that measure the feasibility of claims in order to enable accurate assessments of scientific content. The program aims to demonstrate that the scientific feasibility of claims can be determined by using automated reasoning to decompose claims into constituent, verifiable parts.
 * Deadline: August 25, 2024
@@ -138,4 +153,4 @@ editor: visual
 
 <!--## Policy and Engagement -->
 
-Updated April 19, 2024.
+Updated April 24, 2024.
