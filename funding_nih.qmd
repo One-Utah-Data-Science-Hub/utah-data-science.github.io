@@ -260,6 +260,11 @@ title: "NIH Funding Opportunities"
 * Deadline: June 24, 2024; recurring June 24, 2025 and June 24, 2026
 * Award: R24; budget must align with the project scope, for durations of up to five years
 
+### [Using Archived Data and Specimen Collections to Advance Maternal and Pediatric HIV/AIDS Research](https://grants.nih.gov/grants/guide/rfa-files/RFA-HD-25-009.html){target="_blank"}
+* Supports utilization of archived HIV/AIDS data and biospecimen collections to generate new research questions and findings related to epidemiology, pathogenesis, treatment, prevention, clinical manifestations, and HIV-associated co-infections in maternal, pediatric, and adolescent populations.
+* Deadline: June 24, 2024 (LOI), July 24, 2024 (Proposal)
+* Award: R21; $275K (direct) over two years
+
 ### [Harnessing Artificial Intelligence and Polypharmacology to Discover Pharmacotherapeutics for Substance Use Disorders](https://grants.nih.gov/grants/guide/rfa-files/RFA-DA-25-053.html){target="_blank"}
 * Supports Small Business Technology Transfer (STTR) or Small Business Innovation Research (SBIR) grant applications proposing research projects directed towards commercialization to harness artificial intelligence (AI), including machine learning (ML), tools, and polypharmacology to identify pharmacotherapeutics with lower toxicity and higher efficacy to prevent or treat substance use disorders (SUDs).
 * Deadline: June 25, 2024 (LOI), July 25, 2024

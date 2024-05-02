@@ -96,6 +96,12 @@ format: html
 * Deadline: May 13, 2024 (Emerging Ideas Proposals Only); recurring January 14 annually thereafter
 * Award: $500K for durations of 18-24 months (Track I), $750K/year for durations up to four years (Track II)
 
+### [Improving Undergraduate STEM Education: Computing in Undergraduate Education (IUSE: CUE)](https://new.nsf.gov/funding/opportunities/improving-undergraduate-stem-education-computing){target="_blank"}
+* Supports partnerships to re-envision computing education to serve a broad group of students, in a scalable manner, with an emphasis on broadening the participation of groups who are underrepresented and underserved by traditional computing courses and careers.
+* Deadline: May 30, 2024; April 29, 2025; recurring on last Tuesday in April annually
+* Award: $1-2M for up to two years
+* [EducateAI and Computing in Undergraduate Education (IUSE:CUE) Webinar](https://new.nsf.gov/events/educateai-computing-undergraduate-education){target="_blank"} on May 9 at 12pm MT.
+
 ### [Artificial Intelligence, Formal Methods, and Mathematical Reasoning (AIMing)](https://new.nsf.gov/funding/opportunities/artificial-intelligence-formal-methods){target="_blank"}
 * Supports research at the interface of innovative computational and artificial intelligence (AI) technologies and new strategies/technologies in mathematical reasoning to automate knowledge discovery. 
 * Deadline: June 3, 2024, recurring on February 5, 2025
@@ -277,6 +283,7 @@ format: html
 
 
 ### Dear Colleague Letters
+* [Using Long-Term Research Associated Data (ULTRA-Data)](https://www.nsf.gov/pubs/2024/nsf24081/nsf24081.jsp){target="_blank"} NSF seeks to stimulate and encourage the use and reuse of data from environmental time series research to improve generalizable understanding in fields including (but not limited to) ecology, organismal evolution/adaptation, geoscience, and oceanography. <!--April 23, 2024-->
 * [Catalyzing human-centered solutions through research and innovation in science, the environment and society](https://new.nsf.gov/funding/opportunities/catalyzing-human-centered-solutions-through-0){target="_blank"} NSF invites planning proposals for interdisciplinary research to create evidence-based solutions that strengthen human resilience, security, and quality of life by addressing seemingly intractable challenges that confront society. Concept outlines should be submitted by *May 1, 2024* with invited full proposals due *July 1, 2024*. <!-- March 28, 2024 -->
 * [Innovative Use of Scientific Collections (IUSC)](https://www.nsf.gov/pubs/2024/nsf24069/nsf24069.jsp){target="_blank"} <!--March 18, 2024-->
 * [Supporting Computing & Networking Research for a National Discovery Cloud for Climate (NDC-C)](https://www.nsf.gov/pubs/2024/nsf24058/nsf24058.jsp){target="_blank"}  <!-- February 20, 2024 -->
