@@ -285,6 +285,11 @@ title: "NIH Funding Opportunities"
 * Deadline: July 27, 2024 (LOI), September 25, 2024 (Proposal) and November 26, 2024 (LOI), January 25, 2025 (Proposal); annually through January 2026 (LOI due 60 days prior)
 * Award: R24, $350K/year (direct) for durations up to 4 years
 
+### [Examining the Impact of Artificial Intelligence (AI) on Healthcare Safety](https://grants.nih.gov/grants/guide/notice-files/NOT-HS-24-014.html){target="_blank"}
+* Supports healthcare safety by determining (1) whether and how certain breakthrough uses of Artificial Intelligence (AI) systems can affect patient safety; and (2) how AI systems can be safely implemented and used. AI has the potential to improve the safety, effectiveness, efficiency, accessibility, and affordability of healthcare. 
+* Deadline: Estimated to be Fall 2024
+* Award: R18; Additional details coming wtih announcement
+
 ### [Secondary Analysis of Existing Datasets in Heart, Lung, and Blood Diseases and Sleep Disorders](https://grants.nih.gov/grants/guide/pa-files/PAR-23-036.html){target="_blank"}
 * Supports secondary analyses using existing human datasets in areas relevant to the National Heart, Lung, Blood Diseases and Sleep Disorders Institute (NHLBI) scientific mission.
 * Deadline: October 28, 2024; recurring in February and October through 2025
@@ -352,6 +357,7 @@ title: "NIH Funding Opportunities"
 * [Explainable Artificial Intelligence for Decoding and Modulating Neural Circuit Activity Linked to Behavior](https://grants.nih.gov/grants/guide/notice-files/NOT-MH-23-110.html){target="_blank"} expires February 6, 2026.
 * [Applications of Data Science in Translational Dental, Oral, and Craniofacial Research](https://grants.nih.gov/grants/guide/notice-files/NOT-DE-23-002.html){target="_blank"} expires May 8, 2026.
 * [Secondary Analyses of Existing Alcohol Research Data](https://grants.nih.gov/grants/guide/notice-files/NOT-AA-23-011.html){target="_blank"} expires September 6, 2026.
+* [Promoting Data Reuse for Health Research](https://grants.nih.gov/grants/guide/notice-files/NOT-OD-24-096.html){taret="_blank"} expires November 4, 2026. 
 
 ## Funding Opportunity Resources
 * See the [full listing of *All of Us* funding opportunities](https://allofus.nih.gov/funding-and-program-partners/funding-opportunities?utm_medium=email&utm_source=mailchimp&utm_campaign=researcher_news&utm_medium=email&utm_source=mailchimp&utm_campaign=researcher_news){target="_blank"}.

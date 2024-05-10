@@ -108,6 +108,11 @@ editor: visual
 * Deadline: June 15, 2024
 * Award: Multiple awards are expected
 
+### [DoD Prostate Cancer, Data Science Award](https://cdmrp.health.mil/funding/pcrp){target="_blank"}
+* Supports research where quantitative and analytical approaches, processes, and/or systems are developed and/or used to obtain knowledge and insight from large and/or complex sets of prostate cancer data. 
+* Deadline: August 9, 2024 (Pre-application), August 30, 2024 (Proposal)
+* Award: Up to $1M (direct)
+
 ### [DARPA: Scientific Feasibility](https://www.grants.gov/search-results-detail/352745){target="_blank"}
 * Supports development of computational methods that measure the feasibility of claims in order to enable accurate assessments of scientific content. The program aims to demonstrate that the scientific feasibility of claims can be determined by using automated reasoning to decompose claims into constituent, verifiable parts.
 * Deadline: August 25, 2024
@@ -143,6 +148,8 @@ editor: visual
     -   User Tools
     -   Stakeholder Engagement
     -   Artificial Intelligence
+
+- [RFI: Pathways to AI-enabled research: Transforming scientific work with tools and technology](https://docs.google.com/forms/d/e/1FAIpQLSezl1aE7_czp-CQRxQX098EZTgB7T-xc5uVnVl1jMdAFTO5rw/viewform){target="_blank"} The Open Science Program at Chan Zuckerberg Initiative (CZI) and Alfred P. Sloan Foundation Technology Program (Sloan) are excited to hear community input about existing applications of AI to empower scientific work that are consistent with open research practices. Submissions accepted until May 30, 2024. 
 
 -   [NIH and CGE Targeted Genome Editor Delivery (TARGETED) Challenge](https://www.challenge.gov/?challenge=targeted-challenge){target="_blank"} aims to revolutionize technology development of delivery systems for in vivo genome editing. This is a *\$6M competition* to improve in vivo delivery technologies for genome editors in two Target Areas: 1. Programmable delivery systems, and 2. Non-viral delivery across the blood-brain barrier. The National Institutes of Health (NIH), through the Common Fund’s [Somatic Cell Genome Editing (SCGE)](https://commonfund.nih.gov/editing){target="_blank"} program, is seeking Participants with ideas or early-stage solutions to join the Challenge with the chance to win up to \$1,000,000 and have their solution independently tested and validated in large animal models through NIH-supported independent evaluation relevant to preclinical assessments of investigational products. Phase 2 is open until January 10, 2025.
 

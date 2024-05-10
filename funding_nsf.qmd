@@ -180,6 +180,12 @@ format: html
 <!--* [DELPHI and DHI Townhall on Aug 31 at 10:30 am](https://utah.zoom.us/j/93613638947?pwd=MFB0RHRoemR2UUpUcVRXbGVmajY0dz09){target="_blank"}, [NIH/NSF Webinar on Sept 25 at 1pm](https://nsf.zoomgov.com/webinar/register/WN_ctCzc3alRQyXZAX0rS1Fww){target="_blank"}-->
 
 
+### [Mathematical Foundations of Artificial Intelligence (MFAI)](https://new.nsf.gov/funding/opportunities/mathematical-foundations-artificial-intelligence){target="_blank"}
+* Supports research collaborations consisting of mathematicians, statisticians, computer scientists, engineers, and social and behavioral scientists focused on the mathematical and theoretical foundations of AI. 
+* Deadline: October 10, 2024; October 10, 2025; October 10, 2026
+* Award: Approximately $500K-1.5M for durations up to three years
+
+
 ### [Campus Cyberinfrastructure (CC\*)](https://new.nsf.gov/funding/opportunities/campus-cyberinfrastructure-cc){target="_blank"}
 * Supports coordinated campus-level networking and cyberinfrastructure improvements for science applications and distributed research projects.
   + Area (1) Data Driven Networking Infrastructure,
