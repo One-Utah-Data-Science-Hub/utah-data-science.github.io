@@ -57,12 +57,6 @@ format: html
 
 
 ## Upcoming Proposal Deadlines
-
-### [Sustainable Regional Systems Research Networks (SRS RNs)](https://new.nsf.gov/funding/opportunities/sustainable-regional-systems-research-networks-srs){target="_blank"}
-* Supports multi-organizational teams to collaboratively produce convergent research, education and outreach that addresses grand challenges in sustainable regional systems.
-* Deadline: May 15, 2024
-* Award: $15M for durations up to 5 years
-
 ### [Cyber-Physical Systems (CPS)](https://new.nsf.gov/funding/opportunities/cyber-physical-systems-cps){target="_blank"}
 * Supports research on engineered systems with a seamless integration of cyber and physical components, such as computation, control, networking, learning, autonomy, security, privacy and verification, for a range of application domains.
   + *Small Projects* $500K for durations up to three years; rolling deadline through May 30, 2024
@@ -91,11 +85,6 @@ format: html
 
 
 ## Upcoming Recurring Proposal Deadlines
-### [ACED: Accelerating Computing-Enabled Scientific Discovery](https://new.nsf.gov/funding/opportunities/aced-accelerating-computing-enabled-scientific){target="_blank"}
-* Supports harnessing computing to accelerate scientific discovery, while driving new computing advancements. The intent is to catalyze advancements on both sides of a virtuous cycle that: (a) benefit scientific disciplines through computational technologies and (b) foster novel computing technologies that will enable advances beyond the specific use cases or domains originally targeted. 
-* Deadline: May 13, 2024 (Emerging Ideas Proposals Only); recurring January 14 annually thereafter
-* Award: $500K for durations of 18-24 months (Track I), $750K/year for durations up to four years (Track II)
-
 ### [Improving Undergraduate STEM Education: Computing in Undergraduate Education (IUSE: CUE)](https://new.nsf.gov/funding/opportunities/improving-undergraduate-stem-education-computing){target="_blank"}
 * Supports partnerships to re-envision computing education to serve a broad group of students, in a scalable manner, with an emphasis on broadening the participation of groups who are underrepresented and underserved by traditional computing courses and careers.
 * Deadline: May 30, 2024; April 29, 2025; recurring on last Tuesday in April annually
@@ -106,6 +95,11 @@ format: html
 * Supports research at the interface of innovative computational and artificial intelligence (AI) technologies and new strategies/technologies in mathematical reasoning to automate knowledge discovery. 
 * Deadline: June 3, 2024, recurring on February 5, 2025
 * Award: $500K-$1.2M for up to three years
+
+### [ACED: Accelerating Computing-Enabled Scientific Discovery](https://new.nsf.gov/funding/opportunities/aced-accelerating-computing-enabled-scientific){target="_blank"}
+* Supports harnessing computing to accelerate scientific discovery, while driving new computing advancements. The intent is to catalyze advancements on both sides of a virtuous cycle that: (a) benefit scientific disciplines through computational technologies and (b) foster novel computing technologies that will enable advances beyond the specific use cases or domains originally targeted. 
+* Deadline: June 17, 2024 (Emerging Ideas Proposals Only); recurring January 14 annually thereafter
+* Award: $500K for durations of 18-24 months (Track I), $750K/year for durations up to four years (Track II)
 
 ### [Expeditions in Computing (Expeditions)](https://new.nsf.gov/funding/opportunities/expeditions-computing-expeditions){target="_blank"}
 *   Supports long-term, multi-institutional research with the potential to transform computer and information science and engineering.
@@ -319,4 +313,4 @@ format: html
 * [Fairness, Ethics, Accountability, and Transparency: Enabling Breakthrough Research to Expand Inclusivity in Computer and Information Science and Engineering Research](https://www.nsf.gov/pubs/2019/nsf19016/nsf19016.jsp){target="_blank"} <!-- Nov 2, 2018 -->
 
 
-Updated April 24, 2024.
+Updated May 16, 2024.

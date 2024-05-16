@@ -4,6 +4,21 @@ format: html
 ---
 
 # NIH Funding Opportunities
+### [BRAIN Initiative: Exploratory Team-Research BRAIN Circuit Programs - eTeamBCP](https://grants.nih.gov/grants/guide/rfa-files/RFA-NS-23-025.html){target="_blank"}
+* Supports teams of three or more (up to six) PDs/PIs that seek to cross boundaries of interdisciplinary collaboration to elucidate the contributions of dynamic circuit activity to a specific behavioral or neural system.
+* Deadline: May 14, 2024 (LOI), June 14, 2024 (Proposal)
+* Award: U01, approximately $2.4M/year for durations of three  years
+
+### [BRAIN Initiative: Development of Novel Tools to Probe Cell-Specific and Circuit-Specific Processes in Human and Non-Human Primate Brain](https://grants.nih.gov/grants/guide/rfa-files/RFA-MH-23-295.html){target="_blank"}
+* Supports the development and validation of novel tools to facilitate the detailed analysis and manipulation of complex circuits in large brains. Critical advances in the treatment of brain disorders in human populations are hindered by our lack of ability to monitor and manipulate circuitry in safe, minimally-invasive ways. 
+* Deadline: May 8, 2024 (LOI), June 7, 2024 (Proposal)
+* Award: UG3/UH3, budget must align with the project scope, for durations up to five years (UG3 cannot exceed three years)
+
+### [Broadening Opportunities for Computational Genomics and Data Science Education](https://grants.nih.gov/grants/guide/rfa-files/RFA-HG-23-002.html){target="_blank"}
+* Supports faculty members at institutions with a mission to serve historically underrepresented populations in biomedical research to develop undergraduate and master’s degree-level educational content in computational genomics, data science, or a combination of these topics.
+* Deadline: May 10, 2024 (LOI); June 10, 2024 (Proposal)
+* Award: UE5, $150K/year (direct) for three years
+
 ## Cooperative Agreement (U) Grants
 ### [Analytical Validation of a Candidate Biomarker for Neurological or Neuromuscular Disorders](https://grants.nih.gov/grants/guide/pa-files/PAR-24-095.html){target="_blank"}
 * Suports rigorous analytical validation of method(s) used for measuring biomarkers for neurological and neuromuscular disorders for use in clinical trials or clinical practice. 
@@ -185,6 +200,11 @@ format: html
 * Award: F99/K00, covers stipends, tuition, fees, and institutional allowance for durations up to six years (F99 for two years, K00 for four years).
 
 ## Research Grants - R01 Activities
+### [Multi-Scale Models Bridging Levels of Analysis in Aging and Alzheimer's Disease (AD) and AD-Related Dementias (ADRD)](https://grants.nih.gov/grants/guide/rfa-files/RFA-AG-25-016.html){target="_blank"}
+* Supports establishment of multi-scale computational models recapitulating dynamic changes associated with aging and Alzheimer’s disease (AD) and AD-related dementias (ADRD). 
+* Deadline: May 13, 2024 (LOI), June 13, 2024 (Proposal)
+* Award: R01, $500K/year (direct) for durations up to five years
+
 ### [Promote Workforce Diversity in Genomics, Bioinformatics, or Bioengineering and Biomedical Imaging Research](https://grants.nih.gov/grants/guide/rfa-files/RFA-HG-21-041.html){target="_blank"}
 * Supports Early Stage Investigators and New Investigators from diverse backgrounds doing research within specific mission areas of NHGRI, NIBIB, and *All of Us* Research Program.
 * Deadline: February 22, 2024
@@ -236,6 +256,20 @@ format: html
 * Award: R01, $250K/year for durations up to four years
 
 ## Research Grants - Other Activities
+### [Advancing Learning Health Care Research in Outpatient Mental Health Treatment Settings](https://grants.nih.gov/grants/guide/pa-files/PAR-24-118.html){target="_blank"}
+* Supports exploratory/developmental research applications within the learning health care framework to support adoption, implementation, sustainability, and continuous improvement of evidence-based practices in outpatient mental health and substance use treatment systems.
+* Deadline: May 16, 2024 (LOI), June 16, 2024 (Proposal); recurring every February, June, and October through October 2025
+* Award: R34, $450K (direct) for durations up to three years
+
+### [Development of Innovative Informatics Methods and Algorithms for Cancer Research and Management](https://grants.nih.gov/grants/guide/rfa-files/RFA-CA-24-016.html){target="_blank"}
+* Supports innovative informatics methods and algorithms to improve the acquisition, analysis, visualization, or interpretation of data across the cancer research continuum including cancer biology, cancer treatment and diagnosis, early cancer detection, risk assessment and prevention, cancer control and epidemiology, and/or cancer health disparities.
+* Deadline: May 11, 2024 (LOI), June 11, 2024 (Proposal)
+* Award: R21, $275K (direct) for durations up to two years
+
+### [Solutions to Enable Regional Genomic Medicine eConsult Services](https://grants.nih.gov/grants/guide/pa-files/PAR-24-106.html){target="_blank"}
+* Supports Small Business Technology Transfer (STTR)/Small Business Innovation Research (SBIR) grant applications from small businesses to develop innovative solutions for commercialization that would enable regional genomic medicine eConsult Services.
+* Deadline: April 30, 2024 (LOI), May 30, 2024 (Proposal)
+* Award: [R41/R42](https://grants.nih.gov/grants/guide/pa-files/PAR-24-107.html){target="_blank"} or [R43/44](https://grants.nih.gov/grants/guide/pa-files/PAR-24-106.html){target="_blank"}; $400K (total) for durations up to two years for Phase I, $2.15M (total) for durations up to three years for Phase II
 
 ### [Data Harmonization, Curation and Secondary Analysis of Existing Clinical Datasets](https://grants.nih.gov/grants/guide/pa-files/PAR-23-089.html){target="_blank"}
 * Supports multidisciplinary teams to perform secondary data analysis, using existing datasets from two or more multi-site clinical research projects, including clinical trials, natural history studies, and/or comparative effectiveness research.
@@ -294,6 +328,12 @@ format: html
 
 
 ## Other Activities
+### [Systems Biology Data Platform (SysBio) Leveraging the Accelerating Medicines Partnership (AMP)](https://commonfund.nih.gov/sites/default/files/Research-Opportunity-Announcement-OTA-24-008-SysBio-updated-20240311_508.pdf){target="_blank"}
+* Supports development of a platform that provides a single access point for querying data across the different tissues and conditions studied in the participating AMP projects.
+* Deadline: May 15, 2024 (Proposal)
+* Award: Negotiations to begin around June 12, 2024.
+<!-- * Informational Webinar on March 18, 2024, 1:00-2:00pm MT. [Learn more and register here.](https://commonfund.nih.gov/venture/sysbio/faqs){target="_blank"} -->
+
 ### [Discovery of the Genetic Basis of Childhood Cancers and of Structural Birth Defects: Gabriella Miller Kids First Pediatric Research Program](https://grants.nih.gov/grants/guide/pa-files/PAR-24-082.html){target="_blank"}
 * Supports applications to submit samples from pediatric cohorts for whole genome sequencing at a Kids First Program supported sequencing centers. 
 * Deadline: February 13, 2024 (LOI), March 13, 2024 (Proposal)
@@ -317,6 +357,9 @@ format: html
 	+ Award: $500K-1M for durations up to two years
 
 ## Notices of Special Interest and Requests for Information
+* [Harnessing Big Data to Halt HIV](https://grants.nih.gov/grants/guide/notice-files/NOT-AI-21-054.html){target="_blank"} expires May 8, 2024.
+* [Maximizing the Scientific Value of Secondary Analyses of Existing Cohorts and Datasets in Order to Address Research Gaps and Foster Additional Opportunities in Aging Research](https://grants.nih.gov/grants/guide/notice-files/NOT-AG-23-020.html){target="_blank"} expires May 8, 2024.
+* [**Request for Information** Proposed Use of Common Data Elements (CDEs) for NIH-Funded Clinical Research and Trials](https://datascience.nih.gov/cde-rfi){target="_blank"} expires May 7, 2024.
 * [Notice of The Common Fund’s Participation in the Ruth L. Kirschstein National Research Service Award (NRSA) Individual Postdoctoral Fellowship (Parent F32) Program](https://grants.nih.gov/grants/guide/notice-files/NOT-RM-24-006.html){target="_blank"} applications due April 8, 2024 and future deadlines per the [F32 RFA](https://grants.nih.gov/grants/guide/pa-files/PA-23-262.html){target="_blank"}. 
 * [**Administrative Supplements** to Enhance Institutional Data Science Capacity](https://grants.nih.gov/grants/guide/notice-files/NOT-OD-23-123.html){target="_blank"} in institutions serving medically underserved communities and underrepresented students due June 19, 2023 or April 1, 2024; expires April 2, 2024.
 * [Administrative Supplements to Support the Development of Digital Twins in Radiation Oncology (DTRO)](https://grants.nih.gov/grants/guide/notice-files/NOT-CA-24-015.html){target="_blank"} expires March 22, 2024.
@@ -344,6 +387,11 @@ format: html
 
 
 # NSF Funding Opportunities
+
+### [Sustainable Regional Systems Research Networks (SRS RNs)](https://new.nsf.gov/funding/opportunities/sustainable-regional-systems-research-networks-srs){target="_blank"}
+* Supports multi-organizational teams to collaboratively produce convergent research, education and outreach that addresses grand challenges in sustainable regional systems.
+* Deadline: May 15, 2024
+* Award: $15M for durations up to 5 years
 
 ### [Responsible Design, Development, and Deployment of Technologies (ReDDDoT)](https://new.nsf.gov/funding/opportunities/responsible-design-development-deployment){target="_blank"}
 * Supports multidisciplinary, multi-sector teams that examine and demonstrate the principles, methodologies, implementations, and impacts associated with responsible design, development, and deployment of technologies in practice, focusing especially on the key technologies specified in Section 10387 of the [CHIPS and Science Act of 2022](https://www.congress.gov/bill/117th-congress/house-bill/4346/text){target="_blank"}. There are three priority areas: artificial intelligence, biotechnology, or natural and anthropogenic disaster prevention or mitigation. 
@@ -514,6 +562,12 @@ format: html
 
 
 # Foundation Funding Opportunities
+
+### [Simons Foundation: Pivot Fellowship](https://www.simonsfoundation.org/grant/pivot-fellowship-request-for-applications/){target="_blank"}
+* Supports researchers who have a strong track record of success and achievement in their current field, and a deep interest, curiosity and drive to make contributions to a new discipline. 
+* Deadline: May 15, 2024
+* Award: Year of salary support, $10K allowance, and $50K research funds for mentor
+
 ### [Pew Biomedical Scholars](https://www.pewtrusts.org/en/projects/pew-biomedical-scholars/program-details){target="_blank"}
 * Supports young investigators of outstanding promise in science relevant to the advancement of human health. Strong proposals will incorporate particularly creative and pioneering approaches to basic, translational, and applied biomedical research. Candidates whose work is based on biomedical principles but who bring in concepts and theories from more diverse fields are encouraged to apply. 
 * Deadline: April 14, 2024 ([Internal LOI](https://utah.infoready4.com/#competitionDetail/1932490){target="_blank"}), September 5, 2024 (Full Application)
@@ -707,6 +761,26 @@ format: html
 
 
 # Governmental Funding Opportunities
+### [DOT: SBIR Complete Streets Artificial Intelligence Initiative](https://sam.gov/opp/9a760572d69b4ed3be6e438fa9d23ace/view){target="_blank"}
+* Supports the potential of novel data generation and processing methods to produce useful data for the Complete Streets Artificial Intelligence (CSAI) Initiative. 
+* Deadline: May 10, 2024
+* Award: $200K (up to 10 awards)
+
+### [ARPA-H: Advanced Analysis for Precision Cancer Therapy](https://sam.gov/opp/0ee8d3e84cfc4319bd9a54468728fcf3/view){target="_blank"}
+* Supports development of an adaptive cancer treatment platform that detects when tumors change, recommends updates to the treatment plan, and evaluates revised plans through a novel clinical trial design.
+* Deadline: May 6, 2024
+* Award: Multiple awards expected
+
+### [DARPA: Mathematics for the DIscovery of ALgorithms and Architectures (DIAL)](https://sam.gov/opp/8e9428a0783e483f954d93555dd8cc77/view){target="_blank"}
+* Supports basic or applied research concepts in mathematical methods for computer-aided algorithm discovery via optimization.
+* Deadline: May 3, 2024
+* Award: Multiple awards are expected.
+
+### [CDC: Secure Deduplication Tool for HIV Surveillance](https://www.grants.gov/search-results-detail/351008){target="_blank"}
+* Supports a more efficient method for jurisdictions to de-duplicate cases reported to the National HIV Surveillance System.
+* Deadline: May 1, 2024
+* Award: $2.35M available for awards
+
 ### [Department of Homeland Security: Synthetic Data Generator](https://sam.gov/opp/bbdbcc1f76f6464a86f9a99af6cd2ca9/view){target="_blank"}
 * Supports synthetic generation capabilities for both structured and unstructured data that currently have or can be adapted to clearly separate the way the solution seeks to understand the shape and patterns of real data from the mechanism it uses to generate the synthetic data.
 * Deadline: April 10, 2024
