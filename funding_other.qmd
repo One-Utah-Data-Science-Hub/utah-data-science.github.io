@@ -99,6 +99,12 @@ editor: visual
 * Deadline: June 25, 2024
 * Award: $525K (total) for one year
 
+### [AIM-AHEAD: Clinicians Leading Ingenuity IN Al Quality (CLINAQ) Fellowship Program](https://www.aim-ahead.net/call-for-proposals-year-3/aim-ahead-clinicians-leading-ingenuity-in-al-quality-clinaq-fellowship-program/){target="_blank"}
+* Supports a one-year fellowship (September 16, 2024 - August 29, 2025) in parallel with clinical practice to empower clinicians in the field of Artificial Intelligence/Machine Learning (AI/ML). 
+* Deadline: June 30, 2024
+* Award: $55,475 stipend
+* Informational Webinar on June 3, 2024. [Register Now](https://signup.aim-ahead.net/event/p/B3381003Ad){target="_blank"}!
+
 ### [DoD: Prostate Cancer, Data Science Award](https://cdmrp.health.mil/funding/pcrp){target="_blank"}
 * Supports research where quantitative and analytical approaches, processes, and/or systems are developed and/or used to obtain knowledge and insight from large and/or complex sets of prostate cancer data. 
 * Deadline: August 9, 2024 (Pre-application), August 30, 2024 (Proposal)
@@ -157,8 +163,6 @@ editor: visual
   + NIST AI 100-4, Reducing Risks Posed by Synthetic Content: An Overview of Technical Approaches to Digital Content Transparency
   + NIST AI 100-5, A Plan for Global Engagement on AI Standards
 * Drafts of NIST AI 600-1, NIST AI 100-5 and NIST AI 100-4 are available for review and comment on the [NIST Artificial Intelligence Resource Center website](https://airc.nist.gov/AI_RMF_Knowledge_Base/Technical_And_Policy_Documents){target="_blank"}; and the draft of NIST SP 800-218A is available for review and comment on the [NIST Computer Security Resource Center website](https://csrc.nist.gov/projects/ssdf){target="_blank"}.
-
-- [AIM-AHEAD Clinicians Leading Ingenuity IN Al Quality (CLINAQ) Fellowship Program](https://www.aim-ahead.net/call-for-proposals-year-3/aim-ahead-clinicians-leading-ingenuity-in-al-quality-clinaq-fellowship-program/){target="_blank"} is a one-year fellowship (September 16, 2024 - August 29, 2025) that seeks to operate in parallel with clinical practice to empower clinicians (defined below) in the field of Artificial Intelligence/Machine Learning (AI/ML). Applications are due by June 30, 2024. 
 
 - [NCI Medical Image De-Identification Benchmark Challenge at MICCAI 2024](https://datascience.cancer.gov/news-events/news/participate-nci-medical-image-de-identification-benchmark-challenge-miccai-2024){target="_blank"} for developers (independent, academic, or industrial) who wants to assess your software tool’s performance with rule-based de-identification of DICOM images. Registration closes August 15, 2024.
 
