@@ -7,13 +7,19 @@ format: html
 Software Carpentries workshops are offered in person over two-days, including breakfast, lunch, and snacks. Topics covered will depend on the specific workshop, but could include R, python, SQL, Unix, and more.  
 
 ### Introduction to OpenRefine
-**When:** Spring 2024\
+**When:** Fall 2024\
 **Where:** TBD\
 **Instructors:** Kaylee Alexander, Madison Golden\
 Contact [DELPHI](mailto:delphi@hsc.utah.edu) with any inquiries.  
 
+### Statistics for Data Science (with R) 
+**When:** Fall 2024\
+**Where:** TBD\
+**Instructors:** Rebecca Barter\
+Contact [DELPHI](mailto:delphi@hsc.utah.edu) with any inquiries.  
+
 ### R for Geographic Analysis and Visualization
-**When:** Spring/Summer 2024\
+**When:** September 2024\
 **Where:** TBD\
 **Instructors:** Brenna Kelly\
 Contact [DELPHI](mailto:delphi@hsc.utah.edu) with any inquiries.  

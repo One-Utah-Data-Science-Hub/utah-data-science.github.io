@@ -44,8 +44,6 @@ website:
         href: events.qmd
       - text: "Data Science Roster"
         href: roster.qmd
-      - text: "Positions and Projects"
-        href: projects.qmd
       - text: "Strengths and Aspirations"
         href: research.qmd
       - text: "News and Highlights"

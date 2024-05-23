@@ -4,6 +4,12 @@ format: html
 ---
 
 # NIH Funding Opportunities
+## Cooperative Agreement (U) Grants
+### [Use of Digital Health Technologies in Clinical Investigations to Support Drug and Biological Product Development](https://grants.nih.gov/grants/guide/rfa-files/RFA-FD-24-037.html){target="_blank"}
+* Supports addressing topics related to the use of digital health technologies (DHTs) for remote data acquisition in clinical investigations to support drug development.
+* Deadline: May 20, 2024
+* Award: U01, $1.1M during year one and $860K during year two
+
 ### [BRAIN Initiative: Exploratory Team-Research BRAIN Circuit Programs - eTeamBCP](https://grants.nih.gov/grants/guide/rfa-files/RFA-NS-23-025.html){target="_blank"}
 * Supports teams of three or more (up to six) PDs/PIs that seek to cross boundaries of interdisciplinary collaboration to elucidate the contributions of dynamic circuit activity to a specific behavioral or neural system.
 * Deadline: May 14, 2024 (LOI), June 14, 2024 (Proposal)
@@ -19,7 +25,6 @@ format: html
 * Deadline: May 10, 2024 (LOI); June 10, 2024 (Proposal)
 * Award: UE5, $150K/year (direct) for three years
 
-## Cooperative Agreement (U) Grants
 ### [Analytical Validation of a Candidate Biomarker for Neurological or Neuromuscular Disorders](https://grants.nih.gov/grants/guide/pa-files/PAR-24-095.html){target="_blank"}
 * Suports rigorous analytical validation of method(s) used for measuring biomarkers for neurological and neuromuscular disorders for use in clinical trials or clinical practice. 
 * Deadline: February 22, 2024 (LOI), March 22, 2024 (Proposal); recurring in February and June through June 2026
@@ -328,6 +333,13 @@ format: html
 
 
 ## Other Activities
+
+### [Advancing Health Research through Ethical, Multimodal AI](https://datascience.nih.gov/sites/default/files/MAI-Solicitation-outline.pdf){target="_blank"}
+* Supports ethically focused and data-driven multimodal AI approaches to more closely model, interpret, and predict complex biological, behavioural, and health systems and enhance our understanding of health and the ability to detect and treat human diseases. 
+* Deadline: April 29, 2024 (LOI - optional), May 16, 2024 (Proposal)
+* Award: OTA, $1-2M for durations of two years
+<!-- * Informational Webinar on April 19, 2024 at 12pm MT, more information can be found [here](https://datascience.nih.gov/artificial-intelligence/MultimodalAI){target="_blank"}! -->
+
 ### [Systems Biology Data Platform (SysBio) Leveraging the Accelerating Medicines Partnership (AMP)](https://commonfund.nih.gov/sites/default/files/Research-Opportunity-Announcement-OTA-24-008-SysBio-updated-20240311_508.pdf){target="_blank"}
 * Supports development of a platform that provides a single access point for querying data across the different tissues and conditions studied in the participating AMP projects.
 * Deadline: May 15, 2024 (Proposal)
@@ -536,6 +548,11 @@ format: html
 * [Seeking US Industry and US Federal Agency Partners to Support Research Projects in Advanced Networking Systems](https://www.nsf.gov/pubs/2023/nsf23090/nsf23090.jsp) response due May 15, 2023.<!-- April 18, 2023 -->
 
 # Internal Funding Opportunities
+### [1U4U Seed Grant Program: The Future of Sustainability](https://utah.infoready4.com/#freeformCompetitionDetail/1933586){target="_blank"}
+* Supports collaborative teams to address the most complex and profound challenges of our communities, both near and far. Sustainability is achieved whenever the needs of the present can be met without sacrificing the needs of future generations. 
+* Deadline: May 22, 2024
+* Award: Up to $50K over one year
+
 ### [Digital Health Innovations Seed Grant Program](https://utah.infoready4.com/#competitionDetail/1924926){target="_blank"}
 
 -   Supports new collaborations and innovative research in digital health that will lead to federal extramural grant applications.
@@ -761,6 +778,11 @@ format: html
 
 
 # Governmental Funding Opportunities
+### [DoD: Civil Works Strategic Focus Areas](https://grants.gov/search-results-detail/352929){target="_blank"}
+* Supports solutions that progress research and development efforts or advance civil works science and engineering capabilities. One of six Strategic Focus Areas is AI, Robotics and Data - Innovative Applications of Big Data, Artificial Intelligence, and Autonomy.
+* Deadline: May 22, 2024 
+* Award: Unspecified
+
 ### [DOT: SBIR Complete Streets Artificial Intelligence Initiative](https://sam.gov/opp/9a760572d69b4ed3be6e438fa9d23ace/view){target="_blank"}
 * Supports the potential of novel data generation and processing methods to produce useful data for the Complete Streets Artificial Intelligence (CSAI) Initiative. 
 * Deadline: May 10, 2024

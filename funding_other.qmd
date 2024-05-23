@@ -10,11 +10,8 @@ editor: visual
 * Deadline: 
 * Award: $ for durations up to  years -->
 ```
-## Internal Funding Opportunities
-### [1U4U Seed Grant Program: The Future of Sustainability](https://utah.infoready4.com/#freeformCompetitionDetail/1933586){target="_blank"}
-* Supports collaborative teams to address the most complex and profound challenges of our communities, both near and far. Sustainability is achieved whenever the needs of the present can be met without sacrificing the needs of future generations. 
-* Deadline: May 22, 2024
-* Award: Up to $50K over one year
+<!-- ## Internal Funding Opportunities -->
+
 
 ## Foundation Funding Opportunities
 
@@ -52,11 +49,6 @@ editor: visual
 
 
 ## Governmental Funding Opportunities
-### [DoD: Civil Works Strategic Focus Areas](https://grants.gov/search-results-detail/352929){target="_blank"}
-* Supports solutions that progress research and development efforts or advance civil works science and engineering capabilities. One of six Strategic Focus Areas is AI, Robotics and Data - Innovative Applications of Big Data, Artificial Intelligence, and Autonomy.
-* Deadline: May 22, 2024 
-* Award: Unspecified
-
 ### [NIST and DOC: Regional Alliances and Multistakeholder Partnerships to Stimulate (RAMPS) Cybersecurity Education and Workforce Development](https://www.grants.gov/search-results-detail/353143){target="_blank"}
 * Supports activities to establish community-based partnerships to develop cybersecurity career pathways that address local workforce needs. Effective multistakeholder workforce partnerships will organize multiple employers with skill shortages in specific occupations to focus on developing the skilled workforce to meet industry needs within the local or regional economy.
 * Deadline: May 24, 2024
@@ -82,6 +74,11 @@ editor: visual
 * Deadline: June 3, 2024
 * Award: Multiple awards are expected
 
+### [HHS: Child Care and Development Fund (CCDF) Lead Agency Data and Research Capacity Grants](https://www.grants.gov/search-results-detail/351794){target="_blank"}
+* Supports capacity of CCDF Lead Agencies to use data, including data on children, families, the workforce, and providers that participate in the child care subsidy system, to make data-informed decisions to improve child care policies and practices. 
+* Deadline: July 8, 2024
+* Award: $150K for durations of 18 months
+
 ### [DARPA: Microsystems Technology Office - Embedded Microsystem Intelligence and Localized Processing Thrust](https://sam.gov/opp/6214ecd14eeb41fd8103bad223837cd3/view){target="_blank"}
 * Supports exploration of the development of sensors and systems that enable specialized computation at the tactical edge and microsystems capable of learning, moving beyond those with pre-set functions.
 * Deadline: June 15, 2024
@@ -102,10 +99,15 @@ editor: visual
 * Deadline: June 25, 2024
 * Award: $525K (total) for one year
 
-### [DoD Prostate Cancer, Data Science Award](https://cdmrp.health.mil/funding/pcrp){target="_blank"}
+### [DoD: Prostate Cancer, Data Science Award](https://cdmrp.health.mil/funding/pcrp){target="_blank"}
 * Supports research where quantitative and analytical approaches, processes, and/or systems are developed and/or used to obtain knowledge and insight from large and/or complex sets of prostate cancer data. 
 * Deadline: August 9, 2024 (Pre-application), August 30, 2024 (Proposal)
 * Award: Up to $1M (direct)
+
+### [DARPA: Forward-Looking Experimentation (FLEX)](https://sam.gov/opp/80651184d8894502a3a39520e1549e57/view){target="_blank"}
+* Supports fundamental research proposals for disruptive ideas in information and communication technologies (ICT) addressing the grand challenges for a data-driven future.
+* Deadline: August 9, 2024
+* Award: Up to $250K for up to two years
 
 ### [DARPA: Scientific Feasibility](https://www.grants.gov/search-results-detail/352745){target="_blank"}
 * Supports development of computational methods that measure the feasibility of claims in order to enable accurate assessments of scientific content. The program aims to demonstrate that the scientific feasibility of claims can be determined by using automated reasoning to decompose claims into constituent, verifiable parts.
@@ -123,7 +125,12 @@ editor: visual
 -   Deadline: September 30, 2024; recurring on September 30, 2025 and September 30, 2026
 -   Award: \$250K-\$10M for durations up to two years
 
-### [DARPA: Automating Scientific Knowledge Extraction and Modeling (ASKEM)](https://www.darpa.mil/program/automating-scientific-knowledge-extraction-and-modelinga){target="_blank"}
+### [APRA-H: Resilient Systems Office (RSO) Office-Wide Innovative Solutions](https://www.grants.gov/search-results-detail/352988){target="_blank"}
+* Supports ground-breaking research in sociotechnical system innovation, health ecosystem integration, and adaptive and antifragile solutions to enable revolutionary advances in science, technology, systems, or methodology. 
+* Deadline: March 14, 2025 (running submission)
+* Awards: Multiple awards are expected
+
+### [DARPA: Automating Scientific Knowledge Extraction and Modeling (ASKEM)](https://www.darpa.mil/program/automating-scientific-knowledge-extraction-and-modeling){target="_blank"}
 -   Supports the demands of complex, modern-day systems, computational models and simulators have become the primary artifacts for encoding, propagating, and applying expert knowledge to real-world science and engineering problems.
 
 ### [DOC and NIST: Manufacturing USA AI Institute Competition](https://www.federalregister.gov/documents/2024/03/13/2024-05228/manufacturing-usa-institute-competition-ai-for-resilient-manufacturing){target="_blank"}
@@ -151,10 +158,12 @@ editor: visual
   + NIST AI 100-5, A Plan for Global Engagement on AI Standards
 * Drafts of NIST AI 600-1, NIST AI 100-5 and NIST AI 100-4 are available for review and comment on the [NIST Artificial Intelligence Resource Center website](https://airc.nist.gov/AI_RMF_Knowledge_Base/Technical_And_Policy_Documents){target="_blank"}; and the draft of NIST SP 800-218A is available for review and comment on the [NIST Computer Security Resource Center website](https://csrc.nist.gov/projects/ssdf){target="_blank"}.
 
+- [AIM-AHEAD Clinicians Leading Ingenuity IN Al Quality (CLINAQ) Fellowship Program](https://www.aim-ahead.net/call-for-proposals-year-3/aim-ahead-clinicians-leading-ingenuity-in-al-quality-clinaq-fellowship-program/){target="_blank"} is a one-year fellowship (September 16, 2024 - August 29, 2025) that seeks to operate in parallel with clinical practice to empower clinicians (defined below) in the field of Artificial Intelligence/Machine Learning (AI/ML). Applications are due by June 30, 2024. 
 
+- [NCI Medical Image De-Identification Benchmark Challenge at MICCAI 2024](https://datascience.cancer.gov/news-events/news/participate-nci-medical-image-de-identification-benchmark-challenge-miccai-2024){target="_blank"} for developers (independent, academic, or industrial) who wants to assess your software tool’s performance with rule-based de-identification of DICOM images. Registration closes August 15, 2024.
 
 -   [NIH and CGE Targeted Genome Editor Delivery (TARGETED) Challenge](https://www.challenge.gov/?challenge=targeted-challenge){target="_blank"} aims to revolutionize technology development of delivery systems for in vivo genome editing. This is a *\$6M competition* to improve in vivo delivery technologies for genome editors in two Target Areas: 1. Programmable delivery systems, and 2. Non-viral delivery across the blood-brain barrier. The National Institutes of Health (NIH), through the Common Fund’s [Somatic Cell Genome Editing (SCGE)](https://commonfund.nih.gov/editing){target="_blank"} program, is seeking Participants with ideas or early-stage solutions to join the Challenge with the chance to win up to \$1,000,000 and have their solution independently tested and validated in large animal models through NIH-supported independent evaluation relevant to preclinical assessments of investigational products. Phase 2 is open until January 10, 2025.
 
 <!--## Policy and Engagement -->
 
-Updated May 16, 2024.
+Updated May 23, 2024.

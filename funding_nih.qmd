@@ -2,15 +2,10 @@
 title: "NIH Funding Opportunities"
 ---
 <!-- ### [](){target="_blank"}
-* S
+* Supports 
 * Deadline: 
 * Award: , $ for durations up to  years -->
 ## Cooperative Agreement (U) Grants
-### [Use of Digital Health Technologies in Clinical Investigations to Support Drug and Biological Product Development](https://grants.nih.gov/grants/guide/rfa-files/RFA-FD-24-037.html){target="_blank"}
-* Supports addressing topics related to the use of digital health technologies (DHTs) for remote data acquisition in clinical investigations to support drug development.
-* Deadline: May 20, 2024
-* Award: U01, $1.1M during year one and $860K during year two
-
 ### [Center of Excellence for Systems Modeling of Infection and Immunity across Biological Scales](https://grants.nih.gov/grants/guide/rfa-files/RFA-AI-23-077.html){target="_blank"}
 * Supports the establishment of one (1) Center of Excellence (CoE) to coordinate the research community of infectious and immune-mediated disease (IID) computational modelers and advance IID modeling research across biological scales.
 * Deadline: May 31, 2024 (LOI), June 30, 2024 (Proposal)
@@ -271,13 +266,6 @@ title: "NIH Funding Opportunities"
 
 
 ## Other Activities
-
-### [Advancing Health Research through Ethical, Multimodal AI](https://datascience.nih.gov/sites/default/files/MAI-Solicitation-outline.pdf){target="_blank"}
-* Supports ethically focused and data-driven multimodal AI approaches to more closely model, interpret, and predict complex biological, behavioural, and health systems and enhance our understanding of health and the ability to detect and treat human diseases. 
-* Deadline: April 29, 2024 (LOI - optional), May 16, 2024 (Proposal)
-* Award: OTA, $1-2M for durations of two years
-* Informational Webinar on April 19, 2024 at 12pm MT, more information can be found [here](https://datascience.nih.gov/artificial-intelligence/MultimodalAI){target="_blank"}!
-
 ### [NHLBI TOPMed: Omics Phenotypes of Heart, Lung, and Blood Disorders](https://grants.nih.gov/grants/guide/pa-files/PAR-22-194.html){target="_blank"}
 * Supports use of NHLBI-funded TransOmics for Precision Medicine (TOPMed) program to generate a large volume of integrated genetic and multi-omics data to facilitate discovery of the molecular mechanisms of Heart, Lung, Blood, and Sleep (HLBS) disorders. 
 * Deadline: September 17, 2024 (LOI), October 17, 2024 (Proposal)
@@ -295,7 +283,7 @@ title: "NIH Funding Opportunities"
 <!-- * [](https://grants.nih.gov/grants/guide/notice-files/NOT-CA-24-002.html){target="_blank"} expires -->
 <!--* [](){target="_blank"} -->
 * [**Request for Information** Data Management, Sharing, and Secondary Data Use Challenges and Opportunities](https://grants.nih.gov/grants/guide/notice-files/NOT-AG-24-013.html){target="_blank"}, expires May 31, 2024.
-* [**Request for Information** Input on NIAID Immunology Knowledge Management](https://grants.nih.gov/grants/guide/notice-files/NOT-AI-24-036.html){target="_blank"}, expires June 18, 2024.
+* [**Request for Information** Input on NIAID Immunology Knowledge Management](https://grants.nih.gov/grants/guide/notice-files/NOT-AI-24-036.html){target="_blank"}, expires June 28, 2024.
 * [Advance Data Science Approaches Through Secondary Data Analysis to Reveal Scientific Insights of COVID-19 Testing Technologies (R21)](https://grants.nih.gov/grants/guide/notice-files/NOT-OD-23-040.html){target="_blank"} extended to July 16, 2024.
 * [Clinical and Translational Science Award (CTSA) Program: Collaborative and Innovative Acceleration Award (UG3/UH3) (Clinical Trial Optional) for Advancing Recruitment through Trial Innovation Network (AR-TIN)](https://grants.nih.gov/grants/guide/notice-files/NOT-TR-23-026.html){target="_blank"} expires October 18, 2024.
 * [High-Priority Interest to Enhance Data Science Research Training in Addiction Research](https://grants.nih.gov/grants/guide/notice-files/NOT-DA-21-013.html){target="_blank"} expires December 9, 2024.
@@ -318,4 +306,4 @@ title: "NIH Funding Opportunities"
 
 * [NIH Office for Data Science Strategy](https://datascience.nih.gov/research-and-training-funding){target="_blank"} list of funding opportunities.
 
-Updated May 16, 2024.
+Updated May 23, 2024.
