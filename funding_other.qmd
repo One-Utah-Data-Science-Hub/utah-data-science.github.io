@@ -74,11 +74,6 @@ editor: visual
 * Deadline: June 3, 2024
 * Award: Multiple awards are expected
 
-### [HHS: Child Care and Development Fund (CCDF) Lead Agency Data and Research Capacity Grants](https://www.grants.gov/search-results-detail/351794){target="_blank"}
-* Supports capacity of CCDF Lead Agencies to use data, including data on children, families, the workforce, and providers that participate in the child care subsidy system, to make data-informed decisions to improve child care policies and practices. 
-* Deadline: July 8, 2024
-* Award: $150K for durations of 18 months
-
 ### [DARPA: Microsystems Technology Office - Embedded Microsystem Intelligence and Localized Processing Thrust](https://sam.gov/opp/6214ecd14eeb41fd8103bad223837cd3/view){target="_blank"}
 * Supports exploration of the development of sensors and systems that enable specialized computation at the tactical edge and microsystems capable of learning, moving beyond those with pre-set functions.
 * Deadline: June 15, 2024
@@ -105,6 +100,11 @@ editor: visual
 * Award: $55,475 stipend
 * Informational Webinar on June 3, 2024. [Register Now](https://signup.aim-ahead.net/event/p/B3381003Ad){target="_blank"}!
 
+### [HHS: Child Care and Development Fund (CCDF) Lead Agency Data and Research Capacity Grants](https://www.grants.gov/search-results-detail/351794){target="_blank"}
+* Supports capacity of CCDF Lead Agencies to use data, including data on children, families, the workforce, and providers that participate in the child care subsidy system, to make data-informed decisions to improve child care policies and practices. 
+* Deadline: July 8, 2024
+* Award: $150K for durations of 18 months
+
 ### [DoD: Prostate Cancer, Data Science Award](https://cdmrp.health.mil/funding/pcrp){target="_blank"}
 * Supports research where quantitative and analytical approaches, processes, and/or systems are developed and/or used to obtain knowledge and insight from large and/or complex sets of prostate cancer data. 
 * Deadline: August 9, 2024 (Pre-application), August 30, 2024 (Proposal)
@@ -130,6 +130,11 @@ editor: visual
 -   Supports research, development, integration, test and evaluation of technologies/techniques to provide geospatial intelligence (GEOINT) in all its forms and from whatever source to ensure a solid foundation of knowledge for planning, decision, and action while creating tailored, customer-specific geospatial intelligence, analytic services, and solutions.
 -   Deadline: September 30, 2024; recurring on September 30, 2025 and September 30, 2026
 -   Award: \$250K-\$10M for durations up to two years
+
+### [DOE: Predictive Science Academic Alliance Program (PSAAP) IV](https://www.grants.gov/search-results-detail/354427){target="_blank"}
+* Supports doctoral programs in five focus areas including state-of-the-art machine learning (ML) and data science technologies for predictive science and engineering (utilization and advancement)
+* Deadline: June 13, 2024 ([LSO](https://utah.infoready4.com/#freeformCompetitionDetail/1940752){target="_blank"}), June 27, 2024 (Pre-application), October 1, 2024 (Proposal)
+* Award: $500K-3.5M for five years
 
 ### [APRA-H: Resilient Systems Office (RSO) Office-Wide Innovative Solutions](https://www.grants.gov/search-results-detail/352988){target="_blank"}
 * Supports ground-breaking research in sociotechnical system innovation, health ecosystem integration, and adaptive and antifragile solutions to enable revolutionary advances in science, technology, systems, or methodology. 

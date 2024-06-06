@@ -3,6 +3,20 @@ title: "Previous Events"
 format: html
 ---
 
+## One-U RAI Information Session and Town Hall
+**Date:** Wednesday, May 8, 2024  
+**Time:** 9:00am - 10:30am  
+**Location:** Virtual, register [here](https://utah.zoom.us/meeting/register/tJ0lfu2sqTIiH9AUb6HNQUHN_tUSAHTCcmPF){target="_blank"} to receive the meeting details  
+The One-U RAI Director, Prof. Manish Parashar, will provide an update on the vision and progress of the initiative and answer your questions about the initiative.
+[![One-U RAI Town Hall](images/Townhall_20240508.png)](https://utah.zoom.us/meeting/register/tJ0lfu2sqTIiH9AUb6HNQUHN_tUSAHTCcmPF){target="_blank"}
+
+## Julia Lane, 'The Measurement of Artificial Intelligence'
+**Date:** Friday, May 10, 2024   
+**Time:** 9:30am - 11:30am   
+**Location:** Cleone Peterson Eccles Alumni House  
+Register to attend [here](https://lu.ma/efjhe7b3). 
+[![Julia Lane](images/speaker_JuliaLane_20240510.png)](https://lu.ma/efjhe7b3){target="_blank"}
+
 ## Digital Humanities Utah 2024 (DHU8)
 **Dates:** February 23-24, 2024  
 <!--**Time:** 9:30am - 3:30pm  -->
