@@ -24,20 +24,20 @@ editor: visual
 -   Deadline: Rolling for one year until budget of \$1M is depleted <!-- August 2024 -->
 -   Application should take no more than 3 hours!
 
-### [The Michelson Prizes: Next Generation Grants](https://michelsonprizes.smapply.org){target="_blank"}
-* Supports early-career scientists advancing human immunology, vaccine discovery, and immunotherapy for major global diseases, including applicants from artificial intelligence/machine learning. Please contact [Lynn Wong](mailto:lynn.wong@hsc.utah.edu) if you are interested in applying to this opportunity. 
-* Deadline: June 9, 2024 (Two-page proposal)
-* Award: $150K
+### [Alfred P. Sloan: Creating Equitable Pathways to STEM Graduate Education](https://sloan.org/programs/higher-education/equitable-pathways/2024-Call-for-LOIs){target="_blank"}
+* Supports engagement of the expertise of MSIs—and the unique experiences of their faculty and students—to model effective systems and practices that remove barriers and create opportunities for equitable learning environments in STEM graduate education so all students can thrive. 
+* Deadline: July 1, 2024 (LOI)
+* Awards:
+  + *Planning grants* to support two or more institutions to conduct internal reviews of existing barriers to student success and for analysis and planning for a future partnership(s) (up to $75K for up to 1 year)
+  + *Seed grants* to two or more institutions that seek to formalize an existing partnership(s) and launch one or more pilot initiatives (up to $250K for 1-2 years)
+  + *Implementation grants* to two or more institutions that allow for the augmentation or scaling of existing partnerships/collaborations (up to $500K for 2-3 years)
+
 
 <!--## Industry Funding Opportunities-->
 
 
 
 ## International Funding Opportunities
-### [Advanced Research + Invention Agency: Safeguarded AI, TA1.1 Theory](https://www.aria.org.uk/programme-safeguarded-ai/){target="_blank"}
-* Supports R&D Creators, individuals and teams to research and construct computationally practicable mathematical representations and formal semantics to support world-models, specifications about state-trajectories, neural systems, proofs that neural outputs validate specifications, and “version control” (incremental updates or “patches”) thereof.
-* Deadline: May 28, 2024
-* Award: £3.5M over 10-16 awards
 
 ### [Japan Science and Technology Agency: Adopting Sustainable Partnerships for Innovative Research Ecosystem (ASPIRE) Call for Proposals](https://www.jst.go.jp/inter/aspire/en/program_e/announce_e/announce_aspire2023_e.html){target="_blank"}
 
@@ -49,30 +49,6 @@ editor: visual
 
 
 ## Governmental Funding Opportunities
-### [NIST and DOC: Regional Alliances and Multistakeholder Partnerships to Stimulate (RAMPS) Cybersecurity Education and Workforce Development](https://www.grants.gov/search-results-detail/353143){target="_blank"}
-* Supports activities to establish community-based partnerships to develop cybersecurity career pathways that address local workforce needs. Effective multistakeholder workforce partnerships will organize multiple employers with skill shortages in specific occupations to focus on developing the skilled workforce to meet industry needs within the local or regional economy.
-* Deadline: May 24, 2024
-* Award: Up to $200K for durations up to two years
-
-### [EPA: Advancing Sustainable Chemistry](https://www.grants.gov/search-results-detail/353029){target="_blank"}
-* Supports research for data, methods, and systems that lead to actionable, scalable change toward chemistry, chemicals, and products that support sustainable chemistry.
-* Deadline: May 29, 2024
-* Award: $1.5M
-
-### [AIM-AHEAD: Federated-Network](https://www.aim-ahead.net/federated-network/){target="_blank"}
-* Supports research teams from each site to (i) assemble EHR data locally from their institution to be used for AIM-AHEAD research projects; (ii) provide informatics expertise to participate in EHR data harmonization across sites; and (iii) facilitate the analysis of EHR data using AI/ML algorithms developed by the AIM-AHEAD researchers. 
-* Deadline: June 3, 2024
-* Award: $100K (total) for Year 1 and $300K (total) for Year 2
-
-### [DoD: Joint Warfighter Medical Research](https://cdmrp.health.mil/funding/jwmrp){target="_blank"}
-* Supports projects to augment and accelerate medical product development and health care solutions addressing virtual/telehealth and decision support with artificial intelligence solution to provide combat casualty care/prolonged care.
-* Deadline: June 3, 2024 (pre-application)
-* Award: $2-3.4M
-
-### [ARPA-H: Chatbot Accuracy and Reliability Evaluation (CARE) Exploration Topic](https://sam.gov/opp/8d3c07159e9f4d32ab7b179d365e6fab/view){target="_blank"}
-* Supports production of tools and technology that evaluates output with the efficiency of computational methods and the accuracy of human experts, with specific interest in development of new evaluation technologies for detecting hallucinations and other inaccuracies in medical Large Language Model (LLM) output for patient-facing applications.
-* Deadline: June 3, 2024
-* Award: Multiple awards are expected
 
 ### [DARPA: Microsystems Technology Office - Embedded Microsystem Intelligence and Localized Processing Thrust](https://sam.gov/opp/6214ecd14eeb41fd8103bad223837cd3/view){target="_blank"}
 * Supports exploration of the development of sensors and systems that enable specialized computation at the tactical edge and microsystems capable of learning, moving beyond those with pre-set functions.
@@ -131,11 +107,6 @@ editor: visual
 -   Deadline: September 30, 2024; recurring on September 30, 2025 and September 30, 2026
 -   Award: \$250K-\$10M for durations up to two years
 
-### [DOE: Predictive Science Academic Alliance Program (PSAAP) IV](https://www.grants.gov/search-results-detail/354427){target="_blank"}
-* Supports doctoral programs in five focus areas including state-of-the-art machine learning (ML) and data science technologies for predictive science and engineering (utilization and advancement)
-* Deadline: June 13, 2024 ([LSO](https://utah.infoready4.com/#freeformCompetitionDetail/1940752){target="_blank"}), June 27, 2024 (Pre-application), October 1, 2024 (Proposal)
-* Award: $500K-3.5M for five years
-
 ### [APRA-H: Resilient Systems Office (RSO) Office-Wide Innovative Solutions](https://www.grants.gov/search-results-detail/352988){target="_blank"}
 * Supports ground-breaking research in sociotechnical system innovation, health ecosystem integration, and adaptive and antifragile solutions to enable revolutionary advances in science, technology, systems, or methodology. 
 * Deadline: March 14, 2025 (running submission)
@@ -160,19 +131,10 @@ editor: visual
     -   Stakeholder Engagement
     -   Artificial Intelligence
 
-- [RFI: Pathways to AI-enabled research: Transforming scientific work with tools and technology](https://docs.google.com/forms/d/e/1FAIpQLSezl1aE7_czp-CQRxQX098EZTgB7T-xc5uVnVl1jMdAFTO5rw/viewform){target="_blank"} The Open Science Program at Chan Zuckerberg Initiative (CZI) and Alfred P. Sloan Foundation Technology Program (Sloan) are excited to hear community input about existing applications of AI to empower scientific work that are consistent with open research practices. Submissions accepted until May 30, 2024. 
-
-- The National Institute of Standards and Technology (NIST) has released four draft publications intended to help improve the safety, security and trustworthiness of artificial intelligence (AI) systems [link](https://content.govdelivery.com/accounts/USNIST/bulletins/399775f){target="_blank"}. All are part of the agency’s response to Executive Order 14110 on the Safe, Secure and Trustworthy Development of AI. Comments on each draft are requested by June 2, 2024. 
-  + NIST AI 600-1, Artificial Intelligence Risk Management Framework: Generative Artificial Intelligence Profile
-  + NIST SP 800-218A, Secure Software Development Practices for Generative AI and Dual-Use Foundation Models
-  + NIST AI 100-4, Reducing Risks Posed by Synthetic Content: An Overview of Technical Approaches to Digital Content Transparency
-  + NIST AI 100-5, A Plan for Global Engagement on AI Standards
-* Drafts of NIST AI 600-1, NIST AI 100-5 and NIST AI 100-4 are available for review and comment on the [NIST Artificial Intelligence Resource Center website](https://airc.nist.gov/AI_RMF_Knowledge_Base/Technical_And_Policy_Documents){target="_blank"}; and the draft of NIST SP 800-218A is available for review and comment on the [NIST Computer Security Resource Center website](https://csrc.nist.gov/projects/ssdf){target="_blank"}.
-
 - [NCI Medical Image De-Identification Benchmark Challenge at MICCAI 2024](https://datascience.cancer.gov/news-events/news/participate-nci-medical-image-de-identification-benchmark-challenge-miccai-2024){target="_blank"} for developers (independent, academic, or industrial) who wants to assess your software tool’s performance with rule-based de-identification of DICOM images. Registration closes August 15, 2024.
 
 -   [NIH and CGE Targeted Genome Editor Delivery (TARGETED) Challenge](https://www.challenge.gov/?challenge=targeted-challenge){target="_blank"} aims to revolutionize technology development of delivery systems for in vivo genome editing. This is a *\$6M competition* to improve in vivo delivery technologies for genome editors in two Target Areas: 1. Programmable delivery systems, and 2. Non-viral delivery across the blood-brain barrier. The National Institutes of Health (NIH), through the Common Fund’s [Somatic Cell Genome Editing (SCGE)](https://commonfund.nih.gov/editing){target="_blank"} program, is seeking Participants with ideas or early-stage solutions to join the Challenge with the chance to win up to \$1,000,000 and have their solution independently tested and validated in large animal models through NIH-supported independent evaluation relevant to preclinical assessments of investigational products. Phase 2 is open until January 10, 2025.
 
 <!--## Policy and Engagement -->
 
-Updated May 23, 2024.
+Updated June 12, 2024.

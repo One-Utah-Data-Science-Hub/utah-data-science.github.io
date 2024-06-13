@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.3.450">
+<meta name="generator" content="quarto-1.4.553">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -45,7 +45,13 @@ ul.task-list li input[type="checkbox"] {
   "collapse-after": 3,
   "panel-placement": "start",
   "type": "textbox",
-  "limit": 20,
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
   "language": {
     "search-no-results-text": "No results",
     "search-matching-documents-text": "matching documents",
@@ -54,6 +60,7 @@ ul.task-list li input[type="checkbox"] {
     "search-more-match-text": "more match in this document",
     "search-more-matches-text": "more matches in this document",
     "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
     "search-detached-cancel-button-title": "Cancel",
     "search-submit-button-title": "Submit",
     "search-label": "Search"
@@ -70,12 +77,12 @@ ul.task-list li input[type="checkbox"] {
   <header id="quarto-header" class="headroom fixed-top">
   <nav class="quarto-secondary-nav">
     <div class="container-fluid d-flex">
-      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./funding.html">Funding Opportunities</a></li><li class="breadcrumb-item"><a href="./funding_nsf.html">NSF Funding</a></li></ol></nav>
-      <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
-      </a>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./funding.html">Funding Opportunities</a></li><li class="breadcrumb-item"><a href="./funding_nsf.html">NSF Funding</a></li></ol></nav>
+        <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
+        </a>
       <button type="button" class="btn quarto-search-button" aria-label="" onclick="window.quartoOpenSearch();">
         <i class="bi bi-search"></i>
       </button>
@@ -85,14 +92,14 @@ ul.task-list li input[type="checkbox"] {
 <!-- content -->
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article">
 <!-- sidebar -->
-  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal sidebar-navigation docked overflow-auto">
+  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation docked overflow-auto">
     <div class="pt-lg-2 mt-2 text-left sidebar-header">
       <a href="./index.html" class="sidebar-logo-link">
       <img src="./images/NewHubLogoSquare.png" alt="" class="sidebar-logo py-0 d-lg-inline d-none">
       </a>
       <div class="sidebar-tools-main">
-    <a href="https://twitter.com/UtahDataSciHub" rel="" title="" class="quarto-navigation-tool px-1" aria-label=""><i class="bi bi-twitter"></i></a>
-    <a href="mailto:data-science-hub@utah.edu?subject=Utah%20Data%20Science%20Webpage%20Request" rel="" title="" class="quarto-navigation-tool px-1" aria-label=""><i class="bi bi-envelope"></i></a>
+    <a href="https://twitter.com/UtahDataSciHub" title="" class="quarto-navigation-tool px-1" aria-label=""><i class="bi bi-twitter"></i></a>
+    <a href="mailto:data-science-hub@utah.edu?subject=Utah%20Data%20Science%20Webpage%20Request" title="" class="quarto-navigation-tool px-1" aria-label=""><i class="bi bi-envelope"></i></a>
 </div>
       </div>
         <div class="mt-2 flex-shrink-0 align-items-center">
@@ -211,7 +218,7 @@ ul.task-list li input[type="checkbox"] {
     </ul>
     </div>
 </nav>
-<div id="quarto-sidebar-glass" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass"></div>
+<div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         <nav id="TOC" role="doc-toc" class="toc-active">
@@ -232,15 +239,13 @@ ul.task-list li input[type="checkbox"] {
   </ul></li>
   <li><a href="#upcoming-proposal-deadlines" id="toc-upcoming-proposal-deadlines" class="nav-link" data-scroll-target="#upcoming-proposal-deadlines">Upcoming Proposal Deadlines</a>
   <ul class="collapse">
-  <li><a href="#cyber-physical-systems-cps" id="toc-cyber-physical-systems-cps" class="nav-link" data-scroll-target="#cyber-physical-systems-cps">Cyber-Physical Systems (CPS)</a></li>
   <li><a href="#data-science-corps-dsc" id="toc-data-science-corps-dsc" class="nav-link" data-scroll-target="#data-science-corps-dsc">Data Science Corps (DSC)</a></li>
   <li><a href="#foundations-for-digital-twins-as-catalyzers-of-biomedical-technological-innovation-fdt-biotech" id="toc-foundations-for-digital-twins-as-catalyzers-of-biomedical-technological-innovation-fdt-biotech" class="nav-link" data-scroll-target="#foundations-for-digital-twins-as-catalyzers-of-biomedical-technological-innovation-fdt-biotech">Foundations for Digital Twins as Catalyzers of Biomedical Technological Innovation (FDT-BioTech)</a></li>
+  <li><a href="#cyber-physical-systems-cps" id="toc-cyber-physical-systems-cps" class="nav-link" data-scroll-target="#cyber-physical-systems-cps">Cyber-Physical Systems (CPS)</a></li>
   <li><a href="#emerging-frontiers-in-research-and-innovation-efri-biocomputing-through-engineering-organoid-intelligence-begin-oi" id="toc-emerging-frontiers-in-research-and-innovation-efri-biocomputing-through-engineering-organoid-intelligence-begin-oi" class="nav-link" data-scroll-target="#emerging-frontiers-in-research-and-innovation-efri-biocomputing-through-engineering-organoid-intelligence-begin-oi">Emerging Frontiers in Research and Innovation (EFRI): Biocomputing through EnGINeering Organoid Intelligence (BEGIN OI)</a></li>
   </ul></li>
   <li><a href="#upcoming-recurring-proposal-deadlines" id="toc-upcoming-recurring-proposal-deadlines" class="nav-link" data-scroll-target="#upcoming-recurring-proposal-deadlines">Upcoming Recurring Proposal Deadlines</a>
   <ul class="collapse">
-  <li><a href="#improving-undergraduate-stem-education-computing-in-undergraduate-education-iuse-cue" id="toc-improving-undergraduate-stem-education-computing-in-undergraduate-education-iuse-cue" class="nav-link" data-scroll-target="#improving-undergraduate-stem-education-computing-in-undergraduate-education-iuse-cue">Improving Undergraduate STEM Education: Computing in Undergraduate Education (IUSE: CUE)</a></li>
-  <li><a href="#artificial-intelligence-formal-methods-and-mathematical-reasoning-aiming" id="toc-artificial-intelligence-formal-methods-and-mathematical-reasoning-aiming" class="nav-link" data-scroll-target="#artificial-intelligence-formal-methods-and-mathematical-reasoning-aiming">Artificial Intelligence, Formal Methods, and Mathematical Reasoning (AIMing)</a></li>
   <li><a href="#aced-accelerating-computing-enabled-scientific-discovery" id="toc-aced-accelerating-computing-enabled-scientific-discovery" class="nav-link" data-scroll-target="#aced-accelerating-computing-enabled-scientific-discovery">ACED: Accelerating Computing-Enabled Scientific Discovery</a></li>
   <li><a href="#expeditions-in-computing-expeditions" id="toc-expeditions-in-computing-expeditions" class="nav-link" data-scroll-target="#expeditions-in-computing-expeditions">Expeditions in Computing (Expeditions)</a></li>
   <li><a href="#mathematical-foundations-of-digital-twins-math-dt" id="toc-mathematical-foundations-of-digital-twins-math-dt" class="nav-link" data-scroll-target="#mathematical-foundations-of-digital-twins-math-dt">Mathematical Foundations of Digital Twins (MATH-DT)</a></li>
@@ -265,10 +270,12 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#strengthening-the-cyberinfrastructure-professionals-ecosystem-scipe" id="toc-strengthening-the-cyberinfrastructure-professionals-ecosystem-scipe" class="nav-link" data-scroll-target="#strengthening-the-cyberinfrastructure-professionals-ecosystem-scipe">Strengthening the Cyberinfrastructure Professionals Ecosystem (SCIPE)</a></li>
   <li><a href="#ethical-and-responsible-research-er2" id="toc-ethical-and-responsible-research-er2" class="nav-link" data-scroll-target="#ethical-and-responsible-research-er2">Ethical and Responsible Research (ER2)</a></li>
   <li><a href="#mid-scale-research-infrastructure-1-mid-scale-ri-1" id="toc-mid-scale-research-infrastructure-1-mid-scale-ri-1" class="nav-link" data-scroll-target="#mid-scale-research-infrastructure-1-mid-scale-ri-1">Mid-scale Research Infrastructure-1 (Mid-scale RI-1)</a></li>
+  <li><a href="#artificial-intelligence-formal-methods-and-mathematical-reasoning-aiming" id="toc-artificial-intelligence-formal-methods-and-mathematical-reasoning-aiming" class="nav-link" data-scroll-target="#artificial-intelligence-formal-methods-and-mathematical-reasoning-aiming">Artificial Intelligence, Formal Methods, and Mathematical Reasoning (AIMing)</a></li>
   <li><a href="#incorporating-human-behavior-in-epidemiological-models-ihbem" id="toc-incorporating-human-behavior-in-epidemiological-models-ihbem" class="nav-link" data-scroll-target="#incorporating-human-behavior-in-epidemiological-models-ihbem">Incorporating Human Behavior in Epidemiological Models (IHBEM)</a></li>
   <li><a href="#algorithms-for-threat-detection-atd" id="toc-algorithms-for-threat-detection-atd" class="nav-link" data-scroll-target="#algorithms-for-threat-detection-atd">Algorithms for Threat Detection (ATD)</a></li>
   <li><a href="#enabling-discovery-through-genomics-edge" id="toc-enabling-discovery-through-genomics-edge" class="nav-link" data-scroll-target="#enabling-discovery-through-genomics-edge">Enabling Discovery through GEnomics (EDGE)</a></li>
   <li><a href="#nsf-scholarships-in-science-technology-engineering-and-mathematics-program-s-stem" id="toc-nsf-scholarships-in-science-technology-engineering-and-mathematics-program-s-stem" class="nav-link" data-scroll-target="#nsf-scholarships-in-science-technology-engineering-and-mathematics-program-s-stem">NSF Scholarships in Science, Technology, Engineering, and Mathematics Program (S-STEM)</a></li>
+  <li><a href="#improving-undergraduate-stem-education-computing-in-undergraduate-education-iuse-cue" id="toc-improving-undergraduate-stem-education-computing-in-undergraduate-education-iuse-cue" class="nav-link" data-scroll-target="#improving-undergraduate-stem-education-computing-in-undergraduate-education-iuse-cue">Improving Undergraduate STEM Education: Computing in Undergraduate Education (IUSE: CUE)</a></li>
   <li><a href="#mid-scale-research-infrastructure-2-mid-scale-ri-2" id="toc-mid-scale-research-infrastructure-2-mid-scale-ri-2" class="nav-link" data-scroll-target="#mid-scale-research-infrastructure-2-mid-scale-ri-2">Mid-scale Research Infrastructure-2 (Mid-scale RI-2)</a></li>
   <li><a href="#research-security-and-integrity-information-sharing-analysis-organization-rsi-isao" id="toc-research-security-and-integrity-information-sharing-analysis-organization-rsi-isao" class="nav-link" data-scroll-target="#research-security-and-integrity-information-sharing-analysis-organization-rsi-isao">Research Security and Integrity Information Sharing Analysis Organization (RSI-ISAO)</a></li>
   <li><a href="#national-artificial-intelligence-ai-research-institutes" id="toc-national-artificial-intelligence-ai-research-institutes" class="nav-link" data-scroll-target="#national-artificial-intelligence-ai-research-institutes">National Artificial Intelligence (AI) Research Institutes</a></li>
@@ -280,7 +287,7 @@ ul.task-list li input[type="checkbox"] {
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default">
+<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./funding.html">Funding Opportunities</a></li><li class="breadcrumb-item"><a href="./funding_nsf.html">NSF Funding</a></li></ol></nav>
 <div class="quarto-title">
 <h1 class="title">NSF Funding Opportunities</h1>
 </div>
@@ -295,7 +302,9 @@ ul.task-list li input[type="checkbox"] {
   </div>
   
 
+
 </header>
+
 
 <!-- ### [](){target="_blank"}
 * S
@@ -385,17 +394,6 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="upcoming-proposal-deadlines" class="level2">
 <h2 class="anchored" data-anchor-id="upcoming-proposal-deadlines">Upcoming Proposal Deadlines</h2>
-<section id="cyber-physical-systems-cps" class="level3">
-<h3 class="anchored" data-anchor-id="cyber-physical-systems-cps"><a href="https://new.nsf.gov/funding/opportunities/cyber-physical-systems-cps" target="_blank">Cyber-Physical Systems (CPS)</a></h3>
-<ul>
-<li>Supports research on engineered systems with a seamless integration of cyber and physical components, such as computation, control, networking, learning, autonomy, security, privacy and verification, for a range of application domains.
-<ul>
-<li><em>Small Projects</em> $500K for durations up to three years; rolling deadline through May 30, 2024</li>
-<li><em>Medium Projects</em> $1M for durations up to three years; rolling deadline through May 30, 2024 <!--  + *Frontier Projects* up to $7M for durations up to five years; deadline of June 15, 2023 --></li>
-</ul></li>
-<li><a href="https://www.nsf.gov/pubs/2024/nsf24017/nsf24017.jsp" target="_blank">DCL: Medical / Health Cyber Physical Systems Proposals</a><!-- November 8, 2023 --></li>
-</ul>
-</section>
 <section id="data-science-corps-dsc" class="level3">
 <h3 class="anchored" data-anchor-id="data-science-corps-dsc"><a href="https://new.nsf.gov/funding/opportunities/data-science-corps-dsc" target="_blank">Data Science Corps (DSC)</a></h3>
 <ul>
@@ -410,6 +408,18 @@ ul.task-list li input[type="checkbox"] {
 <li>Supports inherently interdisciplinary research projects that underpin the mathematical and engineering foundations behind the development and use of digital twins and synthetic data in biomedical and healthcare applications, with a particular focus on digital, in silico models used in the evaluation of medical devices and the relevance of the developed models in addressing current and emerging challenges affecting the development and assessment of biomedical technologies.</li>
 <li>Deadline: June 21, 2024</li>
 <li>Award: $1M or less for durations up to three years</li>
+</ul>
+</section>
+<section id="cyber-physical-systems-cps" class="level3">
+<h3 class="anchored" data-anchor-id="cyber-physical-systems-cps"><a href="https://new.nsf.gov/funding/opportunities/cyber-physical-systems-cps" target="_blank">Cyber-Physical Systems (CPS)</a></h3>
+<ul>
+<li>Supports research on engineered systems with a seamless integration of cyber and physical components, such as computation, control, networking, learning, autonomy, security, privacy and verification, for a range of application domains.
+<ul>
+<li><em>Small Projects</em> $500K for durations up to three years; rolling deadline ending May 31</li>
+<li><em>Medium Projects</em> $1M for durations up to three years; rolling deadline ending May 31</li>
+<li><em>Frontier Projects</em> up to $7M for durations up to five years; deadline September 3, 2024</li>
+</ul></li>
+<li><a href="https://www.nsf.gov/pubs/2024/nsf24017/nsf24017.jsp" target="_blank">DCL: Medical / Health Cyber Physical Systems Proposals</a><!-- November 8, 2023 --></li>
 </ul>
 </section>
 <section id="emerging-frontiers-in-research-and-innovation-efri-biocomputing-through-engineering-organoid-intelligence-begin-oi" class="level3">
@@ -428,23 +438,6 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="upcoming-recurring-proposal-deadlines" class="level2">
 <h2 class="anchored" data-anchor-id="upcoming-recurring-proposal-deadlines">Upcoming Recurring Proposal Deadlines</h2>
-<section id="improving-undergraduate-stem-education-computing-in-undergraduate-education-iuse-cue" class="level3">
-<h3 class="anchored" data-anchor-id="improving-undergraduate-stem-education-computing-in-undergraduate-education-iuse-cue"><a href="https://new.nsf.gov/funding/opportunities/improving-undergraduate-stem-education-computing" target="_blank">Improving Undergraduate STEM Education: Computing in Undergraduate Education (IUSE: CUE)</a></h3>
-<ul>
-<li>Supports partnerships to re-envision computing education to serve a broad group of students, in a scalable manner, with an emphasis on broadening the participation of groups who are underrepresented and underserved by traditional computing courses and careers.</li>
-<li>Deadline: May 30, 2024; April 29, 2025; recurring on last Tuesday in April annually</li>
-<li>Award: $1-2M for up to two years</li>
-<li><a href="https://new.nsf.gov/events/educateai-computing-undergraduate-education" target="_blank">EducateAI and Computing in Undergraduate Education (IUSE:CUE) Webinar</a> on May 9 at 12pm MT.</li>
-</ul>
-</section>
-<section id="artificial-intelligence-formal-methods-and-mathematical-reasoning-aiming" class="level3">
-<h3 class="anchored" data-anchor-id="artificial-intelligence-formal-methods-and-mathematical-reasoning-aiming"><a href="https://new.nsf.gov/funding/opportunities/artificial-intelligence-formal-methods" target="_blank">Artificial Intelligence, Formal Methods, and Mathematical Reasoning (AIMing)</a></h3>
-<ul>
-<li>Supports research at the interface of innovative computational and artificial intelligence (AI) technologies and new strategies/technologies in mathematical reasoning to automate knowledge discovery.</li>
-<li>Deadline: June 3, 2024, recurring on February 5, 2025</li>
-<li>Award: $500K-$1.2M for up to three years</li>
-</ul>
-</section>
 <section id="aced-accelerating-computing-enabled-scientific-discovery" class="level3">
 <h3 class="anchored" data-anchor-id="aced-accelerating-computing-enabled-scientific-discovery"><a href="https://new.nsf.gov/funding/opportunities/aced-accelerating-computing-enabled-scientific" target="_blank">ACED: Accelerating Computing-Enabled Scientific Discovery</a></h3>
 <ul>
@@ -670,6 +663,14 @@ ul.task-list li input[type="checkbox"] {
 <li>Award: $4-20M for durations up to five years</li>
 </ul>
 </section>
+<section id="artificial-intelligence-formal-methods-and-mathematical-reasoning-aiming" class="level3">
+<h3 class="anchored" data-anchor-id="artificial-intelligence-formal-methods-and-mathematical-reasoning-aiming"><a href="https://new.nsf.gov/funding/opportunities/artificial-intelligence-formal-methods" target="_blank">Artificial Intelligence, Formal Methods, and Mathematical Reasoning (AIMing)</a></h3>
+<ul>
+<li>Supports research at the interface of innovative computational and artificial intelligence (AI) technologies and new strategies/technologies in mathematical reasoning to automate knowledge discovery.</li>
+<li>Deadline: February 5, 2025</li>
+<li>Award: $500K-$1.2M for up to three years</li>
+</ul>
+</section>
 <section id="incorporating-human-behavior-in-epidemiological-models-ihbem" class="level3">
 <h3 class="anchored" data-anchor-id="incorporating-human-behavior-in-epidemiological-models-ihbem"><a href="https://new.nsf.gov/funding/opportunities/incorporating-human-behavior-epidemiological-0" target="_blank">Incorporating Human Behavior in Epidemiological Models (IHBEM)</a></h3>
 <ul>
@@ -708,6 +709,15 @@ ul.task-list li input[type="checkbox"] {
 <li>Award: <em>Track 1 (Institutional Capacity Building)</em> $1M for a duration of up to six years; <em>Track 2 (Implementation: Single Institution)</em> $2.5M for a duration of up to six years; <em>Track 3 (Inter-institutional Consortia)</em> $5M for a duration of up to six years; <em>Collaborative Planning</em> $100K for a duration of one year.</li>
 </ul>
 </section>
+<section id="improving-undergraduate-stem-education-computing-in-undergraduate-education-iuse-cue" class="level3">
+<h3 class="anchored" data-anchor-id="improving-undergraduate-stem-education-computing-in-undergraduate-education-iuse-cue"><a href="https://new.nsf.gov/funding/opportunities/improving-undergraduate-stem-education-computing" target="_blank">Improving Undergraduate STEM Education: Computing in Undergraduate Education (IUSE: CUE)</a></h3>
+<ul>
+<li>Supports partnerships to re-envision computing education to serve a broad group of students, in a scalable manner, with an emphasis on broadening the participation of groups who are underrepresented and underserved by traditional computing courses and careers.</li>
+<li>Deadline: April 29, 2025; recurring on last Tuesday in April annually</li>
+<li>Award: $1-2M for up to two years</li>
+<li><a href="https://new.nsf.gov/events/educateai-computing-undergraduate-education" target="_blank">EducateAI and Computing in Undergraduate Education (IUSE:CUE) Webinar</a> on May 9 at 12pm MT.</li>
+</ul>
+</section>
 <section id="mid-scale-research-infrastructure-2-mid-scale-ri-2" class="level3">
 <h3 class="anchored" data-anchor-id="mid-scale-research-infrastructure-2-mid-scale-ri-2"><a href="https://new.nsf.gov/funding/opportunities/mid-scale-research-infrastructure-2-mid-scale-ri-2" target="_blank">Mid-scale Research Infrastructure-2 (Mid-scale RI-2)</a></h3>
 <ul>
@@ -735,6 +745,8 @@ ul.task-list li input[type="checkbox"] {
 <section id="dear-colleague-letters" class="level3">
 <h3 class="anchored" data-anchor-id="dear-colleague-letters">Dear Colleague Letters</h3>
 <ul>
+<li><p><a href="https://www.nsf.gov/pubs/2024/nsf24093/nsf24093.jsp" target="_blank">National Artificial Intelligence Research Resource (NAIRR) Pilot Demonstration Projects</a> The NAIRR has been launched as a proof of concept to demonstrate the value and potential impact of the NAIRR concept as described in the <a href="https://www.ai.gov/wp-content/uploads/2023/01/NAIRR-TF-Final-Report-2023.pdf" target="_blank">NAIRR Task Force Report</a>. Activities aligned with the NAIRR Pilot vision include facilitating researcher and educator requests for computing, model access, and other resources; integrating data, software, platforms, and tools; reaching new and broad communities; fostering positive end user experiences; and building a NAIRR pilot user community. <!-- May 28, 2023 --></p></li>
+<li><p><a href="https://www.nsf.gov/pubs/2024/nsf24085/nsf24085.jsp" target="_blank">Leveraging Cyberinfrastructure for Research Data Management (RDM)</a> NSF invites Early-Concept Grants for Exploratory Research (EAGER) and conference/workshop proposals that aim to leverage cyberinfrastructure to advance research data management (RDM) and public access to research data in alignment with the goals of OAC’s <a href="https://new.nsf.gov/funding/opportunities/cyberinfrastructure-public-access-open-science-ci" target="_blank">Cyberinfrastructure for Public Access and Open Science (CI PAOS) program</a> and the <a href="https://new.nsf.gov/public-access" target="_blank">NSF Public Access Initiative (PAI)</a>. <!-- May 1, 2024 --></p></li>
 <li><p><a href="https://www.nsf.gov/pubs/2024/nsf24081/nsf24081.jsp" target="_blank">Using Long-Term Research Associated Data (ULTRA-Data)</a> NSF seeks to stimulate and encourage the use and reuse of data from environmental time series research to improve generalizable understanding in fields including (but not limited to) ecology, organismal evolution/adaptation, geoscience, and oceanography. <!--April 23, 2024--></p></li>
 <li><p><a href="https://new.nsf.gov/funding/opportunities/catalyzing-human-centered-solutions-through-0" target="_blank">Catalyzing human-centered solutions through research and innovation in science, the environment and society</a> NSF invites planning proposals for interdisciplinary research to create evidence-based solutions that strengthen human resilience, security, and quality of life by addressing seemingly intractable challenges that confront society. Concept outlines should be submitted by <em>May 1, 2024</em> with invited full proposals due <em>July 1, 2024</em>. <!-- March 28, 2024 --></p></li>
 <li><p><a href="https://www.nsf.gov/pubs/2024/nsf24069/nsf24069.jsp" target="_blank">Innovative Use of Scientific Collections (IUSC)</a> <!--March 18, 2024--></p></li>
@@ -753,7 +765,7 @@ ul.task-list li input[type="checkbox"] {
 <li><p><a href="https://www.nsf.gov/pubs/2021/nsf21080/nsf21080.jsp" target="_blank">Advancing Discovery with AI-Powered Tools (ADAPT) in the Mathematical and Physical Sciences</a> <!-- May 5, 2021 --></p></li>
 <li><p><a href="https://www.nsf.gov/pubs/2019/nsf19016/nsf19016.jsp" target="_blank">Fairness, Ethics, Accountability, and Transparency: Enabling Breakthrough Research to Expand Inclusivity in Computer and Information Science and Engineering Research</a> <!-- Nov 2, 2018 --></p></li>
 </ul>
-<p>Updated May 23, 2024.</p>
+<p>Updated June 12, 2024.</p>
 
 
 </section>
@@ -839,10 +851,32 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     // clear code selection
     e.clearSelection();
   });
-  function tippyHover(el, contentFn) {
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+    var mailtoRegex = new RegExp(/^mailto:/);
+      var filterRegex = new RegExp("^(?:http:|https:)\/\/www\.utah-data-science-hub\.github\.io\/**");
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+        // undo the damage that might have been done by quarto-nav.js in the case of
+        // links that we want to consider external
+        if (link.dataset.originalHref !== undefined) {
+          link.href = link.dataset.originalHref;
+        }
+          // target, if specified
+          link.setAttribute("target", "_blank");
+          if (link.getAttribute("rel") === null) {
+            link.setAttribute("rel", "noopener");
+          }
+      }
+    }
+  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
     const config = {
       allowHTML: true,
-      content: contentFn,
       maxWidth: 500,
       delay: 100,
       arrow: false,
@@ -852,8 +886,17 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       interactive: true,
       interactiveBorder: 10,
       theme: 'quarto',
-      placement: 'bottom-start'
+      placement: 'bottom-start',
     };
+    if (contentFn) {
+      config.content = contentFn;
+    }
+    if (onTriggerFn) {
+      config.onTrigger = onTriggerFn;
+    }
+    if (onUntriggerFn) {
+      config.onUntrigger = onUntriggerFn;
+    }
     window.tippy(el, config); 
   }
   const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
@@ -865,7 +908,130 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       try { href = new URL(href).hash; } catch {}
       const id = href.replace(/^#\/?/, "");
       const note = window.document.getElementById(id);
-      return note.innerHTML;
+      if (note) {
+        return note.innerHTML;
+      } else {
+        return "";
+      }
+    });
+  }
+  const xrefs = window.document.querySelectorAll('a.quarto-xref');
+  const processXRef = (id, note) => {
+    // Strip column container classes
+    const stripColumnClz = (el) => {
+      el.classList.remove("page-full", "page-columns");
+      if (el.children) {
+        for (const child of el.children) {
+          stripColumnClz(child);
+        }
+      }
+    }
+    stripColumnClz(note)
+    if (id === null || id.startsWith('sec-')) {
+      // Special case sections, only their first couple elements
+      const container = document.createElement("div");
+      if (note.children && note.children.length > 2) {
+        container.appendChild(note.children[0].cloneNode(true));
+        for (let i = 1; i < note.children.length; i++) {
+          const child = note.children[i];
+          if (child.tagName === "P" && child.innerText === "") {
+            continue;
+          } else {
+            container.appendChild(child.cloneNode(true));
+            break;
+          }
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(container);
+        }
+        return container.innerHTML
+      } else {
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        return note.innerHTML;
+      }
+    } else {
+      // Remove any anchor links if they are present
+      const anchorLink = note.querySelector('a.anchorjs-link');
+      if (anchorLink) {
+        anchorLink.remove();
+      }
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(note);
+      }
+      // TODO in 1.5, we should make sure this works without a callout special case
+      if (note.classList.contains("callout")) {
+        return note.outerHTML;
+      } else {
+        return note.innerHTML;
+      }
+    }
+  }
+  for (var i=0; i<xrefs.length; i++) {
+    const xref = xrefs[i];
+    tippyHover(xref, undefined, function(instance) {
+      instance.disable();
+      let url = xref.getAttribute('href');
+      let hash = undefined; 
+      if (url.startsWith('#')) {
+        hash = url;
+      } else {
+        try { hash = new URL(url).hash; } catch {}
+      }
+      if (hash) {
+        const id = hash.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note !== null) {
+          try {
+            const html = processXRef(id, note.cloneNode(true));
+            instance.setContent(html);
+          } finally {
+            instance.enable();
+            instance.show();
+          }
+        } else {
+          // See if we can fetch this
+          fetch(url.split('#')[0])
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.getElementById(id);
+            if (note !== null) {
+              const html = processXRef(id, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      } else {
+        // See if we can fetch a full url (with no hash to target)
+        // This is a special case and we should probably do some content thinning / targeting
+        fetch(url)
+        .then(res => res.text())
+        .then(html => {
+          const parser = new DOMParser();
+          const htmlDoc = parser.parseFromString(html, "text/html");
+          const note = htmlDoc.querySelector('main.content');
+          if (note !== null) {
+            // This should only happen for chapter cross references
+            // (since there is no id in the URL)
+            // remove the first header
+            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+              note.children[0].remove();
+            }
+            const html = processXRef(null, note);
+            instance.setContent(html);
+          } 
+        }).finally(() => {
+          instance.enable();
+          instance.show();
+        });
+      }
+    }, function(instance) {
     });
   }
       let selectedAnnoteEl;
@@ -909,6 +1075,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
             }
             div.style.top = top - 2 + "px";
             div.style.height = height + 4 + "px";
+            div.style.left = 0;
             let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
             if (gutterDiv === null) {
               gutterDiv = window.document.createElement("div");
@@ -934,6 +1101,32 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         });
         selectedAnnoteEl = undefined;
       };
+        // Handle positioning of the toggle
+    window.addEventListener(
+      "resize",
+      throttle(() => {
+        elRect = undefined;
+        if (selectedAnnoteEl) {
+          selectCodeLines(selectedAnnoteEl);
+        }
+      }, 10)
+    );
+    function throttle(fn, ms) {
+    let throttle = false;
+    let timer;
+      return (...args) => {
+        if(!throttle) { // first call gets through
+            fn.apply(this, args);
+            throttle = true;
+        } else { // all the others get throttled
+            if(timer) clearTimeout(timer); // cancel #2
+            timer = setTimeout(() => {
+              fn.apply(this, args);
+              timer = throttle = false;
+            }, ms);
+        }
+      };
+    }
       // Attach click handler to the DT
       const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
       for (const annoteDlNode of annoteDls) {
@@ -991,23 +1184,10 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       });
     }
   }
-    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
-      var filterRegex = new RegExp("^(?:http:|https:)\/\/www\.utah-data-science-hub\.github\.io\/**");
-    var isInternal = (href) => {
-        return filterRegex.test(href) || localhostRegex.test(href);
-    }
-    // Inspect non-navigation links and adorn them if external
- 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item)');
-    for (var i=0; i<links.length; i++) {
-      const link = links[i];
-      if (!isInternal(link.href)) {
-          // target, if specified
-          link.setAttribute("target", "_blank");
-      }
-    }
 });
 </script>
 </div> <!-- /content -->
+
 
 
 

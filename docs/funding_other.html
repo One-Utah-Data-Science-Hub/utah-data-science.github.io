@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.3.450">
+<meta name="generator" content="quarto-1.4.553">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -45,7 +45,13 @@ ul.task-list li input[type="checkbox"] {
   "collapse-after": 3,
   "panel-placement": "start",
   "type": "textbox",
-  "limit": 20,
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
   "language": {
     "search-no-results-text": "No results",
     "search-matching-documents-text": "matching documents",
@@ -54,6 +60,7 @@ ul.task-list li input[type="checkbox"] {
     "search-more-match-text": "more match in this document",
     "search-more-matches-text": "more matches in this document",
     "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
     "search-detached-cancel-button-title": "Cancel",
     "search-submit-button-title": "Submit",
     "search-label": "Search"
@@ -70,12 +77,12 @@ ul.task-list li input[type="checkbox"] {
   <header id="quarto-header" class="headroom fixed-top">
   <nav class="quarto-secondary-nav">
     <div class="container-fluid d-flex">
-      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./funding.html">Funding Opportunities</a></li><li class="breadcrumb-item"><a href="./funding_other.html">Other Funding</a></li></ol></nav>
-      <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
-      </a>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./funding.html">Funding Opportunities</a></li><li class="breadcrumb-item"><a href="./funding_other.html">Other Funding</a></li></ol></nav>
+        <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
+        </a>
       <button type="button" class="btn quarto-search-button" aria-label="" onclick="window.quartoOpenSearch();">
         <i class="bi bi-search"></i>
       </button>
@@ -85,14 +92,14 @@ ul.task-list li input[type="checkbox"] {
 <!-- content -->
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article">
 <!-- sidebar -->
-  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal sidebar-navigation docked overflow-auto">
+  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation docked overflow-auto">
     <div class="pt-lg-2 mt-2 text-left sidebar-header">
       <a href="./index.html" class="sidebar-logo-link">
       <img src="./images/NewHubLogoSquare.png" alt="" class="sidebar-logo py-0 d-lg-inline d-none">
       </a>
       <div class="sidebar-tools-main">
-    <a href="https://twitter.com/UtahDataSciHub" rel="" title="" class="quarto-navigation-tool px-1" aria-label=""><i class="bi bi-twitter"></i></a>
-    <a href="mailto:data-science-hub@utah.edu?subject=Utah%20Data%20Science%20Webpage%20Request" rel="" title="" class="quarto-navigation-tool px-1" aria-label=""><i class="bi bi-envelope"></i></a>
+    <a href="https://twitter.com/UtahDataSciHub" title="" class="quarto-navigation-tool px-1" aria-label=""><i class="bi bi-twitter"></i></a>
+    <a href="mailto:data-science-hub@utah.edu?subject=Utah%20Data%20Science%20Webpage%20Request" title="" class="quarto-navigation-tool px-1" aria-label=""><i class="bi bi-envelope"></i></a>
 </div>
       </div>
         <div class="mt-2 flex-shrink-0 align-items-center">
@@ -211,7 +218,7 @@ ul.task-list li input[type="checkbox"] {
     </ul>
     </div>
 </nav>
-<div id="quarto-sidebar-glass" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass"></div>
+<div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         <nav id="TOC" role="doc-toc" class="toc-active">
@@ -221,26 +228,20 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#foundation-funding-opportunities" id="toc-foundation-funding-opportunities" class="nav-link active" data-scroll-target="#foundation-funding-opportunities">Foundation Funding Opportunities</a>
   <ul class="collapse">
   <li><a href="#foresight-institute-ai-safety-neurosecuritycryptographymultipolar-approaches" id="toc-foresight-institute-ai-safety-neurosecuritycryptographymultipolar-approaches" class="nav-link" data-scroll-target="#foresight-institute-ai-safety-neurosecuritycryptographymultipolar-approaches">Foresight Institute: AI Safety: Neuro/Security/Cryptography/Multipolar Approaches</a></li>
-  <li><a href="#the-michelson-prizes-next-generation-grants" id="toc-the-michelson-prizes-next-generation-grants" class="nav-link" data-scroll-target="#the-michelson-prizes-next-generation-grants">The Michelson Prizes: Next Generation Grants</a></li>
+  <li><a href="#alfred-p.-sloan-creating-equitable-pathways-to-stem-graduate-education" id="toc-alfred-p.-sloan-creating-equitable-pathways-to-stem-graduate-education" class="nav-link" data-scroll-target="#alfred-p.-sloan-creating-equitable-pathways-to-stem-graduate-education">Alfred P. Sloan: Creating Equitable Pathways to STEM Graduate Education</a></li>
   </ul></li>
   <li><a href="#international-funding-opportunities" id="toc-international-funding-opportunities" class="nav-link" data-scroll-target="#international-funding-opportunities">International Funding Opportunities</a>
   <ul class="collapse">
-  <li><a href="#advanced-research-invention-agency-safeguarded-ai-ta1.1-theory" id="toc-advanced-research-invention-agency-safeguarded-ai-ta1.1-theory" class="nav-link" data-scroll-target="#advanced-research-invention-agency-safeguarded-ai-ta1.1-theory">Advanced Research + Invention Agency: Safeguarded AI, TA1.1 Theory</a></li>
   <li><a href="#japan-science-and-technology-agency-adopting-sustainable-partnerships-for-innovative-research-ecosystem-aspire-call-for-proposals" id="toc-japan-science-and-technology-agency-adopting-sustainable-partnerships-for-innovative-research-ecosystem-aspire-call-for-proposals" class="nav-link" data-scroll-target="#japan-science-and-technology-agency-adopting-sustainable-partnerships-for-innovative-research-ecosystem-aspire-call-for-proposals">Japan Science and Technology Agency: Adopting Sustainable Partnerships for Innovative Research Ecosystem (ASPIRE) Call for Proposals</a></li>
   </ul></li>
   <li><a href="#governmental-funding-opportunities" id="toc-governmental-funding-opportunities" class="nav-link" data-scroll-target="#governmental-funding-opportunities">Governmental Funding Opportunities</a>
   <ul class="collapse">
-  <li><a href="#nist-and-doc-regional-alliances-and-multistakeholder-partnerships-to-stimulate-ramps-cybersecurity-education-and-workforce-development" id="toc-nist-and-doc-regional-alliances-and-multistakeholder-partnerships-to-stimulate-ramps-cybersecurity-education-and-workforce-development" class="nav-link" data-scroll-target="#nist-and-doc-regional-alliances-and-multistakeholder-partnerships-to-stimulate-ramps-cybersecurity-education-and-workforce-development">NIST and DOC: Regional Alliances and Multistakeholder Partnerships to Stimulate (RAMPS) Cybersecurity Education and Workforce Development</a></li>
-  <li><a href="#epa-advancing-sustainable-chemistry" id="toc-epa-advancing-sustainable-chemistry" class="nav-link" data-scroll-target="#epa-advancing-sustainable-chemistry">EPA: Advancing Sustainable Chemistry</a></li>
-  <li><a href="#aim-ahead-federated-network" id="toc-aim-ahead-federated-network" class="nav-link" data-scroll-target="#aim-ahead-federated-network">AIM-AHEAD: Federated-Network</a></li>
-  <li><a href="#dod-joint-warfighter-medical-research" id="toc-dod-joint-warfighter-medical-research" class="nav-link" data-scroll-target="#dod-joint-warfighter-medical-research">DoD: Joint Warfighter Medical Research</a></li>
-  <li><a href="#arpa-h-chatbot-accuracy-and-reliability-evaluation-care-exploration-topic" id="toc-arpa-h-chatbot-accuracy-and-reliability-evaluation-care-exploration-topic" class="nav-link" data-scroll-target="#arpa-h-chatbot-accuracy-and-reliability-evaluation-care-exploration-topic">ARPA-H: Chatbot Accuracy and Reliability Evaluation (CARE) Exploration Topic</a></li>
-  <li><a href="#hhs-child-care-and-development-fund-ccdf-lead-agency-data-and-research-capacity-grants" id="toc-hhs-child-care-and-development-fund-ccdf-lead-agency-data-and-research-capacity-grants" class="nav-link" data-scroll-target="#hhs-child-care-and-development-fund-ccdf-lead-agency-data-and-research-capacity-grants">HHS: Child Care and Development Fund (CCDF) Lead Agency Data and Research Capacity Grants</a></li>
   <li><a href="#darpa-microsystems-technology-office---embedded-microsystem-intelligence-and-localized-processing-thrust" id="toc-darpa-microsystems-technology-office---embedded-microsystem-intelligence-and-localized-processing-thrust" class="nav-link" data-scroll-target="#darpa-microsystems-technology-office---embedded-microsystem-intelligence-and-localized-processing-thrust">DARPA: Microsystems Technology Office - Embedded Microsystem Intelligence and Localized Processing Thrust</a></li>
   <li><a href="#aim-ahead-aiml-in-biomedical-research-and-clinical-practice-that-embodies-ethics-and-equity-abc-ee" id="toc-aim-ahead-aiml-in-biomedical-research-and-clinical-practice-that-embodies-ethics-and-equity-abc-ee" class="nav-link" data-scroll-target="#aim-ahead-aiml-in-biomedical-research-and-clinical-practice-that-embodies-ethics-and-equity-abc-ee">AIM-AHEAD: AI/ML in Biomedical Research and Clinical Practice That Embodies Ethics and Equity (ABC-EE)</a></li>
   <li><a href="#aim-ahead-research-fellows-program-in-aiml" id="toc-aim-ahead-research-fellows-program-in-aiml" class="nav-link" data-scroll-target="#aim-ahead-research-fellows-program-in-aiml">AIM-AHEAD: Research Fellows Program in AI/ML</a></li>
   <li><a href="#aim-ahead-public-private-partnerships-to-improve-population-health-using-aiml" id="toc-aim-ahead-public-private-partnerships-to-improve-population-health-using-aiml" class="nav-link" data-scroll-target="#aim-ahead-public-private-partnerships-to-improve-population-health-using-aiml">AIM-AHEAD: Public-Private Partnerships to Improve Population Health Using AI/ML</a></li>
   <li><a href="#aim-ahead-clinicians-leading-ingenuity-in-al-quality-clinaq-fellowship-program" id="toc-aim-ahead-clinicians-leading-ingenuity-in-al-quality-clinaq-fellowship-program" class="nav-link" data-scroll-target="#aim-ahead-clinicians-leading-ingenuity-in-al-quality-clinaq-fellowship-program">AIM-AHEAD: Clinicians Leading Ingenuity IN Al Quality (CLINAQ) Fellowship Program</a></li>
+  <li><a href="#hhs-child-care-and-development-fund-ccdf-lead-agency-data-and-research-capacity-grants" id="toc-hhs-child-care-and-development-fund-ccdf-lead-agency-data-and-research-capacity-grants" class="nav-link" data-scroll-target="#hhs-child-care-and-development-fund-ccdf-lead-agency-data-and-research-capacity-grants">HHS: Child Care and Development Fund (CCDF) Lead Agency Data and Research Capacity Grants</a></li>
   <li><a href="#dod-prostate-cancer-data-science-award" id="toc-dod-prostate-cancer-data-science-award" class="nav-link" data-scroll-target="#dod-prostate-cancer-data-science-award">DoD: Prostate Cancer, Data Science Award</a></li>
   <li><a href="#darpa-forward-looking-experimentation-flex" id="toc-darpa-forward-looking-experimentation-flex" class="nav-link" data-scroll-target="#darpa-forward-looking-experimentation-flex">DARPA: Forward-Looking Experimentation (FLEX)</a></li>
   <li><a href="#darpa-scientific-feasibility" id="toc-darpa-scientific-feasibility" class="nav-link" data-scroll-target="#darpa-scientific-feasibility">DARPA: Scientific Feasibility</a></li>
@@ -257,7 +258,7 @@ ul.task-list li input[type="checkbox"] {
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default">
+<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./funding.html">Funding Opportunities</a></li><li class="breadcrumb-item"><a href="./funding_other.html">Other Funding</a></li></ol></nav>
 <div class="quarto-title">
 <h1 class="title">Other Funding Opportunities</h1>
 </div>
@@ -272,7 +273,9 @@ ul.task-list li input[type="checkbox"] {
   </div>
   
 
+
 </header>
+
 
 <!-- ### [](){target="_blank"}
 * S
@@ -294,26 +297,23 @@ ul.task-list li input[type="checkbox"] {
 <li>Application should take no more than 3 hours!</li>
 </ul>
 </section>
-<section id="the-michelson-prizes-next-generation-grants" class="level3">
-<h3 class="anchored" data-anchor-id="the-michelson-prizes-next-generation-grants"><a href="https://michelsonprizes.smapply.org" target="_blank">The Michelson Prizes: Next Generation Grants</a></h3>
+<section id="alfred-p.-sloan-creating-equitable-pathways-to-stem-graduate-education" class="level3">
+<h3 class="anchored" data-anchor-id="alfred-p.-sloan-creating-equitable-pathways-to-stem-graduate-education"><a href="https://sloan.org/programs/higher-education/equitable-pathways/2024-Call-for-LOIs" target="_blank">Alfred P. Sloan: Creating Equitable Pathways to STEM Graduate Education</a></h3>
 <ul>
-<li>Supports early-career scientists advancing human immunology, vaccine discovery, and immunotherapy for major global diseases, including applicants from artificial intelligence/machine learning. Please contact <a href="mailto:lynn.wong@hsc.utah.edu">Lynn Wong</a> if you are interested in applying to this opportunity.</li>
-<li>Deadline: June 9, 2024 (Two-page proposal)</li>
-<li>Award: $150K</li>
+<li>Supports engagement of the expertise of MSIs—and the unique experiences of their faculty and students—to model effective systems and practices that remove barriers and create opportunities for equitable learning environments in STEM graduate education so all students can thrive.</li>
+<li>Deadline: July 1, 2024 (LOI)</li>
+<li>Awards:
+<ul>
+<li><em>Planning grants</em> to support two or more institutions to conduct internal reviews of existing barriers to student success and for analysis and planning for a future partnership(s) (up to $75K for up to 1 year)</li>
+<li><em>Seed grants</em> to two or more institutions that seek to formalize an existing partnership(s) and launch one or more pilot initiatives (up to $250K for 1-2 years)</li>
+<li><em>Implementation grants</em> to two or more institutions that allow for the augmentation or scaling of existing partnerships/collaborations (up to $500K for 2-3 years)</li>
+</ul></li>
 </ul>
 <!--## Industry Funding Opportunities-->
 </section>
 </section>
 <section id="international-funding-opportunities" class="level2">
 <h2 class="anchored" data-anchor-id="international-funding-opportunities">International Funding Opportunities</h2>
-<section id="advanced-research-invention-agency-safeguarded-ai-ta1.1-theory" class="level3">
-<h3 class="anchored" data-anchor-id="advanced-research-invention-agency-safeguarded-ai-ta1.1-theory"><a href="https://www.aria.org.uk/programme-safeguarded-ai/" target="_blank">Advanced Research + Invention Agency: Safeguarded AI, TA1.1 Theory</a></h3>
-<ul>
-<li>Supports R&amp;D Creators, individuals and teams to research and construct computationally practicable mathematical representations and formal semantics to support world-models, specifications about state-trajectories, neural systems, proofs that neural outputs validate specifications, and “version control” (incremental updates or “patches”) thereof.</li>
-<li>Deadline: May 28, 2024</li>
-<li>Award: £3.5M over 10-16 awards</li>
-</ul>
-</section>
 <section id="japan-science-and-technology-agency-adopting-sustainable-partnerships-for-innovative-research-ecosystem-aspire-call-for-proposals" class="level3">
 <h3 class="anchored" data-anchor-id="japan-science-and-technology-agency-adopting-sustainable-partnerships-for-innovative-research-ecosystem-aspire-call-for-proposals"><a href="https://www.jst.go.jp/inter/aspire/en/program_e/announce_e/announce_aspire2023_e.html" target="_blank">Japan Science and Technology Agency: Adopting Sustainable Partnerships for Innovative Research Ecosystem (ASPIRE) Call for Proposals</a></h3>
 <ul>
@@ -328,54 +328,6 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="governmental-funding-opportunities" class="level2">
 <h2 class="anchored" data-anchor-id="governmental-funding-opportunities">Governmental Funding Opportunities</h2>
-<section id="nist-and-doc-regional-alliances-and-multistakeholder-partnerships-to-stimulate-ramps-cybersecurity-education-and-workforce-development" class="level3">
-<h3 class="anchored" data-anchor-id="nist-and-doc-regional-alliances-and-multistakeholder-partnerships-to-stimulate-ramps-cybersecurity-education-and-workforce-development"><a href="https://www.grants.gov/search-results-detail/353143" target="_blank">NIST and DOC: Regional Alliances and Multistakeholder Partnerships to Stimulate (RAMPS) Cybersecurity Education and Workforce Development</a></h3>
-<ul>
-<li>Supports activities to establish community-based partnerships to develop cybersecurity career pathways that address local workforce needs. Effective multistakeholder workforce partnerships will organize multiple employers with skill shortages in specific occupations to focus on developing the skilled workforce to meet industry needs within the local or regional economy.</li>
-<li>Deadline: May 24, 2024</li>
-<li>Award: Up to $200K for durations up to two years</li>
-</ul>
-</section>
-<section id="epa-advancing-sustainable-chemistry" class="level3">
-<h3 class="anchored" data-anchor-id="epa-advancing-sustainable-chemistry"><a href="https://www.grants.gov/search-results-detail/353029" target="_blank">EPA: Advancing Sustainable Chemistry</a></h3>
-<ul>
-<li>Supports research for data, methods, and systems that lead to actionable, scalable change toward chemistry, chemicals, and products that support sustainable chemistry.</li>
-<li>Deadline: May 29, 2024</li>
-<li>Award: $1.5M</li>
-</ul>
-</section>
-<section id="aim-ahead-federated-network" class="level3">
-<h3 class="anchored" data-anchor-id="aim-ahead-federated-network"><a href="https://www.aim-ahead.net/federated-network/" target="_blank">AIM-AHEAD: Federated-Network</a></h3>
-<ul>
-<li>Supports research teams from each site to (i) assemble EHR data locally from their institution to be used for AIM-AHEAD research projects; (ii) provide informatics expertise to participate in EHR data harmonization across sites; and (iii) facilitate the analysis of EHR data using AI/ML algorithms developed by the AIM-AHEAD researchers.</li>
-<li>Deadline: June 3, 2024</li>
-<li>Award: $100K (total) for Year 1 and $300K (total) for Year 2</li>
-</ul>
-</section>
-<section id="dod-joint-warfighter-medical-research" class="level3">
-<h3 class="anchored" data-anchor-id="dod-joint-warfighter-medical-research"><a href="https://cdmrp.health.mil/funding/jwmrp" target="_blank">DoD: Joint Warfighter Medical Research</a></h3>
-<ul>
-<li>Supports projects to augment and accelerate medical product development and health care solutions addressing virtual/telehealth and decision support with artificial intelligence solution to provide combat casualty care/prolonged care.</li>
-<li>Deadline: June 3, 2024 (pre-application)</li>
-<li>Award: $2-3.4M</li>
-</ul>
-</section>
-<section id="arpa-h-chatbot-accuracy-and-reliability-evaluation-care-exploration-topic" class="level3">
-<h3 class="anchored" data-anchor-id="arpa-h-chatbot-accuracy-and-reliability-evaluation-care-exploration-topic"><a href="https://sam.gov/opp/8d3c07159e9f4d32ab7b179d365e6fab/view" target="_blank">ARPA-H: Chatbot Accuracy and Reliability Evaluation (CARE) Exploration Topic</a></h3>
-<ul>
-<li>Supports production of tools and technology that evaluates output with the efficiency of computational methods and the accuracy of human experts, with specific interest in development of new evaluation technologies for detecting hallucinations and other inaccuracies in medical Large Language Model (LLM) output for patient-facing applications.</li>
-<li>Deadline: June 3, 2024</li>
-<li>Award: Multiple awards are expected</li>
-</ul>
-</section>
-<section id="hhs-child-care-and-development-fund-ccdf-lead-agency-data-and-research-capacity-grants" class="level3">
-<h3 class="anchored" data-anchor-id="hhs-child-care-and-development-fund-ccdf-lead-agency-data-and-research-capacity-grants"><a href="https://www.grants.gov/search-results-detail/351794" target="_blank">HHS: Child Care and Development Fund (CCDF) Lead Agency Data and Research Capacity Grants</a></h3>
-<ul>
-<li>Supports capacity of CCDF Lead Agencies to use data, including data on children, families, the workforce, and providers that participate in the child care subsidy system, to make data-informed decisions to improve child care policies and practices.</li>
-<li>Deadline: July 8, 2024</li>
-<li>Award: $150K for durations of 18 months</li>
-</ul>
-</section>
 <section id="darpa-microsystems-technology-office---embedded-microsystem-intelligence-and-localized-processing-thrust" class="level3">
 <h3 class="anchored" data-anchor-id="darpa-microsystems-technology-office---embedded-microsystem-intelligence-and-localized-processing-thrust"><a href="https://sam.gov/opp/6214ecd14eeb41fd8103bad223837cd3/view" target="_blank">DARPA: Microsystems Technology Office - Embedded Microsystem Intelligence and Localized Processing Thrust</a></h3>
 <ul>
@@ -416,6 +368,14 @@ ul.task-list li input[type="checkbox"] {
 <li>Deadline: June 30, 2024</li>
 <li>Award: $55,475 stipend</li>
 <li>Informational Webinar on June 3, 2024. <a href="https://signup.aim-ahead.net/event/p/B3381003Ad" target="_blank">Register Now</a>!</li>
+</ul>
+</section>
+<section id="hhs-child-care-and-development-fund-ccdf-lead-agency-data-and-research-capacity-grants" class="level3">
+<h3 class="anchored" data-anchor-id="hhs-child-care-and-development-fund-ccdf-lead-agency-data-and-research-capacity-grants"><a href="https://www.grants.gov/search-results-detail/351794" target="_blank">HHS: Child Care and Development Fund (CCDF) Lead Agency Data and Research Capacity Grants</a></h3>
+<ul>
+<li>Supports capacity of CCDF Lead Agencies to use data, including data on children, families, the workforce, and providers that participate in the child care subsidy system, to make data-informed decisions to improve child care policies and practices.</li>
+<li>Deadline: July 8, 2024</li>
+<li>Award: $150K for durations of 18 months</li>
 </ul>
 </section>
 <section id="dod-prostate-cancer-data-science-award" class="level3">
@@ -493,20 +453,11 @@ ul.task-list li input[type="checkbox"] {
 <li>Stakeholder Engagement</li>
 <li>Artificial Intelligence</li>
 </ul></li>
-<li><p><a href="https://docs.google.com/forms/d/e/1FAIpQLSezl1aE7_czp-CQRxQX098EZTgB7T-xc5uVnVl1jMdAFTO5rw/viewform" target="_blank">RFI: Pathways to AI-enabled research: Transforming scientific work with tools and technology</a> The Open Science Program at Chan Zuckerberg Initiative (CZI) and Alfred P. Sloan Foundation Technology Program (Sloan) are excited to hear community input about existing applications of AI to empower scientific work that are consistent with open research practices. Submissions accepted until May 30, 2024.</p></li>
-<li><p>The National Institute of Standards and Technology (NIST) has released four draft publications intended to help improve the safety, security and trustworthiness of artificial intelligence (AI) systems <a href="https://content.govdelivery.com/accounts/USNIST/bulletins/399775f" target="_blank">link</a>. All are part of the agency’s response to Executive Order 14110 on the Safe, Secure and Trustworthy Development of AI. Comments on each draft are requested by June 2, 2024.</p>
-<ul>
-<li>NIST AI 600-1, Artificial Intelligence Risk Management Framework: Generative Artificial Intelligence Profile</li>
-<li>NIST SP 800-218A, Secure Software Development Practices for Generative AI and Dual-Use Foundation Models</li>
-<li>NIST AI 100-4, Reducing Risks Posed by Synthetic Content: An Overview of Technical Approaches to Digital Content Transparency</li>
-<li>NIST AI 100-5, A Plan for Global Engagement on AI Standards</li>
-</ul></li>
-<li><p>Drafts of NIST AI 600-1, NIST AI 100-5 and NIST AI 100-4 are available for review and comment on the <a href="https://airc.nist.gov/AI_RMF_Knowledge_Base/Technical_And_Policy_Documents" target="_blank">NIST Artificial Intelligence Resource Center website</a>; and the draft of NIST SP 800-218A is available for review and comment on the <a href="https://csrc.nist.gov/projects/ssdf" target="_blank">NIST Computer Security Resource Center website</a>.</p></li>
 <li><p><a href="https://datascience.cancer.gov/news-events/news/participate-nci-medical-image-de-identification-benchmark-challenge-miccai-2024" target="_blank">NCI Medical Image De-Identification Benchmark Challenge at MICCAI 2024</a> for developers (independent, academic, or industrial) who wants to assess your software tool’s performance with rule-based de-identification of DICOM images. Registration closes August 15, 2024.</p></li>
 <li><p><a href="https://www.challenge.gov/?challenge=targeted-challenge" target="_blank">NIH and CGE Targeted Genome Editor Delivery (TARGETED) Challenge</a> aims to revolutionize technology development of delivery systems for in vivo genome editing. This is a <em>$6M competition</em> to improve in vivo delivery technologies for genome editors in two Target Areas: 1. Programmable delivery systems, and 2. Non-viral delivery across the blood-brain barrier. The National Institutes of Health (NIH), through the Common Fund’s <a href="https://commonfund.nih.gov/editing" target="_blank">Somatic Cell Genome Editing (SCGE)</a> program, is seeking Participants with ideas or early-stage solutions to join the Challenge with the chance to win up to $1,000,000 and have their solution independently tested and validated in large animal models through NIH-supported independent evaluation relevant to preclinical assessments of investigational products. Phase 2 is open until January 10, 2025.</p></li>
 </ul>
 <!--## Policy and Engagement -->
-<p>Updated May 23, 2024.</p>
+<p>Updated June 12, 2024.</p>
 
 
 </section>
@@ -591,10 +542,32 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     // clear code selection
     e.clearSelection();
   });
-  function tippyHover(el, contentFn) {
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+    var mailtoRegex = new RegExp(/^mailto:/);
+      var filterRegex = new RegExp("^(?:http:|https:)\/\/www\.utah-data-science-hub\.github\.io\/**");
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+        // undo the damage that might have been done by quarto-nav.js in the case of
+        // links that we want to consider external
+        if (link.dataset.originalHref !== undefined) {
+          link.href = link.dataset.originalHref;
+        }
+          // target, if specified
+          link.setAttribute("target", "_blank");
+          if (link.getAttribute("rel") === null) {
+            link.setAttribute("rel", "noopener");
+          }
+      }
+    }
+  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
     const config = {
       allowHTML: true,
-      content: contentFn,
       maxWidth: 500,
       delay: 100,
       arrow: false,
@@ -604,8 +577,17 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       interactive: true,
       interactiveBorder: 10,
       theme: 'quarto',
-      placement: 'bottom-start'
+      placement: 'bottom-start',
     };
+    if (contentFn) {
+      config.content = contentFn;
+    }
+    if (onTriggerFn) {
+      config.onTrigger = onTriggerFn;
+    }
+    if (onUntriggerFn) {
+      config.onUntrigger = onUntriggerFn;
+    }
     window.tippy(el, config); 
   }
   const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
@@ -617,7 +599,130 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       try { href = new URL(href).hash; } catch {}
       const id = href.replace(/^#\/?/, "");
       const note = window.document.getElementById(id);
-      return note.innerHTML;
+      if (note) {
+        return note.innerHTML;
+      } else {
+        return "";
+      }
+    });
+  }
+  const xrefs = window.document.querySelectorAll('a.quarto-xref');
+  const processXRef = (id, note) => {
+    // Strip column container classes
+    const stripColumnClz = (el) => {
+      el.classList.remove("page-full", "page-columns");
+      if (el.children) {
+        for (const child of el.children) {
+          stripColumnClz(child);
+        }
+      }
+    }
+    stripColumnClz(note)
+    if (id === null || id.startsWith('sec-')) {
+      // Special case sections, only their first couple elements
+      const container = document.createElement("div");
+      if (note.children && note.children.length > 2) {
+        container.appendChild(note.children[0].cloneNode(true));
+        for (let i = 1; i < note.children.length; i++) {
+          const child = note.children[i];
+          if (child.tagName === "P" && child.innerText === "") {
+            continue;
+          } else {
+            container.appendChild(child.cloneNode(true));
+            break;
+          }
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(container);
+        }
+        return container.innerHTML
+      } else {
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        return note.innerHTML;
+      }
+    } else {
+      // Remove any anchor links if they are present
+      const anchorLink = note.querySelector('a.anchorjs-link');
+      if (anchorLink) {
+        anchorLink.remove();
+      }
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(note);
+      }
+      // TODO in 1.5, we should make sure this works without a callout special case
+      if (note.classList.contains("callout")) {
+        return note.outerHTML;
+      } else {
+        return note.innerHTML;
+      }
+    }
+  }
+  for (var i=0; i<xrefs.length; i++) {
+    const xref = xrefs[i];
+    tippyHover(xref, undefined, function(instance) {
+      instance.disable();
+      let url = xref.getAttribute('href');
+      let hash = undefined; 
+      if (url.startsWith('#')) {
+        hash = url;
+      } else {
+        try { hash = new URL(url).hash; } catch {}
+      }
+      if (hash) {
+        const id = hash.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note !== null) {
+          try {
+            const html = processXRef(id, note.cloneNode(true));
+            instance.setContent(html);
+          } finally {
+            instance.enable();
+            instance.show();
+          }
+        } else {
+          // See if we can fetch this
+          fetch(url.split('#')[0])
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.getElementById(id);
+            if (note !== null) {
+              const html = processXRef(id, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      } else {
+        // See if we can fetch a full url (with no hash to target)
+        // This is a special case and we should probably do some content thinning / targeting
+        fetch(url)
+        .then(res => res.text())
+        .then(html => {
+          const parser = new DOMParser();
+          const htmlDoc = parser.parseFromString(html, "text/html");
+          const note = htmlDoc.querySelector('main.content');
+          if (note !== null) {
+            // This should only happen for chapter cross references
+            // (since there is no id in the URL)
+            // remove the first header
+            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+              note.children[0].remove();
+            }
+            const html = processXRef(null, note);
+            instance.setContent(html);
+          } 
+        }).finally(() => {
+          instance.enable();
+          instance.show();
+        });
+      }
+    }, function(instance) {
     });
   }
       let selectedAnnoteEl;
@@ -661,6 +766,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
             }
             div.style.top = top - 2 + "px";
             div.style.height = height + 4 + "px";
+            div.style.left = 0;
             let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
             if (gutterDiv === null) {
               gutterDiv = window.document.createElement("div");
@@ -686,6 +792,32 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         });
         selectedAnnoteEl = undefined;
       };
+        // Handle positioning of the toggle
+    window.addEventListener(
+      "resize",
+      throttle(() => {
+        elRect = undefined;
+        if (selectedAnnoteEl) {
+          selectCodeLines(selectedAnnoteEl);
+        }
+      }, 10)
+    );
+    function throttle(fn, ms) {
+    let throttle = false;
+    let timer;
+      return (...args) => {
+        if(!throttle) { // first call gets through
+            fn.apply(this, args);
+            throttle = true;
+        } else { // all the others get throttled
+            if(timer) clearTimeout(timer); // cancel #2
+            timer = setTimeout(() => {
+              fn.apply(this, args);
+              timer = throttle = false;
+            }, ms);
+        }
+      };
+    }
       // Attach click handler to the DT
       const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
       for (const annoteDlNode of annoteDls) {
@@ -743,23 +875,10 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       });
     }
   }
-    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
-      var filterRegex = new RegExp("^(?:http:|https:)\/\/www\.utah-data-science-hub\.github\.io\/**");
-    var isInternal = (href) => {
-        return filterRegex.test(href) || localhostRegex.test(href);
-    }
-    // Inspect non-navigation links and adorn them if external
- 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item)');
-    for (var i=0; i<links.length; i++) {
-      const link = links[i];
-      if (!isInternal(link.href)) {
-          // target, if specified
-          link.setAttribute("target", "_blank");
-      }
-    }
 });
 </script>
 </div> <!-- /content -->
+
 
 
 

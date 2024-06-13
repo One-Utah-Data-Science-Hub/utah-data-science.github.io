@@ -6,16 +6,6 @@ title: "NIH Funding Opportunities"
 * Deadline: 
 * Award: , $ for durations up to  years -->
 ## Cooperative Agreement (U) Grants
-### [Center of Excellence for Systems Modeling of Infection and Immunity across Biological Scales](https://grants.nih.gov/grants/guide/rfa-files/RFA-AI-23-077.html){target="_blank"}
-* Supports the establishment of one (1) Center of Excellence (CoE) to coordinate the research community of infectious and immune-mediated disease (IID) computational modelers and advance IID modeling research across biological scales.
-* Deadline: May 31, 2024 (LOI), June 30, 2024 (Proposal)
-* Award: U54, $3.125M for durations of five years
-
-### [HEAL Initiative: Interdisciplinary Team Science to Uncover the Mechanisms of Pain Relief by Medical Devices](https://grants.nih.gov/grants/guide/rfa-files/rfa-ns-23-003.html){target="_blank"}
-* Supports interdisciplinary research teams of multiple PDs/PIs to investigate the mechanism of action of pain relief by medical devices with the overall goal of optimizing therapeutic outcomes for FDA-approved or -cleared technologies. 
-* Deadline: June 10, 2024 and June 9, 2025
-* Award: RM1, generally $1.5M/year (direct) for durations up to five years
-
 ### [ML/AI Tools to Advance Genomic Translational Research (MAGen) - Coordinating Center](https://grants.nih.gov/grants/guide/rfa-files/RFA-HG-24-005.html){target="_blank"}
 * Supports the development of novel Machine Learning/Artificial Intelligence (ML/AI) tools to explore their potential for advancing genomic translational research. The MAGen CC will be responsible for implementing approaches to bring diverse teams together to enable synergistic and collaborative team science across the Consortium. 
 * Deadline: June 26, 2024 (LOI), July 26, 2024 (proposal) 
@@ -67,26 +57,27 @@ title: "NIH Funding Opportunities"
 * Deadline:  October 15, 2024 (LOI), November 15, 2024 (Proposal)
 * Award: U24, $600K/year (direct) for durations of five years
 
+### [HEAL Initiative: Interdisciplinary Team Science to Uncover the Mechanisms of Pain Relief by Medical Devices](https://grants.nih.gov/grants/guide/rfa-files/rfa-ns-23-003.html){target="_blank"}
+* Supports interdisciplinary research teams of multiple PDs/PIs to investigate the mechanism of action of pain relief by medical devices with the overall goal of optimizing therapeutic outcomes for FDA-approved or -cleared technologies. 
+* Deadline: June 9, 2025
+* Award: RM1, generally $1.5M/year (direct) for durations up to five years
+
 
 
 ## Program and Center (P) Grants
 ### [Silvio O. Conte Centers for Basic Neuroscience or Translational Mental Health Research](https://grants.nih.gov/grants/guide/pa-files/PAR-22-155.html){target="_blank"}
 * Supports teams of researchers working at different levels of analysis and employing integrative, novel, and creative experimental approaches to address high-risk, high-impact questions with the primary objectives of: (a) advancing the state of the science in basic brain and behavior research that will uncover and dissect the underlying mechanisms that will ultimately provide the foundation for understanding mental disorders; (b) supporting the integration and translation of basic and clinical neuroscience research on severe mental illnesses; and/or (c) advancing our understanding of the neurobehavioral developmental mechanisms and trajectories of psychopathology that begin in childhood and adolescence.
-* Deadline: June 7, 2024 and June 9, 2025
+* Deadline: June 9, 2025
 * Award: P50, $2M/year (direct) for durations up to five years
 
 
 
 
 ## Career Development and Training (F/K and T) Grants
-### [Predoctoral Training in Advanced Data Analytics for Behavioral and Social Sciences Research (BSSR)](https://grants.nih.gov/grants/guide/rfa-files/RFA-OD-24-012.html){target="_blank"}
-* Supports predoctoral training programs that focus on innovative computational and/or data science analytic approaches and their incorporation into training for the future BSSR health research workforce.
-* Deadline: May 24, 2024
-* Award: T32, budgets need to reflect the actual needs of the proposed project, durations up to five years
 
 ### [INCLUDE (INvestigation of Co-occurring conditions across the Lifespan to Understand Down syndromE) Predoctoral to Postdoctoral Fellow Transition Award](https://grants.nih.gov/grants/guide/rfa-files/RFA-OD-24-007.html){target="_blank"}
 * Supports exceptional graduate students from a broad variety of research fields to pursue postdoctoral training focused on Down syndrome related research. Graduate students from disciplines including, but not limited to, genetics, biochemistry, data science, imaging, engineering, and neurobiology are invited to apply to this opportunity.
-* Deadline: June 1, 2024 (LOI); July 1, 2024 (Proposal); recurring on July 1, 2025 and 2026
+* Deadline: June 1, 2025 (LOI); July 1, 2025 (Proposal); recurring on July 1, 2026
 * Award: F99/K00, budgets composed of stipends, tuition/fees, institutional allowances for up to two years (F99) followed by four years (K00)
 
 
@@ -95,56 +86,6 @@ title: "NIH Funding Opportunities"
 
 
 ## Research Grants - R01 Activities
-### [BRAIN Initiative: Targeted BRAIN Circuits Projects- TargetedBCP](https://grants.nih.gov/grants/guide/rfa-files/RFA-NS-23-024.html){target="_blank"}
-* Supports research projects that seek to understand how circuit activity gives rise to mental experience and behavior using innovative, methodologically-integrated approaches.
-* Deadline: May 28, 2024 (LOI), June 28, 2024 (Proposal), recurring on October 2, 2024
-* Award: R01, approximately $750K/year for durations up to five years
-
-### [Leveraging Data at Scale to Understand Natural Product Impacts on Whole Person Health](https://grants.nih.gov/grants/guide/rfa-files/RFA-AT-24-008.html){target="_blank"}
-* Supports development, adaptation, and/or applications of computational tools to aggregate and analyze orthogonal chemical and/or biological data sets related to natural products with the aim of generating novel testable hypotheses regarding their biological activity and role in the context of whole person health research.
-* Deadline: May 28, 2024 (LOI), June 28, 2024 (Proposal)
-* Award: R01, $500K (direct) for durations up to five years
-
-### [Modular R01s in Cancer Control and Population Sciences](https://grants.nih.gov/grants/guide/pa-files/PAR-24-122.html){target="_blank}
-* Supports research efforts on novel scientific ideas that have the potential to substantially advance cancer research in statistical and analytic methods, epidemiology, cancer survivorship, cancer-related behaviors and behavioral interventions, health care delivery, digital health and data science, and implementation science.
-* Deadline: June 5, 2024, October 5, 2024
-* Award: R01, $250K/year (direct) for durations up to five years
-
-### [Investigator Initiated Research in Computational Genomics and Data Science](https://grants.nih.gov/grants/guide/pa-files/PAR-21-254.html){target="_blank"}
-* Supports a broad range of research efforts in computational genomics, data science, statistics, and bioinformatics relevant to one or both of basic or clinical genomic science, and broadly applicable to human health and disease.
-* Deadline: June 5, 2024
-* Award: R01, $500K/year (direct) for durations of up to five years ([R21](https://grants.nih.gov/grants/guide/pa-files/PAR-21-255.html){target="_blank"} also available)
-
-### [NIDCR Research Grants for Analyses of Existing Genomics Data](https://grants.nih.gov/grants/guide/pa-files/PAR-23-133.html){target="_blank"}
-* Supports meritorious research projects that address research questions relevant to human dental, oral, or craniofacial (DOC) biology, and diseases and conditions, through analysis of existing and publicly available genomic data, with or without other types of complementary data, using statistical and computational approaches.
-* Deadline: June 5, 2024, recurring annually in February, June, and October through February 2026
-* Award: R01, budget must align with the project scope, for durations of up to three years. ([R03 Opportunity](https://grants.nih.gov/grants/guide/pa-files/PAR-23-132.html){target="_blank"} also available.)
-
-### [Personal Health Informatics for Delivering Actionable Insights to Individuals](https://grants.nih.gov/grants/guide/pa-files/PAR-23-245.html){target="_blank"}
-* Supports development of novel informatics and data science approaches that can help individuals understand and improve their health through actionable insights.
-* Deadline: June 5, 2024, recurring annually in February, June, and October through October 2026
-* Award: R01, $250K/year (direct) for durations of up to four years 
-
-### [Academic-Industrial Partnerships (AIP) to Translate and Validate In Vivo Imaging Systems](https://grants.nih.gov/grants/guide/pa-files/PAR-23-259.html){target="_blank"}
-* Supports translation of scientific discoveries and engineering developments in imaging, data science and/or spectroscopic technologies into methods or tools that address contemporary problems in understanding the fundamental biology, potential risk of development, diagnosis, or treatment of cancer.
-* Deadline: June 5, 2024, recurring annually in February, June, and October through October 2026
-* Award: R01, $500K/year (direct) for durations of up to five years 
-
-### [Imaging, Biomarkers and Digital Pathomics for the Early Detection of Premetastatic Cancer and Precancerous Lesions Associated with Lethal Phenotypes](https://grants.nih.gov/grants/guide/pa-files/PAR-22-131.html){target="_blank"}
-* Supports the development of state-of-the-art projects that integrate imaging, biomarkers, digital pathomics, glycomics, metabolomics, other omic information and/or meta data obtained from platforms including but not limited to lower resolution diagnostic acquisitions and systemic biomarker results to high resolution single-cell analytics / imaging applied to the characterization of heterogeneous cell populations within tumor for improving current approaches for: (1) the early detection of organ confined premetastatic aggressive cancer, and, (2) identifying precancerous lesions associated with the development of a subsequent lethal phenotype.
-* Deadline: June 5, 2024; recurring annually in February, June, and October through June 2025
-* Award: R01, budget must reflect actual needs of the proposed project, durations up to five years
-
-### [New Approaches for Measuring Brain Changes Across Longer Timespans](https://grants.nih.gov/grants/guide/pa-files/PAR-24-160.html){target="_blank"}
-* Supports multidisciplinary investigators to develop new approaches or apply existing approaches in novel ways to measure brain activity, connectivity, genomics, or other aspects across the age spectrum of neurodevelopment.
-* Deadline: June 5, 2024; recurring in February, June, and October through February 2027
-* Award: R01, budget must reflect actual needs of the proposed project, durations up to five years; [R21 opportunity also open](https://grants.nih.gov/grants/guide/pa-files/PAR-24-161.html){target="_blank"}
-
-### [Focused Technology Research and Development](https://grants.nih.gov/grants/guide/pa-files/PAR-22-127.html){target="_blank"}
-* Supports projects that focus solely on the development of technologies with the potential to enable acquisition of biomedical knowledge. Projects should be justified in terms of technical innovation and utility of such technical innovation for impacting future biomedical research. 
-* Deadline: June 5, 2024; recurring in February, June, and October through February 2025
-* Award: R01, budget must reflect actual needs of the proposed project, durations up to five years [R21 Opportunity also available.](https://grants.nih.gov/grants/guide/pa-files/PAR-22-126.html){target="_blank"}
-
 ### [Ethical, Legal and Social Implications (ELSI) Research](https://grants.nih.gov/grants/guide/pa-files/PAR-23-293.html){target="_blank"}
 * Supports the study of the ethical, legal and social implications (ELSI) of human genome research, using either single or mixed methods.
 * Deadline: June 18, 2024; recurring annually in February, June, and October through October 2026
@@ -159,6 +100,11 @@ title: "NIH Funding Opportunities"
 * Supports the development of theories, computational models, and analytical tools to derive understanding of brain function from complex neuroscience data.
 * Deadline: August 13, 2024 (LOI), September 12, 2024 (Proposal) 
 * Award: R01, approximately $150-250K for durations up to three years
+
+### [BRAIN Initiative: Targeted BRAIN Circuits Projects- TargetedBCP](https://grants.nih.gov/grants/guide/rfa-files/RFA-NS-23-024.html){target="_blank"}
+* Supports research projects that seek to understand how circuit activity gives rise to mental experience and behavior using innovative, methodologically-integrated approaches.
+* Deadline: September 2, 2024 (LOI), October 2, 2024 (Proposal), recurring on October 2, 2024
+* Award: R01, approximately $750K/year for durations up to five years
 
 ### [Leveraging Health Information Technology (Health IT) to Address and Reduce Health Care Disparities](https://grants.nih.gov/grants/guide/pa-files/PAR-22-145.html){target="_blank"}
 * Supports research that examines the impact of leveraging health information technology (health IT) to reduce disparities in access to and utilization of health care services, patient-clinician communication, and health outcomes for populations that experience health disparities in the U.S.
@@ -190,6 +136,46 @@ title: "NIH Funding Opportunities"
 * Deadline: September 11, 2024 (LOI), October 11, 2024 (Proposal); recurring on October 10, 2025 and October 9, 2026
 * Award: R01, $300K/year (direct) for durations up to four years; [R21 Opportunity](https://grants.nih.gov/grants/guide/rfa-files/RFA-MH-25-171.html){target="_blank"} is also available.
 
+### [Modular R01s in Cancer Control and Population Sciences](https://grants.nih.gov/grants/guide/pa-files/PAR-24-122.html){target="_blank}
+* Supports research efforts on novel scientific ideas that have the potential to substantially advance cancer research in statistical and analytic methods, epidemiology, cancer survivorship, cancer-related behaviors and behavioral interventions, health care delivery, digital health and data science, and implementation science.
+* Deadline: October 5, 2024
+* Award: R01, $250K/year (direct) for durations up to five years
+
+### [Investigator Initiated Research in Computational Genomics and Data Science](https://grants.nih.gov/grants/guide/pa-files/PAR-21-254.html){target="_blank"}
+* Supports a broad range of research efforts in computational genomics, data science, statistics, and bioinformatics relevant to one or both of basic or clinical genomic science, and broadly applicable to human health and disease.
+* Deadline: October 5, 2024
+* Award: R01, $500K/year (direct) for durations of up to five years ([R21](https://grants.nih.gov/grants/guide/pa-files/PAR-21-255.html){target="_blank"} also available)
+
+### [Focused Technology Research and Development](https://grants.nih.gov/grants/guide/pa-files/PAR-22-127.html){target="_blank"}
+* Supports projects that focus solely on the development of technologies with the potential to enable acquisition of biomedical knowledge. Projects should be justified in terms of technical innovation and utility of such technical innovation for impacting future biomedical research. 
+* Deadline: October 5, 2024; recurring in February, June, and October through February 2025
+* Award: R01, budget must reflect actual needs of the proposed project, durations up to five years [R21 Opportunity also available.](https://grants.nih.gov/grants/guide/pa-files/PAR-22-126.html){target="_blank"}
+
+### [Imaging, Biomarkers and Digital Pathomics for the Early Detection of Premetastatic Cancer and Precancerous Lesions Associated with Lethal Phenotypes](https://grants.nih.gov/grants/guide/pa-files/PAR-22-131.html){target="_blank"}
+* Supports the development of state-of-the-art projects that integrate imaging, biomarkers, digital pathomics, glycomics, metabolomics, other omic information and/or meta data obtained from platforms including but not limited to lower resolution diagnostic acquisitions and systemic biomarker results to high resolution single-cell analytics / imaging applied to the characterization of heterogeneous cell populations within tumor for improving current approaches for: (1) the early detection of organ confined premetastatic aggressive cancer, and, (2) identifying precancerous lesions associated with the development of a subsequent lethal phenotype.
+* Deadline: October 5, 2024; recurring annually in February, June, and October through June 2025
+* Award: R01, budget must reflect actual needs of the proposed project, durations up to five years
+
+### [NIDCR Research Grants for Analyses of Existing Genomics Data](https://grants.nih.gov/grants/guide/pa-files/PAR-23-133.html){target="_blank"}
+* Supports meritorious research projects that address research questions relevant to human dental, oral, or craniofacial (DOC) biology, and diseases and conditions, through analysis of existing and publicly available genomic data, with or without other types of complementary data, using statistical and computational approaches.
+* Deadline: October 5, 2024, recurring annually in February, June, and October through February 2026
+* Award: R01, budget must align with the project scope, for durations of up to three years. ([R03 Opportunity](https://grants.nih.gov/grants/guide/pa-files/PAR-23-132.html){target="_blank"} also available.)
+
+### [Personal Health Informatics for Delivering Actionable Insights to Individuals](https://grants.nih.gov/grants/guide/pa-files/PAR-23-245.html){target="_blank"}
+* Supports development of novel informatics and data science approaches that can help individuals understand and improve their health through actionable insights.
+* Deadline: October 5, 2024, recurring annually in February, June, and October through October 2026
+* Award: R01, $250K/year (direct) for durations of up to four years 
+
+### [Academic-Industrial Partnerships (AIP) to Translate and Validate In Vivo Imaging Systems](https://grants.nih.gov/grants/guide/pa-files/PAR-23-259.html){target="_blank"}
+* Supports translation of scientific discoveries and engineering developments in imaging, data science and/or spectroscopic technologies into methods or tools that address contemporary problems in understanding the fundamental biology, potential risk of development, diagnosis, or treatment of cancer.
+* Deadline: October 5, 2024, recurring annually in February, June, and October through October 2026
+* Award: R01, $500K/year (direct) for durations of up to five years 
+
+### [New Approaches for Measuring Brain Changes Across Longer Timespans](https://grants.nih.gov/grants/guide/pa-files/PAR-24-160.html){target="_blank"}
+* Supports multidisciplinary investigators to develop new approaches or apply existing approaches in novel ways to measure brain activity, connectivity, genomics, or other aspects across the age spectrum of neurodevelopment.
+* Deadline: October 5, 2024; recurring in February, June, and October through February 2027
+* Award: R01, budget must reflect actual needs of the proposed project, durations up to five years; [R21 opportunity also open](https://grants.nih.gov/grants/guide/pa-files/PAR-24-161.html){target="_blank"}
+
 
 
 ## Research Grants - Other Activities
@@ -197,11 +183,6 @@ title: "NIH Funding Opportunities"
 * Supports educational activities that encourage individuals from diverse backgrounds, including those from groups underrepresented in the biomedical and behavioral sciences, to pursue further studies or careers in research.
 * Deadline: [Anticipated May 2024](https://www.genome.gov/sites/default/files/media/files/2023-09/Genomic_Research_Experiences_for_Data_Scientists_R25_PAR.pdf){target="_blank"}
 * Award: R25, $250K/year (direct) for durations up to five years
-
-### [BRAIN Initiative: Targeted BRAIN Circuits Planning Projects – TargetedBCPP](https://grants.nih.gov/grants/guide/rfa-files/RFA-NS-23-023.html){target="_blank"}
-* Supports research projects that offer a limited scope of aims and an approach that will establish feasibility, validity, or other technically qualifying results that, if successful, would support, enable, and/or lay the groundwork for a potential, subsequent Targeted BRAIN Circuits Projects - Targeted BCP R01.
-* Deadline: May 28, 2024 (LOI), June 28, 2024 (Proposal), recurring October 2, 2024
-* Award: R34, $450K for durations up to two years
 
 ### [Developing Novel Theory and Methods for Understanding the Genetic Architecture of Complex Human Traits](https://grants.nih.gov/grants/guide/pa-files/PAR-23-301.html){target="_blank"}
 * Supports applications for novel theory and methods development that enable better understanding of how genetic and non-genetic factors contribute to complex trait variation across individuals, families, and populations.
@@ -248,6 +229,11 @@ title: "NIH Funding Opportunities"
 * Deadline: Estimated to be Fall 2024
 * Award: R18; Additional details coming wtih announcement
 
+### [BRAIN Initiative: Targeted BRAIN Circuits Planning Projects – TargetedBCPP](https://grants.nih.gov/grants/guide/rfa-files/RFA-NS-23-023.html){target="_blank"}
+* Supports research projects that offer a limited scope of aims and an approach that will establish feasibility, validity, or other technically qualifying results that, if successful, would support, enable, and/or lay the groundwork for a potential, subsequent Targeted BRAIN Circuits Projects - Targeted BCP R01.
+* Deadline: September 2, 2024 (LOI), October 2, 2024 (Proposal)
+* Award: R34, $450K for durations up to two years
+
 ### [Secondary Analysis of Existing Datasets in Heart, Lung, and Blood Diseases and Sleep Disorders](https://grants.nih.gov/grants/guide/pa-files/PAR-23-036.html){target="_blank"}
 * Supports secondary analyses using existing human datasets in areas relevant to the National Heart, Lung, Blood Diseases and Sleep Disorders Institute (NHLBI) scientific mission.
 * Deadline: October 28, 2024; recurring in February and October through 2025
@@ -282,7 +268,7 @@ title: "NIH Funding Opportunities"
 ## Notices of Special Interest and Requests for Information
 <!-- * [](https://grants.nih.gov/grants/guide/notice-files/NOT-CA-24-002.html){target="_blank"} expires -->
 <!--* [](){target="_blank"} -->
-* [**Request for Information** Data Management, Sharing, and Secondary Data Use Challenges and Opportunities](https://grants.nih.gov/grants/guide/notice-files/NOT-AG-24-013.html){target="_blank"}, expires May 31, 2024.
+
 * [**Request for Information** Input on NIAID Immunology Knowledge Management](https://grants.nih.gov/grants/guide/notice-files/NOT-AI-24-036.html){target="_blank"}, expires June 28, 2024.
 * [Advance Data Science Approaches Through Secondary Data Analysis to Reveal Scientific Insights of COVID-19 Testing Technologies (R21)](https://grants.nih.gov/grants/guide/notice-files/NOT-OD-23-040.html){target="_blank"} extended to July 16, 2024.
 * [Clinical and Translational Science Award (CTSA) Program: Collaborative and Innovative Acceleration Award (UG3/UH3) (Clinical Trial Optional) for Advancing Recruitment through Trial Innovation Network (AR-TIN)](https://grants.nih.gov/grants/guide/notice-files/NOT-TR-23-026.html){target="_blank"} expires October 18, 2024.
@@ -306,4 +292,4 @@ title: "NIH Funding Opportunities"
 
 * [NIH Office for Data Science Strategy](https://datascience.nih.gov/research-and-training-funding){target="_blank"} list of funding opportunities.
 
-Updated May 23, 2024.
+Updated June 12, 2024.
