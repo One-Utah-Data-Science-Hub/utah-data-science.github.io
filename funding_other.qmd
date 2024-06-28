@@ -32,6 +32,10 @@ editor: visual
   + *Seed grants* to two or more institutions that seek to formalize an existing partnership(s) and launch one or more pilot initiatives (up to $250K for 1-2 years)
   + *Implementation grants* to two or more institutions that allow for the augmentation or scaling of existing partnerships/collaborations (up to $500K for 2-3 years)
 
+### [Bezos Earth Fund: AI for Climate and Nature Grand Challenge](https://www.aiforclimateandnature.org/about-the-grand-challenge)
+* Supports transformative ideas that will accelerate efforts to address climate change and nature loss through the use of modern AI, with focus on sustainable proteins, power grid optimization, and biodiversity conservation — as well as other visionary wildcard solutions.
+* Deadline: July 30, 2024 (Phase 1)
+* Award: $50K and opportunity to participate in Phase 2 for awards up to $2M
 
 <!--## Industry Funding Opportunities-->
 
@@ -49,27 +53,6 @@ editor: visual
 
 
 ## Governmental Funding Opportunities
-
-### [DARPA: Microsystems Technology Office - Embedded Microsystem Intelligence and Localized Processing Thrust](https://sam.gov/opp/6214ecd14eeb41fd8103bad223837cd3/view){target="_blank"}
-* Supports exploration of the development of sensors and systems that enable specialized computation at the tactical edge and microsystems capable of learning, moving beyond those with pre-set functions.
-* Deadline: June 15, 2024
-* Award: Multiple awards are expected
-
-### [AIM-AHEAD: AI/ML in Biomedical Research and Clinical Practice That Embodies Ethics and Equity (ABC-EE)](https://www.aim-ahead.net/call-for-proposals-year-3/aim-ahead-ai-ml-in-biomedical-research-and-clinical-practice-that-embodies-ethics-and-equity-abc-ee/){target="_blank"}
-* Supports multidisciplinary teams in the domains of biomedical research and clinical applications to develop and/or use AI/ML technologies that align with and/or extend the AIM-AHEAD ethics and equity principles. 
-* Deadline: June 16, 2024
-* Award: $150-250K (total) for one year
-
-### [AIM-AHEAD: Research Fellows Program in AI/ML](https://aim-ahead.infoready4.com/#freeformCompetitionDetail/1936614){target="_blank"}
-* Supports early-career researchers with the opportunity to receive funding and support for research on novel and innovative data science and data-focused research problems; specifically, those focused around health disparities and inequities.  
-* Deadline: June 17, 2024
-* Award: $51,840 for one year
-
-### [AIM-AHEAD: Public-Private Partnerships to Improve Population Health Using AI/ML](https://www.aim-ahead.net/call-for-proposals-year-3/public-private-partnerships-to-improve-population-health-using-ai-ml/){target="_blank"}
-* Supports mutually beneficial triadic partnerships among a 1) local, state, and tribal accredited health departments; 2) limited resource higher education institution; and 3) a data-science oriented organization with an accessible data library to collaboratively conduct health equity-related AI/ML studies that align with the overall goal of AIM-AHEAD. 
-* Deadline: June 25, 2024
-* Award: $525K (total) for one year
-
 ### [AIM-AHEAD: Clinicians Leading Ingenuity IN Al Quality (CLINAQ) Fellowship Program](https://www.aim-ahead.net/call-for-proposals-year-3/aim-ahead-clinicians-leading-ingenuity-in-al-quality-clinaq-fellowship-program/){target="_blank"}
 * Supports a one-year fellowship (September 16, 2024 - August 29, 2025) in parallel with clinical practice to empower clinicians in the field of Artificial Intelligence/Machine Learning (AI/ML). 
 * Deadline: June 30, 2024
@@ -107,6 +90,10 @@ editor: visual
 -   Deadline: September 30, 2024; recurring on September 30, 2025 and September 30, 2026
 -   Award: \$250K-\$10M for durations up to two years
 
+### [DARPA: Artifical Intelligence Quantified (AIQ)](https://www.grants.gov/search-results-detail/354691)
+* Assess and understand capabilities without access to internals, a goal which will be expedited by having access to the internals of open-sourced models, given the architectural similarity to proprietary models.
+* Deadline: December 7, 2024
+
 ### [APRA-H: Resilient Systems Office (RSO) Office-Wide Innovative Solutions](https://www.grants.gov/search-results-detail/352988){target="_blank"}
 * Supports ground-breaking research in sociotechnical system innovation, health ecosystem integration, and adaptive and antifragile solutions to enable revolutionary advances in science, technology, systems, or methodology. 
 * Deadline: March 14, 2025 (running submission)
@@ -131,10 +118,12 @@ editor: visual
     -   Stakeholder Engagement
     -   Artificial Intelligence
 
+- [Samsung AI Researcher of 2024](https://www.sait.samsung.co.kr/saithome/event/aiResearcher.do){target="_blank"} recognizes promising researchers who have made outstanding research or contributions to the field of AI with a plaque and monetary award of $30K. Applications due by August 6, 2024. 
+
 - [NCI Medical Image De-Identification Benchmark Challenge at MICCAI 2024](https://datascience.cancer.gov/news-events/news/participate-nci-medical-image-de-identification-benchmark-challenge-miccai-2024){target="_blank"} for developers (independent, academic, or industrial) who wants to assess your software tool’s performance with rule-based de-identification of DICOM images. Registration closes August 15, 2024.
 
 -   [NIH and CGE Targeted Genome Editor Delivery (TARGETED) Challenge](https://www.challenge.gov/?challenge=targeted-challenge){target="_blank"} aims to revolutionize technology development of delivery systems for in vivo genome editing. This is a *\$6M competition* to improve in vivo delivery technologies for genome editors in two Target Areas: 1. Programmable delivery systems, and 2. Non-viral delivery across the blood-brain barrier. The National Institutes of Health (NIH), through the Common Fund’s [Somatic Cell Genome Editing (SCGE)](https://commonfund.nih.gov/editing){target="_blank"} program, is seeking Participants with ideas or early-stage solutions to join the Challenge with the chance to win up to \$1,000,000 and have their solution independently tested and validated in large animal models through NIH-supported independent evaluation relevant to preclinical assessments of investigational products. Phase 2 is open until January 10, 2025.
 
 <!--## Policy and Engagement -->
 
-Updated June 12, 2024.
+Updated June 28, 2024.

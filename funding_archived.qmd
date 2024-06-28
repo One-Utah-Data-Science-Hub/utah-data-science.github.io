@@ -5,6 +5,15 @@ format: html
 
 # NIH Funding Opportunities
 ## Cooperative Agreement (U) Grants
+### [ML/AI Tools to Advance Genomic Translational Research (MAGen) - Coordinating Center](https://grants.nih.gov/grants/guide/rfa-files/RFA-HG-24-005.html){target="_blank"}
+* Supports the development of novel Machine Learning/Artificial Intelligence (ML/AI) tools to explore their potential for advancing genomic translational research. The MAGen CC will be responsible for implementing approaches to bring diverse teams together to enable synergistic and collaborative team science across the Consortium. 
+* Deadline: June 26, 2024 (LOI), July 26, 2024 (proposal) 
+* Award: UG3/UH3, $800K/year (direct) for five years
+
+### [ML/AI Tools to Advance Genomic Translational Research (MAGen) - Development Sites](https://grants.nih.gov/grants/guide/rfa-files/RFA-HG-24-004.html){target="_blank"}
+* Supports the development of novel Machine Learning/Artificial Intelligence (ML/AI) tools to explore their potential for advancing genomic translational research. Each MAGen Site will develop and cross validate tools, conduct ELSI research projects, and generate resources for dissemination.
+* Deadline: June 26, 2024 (LOI), July 26, 2024 (proposal) 
+* Award: UG3/UH3, $1.6M/year (total) for five years
 
 ### [Center of Excellence for Systems Modeling of Infection and Immunity across Biological Scales](https://grants.nih.gov/grants/guide/rfa-files/RFA-AI-23-077.html){target="_blank"}
 * Supports the establishment of one (1) Center of Excellence (CoE) to coordinate the research community of infectious and immune-mediated disease (IID) computational modelers and advance IID modeling research across biological scales.
@@ -175,6 +184,11 @@ format: html
 * Award: U24, $1M/year (direct) for durations up to five years
 
 ## Program and Center (P) Grants
+### [Silvio O. Conte Centers for Basic Neuroscience or Translational Mental Health Research](https://grants.nih.gov/grants/guide/pa-files/PAR-22-155.html){target="_blank"}
+* Supports teams of researchers working at different levels of analysis and employing integrative, novel, and creative experimental approaches to address high-risk, high-impact questions with the primary objectives of: (a) advancing the state of the science in basic brain and behavior research that will uncover and dissect the underlying mechanisms that will ultimately provide the foundation for understanding mental disorders; (b) supporting the integration and translation of basic and clinical neuroscience research on severe mental illnesses; and/or (c) advancing our understanding of the neurobehavioral developmental mechanisms and trajectories of psychopathology that begin in childhood and adolescence.
+* Deadline: June 9, 2025
+* Award: P50, $2M/year (direct) for durations up to five years
+
 ### [Exploratory Grants for Climate Change and Health Research Center Development](https://grants.nih.gov/grants/guide/rfa-files/RFA-ES-23-007.html){target="_blank"}
 * Supports the development of a transdisciplinary research environment to sustain a program of fundamental and applied research to examine the impacts of climate change on health and to develop action-oriented solutions to protect the health of individuals, communities, and nations from the hazards posed by climate change.
 * Deadline: November 7, 2023 (LOI due 1 month prior)
@@ -195,6 +209,11 @@ format: html
 
 
 ## Career Development (F/K) Grants
+### [INCLUDE (INvestigation of Co-occurring conditions across the Lifespan to Understand Down syndromE) Predoctoral to Postdoctoral Fellow Transition Award](https://grants.nih.gov/grants/guide/rfa-files/RFA-OD-24-007.html){target="_blank"}
+* Supports exceptional graduate students from a broad variety of research fields to pursue postdoctoral training focused on Down syndrome related research. Graduate students from disciplines including, but not limited to, genetics, biochemistry, data science, imaging, engineering, and neurobiology are invited to apply to this opportunity.
+* Deadline: June 1, 2025 (LOI); July 1, 2025 (Proposal); recurring on July 1, 2026
+* Award: F99/K00, budgets composed of stipends, tuition/fees, institutional allowances for up to two years (F99) followed by four years (K00)
+
 ### [Predoctoral Training in Advanced Data Analytics for Behavioral and Social Sciences Research (BSSR)](https://grants.nih.gov/grants/guide/rfa-files/RFA-OD-24-012.html){target="_blank"}
 * Supports predoctoral training programs that focus on innovative computational and/or data science analytic approaches and their incorporation into training for the future BSSR health research workforce.
 * Deadline: May 24, 2024
@@ -277,6 +296,22 @@ format: html
 * Award: R01, $250K/year for durations up to four years
 
 ## Research Grants - Other Activities
+
+### [Pilot Projects Enhancing Utility and Usage of Common Fund Data Sets](https://grants.nih.gov/grants/guide/rfa-files/RFA-RM-24-006.html){target="_blank"}
+* Supports demonstration and enhancing the utility of selected Common Fund (https://commonfund.nih.gov/) data sets, including generating hypotheses and catalyzing discoveries
+* Deadline: June 27, 2024
+* Award: R03; $200K for up to one year
+
+### [Harnessing Artificial Intelligence and Polypharmacology to Discover Pharmacotherapeutics for Substance Use Disorders](https://grants.nih.gov/grants/guide/rfa-files/RFA-DA-25-053.html){target="_blank"}
+* Supports Small Business Technology Transfer (STTR) or Small Business Innovation Research (SBIR) grant applications proposing research projects directed towards commercialization to harness artificial intelligence (AI), including machine learning (ML), tools, and polypharmacology to identify pharmacotherapeutics with lower toxicity and higher efficacy to prevent or treat substance use disorders (SUDs).
+* Deadline: June 25, 2024 (LOI), July 25, 2024
+* Award: [R41/42](https://grants.nih.gov/grants/guide/rfa-files/RFA-DA-25-053.html){target="_blank"}, $400K (total) for one year (Phase 1) and $3M (total) over three years (Phase II); [R43/44](https://grants.nih.gov/grants/guide/rfa-files/RFA-DA-25-054.html){target="_blank"}, $400K (total) for one year (Phase 1) and $3M (total) over three years (Phase II)
+
+### [Using Archived Data and Specimen Collections to Advance Maternal and Pediatric HIV/AIDS Research](https://grants.nih.gov/grants/guide/rfa-files/RFA-HD-25-009.html){target="_blank"}
+* Supports utilization of archived HIV/AIDS data and biospecimen collections to generate new research questions and findings related to epidemiology, pathogenesis, treatment, prevention, clinical manifestations, and HIV-associated co-infections in maternal, pediatric, and adolescent populations.
+* Deadline: June 24, 2024 (LOI), July 24, 2024 (Proposal)
+* Award: R21; $275K (direct) over two years
+
 ### [Advancing Learning Health Care Research in Outpatient Mental Health Treatment Settings](https://grants.nih.gov/grants/guide/pa-files/PAR-24-118.html){target="_blank"}
 * Supports exploratory/developmental research applications within the learning health care framework to support adoption, implementation, sustainability, and continuous improvement of evidence-based practices in outpatient mental health and substance use treatment systems.
 * Deadline: May 16, 2024 (LOI), June 16, 2024 (Proposal); recurring every February, June, and October through October 2025
@@ -385,6 +420,8 @@ format: html
 	+ Award: $500K-1M for durations up to two years
 
 ## Notices of Special Interest and Requests for Information
+* [**Request for Information** Future Data Linkages within the Center for Linkage and Acquisition of Data for the All of Us Research Program](https://grants.nih.gov/grants/guide/notice-files/NOT-PM-24-003.html){target="_blank"}, expires June 28, 2024.
+* [**Request for Information** Input on NIAID Immunology Knowledge Management](https://grants.nih.gov/grants/guide/notice-files/NOT-AI-24-036.html){target="_blank"}, expires June 28, 2024.
 * [**Request for Information** Data Management, Sharing, and Secondary Data Use Challenges and Opportunities](https://grants.nih.gov/grants/guide/notice-files/NOT-AG-24-013.html){target="_blank"}, expires May 31, 2024.
 * [Harnessing Big Data to Halt HIV](https://grants.nih.gov/grants/guide/notice-files/NOT-AI-21-054.html){target="_blank"} expires May 8, 2024.
 * [Maximizing the Scientific Value of Secondary Analyses of Existing Cohorts and Datasets in Order to Address Research Gaps and Foster Additional Opportunities in Aging Research](https://grants.nih.gov/grants/guide/notice-files/NOT-AG-23-020.html){target="_blank"} expires May 8, 2024.
@@ -416,6 +453,10 @@ format: html
 
 
 # NSF Funding Opportunities
+### [Data Science Corps (DSC)](https://new.nsf.gov/funding/opportunities/data-science-corps-dsc){target="_blank"}
+* Supports data science education and training by engaging students in real-world implementation projects in partnership with organizations and communities — helping to build a strong national data science infrastructure and workforce.
+* Deadline: June 21, 2024
+* Award: $800K-1.2M for durations up to three years.
 
 ### [Sustainable Regional Systems Research Networks (SRS RNs)](https://new.nsf.gov/funding/opportunities/sustainable-regional-systems-research-networks-srs){target="_blank"}
 * Supports multi-organizational teams to collaboratively produce convergent research, education and outreach that addresses grand challenges in sustainable regional systems.
@@ -805,6 +846,26 @@ format: html
 
 
 # Governmental Funding Opportunities
+### [AIM-AHEAD: Public-Private Partnerships to Improve Population Health Using AI/ML](https://www.aim-ahead.net/call-for-proposals-year-3/public-private-partnerships-to-improve-population-health-using-ai-ml/){target="_blank"}
+* Supports mutually beneficial triadic partnerships among a 1) local, state, and tribal accredited health departments; 2) limited resource higher education institution; and 3) a data-science oriented organization with an accessible data library to collaboratively conduct health equity-related AI/ML studies that align with the overall goal of AIM-AHEAD. 
+* Deadline: June 25, 2024
+* Award: $525K (total) for one year
+
+### [AIM-AHEAD: Research Fellows Program in AI/ML](https://aim-ahead.infoready4.com/#freeformCompetitionDetail/1936614){target="_blank"}
+* Supports early-career researchers with the opportunity to receive funding and support for research on novel and innovative data science and data-focused research problems; specifically, those focused around health disparities and inequities.  
+* Deadline: June 17, 2024
+* Award: $51,840 for one year
+
+### [AIM-AHEAD: AI/ML in Biomedical Research and Clinical Practice That Embodies Ethics and Equity (ABC-EE)](https://www.aim-ahead.net/call-for-proposals-year-3/aim-ahead-ai-ml-in-biomedical-research-and-clinical-practice-that-embodies-ethics-and-equity-abc-ee/){target="_blank"}
+* Supports multidisciplinary teams in the domains of biomedical research and clinical applications to develop and/or use AI/ML technologies that align with and/or extend the AIM-AHEAD ethics and equity principles. 
+* Deadline: June 16, 2024
+* Award: $150-250K (total) for one year
+
+### [DARPA: Microsystems Technology Office - Embedded Microsystem Intelligence and Localized Processing Thrust](https://sam.gov/opp/6214ecd14eeb41fd8103bad223837cd3/view){target="_blank"}
+* Supports exploration of the development of sensors and systems that enable specialized computation at the tactical edge and microsystems capable of learning, moving beyond those with pre-set functions.
+* Deadline: June 15, 2024
+* Award: Multiple awards are expected
+
 ### [DOE: Predictive Science Academic Alliance Program (PSAAP) IV](https://www.grants.gov/search-results-detail/354427){target="_blank"}
 * Supports doctoral programs in five focus areas including state-of-the-art machine learning (ML) and data science technologies for predictive science and engineering (utilization and advancement)
 * Deadline: June 13, 2024 ([LSO](https://utah.infoready4.com/#freeformCompetitionDetail/1940752){target="_blank"}), June 27, 2024 (Pre-application), October 1, 2024 (Proposal)

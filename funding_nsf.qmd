@@ -58,21 +58,10 @@ format: html
 
 ## Upcoming Proposal Deadlines
 
-
-### [Data Science Corps (DSC)](https://new.nsf.gov/funding/opportunities/data-science-corps-dsc){target="_blank"}
-* Supports data science education and training by engaging students in real-world implementation projects in partnership with organizations and communities — helping to build a strong national data science infrastructure and workforce.
-* Deadline: June 21, 2024
-* Award: $800K-1.2M for durations up to three years.
-
-### [Foundations for Digital Twins as Catalyzers of Biomedical Technological Innovation (FDT-BioTech)](https://new.nsf.gov/funding/opportunities/foundations-digital-twins-catalyzers-biomedical){target="_blank"}
-* Supports inherently interdisciplinary research projects that underpin the mathematical and engineering foundations behind the development and use of digital twins and synthetic data in biomedical and healthcare applications, with a particular focus on digital, in silico models used in the evaluation of medical devices and the relevance of the developed models in addressing current and emerging  challenges affecting the development and assessment of biomedical technologies. 
-* Deadline: June 21, 2024
-* Award: $1M or less for durations up to three years
-
 ### [Cyber-Physical Systems (CPS)](https://new.nsf.gov/funding/opportunities/cyber-physical-systems-cps){target="_blank"}
 * Supports research on engineered systems with a seamless integration of cyber and physical components, such as computation, control, networking, learning, autonomy, security, privacy and verification, for a range of application domains.
-  + *Small Projects* $500K for durations up to three years; rolling deadline ending May 31
-  + *Medium Projects* $1M for durations up to three years; rolling deadline ending May 31
+  + *Small Projects* $500K for durations up to three years; rolling deadline ending May 31 annually
+  + *Medium Projects* $1M for durations up to three years; rolling deadline ending May 31 annually
   + *Frontier Projects* up to $7M for durations up to five years; deadline September 3, 2024 
 * [DCL: Medical / Health Cyber Physical Systems Proposals](https://www.nsf.gov/pubs/2024/nsf24017/nsf24017.jsp){target="_blank"}<!-- November 8, 2023 -->
 
@@ -87,20 +76,6 @@ format: html
 
 
 ## Upcoming Recurring Proposal Deadlines
-### [ACED: Accelerating Computing-Enabled Scientific Discovery](https://new.nsf.gov/funding/opportunities/aced-accelerating-computing-enabled-scientific){target="_blank"}
-* Supports harnessing computing to accelerate scientific discovery, while driving new computing advancements. The intent is to catalyze advancements on both sides of a virtuous cycle that: (a) benefit scientific disciplines through computational technologies and (b) foster novel computing technologies that will enable advances beyond the specific use cases or domains originally targeted. 
-* Deadline: June 17, 2024 (Emerging Ideas Proposals Only); recurring January 14 annually thereafter
-* Award: $500K for durations of 18-24 months (Track I), $750K/year for durations up to four years (Track II)
-
-### [Expeditions in Computing (Expeditions)](https://new.nsf.gov/funding/opportunities/expeditions-computing-expeditions){target="_blank"}
-*   Supports long-term, multi-institutional research with the potential to transform computer and information science and engineering.
-*   Deadline: *Preliminary Proposal* June 19, 2024, June 19, 2026; *Full Proposal* March 31, 2025, March 31, 2027
-*   Award: \$15M for durations up to seven years
-
-### [Mathematical Foundations of Digital Twins (MATH-DT)](https://new.nsf.gov/funding/opportunities/mathematical-foundations-digital-twins-math-dt){target="_blank"}
-* Supports foundational mathematical and statistical research on digital twins in applied science to harness science, technology and innovation to address society’s most pressing challenges.
-* Deadline: June 20, 2024; March 17, 2025; March 15 annually thereafter
-* Award: Approximately $500-800K for durations up to three years
 
 ### [Human Networks and Data Science (HNDS)](https://beta.nsf.gov/funding/opportunities/human-networks-data-science-hnds){target="_blank"}
 *   Supports research that studies the behavior of individuals and groups by leveraging data and network science and the development of data infrastructure that makes such work possible.
@@ -119,6 +94,12 @@ format: html
 ### [Cognitive Neuroscience (CogNeuro)](https://new.nsf.gov/funding/opportunities/cognitive-neuroscience-cogneuro-0){target="_blank"}
 * Supports advancement of our understanding of the neural mechanisms underlying human cognition and behavior. Funded proposals typically advance theories in cognitive neuroscience by relating precise and rich quantifications of physiology, cognition and behavior with each other (Intellectual Merit) and strengthen the field through, for example, outreach, mentoring the next generation of diverse cognitive neuroscientists and/or increasing awareness and utilization of the research the field produces (Broader Impacts).
 * Deadline: August 15, 2024
+
+### [Privacy-Preserving Data Sharing in Practice (PDaSP)](https://new.nsf.gov/funding/opportunities/privacy-preserving-data-sharing-practice-pdasp){target="_blank"}
+* Track 1: Advancing key technologies to enable practical PPDSA solutions: $500K - $1M for up to 2 years 
+* Track 2: Integrated and comprehensive solutions for trustworthy data sharing in application settings: $1M - $1.5M for up to 3 years 
+* Track 3: Usable tools, and testbeds for trustworthy sharing of private or otherwise confidential data: $500K - $1.5M for up to 3 years
+* Deadline: September 27, 2024
 
 ### [Decision, Risk and Management Sciences (DRMS)](https://new.nsf.gov/funding/opportunities/decision-risk-management-sciences-drms-0){target="_blank"}
 * Supports research that increases understanding of how individuals, organizations and societies make decisions. Areas include judgment, decision analysis and aids, risk analysis and communication, public policy decision making and management science.
@@ -164,6 +145,14 @@ format: html
 * Award: $300K/year (total) for durations up to four years
 <!--* [DELPHI and DHI Townhall on Aug 31 at 10:30 am](https://utah.zoom.us/j/93613638947?pwd=MFB0RHRoemR2UUpUcVRXbGVmajY0dz09){target="_blank"}, [NIH/NSF Webinar on Sept 25 at 1pm](https://nsf.zoomgov.com/webinar/register/WN_ctCzc3alRQyXZAX0rS1Fww){target="_blank"}-->
 
+### [Advanced Technological Education (ATE)](https://new.nsf.gov/funding/opportunities/advanced-technological-education-ate){target="_blank"}
+* Supports the education of technicians for the high-technology fields that drive our nation's economy. 
+  + Track 1: Small scale projects
+  + Track 2: Projects
+  + Track 3: Consortia for Innovations in Technical Education
+  + Track 4: ATE Center with areas of interest defined through October 2028 
+* Deadline: October 3, 2024; recurring on the first Thursday in October thereafter
+* Award: $475K for three years (Track 1), $1M for three years (Track 2), $1.2-3M for three to four years (Track 3), $7.5M for five years (Track 4)
 
 ### [Mathematical Foundations of Artificial Intelligence (MFAI)](https://new.nsf.gov/funding/opportunities/mathematical-foundations-artificial-intelligence){target="_blank"}
 * Supports research collaborations consisting of mathematicians, statisticians, computer scientists, engineers, and social and behavioral scientists focused on the mathematical and theoretical foundations of AI. 
@@ -180,6 +169,11 @@ format: html
   + Area (5) Strategy.
 * Deadline: October 15, 2024
 * Award: \$100K - \$1.4M depending on area for durations up to two years
+
+### [Advanced Computing Systems & Services: Adapting to the Rapid Evolution of Science and Engineering Research 2.0](https://new.nsf.gov/funding/opportunities/advanced-computing-systems-services-adapting-rapid){target="_blank"}
+* Supports organizations who are willing to serve as resource providers within the NSF Advanced Computing Systems and Services (ACSS) program.
+* Deadline: October 29, 2024 (Category I, Capacity Resources); June 24, 2025 (Category II, Innovative Prototypes/Testbeds)
+* Award: $10-20M for durations of five years (Category I); $5M for durations of five years (Category II)
 
 ### [Research on Innovative Technologies for Enhanced Learning (RITEL)](https://new.nsf.gov/funding/opportunities/research-innovative-technologies-enhanced-learning){target="_blank"}
 * Supports early-stage research in emerging technologies such as AI, robotics and immersive or augmenting technologies for teaching and learning that respond to pressing needs in real-world educational environments.
@@ -202,6 +196,11 @@ format: html
   + The *Sustained Resources track* supports the sustained operations and user community support for mature CI resources that serve Earth Sciences research and education.
 * Deadline: *Sustained Resources* December 6, 2024, *Innovative Resources* December 5, 2025
 * Award: *Innovative Resources* $200K/year for durations up to three years; *Sustained Resources* budget must align with the project scope, for durations of three to four years.
+
+### [ACED: Accelerating Computing-Enabled Scientific Discovery](https://new.nsf.gov/funding/opportunities/aced-accelerating-computing-enabled-scientific){target="_blank"}
+* Supports harnessing computing to accelerate scientific discovery, while driving new computing advancements. The intent is to catalyze advancements on both sides of a virtuous cycle that: (a) benefit scientific disciplines through computational technologies and (b) foster novel computing technologies that will enable advances beyond the specific use cases or domains originally targeted. 
+* Deadline: January 14, 2025; recurring January 14 annually thereafter
+* Award: $500K for durations of 18-24 months (Track I), $750K/year for durations up to four years (Track II)
 
 ### [Future Manufacturing (FM)](https://new.nsf.gov/funding/opportunities/future-manufacturing-fm){target="_blank"}
 * Supports fundamental research, education, and training of a future workforce to overcome scientific, technological, educational, economic, and social barriers in order to catalyze new manufacturing capabilities that do not exist today. Focuses on cybermanufacturing, eco-manufacturing and biomanufacturing.
@@ -262,11 +261,21 @@ format: html
 *   Deadline: March 5, 2025, annually thereafter
 *   Award: *Track 1 (Institutional Capacity Building)* \$1M for a duration of up to six years; *Track 2 (Implementation: Single Institution)* \$2.5M for a duration of up to six years; *Track 3 (Inter-institutional Consortia)* \$5M for a duration of up to six years; *Collaborative Planning* \$100K for a duration of one year.
 
+### [Mathematical Foundations of Digital Twins (MATH-DT)](https://new.nsf.gov/funding/opportunities/mathematical-foundations-digital-twins-math-dt){target="_blank"}
+* Supports foundational mathematical and statistical research on digital twins in applied science to harness science, technology and innovation to address society’s most pressing challenges.
+* Deadline: March 17, 2025; March 15 annually thereafter
+* Award: Approximately $500-800K for durations up to three years
+
 ### [Improving Undergraduate STEM Education: Computing in Undergraduate Education (IUSE: CUE)](https://new.nsf.gov/funding/opportunities/improving-undergraduate-stem-education-computing){target="_blank"}
 * Supports partnerships to re-envision computing education to serve a broad group of students, in a scalable manner, with an emphasis on broadening the participation of groups who are underrepresented and underserved by traditional computing courses and careers.
 * Deadline: April 29, 2025; recurring on last Tuesday in April annually
 * Award: $1-2M for up to two years
 * [EducateAI and Computing in Undergraduate Education (IUSE:CUE) Webinar](https://new.nsf.gov/events/educateai-computing-undergraduate-education){target="_blank"} on May 9 at 12pm MT.
+
+### [Foundations for Digital Twins as Catalyzers of Biomedical Technological Innovation (FDT-BioTech)](https://new.nsf.gov/funding/opportunities/foundations-digital-twins-catalyzers-biomedical){target="_blank"}
+* Supports inherently interdisciplinary research projects that underpin the mathematical and engineering foundations behind the development and use of digital twins and synthetic data in biomedical and healthcare applications, with a particular focus on digital, in silico models used in the evaluation of medical devices and the relevance of the developed models in addressing current and emerging  challenges affecting the development and assessment of biomedical technologies. 
+* Deadline: May 5, 2025; recurring the first Monday in May annually
+* Award: $1M or less for durations up to three years
 
 ### [Mid-scale Research Infrastructure-2 (Mid-scale RI-2)](https://new.nsf.gov/funding/opportunities/mid-scale-research-infrastructure-2-mid-scale-ri-2){target="_blank"}
 *   Supports the implementation of research infrastructure --- including equipment, cyberinfrastructure, large-scale datasets and personnel --- whose total project costs fall between \$20 million and \$100 million.
@@ -282,6 +291,11 @@ format: html
 * Supports the development of new AI Institutes.
 * Deadline: Expected early 2026
 * Award: $16-20M for durations of four or five years
+
+### [Expeditions in Computing (Expeditions)](https://new.nsf.gov/funding/opportunities/expeditions-computing-expeditions){target="_blank"}
+*   Supports long-term, multi-institutional research with the potential to transform computer and information science and engineering.
+*   Deadline: *Preliminary Proposal* June 19, 2026; *Full Proposal* March 31, 2027
+*   Award: \$15M for durations up to seven years
 
 
 ### Dear Colleague Letters
@@ -317,4 +331,4 @@ format: html
 * [Fairness, Ethics, Accountability, and Transparency: Enabling Breakthrough Research to Expand Inclusivity in Computer and Information Science and Engineering Research](https://www.nsf.gov/pubs/2019/nsf19016/nsf19016.jsp){target="_blank"} <!-- Nov 2, 2018 -->
 
 
-Updated June 12, 2024.
+Updated June 28, 2024.
