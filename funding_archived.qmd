@@ -5,6 +5,16 @@ format: html
 
 # NIH Funding Opportunities
 ## Cooperative Agreement (U) Grants
+### [Coordinating Center to Support Multi-Sectoral Preventive Interventions that Address Social Determinants of Health in Populations that Experience Health Disparities](https://grants.nih.gov/grants/guide/rfa-files/RFA-OD-24-006.html){target="_blank"}
+* Supports a Coordinating Center (CC) for the Multi-Sectoral Preventive Interventions (MSPI) Research Network. Members of the Multi-Sectoral Preventive Interventions (MSPI) Research Network, including the CC and separately funded research projects, will work collaboratively with the NIH to test prospective multi-sectoral preventive interventions that address social determinants of health in populations that experience health disparities.  
+* Deadline: July 5, 2024 (LOI), August 5, 2024 (Proposal)
+* Award: U24, $1M/year (direct) for durations up to seven years
+
+### [Multi-sectoral preventive interventions that address social determinants of health in populations that experience health disparities](https://grants.nih.gov/grants/guide/pa-files/PAR-24-053.html){target="_blank"}
+* Supports projects to test prospective multi-sectoral preventive interventions that address social determinants of health in populations that experience health disparities. These research projects will be part of the Multi-Sectoral Preventive Interventions (MSPI) Research Network, which will also include a Coordinating Center ([RFA-OD-24-006](https://grants.nih.gov/grants/guide/rfa-files/RFA-OD-24-006.html){target="_blank"}).   
+* Deadline: July 5, 2024 (LOI), August 5, 2024 (Proposal)
+* Award: UG3/UH3, $500K/year (direct) for two years (UG3, phase 1) and $750K/year (direct) for five years (UH3, phase 2)
+
 ### [ML/AI Tools to Advance Genomic Translational Research (MAGen) - Coordinating Center](https://grants.nih.gov/grants/guide/rfa-files/RFA-HG-24-005.html){target="_blank"}
 * Supports the development of novel Machine Learning/Artificial Intelligence (ML/AI) tools to explore their potential for advancing genomic translational research. The MAGen CC will be responsible for implementing approaches to bring diverse teams together to enable synergistic and collaborative team science across the Consortium. 
 * Deadline: June 26, 2024 (LOI), July 26, 2024 (proposal) 
