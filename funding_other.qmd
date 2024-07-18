@@ -24,14 +24,6 @@ editor: visual
 -   Deadline: Rolling for one year until budget of \$1M is depleted <!-- August 2024 -->
 -   Application should take no more than 3 hours!
 
-### [Alfred P. Sloan: Creating Equitable Pathways to STEM Graduate Education](https://sloan.org/programs/higher-education/equitable-pathways/2024-Call-for-LOIs){target="_blank"}
-* Supports engagement of the expertise of MSIs—and the unique experiences of their faculty and students—to model effective systems and practices that remove barriers and create opportunities for equitable learning environments in STEM graduate education so all students can thrive. 
-* Deadline: July 1, 2024 (LOI)
-* Awards:
-  + *Planning grants* to support two or more institutions to conduct internal reviews of existing barriers to student success and for analysis and planning for a future partnership(s) (up to $75K for up to 1 year)
-  + *Seed grants* to two or more institutions that seek to formalize an existing partnership(s) and launch one or more pilot initiatives (up to $250K for 1-2 years)
-  + *Implementation grants* to two or more institutions that allow for the augmentation or scaling of existing partnerships/collaborations (up to $500K for 2-3 years)
-
 ### [Bezos Earth Fund: AI for Climate and Nature Grand Challenge](https://www.aiforclimateandnature.org/about-the-grand-challenge)
 * Supports transformative ideas that will accelerate efforts to address climate change and nature loss through the use of modern AI, with focus on sustainable proteins, power grid optimization, and biodiversity conservation — as well as other visionary wildcard solutions.
 * Deadline: July 30, 2024 (Phase 1)
@@ -53,17 +45,6 @@ editor: visual
 
 
 ## Governmental Funding Opportunities
-### [AIM-AHEAD: Clinicians Leading Ingenuity IN Al Quality (CLINAQ) Fellowship Program](https://www.aim-ahead.net/call-for-proposals-year-3/aim-ahead-clinicians-leading-ingenuity-in-al-quality-clinaq-fellowship-program/){target="_blank"}
-* Supports a one-year fellowship (September 16, 2024 - August 29, 2025) in parallel with clinical practice to empower clinicians in the field of Artificial Intelligence/Machine Learning (AI/ML). 
-* Deadline: June 30, 2024
-* Award: $55,475 stipend
-* Informational Webinar on June 3, 2024. [Register Now](https://signup.aim-ahead.net/event/p/B3381003Ad){target="_blank"}!
-
-### [HHS: Child Care and Development Fund (CCDF) Lead Agency Data and Research Capacity Grants](https://www.grants.gov/search-results-detail/351794){target="_blank"}
-* Supports capacity of CCDF Lead Agencies to use data, including data on children, families, the workforce, and providers that participate in the child care subsidy system, to make data-informed decisions to improve child care policies and practices. 
-* Deadline: July 8, 2024
-* Award: $150K for durations of 18 months
-
 ### [DoD: Prostate Cancer, Data Science Award](https://cdmrp.health.mil/funding/pcrp){target="_blank"}
 * Supports research where quantitative and analytical approaches, processes, and/or systems are developed and/or used to obtain knowledge and insight from large and/or complex sets of prostate cancer data. 
 * Deadline: August 9, 2024 (Pre-application), August 30, 2024 (Proposal)
@@ -118,8 +99,6 @@ editor: visual
     -   Stakeholder Engagement
     -   Artificial Intelligence
 
-- [The 2024 Roddenberry Prize](https://roddenberryprize.org/){target="_blank"} will award $1 million to an early-stage, scientific or technology venture leveraging Artificial Intelligence (AI) for a better future. The Roddenberry Prize focuses on early stage ventures – nonprofit and mission-driven for-profit entities – that meet the following broad criteria: ethical, early stage, world changing, AI driven, and scalable. Letters of Intent due July 12.
-
 - [Samsung AI Researcher of 2024](https://www.sait.samsung.co.kr/saithome/event/aiResearcher.do){target="_blank"} recognizes promising researchers who have made outstanding research or contributions to the field of AI with a plaque and monetary award of $30K. Applications due by August 6, 2024. 
 
 - [Harvest for Health Breakthrough Crop Challenge](https://foundationfar.org/grants-funding/opportunities/harvest-for-health-breakthrough-crop-challenge-2/){target="_blank"} focuses on developing and validating predictive models that effectively identify underutilized crops with properties of interest to food and ingredient companies. Applications due by August 7, 2024 for awards up to $1M. 
@@ -130,4 +109,4 @@ editor: visual
 
 <!--## Policy and Engagement -->
 
-Updated June 28, 2024.
+Updated July 18, 2024.

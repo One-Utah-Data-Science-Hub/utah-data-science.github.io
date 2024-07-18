@@ -77,15 +77,10 @@ format: html
 
 ## Upcoming Recurring Proposal Deadlines
 
-### [Human Networks and Data Science (HNDS)](https://beta.nsf.gov/funding/opportunities/human-networks-data-science-hnds){target="_blank"}
+### [Human Networks and Data Science (HNDS)](https://new.nsf.gov/funding/opportunities/human-networks-data-science-hnds){target="_blank"}
 *   Supports research that studies the behavior of individuals and groups by leveraging data and network science and the development of data infrastructure that makes such work possible.
-*   Deadline: *Core Research* July 11, 2024, annually thereafter in January and July; *Infrastructure* February 1, 2024, annually thereafter in February and August
+*   Deadline: *Core Research* January 9, 2025, annually thereafter on the second Thursday in January and July; *Infrastructure* August 1, 2024, annually thereafter on the first Thursday in February and August
 *   Awards: *Core Research* \$400K; *Infrastructure* \$800K for durations of one to five years
-
-### [CyberCorps Scholarship for Service (SFS)](https://new.nsf.gov/funding/opportunities/cybercorps-scholarship-service-sfs-0){target="_blank"}
-* Supports scholarships in cybersecurity that require a service obligation following graduation equivalent to the length of the scholarship.
-* Deadline: July 15, 2024; annually thereafter on July 15
-* Award: Full scholarship for undergraduate and graduate students in cybersecurity for durations up to three years
 
 ### [Science of Learning and Augmented Intelligence](https://new.nsf.gov/funding/opportunities/science-learning-augmented-intelligence){target="_blank"}
 * Supports research to develop fundamental knowledge about principles, processes and mechanisms of learning and about augmented intelligence — how human cognitive function can be augmented through interactions with others and technology.
@@ -282,6 +277,11 @@ format: html
 *   Deadline: May 2025 (LOI), June 2025 (Preliminary Proposal); dates anticipated, recurring every other year
 *   Award: \$20-100M for durations up to five years
 
+### [CyberCorps Scholarship for Service (SFS)](https://new.nsf.gov/funding/opportunities/cybercorps-scholarship-service-sfs-0){target="_blank"}
+* Supports scholarships in cybersecurity that require a service obligation following graduation equivalent to the length of the scholarship.
+* Deadline: July 15, 2025; annually thereafter on July 15
+* Award: Full scholarship for undergraduate and graduate students in cybersecurity for durations up to three years
+
 ### [Research Security and Integrity Information Sharing Analysis Organization (RSI-ISAO)](https://new.nsf.gov/funding/opportunities/research-security-integrity-information-sharing){target="_blank"}
 * Supports the establishment of an independent Research Security and Integrity Information Sharing Analysis Organization (RSI-ISAO) to empower the U.S. research community (institutions of higher education (IHEs), non-profit research institutions, and small and medium-sized for-profit organizations) to address foreign government interference, support security-informed decision-making, and serve as a conduit that connects research community stakeholders with one another and with U.S. government (USG) agencies via NSF.
 * Deadline: September 2025 (LOI), October 2025 (Proposal); anticipated dates
@@ -332,4 +332,4 @@ format: html
 * [Fairness, Ethics, Accountability, and Transparency: Enabling Breakthrough Research to Expand Inclusivity in Computer and Information Science and Engineering Research](https://www.nsf.gov/pubs/2019/nsf19016/nsf19016.jsp){target="_blank"} <!-- Nov 2, 2018 -->
 
 
-Updated June 28, 2024.
+Updated July 18, 2024.

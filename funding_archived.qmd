@@ -430,6 +430,7 @@ format: html
 	+ Award: $500K-1M for durations up to two years
 
 ## Notices of Special Interest and Requests for Information
+* [Advance Data Science Approaches Through Secondary Data Analysis to Reveal Scientific Insights of COVID-19 Testing Technologies (R21)](https://grants.nih.gov/grants/guide/notice-files/NOT-OD-24-026.html){target="_blank"}, expires July 16, 2024.
 * [**Request for Information** Future Data Linkages within the Center for Linkage and Acquisition of Data for the All of Us Research Program](https://grants.nih.gov/grants/guide/notice-files/NOT-PM-24-003.html){target="_blank"}, expires June 28, 2024.
 * [**Request for Information** Input on NIAID Immunology Knowledge Management](https://grants.nih.gov/grants/guide/notice-files/NOT-AI-24-036.html){target="_blank"}, expires June 28, 2024.
 * [**Request for Information** Data Management, Sharing, and Secondary Data Use Challenges and Opportunities](https://grants.nih.gov/grants/guide/notice-files/NOT-AG-24-013.html){target="_blank"}, expires May 31, 2024.
@@ -647,7 +648,14 @@ format: html
 
 
 # Foundation Funding Opportunities
-
+### [Alfred P. Sloan: Creating Equitable Pathways to STEM Graduate Education](https://sloan.org/programs/higher-education/equitable-pathways/2024-Call-for-LOIs){target="_blank"}
+* Supports engagement of the expertise of MSIs—and the unique experiences of their faculty and students—to model effective systems and practices that remove barriers and create opportunities for equitable learning environments in STEM graduate education so all students can thrive. 
+* Deadline: July 1, 2024 (LOI)
+* Awards:
+  + *Planning grants* to support two or more institutions to conduct internal reviews of existing barriers to student success and for analysis and planning for a future partnership(s) (up to $75K for up to 1 year)
+  + *Seed grants* to two or more institutions that seek to formalize an existing partnership(s) and launch one or more pilot initiatives (up to $250K for 1-2 years)
+  + *Implementation grants* to two or more institutions that allow for the augmentation or scaling of existing partnerships/collaborations (up to $500K for 2-3 years)
+  
 ### [The Michelson Prizes: Next Generation Grants](https://michelsonprizes.smapply.org){target="_blank"}
 * Supports early-career scientists advancing human immunology, vaccine discovery, and immunotherapy for major global diseases, including applicants from artificial intelligence/machine learning. Please contact [Lynn Wong](mailto:lynn.wong@hsc.utah.edu) if you are interested in applying to this opportunity. 
 * Deadline: June 9, 2024 (Two-page proposal)
@@ -856,6 +864,18 @@ format: html
 
 
 # Governmental Funding Opportunities
+### [HHS: Child Care and Development Fund (CCDF) Lead Agency Data and Research Capacity Grants](https://www.grants.gov/search-results-detail/351794){target="_blank"}
+* Supports capacity of CCDF Lead Agencies to use data, including data on children, families, the workforce, and providers that participate in the child care subsidy system, to make data-informed decisions to improve child care policies and practices. 
+* Deadline: July 8, 2024
+* Award: $150K for durations of 18 months
+
+### [AIM-AHEAD: Clinicians Leading Ingenuity IN Al Quality (CLINAQ) Fellowship Program](https://www.aim-ahead.net/call-for-proposals-year-3/aim-ahead-clinicians-leading-ingenuity-in-al-quality-clinaq-fellowship-program/){target="_blank"}
+* Supports a one-year fellowship (September 16, 2024 - August 29, 2025) in parallel with clinical practice to empower clinicians in the field of Artificial Intelligence/Machine Learning (AI/ML). 
+* Deadline: June 30, 2024
+* Award: $55,475 stipend
+* Informational Webinar on June 3, 2024. [Register Now](https://signup.aim-ahead.net/event/p/B3381003Ad){target="_blank"}!
+
+
 ### [AIM-AHEAD: Public-Private Partnerships to Improve Population Health Using AI/ML](https://www.aim-ahead.net/call-for-proposals-year-3/public-private-partnerships-to-improve-population-health-using-ai-ml/){target="_blank"}
 * Supports mutually beneficial triadic partnerships among a 1) local, state, and tribal accredited health departments; 2) limited resource higher education institution; and 3) a data-science oriented organization with an accessible data library to collaboratively conduct health equity-related AI/ML studies that align with the overall goal of AIM-AHEAD. 
 * Deadline: June 25, 2024
@@ -1199,6 +1219,8 @@ format: html
 * Deadline: May 8, 2023
 
 ## Challenges, Awards, and Other Opportunities
+- [The 2024 Roddenberry Prize](https://roddenberryprize.org/){target="_blank"} will award $1 million to an early-stage, scientific or technology venture leveraging Artificial Intelligence (AI) for a better future. The Roddenberry Prize focuses on early stage ventures – nonprofit and mission-driven for-profit entities – that meet the following broad criteria: ethical, early stage, world changing, AI driven, and scalable. Letters of Intent due July 12.
+
 - The National Institute of Standards and Technology (NIST) has released four draft publications intended to help improve the safety, security and trustworthiness of artificial intelligence (AI) systems [link](https://content.govdelivery.com/accounts/USNIST/bulletins/399775f){target="_blank"}. All are part of the agency’s response to Executive Order 14110 on the Safe, Secure and Trustworthy Development of AI. Comments on each draft are requested by June 2, 2024. 
   + NIST AI 600-1, Artificial Intelligence Risk Management Framework: Generative Artificial Intelligence Profile
   + NIST SP 800-218A, Secure Software Development Practices for Generative AI and Dual-Use Foundation Models

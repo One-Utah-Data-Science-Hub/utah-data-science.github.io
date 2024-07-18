@@ -278,7 +278,6 @@ title: "NIH Funding Opportunities"
 <!--* [](){target="_blank"} -->
 
 * [Notice of Information: Enabling Research, Training, and Career Development by Analyzing Data Collected by the All of Us Research Program](https://grants.nih.gov/grants/guide/notice-files/NOT-PM-24-004.html){target="_blank"}
-* [Advance Data Science Approaches Through Secondary Data Analysis to Reveal Scientific Insights of COVID-19 Testing Technologies (R21)](https://grants.nih.gov/grants/guide/notice-files/NOT-OD-24-026.html){target="_blank"}, expires July 16, 2024.
 * [Request for Information: Integrating At-Home Test Results with Electronic Health Records](https://grants.nih.gov/grants/guide/notice-files/NOT-EB-24-010.html){target="_blank"} expires July 26, 2024.
 * [Request for Information: NIH Common Fund is Soliciting Ideas for NIH-wide Challenges and Opportunities](https://grants.nih.gov/grants/guide/notice-files/NOT-RM-24-010.html){target="_blank"} expires August 10, 2024.
 * [Clinical and Translational Science Award (CTSA) Program: Collaborative and Innovative Acceleration Award (UG3/UH3) (Clinical Trial Optional) for Advancing Recruitment through Trial Innovation Network (AR-TIN)](https://grants.nih.gov/grants/guide/notice-files/NOT-TR-23-026.html){target="_blank"} expires October 18, 2024.
@@ -302,4 +301,4 @@ title: "NIH Funding Opportunities"
 
 * [NIH Office for Data Science Strategy](https://datascience.nih.gov/research-and-training-funding){target="_blank"} list of funding opportunities.
 
-Updated July 8, 2024.
+Updated July 18, 2024.
