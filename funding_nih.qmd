@@ -202,6 +202,11 @@ title: "NIH Funding Opportunities"
 * Deadline: September 2, 2024 (LOI), October 2, 2024 (Proposal)
 * Award: R34, $450K for durations up to two years
 
+### [Examining the Impact of Artificial Intelligence (AI) on Healthcare Safety](https://grants.nih.gov/grants/guide/pa-files/PA-24-261.html){target="_blank"}
+* Supports healthcare safety by determining (1) whether and how certain breakthrough uses of Artificial Intelligence (AI) systems can affect patient safety; and (2) how AI systems can be safely implemented and used.
+* Deadline: September 25, 2024, recurring in January, May, and September on the 25th through May 26, 2027
+* Award: R18, $1M (total) for durations up to two years
+
 ### [Enhancing Mechanistic Research on Precision Probiotic Therapies](https://grants.nih.gov/grants/guide/pa-files/PAR-24-238.html){target="_blank"}
 * Supports highly innovative mechanistic research to accelerate the development of effective precision probiotic interventions using a milestone-driven, biphasic award mechanism.
 * Deadline: October 1, 2024; recurring on June 2, 2025, February 2, 2026, October 1, 2026, June 2, 2027
@@ -226,6 +231,16 @@ title: "NIH Funding Opportunities"
 * Supports secondary analyses using existing human datasets in areas relevant to the National Heart, Lung, Blood Diseases and Sleep Disorders Institute (NHLBI) scientific mission.
 * Deadline: October 28, 2024; recurring in February and October through 2025
 * Award: R21, $75K/year (direct) for durations up to two years
+
+### [Building Sustainable Software Tools for Open Science](https://grants.nih.gov/grants/guide/rfa-files/RFA-OD-24-010.html){target="_blank"}
+* Supports sustainability and impact of research software tools by enabling the use of best practices and design principles in software development and by leveraging continuing advances in computing. 
+* Deadline: November 4, 2024 (LOI), December 4, 2024 (Proposal); recurring on June 4 and December 4 through 2026
+* Award: R03, $300K (direct) for durations up to two years
+
+### [Research Software Engineer (RSE) Award](https://grants.nih.gov/grants/guide/rfa-files/RFA-OD-24-011.html){target="_blank"}
+* Supports salary for exceptional Research Software Engineers (RSEs) that contribute their skills to the development and dissemination of biomedical, behavioral or health related software, tools, and algorithms as well as to the training of prospective users of these tools. 
+* Deadline: November 4, 2024 (LOI), December 4, 2024 (Proposal); recurring on June 4 and December 4 through 2026
+* Award: R50, $300K (direct) for durations up to three years
 
 ### [Education Activities for Responsible Analyses of Complex, Large-Scale Data](https://grants.nih.gov/grants/guide/rfa-files/RFA-DA-25-039.html){target="_blank"}
 * Supports training and educational activities for responsible analyses of complex large-scale data involving brain, behavioral, genomic, and socioenvironmental data that complement and/or enhance the training of a workforce to meet the nation's biomedical, behavioral, and clinical research needs.
@@ -264,12 +279,13 @@ title: "NIH Funding Opportunities"
 
 * [Notice of Information: Enabling Research, Training, and Career Development by Analyzing Data Collected by the All of Us Research Program](https://grants.nih.gov/grants/guide/notice-files/NOT-PM-24-004.html){target="_blank"}
 * [Advance Data Science Approaches Through Secondary Data Analysis to Reveal Scientific Insights of COVID-19 Testing Technologies (R21)](https://grants.nih.gov/grants/guide/notice-files/NOT-OD-24-026.html){target="_blank"}, expires July 16, 2024.
+* [Request for Information: Integrating At-Home Test Results with Electronic Health Records](https://grants.nih.gov/grants/guide/notice-files/NOT-EB-24-010.html){target="_blank"} expires July 26, 2024.
 * [Request for Information: NIH Common Fund is Soliciting Ideas for NIH-wide Challenges and Opportunities](https://grants.nih.gov/grants/guide/notice-files/NOT-RM-24-010.html){target="_blank"} expires August 10, 2024.
 * [Clinical and Translational Science Award (CTSA) Program: Collaborative and Innovative Acceleration Award (UG3/UH3) (Clinical Trial Optional) for Advancing Recruitment through Trial Innovation Network (AR-TIN)](https://grants.nih.gov/grants/guide/notice-files/NOT-TR-23-026.html){target="_blank"} expires October 18, 2024.
 * [High-Priority Interest to Enhance Data Science Research Training in Addiction Research](https://grants.nih.gov/grants/guide/notice-files/NOT-DA-21-013.html){target="_blank"} expires December 9, 2024.
 * [IDEA2Health: Innovative Data Evaluation and Analysis to Health](https://grants.nih.gov/grants/guide/notice-files/NOT-HL-22-001.html){target="_blank"} expires January 8, 2025.
 * [Validation of Digital Health and Artificial Intelligence/Machine Learning Tools for Improved Assessment in Biomedical and Behavioral Research](https://grants.nih.gov/grants/guide/notice-files/NOT-CA-24-031.html){target="_blank"} expires July 6, 2025.
-* [Competitive Revision Supplements to Existing T32 Programs to Include Institutional Research Training in Data Science for Infectious and Immune Mediated Diseases](https://grants.nih.gov/grants/guide/notice-files/NOT-AI-24-012.html){target="_blank"}, expired January 8, 2025.
+* [Competitive Revision Supplements to Existing T32 Programs to Include Institutional Research Training in Data Science for Infectious and Immune Mediated Diseases](https://grants.nih.gov/grants/guide/notice-files/NOT-AI-24-012.html){target="_blank"}, expires January 8, 2025.
 * [Leveraging Data Science to Bring Actionable Insights for Substance Use Prevention and Treatment](https://grants.nih.gov/grants/guide/notice-files/NOT-DA-23-006.html){target="_blank"} expires September 8, 2025.
 * [Development and Implementation of Clinical Informatics Tools to Enhance Patients Use of Genomic Information](https://grants.nih.gov/grants/guide/notice-files/NOT-HG-22-011.html){target="_blank"} expires September 25, 2025.
 * [HEAL Initiative: Leveraging Inpatient Medical or Surgical Hospitalizations to Improve Outcomes for People Who Use Drugs](https://grants.nih.gov/grants/guide/notice-files/NOT-DA-24-011.html){target="_blank"} expires November 13, 2025.
