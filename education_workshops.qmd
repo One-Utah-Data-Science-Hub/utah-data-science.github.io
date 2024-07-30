@@ -6,23 +6,39 @@ format: html
 ## Software Carpentries
 Software Carpentries workshops are offered in person over two-days, including breakfast, lunch, and snacks. Topics covered will depend on the specific workshop, but could include R, python, SQL, Unix, and more.  
 
-### Introduction to OpenRefine
-**When:** Fall 2024\
-**Where:** TBD\
+### Introduction to Data Analysis in R
+**When:** August 29-30, 2024, 9am-4pm\
+**Where:** [HELIX](https://maps.app.goo.gl/3w96QNsCt9ASd3d77){target="_blank"} GS 150 (Chokecherry)\
+**Instructors:** Rebecca Barter, George Vega Yon\
+Contact [DELPHI](mailto:delphi@hsc.utah.edu) with any inquiries. [Register to save your spot!](https://docs.google.com/forms/d/e/1FAIpQLSe5AG948sVwBK9Y7c1YgYzWCd4b5JrMni1PMBOLIhpoMtI9EQ/viewform){target="_blank"}  
+Additional information can be found on the [website](https://uofudelphi.github.io/2024-08-29-Intro_R/){target="_blank"}.
+
+### Geographical Analysis and Visualization in R 
+**When:** September 27, 2024, 8:30am-1pm\
+**Where:** [HELIX](https://maps.app.goo.gl/3w96QNsCt9ASd3d77){target="_blank"} 1C 202 (Narrowleaf)\
+**Instructors:** Brenna Kelly, Simon Brewer\
+Contact [DELPHI](mailto:delphi@hsc.utah.edu) with any inquiries. Register to save your spot! - Coming Soon.  
+
+### Data Cleaning with OpenRefine
+**When:** October 24, 2024, 2-4pm
+**Where:** [Marriott Library](https://maps.app.goo.gl/bYcSjXfW9QUeL6iT7){target="_blank"}, Suite 2751
 **Instructors:** Kaylee Alexander, Madison Golden\
 Contact [DELPHI](mailto:delphi@hsc.utah.edu) with any inquiries.  
+Additional information can be found on the [website](https://datacarpentry.org/OpenRefine-ecology-lesson/instructor-notes.html){target="_blank"}.
+
+### Advanced Data Analysis in R
+**When:** October 29, 2024, 9am-4pm\
+**Where:** [HELIX](https://maps.app.goo.gl/3w96QNsCt9ASd3d77){target="_blank"} GS 150 (Chokecherry)\
+**Instructors:** Rebecca Barter, George Vega Yon\
+Contact [DELPHI](mailto:delphi@hsc.utah.edu) with any inquiries. Register to save your spot! - Coming Soon.
+Additional information can be found on the [website](https://github.com/UofUDELPHI/2024-10-29-adv_r){target="_blank"}.
 
 ### Statistics for Data Science (with R) 
-**When:** Fall 2024\
+**When:** Spring 2024\
 **Where:** TBD\
 **Instructors:** Rebecca Barter\
 Contact [DELPHI](mailto:delphi@hsc.utah.edu) with any inquiries.  
 
-### R for Geographic Analysis and Visualization
-**When:** September 2024\
-**Where:** TBD\
-**Instructors:** Brenna Kelly\
-Contact [DELPHI](mailto:delphi@hsc.utah.edu) with any inquiries.  
 
 ![R Workshop May 2023](images/RWorkshop_May2023.jpg)  
 
