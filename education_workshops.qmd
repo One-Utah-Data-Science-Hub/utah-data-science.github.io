@@ -17,20 +17,20 @@ Additional information can be found on the [website](https://uofudelphi.github.i
 **When:** September 27, 2024, 8:30am-1pm\
 **Where:** [HELIX](https://maps.app.goo.gl/3w96QNsCt9ASd3d77){target="_blank"} 1C 202 (Narrowleaf)\
 **Instructors:** Brenna Kelly, Simon Brewer\
-Contact [DELPHI](mailto:delphi@hsc.utah.edu) with any inquiries. Register to save your spot! - Coming Soon.  
+Contact [DELPHI](mailto:delphi@hsc.utah.edu) with any inquiries. [Register to save your spot!](https://docs.google.com/forms/d/e/1FAIpQLSfMXPCIioVacaKKhpv_kqK1VFXuNuAMyeQ9w0BHZd5NKCXe4Q/viewform?usp=sf_link){target="_blank"}   
 
 ### Data Cleaning with OpenRefine
-**When:** October 24, 2024, 2-4pm
-**Where:** [Marriott Library](https://maps.app.goo.gl/bYcSjXfW9QUeL6iT7){target="_blank"}, Suite 2751
+**When:** October 24, 2024, 2-4pm  
+**Where:** [Marriott Library](https://maps.app.goo.gl/bYcSjXfW9QUeL6iT7){target="_blank"}, Suite 2751  
 **Instructors:** Kaylee Alexander, Madison Golden\
-Contact [DELPHI](mailto:delphi@hsc.utah.edu) with any inquiries.  
+Contact [DELPHI](mailto:delphi@hsc.utah.edu) with any inquiries. [Register to save your spot!](https://docs.google.com/forms/d/e/1FAIpQLSdcdj7VUS-EUTSleCH-5FhtaysrizgWKRpr_XF9B6pThNIUyg/viewform?usp=sf_link){target="_blank"}   
 Additional information can be found on the [website](https://datacarpentry.org/OpenRefine-ecology-lesson/instructor-notes.html){target="_blank"}.
 
 ### Advanced Data Analysis in R
 **When:** October 29, 2024, 9am-4pm\
 **Where:** [HELIX](https://maps.app.goo.gl/3w96QNsCt9ASd3d77){target="_blank"} GS 150 (Chokecherry)\
 **Instructors:** Rebecca Barter, George Vega Yon\
-Contact [DELPHI](mailto:delphi@hsc.utah.edu) with any inquiries. Register to save your spot! - Coming Soon.
+Contact [DELPHI](mailto:delphi@hsc.utah.edu) with any inquiries. [Register to save your spot!](https://docs.google.com/forms/d/e/1FAIpQLScy6x-QBC8P11gbgGp-8tk0VN992GAjK1XdIOAWKTnmP0cgzQ/viewform?usp=sf_link){target="_blank"}   
 Additional information can be found on the [website](https://github.com/UofUDELPHI/2024-10-29-adv_r){target="_blank"}.
 
 ### Statistics for Data Science (with R) 
