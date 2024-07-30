@@ -31,7 +31,7 @@ Additional information can be found on the [website](https://datacarpentry.org/O
 **Where:** [HELIX](https://maps.app.goo.gl/3w96QNsCt9ASd3d77){target="_blank"} GS 150 (Chokecherry)\
 **Instructors:** Rebecca Barter, George Vega Yon\
 Contact [DELPHI](mailto:delphi@hsc.utah.edu) with any inquiries. [Register to save your spot!](https://docs.google.com/forms/d/e/1FAIpQLScy6x-QBC8P11gbgGp-8tk0VN992GAjK1XdIOAWKTnmP0cgzQ/viewform?usp=sf_link){target="_blank"}   
-Additional information can be found on the [website](https://github.com/UofUDELPHI/2024-10-29-adv_r){target="_blank"}.
+Additional information can be found on the [website](https://uofudelphi.github.io/2024-10-29-adv_r/){target="_blank"}.
 
 ### Statistics for Data Science (with R) 
 **When:** Spring 2024\
