@@ -76,20 +76,6 @@ format: html
 
 
 ## Upcoming Recurring Proposal Deadlines
-
-### [Human Networks and Data Science (HNDS)](https://new.nsf.gov/funding/opportunities/human-networks-data-science-hnds){target="_blank"}
-*   Supports research that studies the behavior of individuals and groups by leveraging data and network science and the development of data infrastructure that makes such work possible.
-*   Deadline: *Core Research* January 9, 2025, annually thereafter on the second Thursday in January and July; *Infrastructure* August 1, 2024, annually thereafter on the first Thursday in February and August
-*   Awards: *Core Research* \$400K; *Infrastructure* \$800K for durations of one to five years
-
-### [Science of Learning and Augmented Intelligence](https://new.nsf.gov/funding/opportunities/science-learning-augmented-intelligence){target="_blank"}
-* Supports research to develop fundamental knowledge about principles, processes and mechanisms of learning and about augmented intelligence — how human cognitive function can be augmented through interactions with others and technology.
-* Deadline: August 7, 2024 and February 12, 2025 (recurring annually) <!-- on the second Wed in Feb and the first Wed in August)-->
-
-### [Cognitive Neuroscience (CogNeuro)](https://new.nsf.gov/funding/opportunities/cognitive-neuroscience-cogneuro-0){target="_blank"}
-* Supports advancement of our understanding of the neural mechanisms underlying human cognition and behavior. Funded proposals typically advance theories in cognitive neuroscience by relating precise and rich quantifications of physiology, cognition and behavior with each other (Intellectual Merit) and strengthen the field through, for example, outreach, mentoring the next generation of diverse cognitive neuroscientists and/or increasing awareness and utilization of the research the field produces (Broader Impacts).
-* Deadline: August 15, 2024
-
 ### [Privacy-Preserving Data Sharing in Practice (PDaSP)](https://new.nsf.gov/funding/opportunities/privacy-preserving-data-sharing-practice-pdasp){target="_blank"}
 * Track 1: Advancing key technologies to enable practical PPDSA solutions: $500K - $1M for up to 2 years 
 * Track 2: Integrated and comprehensive solutions for trustworthy data sharing in application settings: $1M - $1.5M for up to 3 years 
@@ -192,6 +178,11 @@ format: html
 * Deadline: *Sustained Resources* December 6, 2024, *Innovative Resources* December 5, 2025
 * Award: *Innovative Resources* $200K/year for durations up to three years; *Sustained Resources* budget must align with the project scope, for durations of three to four years.
 
+### [Human Networks and Data Science (HNDS)](https://new.nsf.gov/funding/opportunities/human-networks-data-science-hnds){target="_blank"}
+*   Supports research that studies the behavior of individuals and groups by leveraging data and network science and the development of data infrastructure that makes such work possible.
+*   Deadline: *Core Research* January 9, 2025, annually thereafter on the second Thursday in January and July; *Infrastructure* February 6, 2025, annually thereafter on the first Thursday in February and August
+*   Awards: *Core Research* \$400K; *Infrastructure* \$800K for durations of one to five years
+
 ### [ACED: Accelerating Computing-Enabled Scientific Discovery](https://new.nsf.gov/funding/opportunities/aced-accelerating-computing-enabled-scientific){target="_blank"}
 * Supports harnessing computing to accelerate scientific discovery, while driving new computing advancements. The intent is to catalyze advancements on both sides of a virtuous cycle that: (a) benefit scientific disciplines through computational technologies and (b) foster novel computing technologies that will enable advances beyond the specific use cases or domains originally targeted. 
 * Deadline: January 14, 2025; recurring January 14 annually thereafter
@@ -227,10 +218,18 @@ format: html
 * Deadline: January 2025 (anticipated, recurring every other year)
 * Award: $4-20M for durations up to five years
 
+### [Cognitive Neuroscience (CogNeuro)](https://new.nsf.gov/funding/opportunities/cognitive-neuroscience-cogneuro-0){target="_blank"}
+* Supports advancement of our understanding of the neural mechanisms underlying human cognition and behavior. Funded proposals typically advance theories in cognitive neuroscience by relating precise and rich quantifications of physiology, cognition and behavior with each other (Intellectual Merit) and strengthen the field through, for example, outreach, mentoring the next generation of diverse cognitive neuroscientists and/or increasing awareness and utilization of the research the field produces (Broader Impacts).
+* Deadline: February 3, 2025; February 1 and August 15 annually thereafter
+
 ### [Artificial Intelligence, Formal Methods, and Mathematical Reasoning (AIMing)](https://new.nsf.gov/funding/opportunities/artificial-intelligence-formal-methods){target="_blank"}
 * Supports research at the interface of innovative computational and artificial intelligence (AI) technologies and new strategies/technologies in mathematical reasoning to automate knowledge discovery. 
 * Deadline: February 5, 2025
 * Award: $500K-$1.2M for up to three years
+
+### [Science of Learning and Augmented Intelligence](https://new.nsf.gov/funding/opportunities/science-learning-augmented-intelligence){target="_blank"}
+* Supports research to develop fundamental knowledge about principles, processes and mechanisms of learning and about augmented intelligence — how human cognitive function can be augmented through interactions with others and technology.
+* Deadline: February 12, 2025 and August 6, 2025 (recurring annually) <!-- on the second Wed in Feb and the first Wed in August)-->
 
 ### [Incorporating Human Behavior in Epidemiological Models (IHBEM)](https://new.nsf.gov/funding/opportunities/incorporating-human-behavior-epidemiological-0){target="_blank"}
 * Supports research that incorporates research on social and behavioral processes in mathematical epidemiological models. The program provides support for projects that involve balanced participation from the mathematical sciences and from the social, behavioral, and economic sciences.
@@ -299,7 +298,6 @@ format: html
 
 
 ### Dear Colleague Letters
-* [Networking and Information Technology Research and Development Request for Information on Digital Twins Research and Development](https://www.federalregister.gov/documents/2024/06/18/2024-13379/networking-and-information-technology-research-and-development-request-for-information-on-digital){target="_blank"} seeks public input for the creation of a National Digital Twins R&D Strategic Plan. Comments due by July 28, 2024.
 * [National Artificial Intelligence Research Resource (NAIRR) Pilot Demonstration Projects](https://www.nsf.gov/pubs/2024/nsf24093/nsf24093.jsp){target="_blank"} The NAIRR has been launched as a proof of concept to demonstrate the value and potential impact of the NAIRR concept as described in the [NAIRR Task Force Report](https://www.ai.gov/wp-content/uploads/2023/01/NAIRR-TF-Final-Report-2023.pdf){target="_blank"}. Activities aligned with the NAIRR Pilot vision include facilitating researcher and educator requests for computing, model access, and other resources; integrating data, software, platforms, and tools; reaching new and broad communities; fostering positive end user experiences; and building a NAIRR pilot user community. <!-- May 28, 2023 -->
 * [Leveraging Cyberinfrastructure for Research Data Management (RDM)](https://www.nsf.gov/pubs/2024/nsf24085/nsf24085.jsp){target="_blank"} NSF invites Early-Concept Grants for Exploratory Research (EAGER) and conference/workshop proposals that aim to leverage cyberinfrastructure to advance research data management (RDM) and public access to research data in alignment with the goals of OAC's [Cyberinfrastructure for Public Access and Open Science (CI PAOS) program](https://new.nsf.gov/funding/opportunities/cyberinfrastructure-public-access-open-science-ci){target="_blank"} and the [NSF Public Access Initiative (PAI)](https://new.nsf.gov/public-access){target="_blank"}.  <!-- May 1, 2024 -->
 * [Using Long-Term Research Associated Data (ULTRA-Data)](https://www.nsf.gov/pubs/2024/nsf24081/nsf24081.jsp){target="_blank"} NSF seeks to stimulate and encourage the use and reuse of data from environmental time series research to improve generalizable understanding in fields including (but not limited to) ecology, organismal evolution/adaptation, geoscience, and oceanography. <!--April 23, 2024-->
@@ -332,4 +330,4 @@ format: html
 * [Fairness, Ethics, Accountability, and Transparency: Enabling Breakthrough Research to Expand Inclusivity in Computer and Information Science and Engineering Research](https://www.nsf.gov/pubs/2019/nsf19016/nsf19016.jsp){target="_blank"} <!-- Nov 2, 2018 -->
 
 
-Updated July 18, 2024.
+Updated August 14, 2024.

@@ -10,7 +10,12 @@ editor: visual
 * Deadline: 
 * Award: $ for durations up to  years -->
 ```
-<!-- ## Internal Funding Opportunities -->
+## Internal Funding Opportunities
+### [Philanthropic Partners Group Innovator Awards](https://utah.infoready4.com/#competitionDetail/1945612){target="_blank"}
+* Supports research from all health-related scientific areas that may not yet qualify for larger-scale funding but demonstrate significant promise and potential for transformative impact.
+* Deadline: September 4, 2024
+* Award: $50,000
+
 
 
 ## Foundation Funding Opportunities
@@ -21,39 +26,31 @@ editor: visual
     -   Neurotechnology, Whole Brain Emulation and lo-fi Uploading for AI safety
     -   Security, Cryptography, and Auxiliary Approaches for Infosec and AI Security
     -   Safe and Beneficial Multipolar AI Scenarios
--   Deadline: Rolling for one year until budget of \$1M is depleted <!-- August 2024 -->
+-   Deadline: September 30, 2024
 -   Application should take no more than 3 hours!
 
-### [Bezos Earth Fund: AI for Climate and Nature Grand Challenge](https://www.aiforclimateandnature.org/about-the-grand-challenge)
-* Supports transformative ideas that will accelerate efforts to address climate change and nature loss through the use of modern AI, with focus on sustainable proteins, power grid optimization, and biodiversity conservation — as well as other visionary wildcard solutions.
-* Deadline: July 30, 2024 (Phase 1)
-* Award: $50K and opportunity to participate in Phase 2 for awards up to $2M
 
-<!--## Industry Funding Opportunities-->
-
+### [DataWorks! Prize 2024](https://www.herox.com/dataworks){target="_blank"}
+* Supports demonstration of the power of data reuse in advancing human health by proposing an impactful secondary data analysis research project.
+* Deadline: October 23, 2024
+* Award: Up to $500K
 
 
-## International Funding Opportunities
+## Industry Funding Opportunities
+### [Meta Large Language Model (LLM) Evaluation Research Grant](https://llama.meta.com/llm-evaluation-research-grant/){target="_blank"}
+* Supports research proposals that contribute to building a new library of evaluations within three main areas: complex reasoning, emotional & social intelligence, and agentic behaviors.
+* Deadline: September 6, 2024
+* Award: Up to 4 awards of $200K
 
-### [Japan Science and Technology Agency: Adopting Sustainable Partnerships for Innovative Research Ecosystem (ASPIRE) Call for Proposals](https://www.jst.go.jp/inter/aspire/en/program_e/announce_e/announce_aspire2023_e.html){target="_blank"}
 
--   Proposals are welcomed from Japan-based researchers intending to conduct collaborative research with researchers from other advanced countries and regions in science and technology.
-    -   *AI and information* research for the realization of [Society 5.0](https://www8.cao.go.jp/cstp/english/society5_0/index.html) based on the principles of human understanding and respect, diversity, and sustainability.
--   Deadline: August 17, 2024 (anticipated; recommended LOI by July 31)
--   Award: 30-100M Yen (\$200K-700K) for durations up of three to five years
+
+<!-- ## International Funding Opportunities -->
+
+
 
 
 
 ## Governmental Funding Opportunities
-### [DoD: Prostate Cancer, Data Science Award](https://cdmrp.health.mil/funding/pcrp){target="_blank"}
-* Supports research where quantitative and analytical approaches, processes, and/or systems are developed and/or used to obtain knowledge and insight from large and/or complex sets of prostate cancer data. 
-* Deadline: August 9, 2024 (Pre-application), August 30, 2024 (Proposal)
-* Award: Up to $1M (direct)
-
-### [DARPA: Forward-Looking Experimentation (FLEX)](https://sam.gov/opp/80651184d8894502a3a39520e1549e57/view){target="_blank"}
-* Supports fundamental research proposals for disruptive ideas in information and communication technologies (ICT) addressing the grand challenges for a data-driven future.
-* Deadline: August 9, 2024
-* Award: Up to $250K for up to two years
 
 ### [DARPA: Scientific Feasibility](https://www.grants.gov/search-results-detail/352745){target="_blank"}
 * Supports development of computational methods that measure the feasibility of claims in order to enable accurate assessments of scientific content. The program aims to demonstrate that the scientific feasibility of claims can be determined by using automated reasoning to decompose claims into constituent, verifiable parts.
@@ -99,14 +96,10 @@ editor: visual
     -   Stakeholder Engagement
     -   Artificial Intelligence
 
-- [Samsung AI Researcher of 2024](https://www.sait.samsung.co.kr/saithome/event/aiResearcher.do){target="_blank"} recognizes promising researchers who have made outstanding research or contributions to the field of AI with a plaque and monetary award of $30K. Applications due by August 6, 2024. 
-
-- [Harvest for Health Breakthrough Crop Challenge](https://foundationfar.org/grants-funding/opportunities/harvest-for-health-breakthrough-crop-challenge-2/){target="_blank"} focuses on developing and validating predictive models that effectively identify underutilized crops with properties of interest to food and ingredient companies. Applications due by August 7, 2024 for awards up to $1M. 
-
 - [NCI Medical Image De-Identification Benchmark Challenge at MICCAI 2024](https://datascience.cancer.gov/news-events/news/participate-nci-medical-image-de-identification-benchmark-challenge-miccai-2024){target="_blank"} for developers (independent, academic, or industrial) who wants to assess your software tool’s performance with rule-based de-identification of DICOM images. Registration closes August 15, 2024.
 
 -   [NIH and CGE Targeted Genome Editor Delivery (TARGETED) Challenge](https://www.challenge.gov/?challenge=targeted-challenge){target="_blank"} aims to revolutionize technology development of delivery systems for in vivo genome editing. This is a *\$6M competition* to improve in vivo delivery technologies for genome editors in two Target Areas: 1. Programmable delivery systems, and 2. Non-viral delivery across the blood-brain barrier. The National Institutes of Health (NIH), through the Common Fund’s [Somatic Cell Genome Editing (SCGE)](https://commonfund.nih.gov/editing){target="_blank"} program, is seeking Participants with ideas or early-stage solutions to join the Challenge with the chance to win up to \$1,000,000 and have their solution independently tested and validated in large animal models through NIH-supported independent evaluation relevant to preclinical assessments of investigational products. Phase 2 is open until January 10, 2025.
 
 <!--## Policy and Engagement -->
 
-Updated July 18, 2024.
+Updated August 14, 2024.

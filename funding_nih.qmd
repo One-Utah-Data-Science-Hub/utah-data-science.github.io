@@ -6,11 +6,6 @@ title: "NIH Funding Opportunities"
 * Deadline: 
 * Award: , $ for durations up to  years -->
 ## Cooperative Agreement (U) Grants
-### [Enhancement and Management of Established Biomedical Data Repositories and Knowledgebases](https://grants.nih.gov/grants/guide/pa-files/PAR-23-237.html){target="_blank"}
-* Supports established biomedical data repositories and knowledgebases as distinct and separate resources that have demonstrated impact and have potential for continued benefit to the community served. 
-* Deadline: July 27, 2024 (LOI), September 25, 2024 (Proposal) and November 26, 2024 (LOI), January 25, 2025 (Proposal); annually through January 2026
-* Award: U24, budget must align with the project scope for durations up to 5 years
-<!--* Pre-Application Webinar on June 26, 2024, 9-10am MT, register in advance [here](https://scgcorp.zoom.us/webinar/register/WN_uFo6N3LoQPCtcqtrWO9LEw#/registration){target="_blank"}.-->
 
 ### [Collaborative Opportunities for Multidisciplinary, Bold, and Innovative Neuroscience (COMBINE)](https://grants.nih.gov/grants/guide/rfa-files/RFA-NS-23-027.html){target="_blank"}
 * Supports integrated efforts of three to six PDs/PIs to pursue a bold, impactful, and challenging goal with defined 5-year outcomes within the scope of this program and the NINDS mission. This defined research goal must only be achievable by an interdisciplinary team approach involving innovative combination of distinct disciplines and/or intellectual viewpoints, synergy in expertise and approaches, and well-managed team interactions. 
@@ -75,10 +70,6 @@ title: "NIH Funding Opportunities"
 
 
 ## Research Grants - R01 Activities
-### [BRAIN Initiative: Theories, Models and Methods for Analysis of Complex Data from the Brain](https://grants.nih.gov/grants/guide/rfa-files/RFA-DA-23-039.html){target="_blank"}
-* Supports the development of theories, computational models, and analytical tools to derive understanding of brain function from complex neuroscience data.
-* Deadline: August 13, 2024 (LOI), September 12, 2024 (Proposal) 
-* Award: R01, approximately $150-250K for durations up to three years
 
 ### [BRAIN Initiative: Targeted BRAIN Circuits Projects- TargetedBCP](https://grants.nih.gov/grants/guide/rfa-files/RFA-NS-23-024.html){target="_blank"}
 * Supports research projects that seek to understand how circuit activity gives rise to mental experience and behavior using innovative, methodologically-integrated approaches.
@@ -182,16 +173,6 @@ title: "NIH Funding Opportunities"
 * Deadline: [Anticipated May 2024](https://www.genome.gov/sites/default/files/media/files/2023-09/Genomic_Research_Experiences_for_Data_Scientists_R25_PAR.pdf){target="_blank"}
 * Award: R25, $250K/year (direct) for durations up to five years
 
-### [Leveraging Extant Data to Understand Developmental Trajectories of Late Talking Children](https://grants.nih.gov/grants/guide/pa-files/PAR-24-045.html){target="_blank"}
-* Supports furthering understanding of the developmental trajectories of late talking children by leveraging existing data and creating open and shared data resources to aid in identifying patterns and predictors of developmental outcomes in late talking children, and exploring potential underlying mechanisms, risk factors, and sequelae. 
-* Deadline: July 19, 2024, November 19, 2024
-* Award: R21, $275K for up to two years
-
-### [Early-stage Biomedical Data Repositories and Knowledgebases](https://grants.nih.gov/grants/guide/pa-files/PAR-23-236.html){target="_blank"}
-* Supports the development of early-stage or new data repositories and knowledgebases that could be valuable for the biomedical research community. 
-* Deadline: July 27, 2024 (LOI), September 25, 2024 (Proposal) and November 26, 2024 (LOI), January 25, 2025 (Proposal); annually through January 2026 (LOI due 60 days prior)
-* Award: R24, $350K/year (direct) for durations up to 4 years
-
 ### [Examining the Impact of Artificial Intelligence (AI) on Healthcare Safety](https://grants.nih.gov/grants/guide/notice-files/NOT-HS-24-014.html){target="_blank"}
 * Supports healthcare safety by determining (1) whether and how certain breakthrough uses of Artificial Intelligence (AI) systems can affect patient safety; and (2) how AI systems can be safely implemented and used. AI has the potential to improve the safety, effectiveness, efficiency, accessibility, and affordability of healthcare. 
 * Deadline: Estimated to be Fall 2024
@@ -278,8 +259,6 @@ title: "NIH Funding Opportunities"
 <!--* [](){target="_blank"} -->
 
 * [Notice of Information: Enabling Research, Training, and Career Development by Analyzing Data Collected by the All of Us Research Program](https://grants.nih.gov/grants/guide/notice-files/NOT-PM-24-004.html){target="_blank"}
-* [Request for Information: Integrating At-Home Test Results with Electronic Health Records](https://grants.nih.gov/grants/guide/notice-files/NOT-EB-24-010.html){target="_blank"} expires July 26, 2024.
-* [Request for Information: NIH Common Fund is Soliciting Ideas for NIH-wide Challenges and Opportunities](https://grants.nih.gov/grants/guide/notice-files/NOT-RM-24-010.html){target="_blank"} expires August 10, 2024.
 * [Clinical and Translational Science Award (CTSA) Program: Collaborative and Innovative Acceleration Award (UG3/UH3) (Clinical Trial Optional) for Advancing Recruitment through Trial Innovation Network (AR-TIN)](https://grants.nih.gov/grants/guide/notice-files/NOT-TR-23-026.html){target="_blank"} expires October 18, 2024.
 * [High-Priority Interest to Enhance Data Science Research Training in Addiction Research](https://grants.nih.gov/grants/guide/notice-files/NOT-DA-21-013.html){target="_blank"} expires December 9, 2024.
 * [IDEA2Health: Innovative Data Evaluation and Analysis to Health](https://grants.nih.gov/grants/guide/notice-files/NOT-HL-22-001.html){target="_blank"} expires January 8, 2025.
@@ -301,4 +280,4 @@ title: "NIH Funding Opportunities"
 
 * [NIH Office for Data Science Strategy](https://datascience.nih.gov/research-and-training-funding){target="_blank"} list of funding opportunities.
 
-Updated July 18, 2024.
+Updated August 14, 2024.

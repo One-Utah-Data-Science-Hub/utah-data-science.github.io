@@ -3,6 +3,13 @@ title: "Previous Events"
 format: html
 ---
 
+## 22nd International Conference on Artificial Intelligence in Medicine (AIME2024)
+**Dates:** July 9-12, 2024  
+<!--**Time:** 9:30am - 3:30pm  -->
+**Location:** Hilton Salt Lake City Center  
+Additional information about AIME2024 can be found on the [conference webpage](https://aime24.aimedicine.info/){target="_blank"}. 
+[![DELPHI Sponsorship of AIME Trainees](images/AIME_DELPHISponsorship.png)](http://bit.ly/aime-delphi){target="_blank"}
+DELPHI would like to support trainees interested in attending this conference and taking advantage of having this conference held right here in Salt Lake City! We are offering an opportunity for trainees to get a match of their departmental support to attend AIME 2024. In total, DELPHI expects to support 25-30 applicants with a preference for applicants who have submitted an abstract to the conference and who have met the early registration deadline of March 1, 2024. However, all interested trainees are encouraged to apply.   
 
 ## One-U Responsible AI Initiative (RAI) Industry Partnership Summit
 **Date:** June 10, 2024  
