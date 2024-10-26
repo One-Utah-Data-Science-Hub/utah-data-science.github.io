@@ -7,14 +7,15 @@ format: html
 
 ### Degrees
 
+-   [BS in Bioinformatics](http://math.utah.edu/bioinformatics/){target="_blank"} from the Department of Mathematics
 -   [BS in Data Science](https://www.cs.utah.edu/undergraduate/academic-programs/undergraduate-academic-program-overview/data-science/#data-science){target="_blank"} from the Kahlert School of Computing
 -   [BS in Information Systems](https://eccles.utah.edu/programs/undergraduate/academics/majors/information-systems/){target="_blank"} from the David Eccles School of Business
 -   [BS in Finance with Fintech Emphasis](https://eccles.utah.edu/programs/undergraduate/academics/majors/finance/){target="_blank"} from the David Eccles School of Business
 
 ### Certificates
 
--   [Undergraduate Certificates in Data Science](https://www.cs.utah.edu/wp-content/uploads/2022/08/DS_Requirement-Sheet-01.21.22.pdf){target="_blank"} from the Kahlert School of Computing
--   [Undergraduate Certificate in Data Fluency](https://www.cs.utah.edu/wp-content/uploads/2022/08/DF_Requirement-Sheet-01.21.22.pdf){target="_blank"} from the Kahlert School of Computing
+-   [Undergraduate Certificate in Data Science]https://www.cs.utah.edu/undergraduate/academic-programs/undergraduate-academic-program-overview/data-science/#certificates){target="_blank"} from the Kahlert School of Computing
+-   [Undergraduate Certificate in Data Fluency](https://www.cs.utah.edu/undergraduate/academic-programs/undergraduate-academic-program-overview/data-science/#certificates){target="_blank"} from the Kahlert School of Computing
 
 ## Graduate Education
 
